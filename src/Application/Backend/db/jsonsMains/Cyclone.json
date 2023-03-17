@@ -1,0 +1,1622 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    5
+                ], 
+                "keywords": [
+                    "moving", 
+                    "depression"
+                ]
+            }, 
+            {
+                "ids": [
+                    29
+                ], 
+                "keywords": [
+                    "possible"
+                ]
+            }, 
+            {
+                "ids": [
+                    4, 
+                    40, 
+                    41, 
+                    2, 
+                    27
+                ], 
+                "keywords": [
+                    "likely", 
+                    "hits", 
+                    "threat", 
+                    "chennai", 
+                    "likely", 
+                    "power cuts", 
+                    "schools", 
+                    "closed", 
+                    "lashed", 
+                    "heavy", 
+                    "rains", 
+                    "16-hour", 
+                    "tomorrow evening"
+                ]
+            }, 
+            {
+                "ids": [
+                    37, 
+                    21, 
+                    0, 
+                    16
+                ], 
+                "keywords": [
+                    "revealed", 
+                    "minimal", 
+                    "threat", 
+                    "crosses leaving", 
+                    "high alert", 
+                    "coast", 
+                    "damage", 
+                    "timings", 
+                    "weaken", 
+                    "depression"
+                ]
+            }, 
+            {
+                "ids": [
+                    28, 
+                    18, 
+                    17, 
+                    32
+                ], 
+                "keywords": [
+                    "lurks", 
+                    "told", 
+                    "braced", 
+                    "experiences amidst", 
+                    "fear", 
+                    "stay", 
+                    "heavy", 
+                    "rains", 
+                    "coast", 
+                    "south indian", 
+                    "sea", 
+                    "fisherman"
+                ]
+            }, 
+            {
+                "ids": [
+                    15, 
+                    42, 
+                    12, 
+                    13
+                ], 
+                "keywords": [
+                    "hits", 
+                    "high alert", 
+                    "away", 
+                    "high alert", 
+                    "expected", 
+                    "dead", 
+                    "expected", 
+                    "chennai", 
+                    "just 180 kms", 
+                    "11"
+                ]
+            }, 
+            {
+                "ids": [
+                    19, 
+                    38, 
+                    35, 
+                    36, 
+                    7, 
+                    22, 
+                    14, 
+                    23, 
+                    25, 
+                    20, 
+                    3, 
+                    43, 
+                    9, 
+                    31, 
+                    33, 
+                    8, 
+                    1, 
+                    11, 
+                    44
+                ], 
+                "keywords": [
+                    "chennai", 
+                    "intensifies", 
+                    "mahabalipuram", 
+                    "crossed", 
+                    "damage", 
+                    "moves", 
+                    "sailors", 
+                    "15 sailors", 
+                    "5", 
+                    "evacuation", 
+                    "heavy", 
+                    "missing", 
+                    "cyclone strikes", 
+                    "missing", 
+                    "search", 
+                    "tanker", 
+                    "landfall", 
+                    "struck", 
+                    "likely", 
+                    "capsizes", 
+                    "ship", 
+                    "two people", 
+                    "rescued", 
+                    "14 people", 
+                    "lifeboat", 
+                    "nilam", 
+                    "thousands", 
+                    "southeast india", 
+                    "weaken", 
+                    "tens of thousands", 
+                    "so far", 
+                    "flee", 
+                    "oil", 
+                    "major", 
+                    "reported", 
+                    "blows ashore", 
+                    "showing sign", 
+                    "hits", 
+                    "say", 
+                    "prepared", 
+                    "6:30pm", 
+                    "severe", 
+                    "homes", 
+                    "dead", 
+                    "officials", 
+                    "coast", 
+                    "evacuated", 
+                    "effect :", 
+                    "runs aground", 
+                    "makes landfall near"
+                ]
+            }
+        ], 
+        "numTweets": 96, 
+        "sentences": [
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P53", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E179", 
+                        "expansion": "north tamil nadu", 
+                        "tokens": [
+                            3, 
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "depression moving towards northern tamil nadu", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 02:49:39", 
+                "tweets": [
+                    263110388936237056
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P14", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "tamil nadu on alert after deep depression in bay of bengal", 
+                "sentenceExpansion": [
+                    "tamil nadu andhra pradesh issue", 
+                    "southern states like"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 04:53:34", 
+                "tweets": [
+                    263182690214346752, 
+                    263180114995593216, 
+                    263141573443854336, 
+                    263202671715024897, 
+                    263180429379649537, 
+                    263198309794078720, 
+                    263152705256710144
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P14", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "possible cyclone alert", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 04:53:34", 
+                "tweets": [
+                    263182690214346752, 
+                    263180114995593216, 
+                    263141573443854336, 
+                    263202671715024897, 
+                    263180429379649537, 
+                    263198309794078720, 
+                    263152705256710144
+                ]
+            }, 
+            {
+                "id": 39, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm", 
+                        "tokens": [
+                            1, 
+                            2, 
+                            3, 
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E199", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E164", 
+                        "expansion": "indian", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "now there 's a cyclone in india", 
+                "sentenceExpansion": [
+                    "cyclone nilam"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 04:53:34", 
+                "tweets": [
+                    263629358441299968, 
+                    263632113897701377, 
+                    263616742037798912, 
+                    263617299746000896, 
+                    263228081131646976, 
+                    263700892090515456, 
+                    263917666471903232, 
+                    263215473049624576, 
+                    263481559707971584, 
+                    263616263937482753, 
+                    263625063683743744, 
+                    263984054016282625, 
+                    263245198019149824, 
+                    263569002327048193, 
+                    263990177645613057, 
+                    263672371154665472, 
+                    263996750312927233, 
+                    263709792806268928, 
+                    263168228333854720, 
+                    263293629660028929, 
+                    264002118732619776, 
+                    263995680689909760, 
+                    264006975782801408, 
+                    263533346678771712, 
+                    263493777543532544, 
+                    263904395526283264, 
+                    263554263500865536, 
+                    263180429379649537, 
+                    263425229865488384, 
+                    263283793773879296, 
+                    263150759133188096, 
+                    263279419165143040, 
+                    263546609101598720, 
+                    263953389602353152, 
+                    263575570791665664, 
+                    263283840246743040, 
+                    263182690214346752, 
+                    263180114995593216, 
+                    263180437881499648, 
+                    263633493899231234, 
+                    263642310313656320, 
+                    263198309794078720, 
+                    264009010053795841, 
+                    263671464924962817, 
+                    263663567218298880, 
+                    263370208989814784, 
+                    263660484195151873, 
+                    264077759037468672, 
+                    263553844229857280, 
+                    263626963678294017, 
+                    263205872287756288, 
+                    263626439176380416, 
+                    263653391803240448, 
+                    263141573443854336, 
+                    263501667167789056, 
+                    263636908389834752, 
+                    264014190157639680, 
+                    263737810404646914, 
+                    263248712661352450, 
+                    263246984578748416, 
+                    263236188498968576, 
+                    263202671715024897, 
+                    263605656563630080, 
+                    263578305482076161, 
+                    263419534030016512, 
+                    263581518419619840, 
+                    263701878100078593, 
+                    263619417785643010, 
+                    263686505686528000, 
+                    263704654758699008, 
+                    263549628866260992, 
+                    263620390910312448, 
+                    263222624367288320
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P73", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E201", 
+                        "expansion": "tamil nadu- andhra pradesh ; both states", 
+                        "tokens": [
+                            3, 
+                            4, 
+                            5, 
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E202", 
+                        "expansion": "the coast ; coast", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone threat to andhra , tamil nadu coasts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 05:30:04", 
+                "tweets": [
+                    263150759133188096, 
+                    263168228333854720, 
+                    263222624367288320
+                ]
+            }, 
+            {
+                "id": 40, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E167", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E168", 
+                        "expansion": "rainfall", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "heavy rains have lashed tamil nadu", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 05:37:48", 
+                "tweets": [
+                    263152705256710144, 
+                    263225694471991296
+                ]
+            }, 
+            {
+                "id": 41, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "16-hour power cuts in tamil nadu", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 06:06:52", 
+                "tweets": [
+                    263160019812483075
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P2", 
+                        "expansion": "hit", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone is likely cross tomorrow evening", 
+                "sentenceExpansion": [
+                    "likely cyclonic storm to intensify in andhra pradesh today", 
+                    "likely cyclonic storm to intensify in tamil nadu today", 
+                    "likely cross tomorrow evening"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 07:28:00", 
+                "tweets": [
+                    263283840246743040, 
+                    263215473049624576, 
+                    263180437881499648
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E161", 
+                        "expansion": "chennai..", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "likely schools closed in chennai", 
+                "sentenceExpansion": [
+                    "lurks schools"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 07:28:00", 
+                "tweets": [
+                    263248712661352450, 
+                    263215473049624576, 
+                    263180437881499648
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "hit", 
+                        "tokens": [
+                            1, 
+                            2, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone to cross coast nagapattinam in tamil nadu", 
+                "sentenceExpansion": [
+                    "coast north of chennai wednesday evening", 
+                    "cross nellore in", 
+                    "hit andhra pradesh", 
+                    "tamil nadu today", 
+                    "at 100 kmph", 
+                    "with strong winds", 
+                    "leaves bangalore india", 
+                    "over 8,000 hit"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 09:09:04", 
+                "tweets": [
+                    263700892090515456, 
+                    263578305482076161, 
+                    263626439176380416, 
+                    263984054016282625, 
+                    263663567218298880, 
+                    263672371154665472, 
+                    263904395526283264, 
+                    263709792806268928, 
+                    263293629660028929, 
+                    263419534030016512, 
+                    263995680689909760, 
+                    263533346678771712, 
+                    263917666471903232, 
+                    263279419165143040, 
+                    263283840246743040, 
+                    263633493899231234, 
+                    263671464924962817, 
+                    263660484195151873, 
+                    264077759037468672, 
+                    263626963678294017, 
+                    263205872287756288, 
+                    263620390910312448, 
+                    263653391803240448, 
+                    263501667167789056, 
+                    263636908389834752, 
+                    264006975782801408, 
+                    263701878100078593, 
+                    263686505686528000, 
+                    263704654758699008
+                ]
+            }, 
+            {
+                "id": 37, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "cross", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hit timings revealed", 
+                "sentenceExpansion": [
+                    "hit timings"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 09:09:04", 
+                "tweets": [
+                    263205872287756288, 
+                    263419534030016512
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E158", 
+                        "expansion": "ap", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P73", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "andhra pradesh on high alert after threat", 
+                "sentenceExpansion": [
+                    "tamil nadu on"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 10:15:38", 
+                "tweets": [
+                    263222624367288320
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P55", 
+                        "tokens": [
+                            1, 
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P53", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone to weaken into depression", 
+                "sentenceExpansion": [
+                    "after cyclone displacing 150k in india"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 10:37:19", 
+                "tweets": [
+                    263632113897701377, 
+                    263228081131646976, 
+                    263996750312927233, 
+                    263672371154665472
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E204", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone crosses coast leaving minimal damage", 
+                "sentenceExpansion": [
+                    "cross andhra , tamil nadu coasts", 
+                    "andhra , tamil nadu coasts tomorrow"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 10:37:19", 
+                "tweets": [
+                    263228081131646976, 
+                    263246984578748416, 
+                    263737810404646914
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E179", 
+                        "expansion": "north tamil nadu", 
+                        "tokens": [
+                            6, 
+                            7, 
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E158", 
+                        "expansion": "ap", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E172", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone more likely cyclone to hit northern tamil nadu coast but andhra pradesh has also alerted coastal districts", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 11:09:32", 
+                "tweets": [
+                    263236188498968576
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P61", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone lurks off south indian coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 11:45:20", 
+                "tweets": [
+                    263248712661352450, 
+                    263245198019149824
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P61", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E226", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E226", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "lurks fisherman told fisherman to stay out of the sea", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 11:59:18", 
+                "tweets": [
+                    263248712661352450
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E167", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E168", 
+                        "expansion": "rainfall", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            10
+                        ]
+                    }
+                ], 
+                "sentence": "tamil nadu experiences heavy rains amidst tamil nadu fear of cyclone", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 14:18:42", 
+                "tweets": [
+                    263283793773879296
+                ]
+            }, 
+            {
+                "id": 32, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E164", 
+                        "expansion": "india 's southeast", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "india braced for cyclone", 
+                "sentenceExpansion": [
+                    "south indian braced"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 23:40:43", 
+                "tweets": [
+                    263425229865488384, 
+                    263569002327048193, 
+                    263493777543532544
+                ]
+            }, 
+            {
+                "id": 34, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E202", 
+                        "expansion": "the coast ; coast", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E201", 
+                        "expansion": "tamil nadu- andhra pradesh ; both states", 
+                        "tokens": [
+                            8, 
+                            9, 
+                            10, 
+                            11
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone is expected cyclone to hit coasts of andhra , tamil nadu today afternoon", 
+                "sentenceExpansion": [
+                    "expected cyclone to make landfall this evening in several regions of tamil nadu", 
+                    "expected cyclone to hit tamil nadu east coast at 100 kmph"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-31 03:24:33", 
+                "tweets": [
+                    263481559707971584, 
+                    263581518419619840, 
+                    263616742037798912
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P2", 
+                        "expansion": "cross", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E172", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone expected hit coastal districts on high alert", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 04:44:27", 
+                "tweets": [
+                    263501667167789056
+                ]
+            }, 
+            {
+                "id": 42, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "cross", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E172", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone expected hit coastal districts on high alert", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 04:44:27", 
+                "tweets": [
+                    263501667167789056
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone leaves 11 dead in tamil nadu", 
+                "sentenceExpansion": [
+                    "hits leaves", 
+                    "in andhra pradesh", 
+                    "impact india 31 oct 2012", 
+                    "eight dead", 
+                    "after sri lanka flooding"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 07:43:02", 
+                "tweets": [
+                    264014190157639680, 
+                    264077759037468672, 
+                    263553844229857280, 
+                    263554263500865536, 
+                    263953389602353152, 
+                    263984054016282625, 
+                    263549628866260992, 
+                    263546609101598720
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E199", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E161", 
+                        "expansion": "chennai..", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone is now just 180 kms away from chennai", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 09:38:07", 
+                "tweets": [
+                    263575570791665664
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E245", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E245", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E201", 
+                        "expansion": "tamil nadu- andhra pradesh ; both states", 
+                        "tokens": [
+                            3, 
+                            4, 
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "mps mps from andhra , tamil nadu to ask for relief funds are expected by 5 pm", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-31 09:48:59", 
+                "tweets": [
+                    263578305482076161
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P91", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "intensifies lifeboat with 14 people capsizes", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 11:37:40", 
+                "tweets": [
+                    263605656563630080
+                ]
+            }, 
+            {
+                "id": 38, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P91", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'s cyclone", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "nilam intensifies into severe cyclonic storm", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 11:37:40", 
+                "tweets": [
+                    263605656563630080, 
+                    263671464924962817
+                ]
+            }, 
+            {
+                "id": 35, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E181", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E161", 
+                        "expansion": "chennai..", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone makes landfall at mahabalipuram near chennai", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:19:49", 
+                "tweets": [
+                    263616263937482753
+                ]
+            }, 
+            {
+                "id": 36, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E161", 
+                        "expansion": "chennai..", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone effect : ship runs aground in chennai", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:23:56", 
+                "tweets": [
+                    263617299746000896
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P132", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "'s cyclone moves towards 's cyclone landfall", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:32:21", 
+                "tweets": [
+                    263619417785643010
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P132", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E167", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E204", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "moves heavy damage likely", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:32:21", 
+                "tweets": [
+                    263619417785643010
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E157", 
+                        "expansion": "tn", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "tamil nadu prepared for cyclone officials say", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:54:47", 
+                "tweets": [
+                    263625063683743744
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E181", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone 6:30pm struck along mahabalipuram coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:22:48", 
+                "tweets": [
+                    263632113897701377
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P55", 
+                        "expansion": "weaken", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone showing no sign of weakening", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:22:48", 
+                "tweets": [
+                    263632113897701377
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "hit ; cross", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E204", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "hits no major damage reported so far", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:28:17", 
+                "tweets": [
+                    263633493899231234
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P36", 
+                        "expansion": "crosses", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hits thousands evacuated", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:41:51", 
+                "tweets": [
+                    263648186642612224, 
+                    263636908389834752, 
+                    263653391803240448, 
+                    263660484195151873
+                ]
+            }, 
+            {
+                "id": 43, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "evacuation as cyclone cyclone strikes southeast india", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 14:03:19", 
+                "tweets": [
+                    263642310313656320
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P36", 
+                        "expansion": "hits", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "two people dead as crosses", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 16:58:56", 
+                "tweets": [
+                    263686505686528000, 
+                    263704654758699008
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "hit ; cross", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hits 15 sailors rescued", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 07:24:45", 
+                "tweets": [
+                    263995680689909760, 
+                    263904395526283264
+                ]
+            }, 
+            {
+                "id": 33, 
+                "pressableTokens": [], 
+                "sentence": "tens of thousands flee homes as hits", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 08:17:29", 
+                "tweets": [
+                    263917666471903232
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E164", 
+                        "expansion": "indian", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone blows oil tanker ashore in india", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 13:05:37", 
+                "tweets": [
+                    263990177645613057
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P1", 
+                        "expansion": "hit ; cross", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "5 missing as hits", 
+                "sentenceExpansion": [
+                    "hits six missing"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 13:27:29", 
+                "tweets": [
+                    264077759037468672, 
+                    263995680689909760
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E164", 
+                        "expansion": "indian", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E208", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "india search for sailors", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 13:53:04", 
+                "tweets": [
+                    264002118732619776
+                ]
+            }, 
+            {
+                "id": 44, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E208", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "cyclone missing sailors", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 13:53:04", 
+                "tweets": [
+                    264002118732619776
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "cyclonic storm ; 's cyclone", 
+                        "tokens": [
+                            11
+                        ]
+                    }
+                ], 
+                "sentence": "skymet india is using vizweather to show the latest projections for cyclone", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-11-01 14:20:27", 
+                "tweets": [
+                    264009010053795841
+                ]
+            }
+        ], 
+        "title": "Cyclone"
+    }
+}

@@ -1,0 +1,15 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"In which country are the events taking place?"},
+    {"id":1, "text":"In which city are the events taking place?"},
+    {"id":2, "text":"What is the name of the temple?"},
+    {"id":3, "text":"What is the name of the involved minority?"},
+    {"id":4, "text":"What is the religion of the involved minority?"},
+    {"id":5, "text":"What is the religion of the involved majority ?"},
+    {"id":6, "text":"What is the largest number of people reported killed?"},
+    {"id":7, "text":"How many homes were torched?"},
+    {"id":8, "text":"How many victims are on hunger strike?"},
+    {"id":9, "text":"Where is the hunger strike taking place?"},
+    {"id":10, "text":"Does Burma's leader deny the attacks?"}
+  ]
+}}

@@ -1,0 +1,272 @@
+{"baseline2ScreenInput": {
+"title": "Burma","entailmentItems": [
+{"type": "entity", "id":999, "name": "Placeholder", "desc":"For bug that first entailment item is not found"},
+{"type": "entity", "id":6, "name": "Burma/Myanmar", "desc":"country ; burma ; myanmar"},
+{"type": "entity", "id":13, "name": "Rakhine", "desc":"rakhine state ; rakhine region"},
+{"type": "entity", "id":21, "name": "At least 56 people", "desc":"56+ people"},
+{"type": "predicate", "id":5, "name": "ethnic clashes", "desc":"violence ; tension ; clashes ; fighting in"},
+{"type": "predicate", "id":9, "name": "Rakhine destruction", "desc":"destruction"},
+{"type": "predicate", "id":15, "name": "Burma violence/clashes", "desc":"violence ; clash"},
+{"type": "predicate", "id":28, "name": "ethnic cleansing in Burma", "desc":"cleansing"},
+{"type": "predicate", "id":86, "name": "Violence in arakan state", "desc":"violence"}
+],
+"sentences": [
+{"id":114,
+"sentence": "rohingya not welcome in bangladesh",
+"timestamp": "2012-10-27 22:54:48",
+"scoreSentence":0.02393617021276596075,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[262326510952804352],
+"pressableTokens":[
+]
+},
+{"id":136,
+"sentence": "president admits Myanmar ethnic cleansing",
+"timestamp": "2012-10-27 19:37:09",
+"scoreSentence":0.04521276595744681675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[262021920634048513, 262276770810712064, 262233426894135296],
+"pressableTokens":[
+{"tokens":[2],"item":{"type":"entity","id":6}}
+]
+},
+{"id":85,
+"sentence": "Myanmar leader admits deadly attacks on muslim",
+"timestamp": "2012-10-27 16:52:01",
+"scoreSentence":0.04521276595744681675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[262235213579579395],
+"pressableTokens":[
+{"tokens":[0],"item":{"type":"entity","id":6}}
+]
+},
+{"id":106,
+"sentence": "wave of ethnic clashes has targeted Myanmar rohingya muslim population",
+"timestamp": "2012-10-27 16:50:14",
+"scoreSentence":0.06648936170212766675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261495665635504128, 261724142154424320, 262120612686872576, 261495577655787521, 261600842099064832, 261500270842871808, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[3],"item":{"type":"predicate","id":5}},
+{"tokens":[6],"item":{"type":"entity","id":6}}
+]
+},
+{"id":14,
+"sentence": "acknowledges deadly anti-muslim violence",
+"timestamp": "2012-10-27 16:04:36",
+"scoreSentence":0.03812056737588652675,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[262223280772091905],
+"pressableTokens":[
+]
+},
+{"id":78,
+"sentence": "muslim rohingya exodus after clashes",
+"timestamp": "2012-10-27 10:03:58",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261640566427758592, 261493757315272705, 261558626563526656, 261819549660364801, 262219568997625856, 262132524459884544, 261562799623385088, 262043026610855936],
+"pressableTokens":[
+{"tokens":[4],"item":{"type":"predicate","id":15}}
+]
+},
+{"id":125,
+"sentence": "thousands displaced by ethnic clashes",
+"timestamp": "2012-10-27 06:33:01",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261495665635504128, 261724142154424320, 262120612686872576, 261495577655787521, 261600842099064832, 261500270842871808, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[4],"item":{"type":"predicate","id":5}}
+]
+},
+{"id":138,
+"sentence": "bbc news latest news images show mass burnings",
+"timestamp": "2012-10-27 04:50:53",
+"scoreSentence":0.05230496453900709675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[262053734534750208, 262242474121101312, 262053277355614209, 262131987714805760],
+"pressableTokens":[
+]
+},
+{"id":75,
+"sentence": "dozens die as clashes",
+"timestamp": "2012-10-27 04:08:20",
+"scoreSentence":0.02393617021276596075,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261640566427758592, 261493757315272705, 261558626563526656, 261819549660364801, 262219568997625856, 262043026610855936, 261562799623385088, 262132524459884544],
+"pressableTokens":[
+{"tokens":[3],"item":{"type":"predicate","id":15}}
+]
+},
+{"id":34,
+"sentence": "clashes spread in Myanmar rakhine",
+"timestamp": "2012-10-26 13:20:19",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261640566427758592, 261493757315272705, 261558626563526656, 261819549660364801, 262219568997625856, 261562799623385088, 262132524459884544, 262043026610855936],
+"pressableTokens":[
+{"tokens":[0],"item":{"type":"predicate","id":15}},
+{"tokens":[3],"item":{"type":"entity","id":6}},
+{"tokens":[4],"item":{"type":"entity","id":13}}
+]
+},
+{"id":43,
+"sentence": "the ongoing sectarian unrest in western burma kills almost hundred of muslims",
+"timestamp": "2012-10-26 09:04:44",
+"scoreSentence":0.04521276595744680675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261755230327279616],
+"pressableTokens":[
+]
+},
+{"id":110,
+"sentence": "at least 112 people killed in wave of ethnic clashes",
+"timestamp": "2012-10-26 08:47:20",
+"scoreSentence":0.03812056737588652675,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261495665635504128, 261724142154424320, 262120612686872576, 261495577655787521, 261600842099064832, 261500270842871808, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[9],"item":{"type":"predicate","id":5}}
+]
+},
+{"id":111,
+"sentence": "scores more wounded in wave of ethnic clashes",
+"timestamp": "2012-10-26 08:47:20",
+"scoreSentence":0.03812056737588652675,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261495665635504128, 261724142154424320, 262120612686872576, 261495577655787521, 261600842099064832, 261500270842871808, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[7],"item":{"type":"predicate","id":5}}
+]
+},
+{"id":133,
+"sentence": "according to UN rohingya are one of the most persecuted their in the world",
+"timestamp": "2012-10-26 06:45:16",
+"scoreSentence":0.04521276595744681675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261720132303335424],
+"pressableTokens":[
+]
+},
+{"id":66,
+"sentence": "thousands of homes torched in violence in western burma",
+"timestamp": "2012-10-26 06:37:46",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261718244929458176, 261417437688373248, 261706354069225472],
+"pressableTokens":[
+]
+},
+{"id":101,
+"sentence": "scores die in violence in western burma",
+"timestamp": "2012-10-26 05:50:31",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261718244929458176, 261417437688373248, 261706354069225472],
+"pressableTokens":[
+]
+},
+{"id":23,
+"sentence": "noble peace prize winner ask refuse muslim are being killed noble peace prize winner ask to take notice",
+"timestamp": "2012-10-25 20:20:05",
+"scoreSentence":0.07358156028368794675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261562799623385088],
+"pressableTokens":[
+]
+},
+{"id":60,
+"sentence": "fighting between rohingya muslim and buddhist continues for a 5th day in hundreds of homes burn",
+"timestamp": "2012-10-25 16:20:33",
+"scoreSentence":0.06648936170212765675,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261502519149215744],
+"pressableTokens":[
+]
+},
+{"id":115,
+"sentence": "56 dead in ethnic clashes",
+"timestamp": "2012-10-25 16:11:37",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261495665635504128, 261724142154424320, 262120612686872576, 261495577655787521, 261500270842871808, 261600842099064832, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[4],"item":{"type":"predicate","id":5}}
+]
+},
+{"id":73,
+"sentence": "amid ethnic clashes 56 die in burned homes in",
+"timestamp": "2012-10-25 15:52:58",
+"scoreSentence":0.05230496453900710175,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261495665635504128, 261495577655787521, 261724142154424320, 262120612686872576, 261600842099064832, 261500270842871808, 261750851280977920, 261736557185208320, 261522446232993792, 262079437225488384, 262234765002932224],
+"pressableTokens":[
+{"tokens":[2],"item":{"type":"predicate","id":5}},
+{"tokens":[9],"item":{"type":"entity","id":6}}
+]
+},
+{"id":118,
+"sentence": "UN gravely concerned about resurgence of new violence in arakan state",
+"timestamp": "2012-10-25 13:49:31",
+"scoreSentence":0.05230496453900710175,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[261464510462844928, 261990820020908032],
+"pressableTokens":[
+{"tokens":[7, 8],"item":{"type":"predicate","id":86}}
+]
+},
+{"id":77,
+"sentence": "5 dead as violence in western burma reignites",
+"timestamp": "2012-10-25 10:42:28",
+"scoreSentence":0.03812056737588652675,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261718244929458176, 261417437688373248, 261706354069225472],
+"pressableTokens":[
+]
+},
+{"id":100,
+"sentence": "students call for removal of rohingya villages",
+"timestamp": "2012-10-25 10:15:43",
+"scoreSentence":0.03812056737588652675,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261410705771728896],
+"pressableTokens":[
+]
+},
+{"id":48,
+"sentence": "security in pak taw township now uncertain",
+"timestamp": "2012-10-25 05:22:29",
+"scoreSentence":0.03102836879432624475,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[261336911380086784],
+"pressableTokens":[
+]
+}
+]
+}}
+

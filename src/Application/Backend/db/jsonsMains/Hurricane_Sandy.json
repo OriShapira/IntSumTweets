@@ -1,0 +1,883 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    3
+                ], 
+                "keywords": [
+                    "65 people", 
+                    "killed"
+                ]
+            }, 
+            {
+                "ids": [
+                    7
+                ], 
+                "keywords": [
+                    "en route", 
+                    "coast"
+                ]
+            }, 
+            {
+                "ids": [
+                    2, 
+                    6, 
+                    21
+                ], 
+                "keywords": [
+                    "residents", 
+                    "the worst", 
+                    "east", 
+                    "fema", 
+                    "bracing", 
+                    "prepare", 
+                    "leaves dead", 
+                    "urges", 
+                    "21"
+                ]
+            }, 
+            {
+                "ids": [
+                    19, 
+                    13
+                ], 
+                "keywords": [
+                    "expected", 
+                    "impact", 
+                    "strengthens", 
+                    "NYC", 
+                    "widespread", 
+                    "prepares"
+                ]
+            }, 
+            {
+                "ids": [
+                    8, 
+                    22, 
+                    20, 
+                    9, 
+                    16, 
+                    4, 
+                    15, 
+                    5, 
+                    23, 
+                    18
+                ], 
+                "keywords": [
+                    "battering", 
+                    "alert", 
+                    "intensity", 
+                    "east coast states", 
+                    "millions", 
+                    "healthworks", 
+                    "58 people", 
+                    "dead", 
+                    "'s fluctuates", 
+                    "issued", 
+                    "preparations", 
+                    "tonight", 
+                    "wednesday", 
+                    "< >", 
+                    "no-one", 
+                    "mourns", 
+                    "projected", 
+                    "causes", 
+                    "evacuations", 
+                    "prepare", 
+                    "begins", 
+                    "killed"
+                ]
+            }
+        ], 
+        "numTweets": 111, 
+        "sentences": [
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "massive hurricane sandy", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-26 23:49:00", 
+                "tweets": [
+                    263043321889427457, 
+                    262946504757616640, 
+                    262965815438094336, 
+                    263042248105660417, 
+                    262877835759325184, 
+                    262882835248066560, 
+                    262551334149038080, 
+                    262329786754555904, 
+                    262890552868077568, 
+                    262755324199575552, 
+                    262037343211511810, 
+                    262833967391195136, 
+                    262931275294330880, 
+                    262587132537872384, 
+                    262311520581611521, 
+                    262241358406877184, 
+                    262589913449521152, 
+                    262969250514345985, 
+                    262151772137725952, 
+                    262600373888512001, 
+                    262479443736535041, 
+                    262388742239698944, 
+                    262946634680385537, 
+                    262698009131896832, 
+                    262963248289165312, 
+                    262112614295949312, 
+                    262715327174033408, 
+                    262889600547180545, 
+                    262228456765526018, 
+                    262773619640381440, 
+                    261981819073867776, 
+                    262265655858966531, 
+                    262210148783771648, 
+                    263014125200887809, 
+                    262888250165846017, 
+                    262665368777142272, 
+                    262987541928628224, 
+                    262955216318656513, 
+                    262988942654205952, 
+                    262739633245388802, 
+                    262006712205209600, 
+                    262895208562319360, 
+                    262926653204856833, 
+                    262181082160566273, 
+                    263012866972610561, 
+                    262999134875832320, 
+                    262249822415884288, 
+                    262216356261400576, 
+                    262294915613085696, 
+                    262769358500151297, 
+                    262289978879524864, 
+                    262962107434274816, 
+                    263023315017412608, 
+                    262778610929254401, 
+                    262040426087854080, 
+                    263036589943451648, 
+                    261977762963804160, 
+                    262474553421348864, 
+                    262297666858414081, 
+                    262230025347145728, 
+                    263029979997151234, 
+                    262232042748665856, 
+                    262957707647127552, 
+                    262895695097364480, 
+                    262893165919469568, 
+                    262932298830340096, 
+                    262564676196499456, 
+                    262960249357619200, 
+                    263012481381851136, 
+                    262086144085356545, 
+                    262502311342002177, 
+                    262009744825393152, 
+                    262661208186974208, 
+                    262352251455152128, 
+                    262978075191549952, 
+                    262705944515985408
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane already killed 65 people", 
+                "sentenceExpansion": [
+                    "killed 60 people", 
+                    "in caribbean", 
+                    "reaches 40 in", 
+                    "69 people have", 
+                    "hurricane 41 killed"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 00:05:07", 
+                "tweets": [
+                    262969250514345985, 
+                    262717336358895616, 
+                    262705944515985408, 
+                    262755324199575552, 
+                    261981819073867776, 
+                    262009744825393152, 
+                    262895695097364480
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E333", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane heads for US after hurricane killing 59 in caribbean", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 00:05:07", 
+                "tweets": [
+                    261981819073867776, 
+                    262294915613085696, 
+                    262773619640381440
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "US east coast braced for hurricane", 
+                "sentenceExpansion": [
+                    "coast guard long island sound units", 
+                    "fairfield prepares", 
+                    "state officials prepare", 
+                    "healthcare providers along", 
+                    "east coast apple stores", 
+                    "apple stores prepare"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 01:44:02", 
+                "tweets": [
+                    262965815438094336, 
+                    262932298830340096, 
+                    262329786754555904, 
+                    262890552868077568, 
+                    262931275294330880, 
+                    262587132537872384, 
+                    262241358406877184, 
+                    262957707647127552, 
+                    262006712205209600, 
+                    262715327174033408, 
+                    262474553421348864, 
+                    262210148783771648, 
+                    262773619640381440, 
+                    262181082160566273, 
+                    262249822415884288, 
+                    262769358500151297, 
+                    262877693165596672, 
+                    262040426087854080, 
+                    262893165919469568, 
+                    262888250165846017, 
+                    262661208186974208, 
+                    262877835759325184
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [], 
+                "sentence": "details on preparations here in maryland on wjz at 11pm", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 01:56:05", 
+                "tweets": [
+                    262009744825393152
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane en route to US coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 03:45:45", 
+                "tweets": [
+                    262037343211511810
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E333", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane blows out bahamas after hurricane killing 43 in caribbean", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 03:45:45", 
+                "tweets": [
+                    262037343211511810
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E333", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane leaves 21 dead in caribbean", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 06:59:40", 
+                "tweets": [
+                    262086144085356545
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane has east bracing for the worst", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 08:44:51", 
+                "tweets": [
+                    262112614295949312
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "fema urges east coast residents to prepare for hurricane", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 11:20:27", 
+                "tweets": [
+                    262151772137725952
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P2", 
+                        "expansion": "eyes ; takes aim ; approaches", 
+                        "tokens": [
+                            1, 
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "states up and down the east coast", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane closes in on US east coast", 
+                "sentenceExpansion": [
+                    "east coast apple stores", 
+                    "apple stores close"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 16:25:10", 
+                "tweets": [
+                    262665368777142272, 
+                    262228456765526018, 
+                    262232042748665856, 
+                    262895208562319360, 
+                    262882835248066560, 
+                    262551334149038080, 
+                    262778610929254401, 
+                    262564676196499456, 
+                    262739633245388802, 
+                    262230025347145728, 
+                    262946504757616640, 
+                    262297666858414081, 
+                    262931275294330880, 
+                    262352251455152128
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "hurricane ; 'frankenstorm '", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "'superstorm ' strengthens widespread impact on east coast expected", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 18:52:59", 
+                "tweets": [
+                    262265655858966531
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P2", 
+                        "expansion": "takes aim ; approaches", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "eyes NYC prepares", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 21:00:11", 
+                "tweets": [
+                    262297666858414081
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            12, 
+                            13
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane is said hurricane to be the strongest hurricane that will hit the east coast in america", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 09:02:30", 
+                "tweets": [
+                    262479443736535041
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "warnings", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "east coast is on a alert", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 10:33:22", 
+                "tweets": [
+                    262963248289165312, 
+                    262502311342002177
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane 's intensity fluctuates", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 13:48:10", 
+                "tweets": [
+                    262551334149038080
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "< healthworks > preparing for hurricane along east coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 17:03:02", 
+                "tweets": [
+                    262600373888512001
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "experiencing ; hitting hard ; slam ; batters", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane hits US east coast", 
+                "sentenceExpansion": [
+                    "causes widespread east coast", 
+                    "after 'frankenstorm ' wreaking havoc in caribbean"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 23:31:00", 
+                "tweets": [
+                    262955216318656513, 
+                    263036589943451648, 
+                    262962107434274816, 
+                    262926653204856833, 
+                    262987541928628224, 
+                    263029979997151234, 
+                    263042248105660417, 
+                    262988942654205952, 
+                    263023315017412608, 
+                    263012866972610561, 
+                    262999134875832320, 
+                    262698009131896832, 
+                    262960249357619200, 
+                    263014125200887809, 
+                    263012481381851136
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "experiencing ; hitting hard ; slam ; batters", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane is projected hit from tonight to wednesday", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 23:31:00", 
+                "tweets": [
+                    262698009131896832
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "alert", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "warnings issued in east coast states", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 04:16:46", 
+                "tweets": [
+                    262769924601159680, 
+                    262836593247809536
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E333", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "caribbean mourns hurricane 58 people dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 08:31:15", 
+                "tweets": [
+                    262833967391195136
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E330", 
+                        "expansion": "the east coast", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "hurricane causes evacuations throughout east coast", 
+                "sentenceExpansion": [
+                    "causes closings throughout east coast"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 12:12:19", 
+                "tweets": [
+                    262889600547180545
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "'frankenstorm '", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "experiencing ; hitting hard ; batters", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "millions prepare as hurricane starts slam", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 16:53:03", 
+                "tweets": [
+                    262960249357619200
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E329", 
+                        "expansion": "U.S ; the united states", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "no-one has been killed in the US", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 17:28:49", 
+                "tweets": [
+                    262969250514345985
+                ]
+            }
+        ], 
+        "title": "Hurricane_Sandy"
+    }
+}

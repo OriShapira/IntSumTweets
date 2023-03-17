@@ -1,0 +1,795 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    13
+                ], 
+                "keywords": [
+                    "suspected"
+                ]
+            }, 
+            {
+                "ids": [
+                    1, 
+                    12, 
+                    2
+                ], 
+                "keywords": [
+                    "drives", 
+                    "christian", 
+                    "holding mass", 
+                    "reprisal attacks"
+                ]
+            }, 
+            {
+                "ids": [
+                    18, 
+                    14, 
+                    9, 
+                    8
+                ], 
+                "keywords": [
+                    "burns alive", 
+                    "attacks", 
+                    "nema", 
+                    "10", 
+                    "confirms", 
+                    "muslims", 
+                    "neighbourhood", 
+                    "dead", 
+                    "man", 
+                    "mob"
+                ]
+            }, 
+            {
+                "ids": [
+                    17, 
+                    10, 
+                    16, 
+                    15
+                ], 
+                "keywords": [
+                    "11 persons", 
+                    "jihad/martyrdom", 
+                    "rampage", 
+                    "troops", 
+                    "patrol", 
+                    "youth", 
+                    "increased"
+                ]
+            }
+        ], 
+        "numTweets": 122, 
+        "sentences": [
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; attack slam", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E390", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E384", 
+                        "expansion": "ungwar yero ; nigeria ; northern nigeria", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church ; area near church", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "another boko haram bomb explosion in kaduna church", 
+                "sentenceExpansion": [
+                    "city kaduna", 
+                    "car bombing", 
+                    "kaduna suicide bomb", 
+                    "loud blast", 
+                    "bauchi metropolis", 
+                    "during mass at", 
+                    "today 's"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 08:05:19", 
+                "tweets": [
+                    262468815630262274, 
+                    262605163989180416, 
+                    262583252680843264, 
+                    262844952386609152, 
+                    262682259440672768, 
+                    262512939536351232, 
+                    262545940521562112, 
+                    262482191106318336, 
+                    262556958740066305, 
+                    262585584764190721, 
+                    262484451668393984, 
+                    262603197007421442, 
+                    262557030177468416, 
+                    262517490465243136, 
+                    262530714921234433, 
+                    262499941526691840, 
+                    262656078624477184, 
+                    262579117453615104, 
+                    262525686059769856, 
+                    262528558977646592, 
+                    262480207032766464, 
+                    262554991817003008, 
+                    262535219905695744, 
+                    262788115209543680, 
+                    262862887314403329, 
+                    262573345734799362, 
+                    262561635477110787, 
+                    262490525012213760, 
+                    262959695743053824, 
+                    262660642031403008, 
+                    262528722635206656, 
+                    262519935882887168, 
+                    262836601409921024, 
+                    262508963302625280, 
+                    262481373271564288, 
+                    262601334635786242, 
+                    263019158613135360, 
+                    262508988426506242, 
+                    262865248485265408, 
+                    262720498851532801, 
+                    262509026447859713, 
+                    262465053159194624, 
+                    262528827656372226, 
+                    262510494445883392, 
+                    262487152942788608, 
+                    262524557754261504, 
+                    262467460874240000, 
+                    262823741652877312, 
+                    262504874057560067, 
+                    262502692755234816, 
+                    262678652477644801, 
+                    262836211486449664, 
+                    262551174887124992, 
+                    262555583113228288, 
+                    262568799205736448, 
+                    262551262954938368, 
+                    262513891517546496, 
+                    262557898218024960, 
+                    262513929241104384, 
+                    262511756675534849, 
+                    262516169263681537, 
+                    262485395445514240, 
+                    262599761482358786, 
+                    262512641614942208, 
+                    262630594108878850, 
+                    262514059579101185, 
+                    263002268075446272, 
+                    262795593573859328, 
+                    262496531263938560, 
+                    263008907750952962, 
+                    262687871553662976, 
+                    262498758795866113, 
+                    262588936151515137, 
+                    262584573949530112, 
+                    262580165765373955, 
+                    262483457958100992, 
+                    262470304398450688, 
+                    262534116547907584, 
+                    262494539284107264, 
+                    262584708192419840, 
+                    262512142853480450, 
+                    262487966675517440, 
+                    262527552642482176, 
+                    262492915786477568, 
+                    262690371123961856, 
+                    262479280469049344, 
+                    262503531578261505, 
+                    262527728820031489, 
+                    262919166380621824, 
+                    262604706961035265, 
+                    262567327185379329, 
+                    262488197525803008, 
+                    262582757992050688, 
+                    262617948034834432, 
+                    262576197991550976, 
+                    262895086801649664, 
+                    262509810707218432, 
+                    262497080885534720, 
+                    262481704575447040, 
+                    262840166786412544, 
+                    262541129365475328, 
+                    262470610540716032, 
+                    262813780277329920, 
+                    262816078865002496, 
+                    262526327586963457, 
+                    262492848685985792, 
+                    262492852901269504, 
+                    262501652622344192, 
+                    262510448170131457, 
+                    262578660027006977, 
+                    262466525431226368, 
+                    262527548473344000, 
+                    262479779209551872, 
+                    262495180949700608, 
+                    262706288612503552, 
+                    262506182562959360, 
+                    262594149566537728
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "church , malali", 
+                "sentenceExpansion": [
+                    "church catholic"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 08:11:10", 
+                "tweets": [
+                    262513929241104384, 
+                    262509026447859713, 
+                    262503531578261505, 
+                    262528827656372226, 
+                    262567327185379329, 
+                    262617948034834432, 
+                    262492852901269504, 
+                    262836211486449664, 
+                    262482191106318336, 
+                    262556958740066305, 
+                    262487152942788608, 
+                    262484451668393984, 
+                    262498758795866113, 
+                    262813780277329920, 
+                    262517490465243136, 
+                    262584573949530112, 
+                    262509810707218432, 
+                    262823741652877312, 
+                    262952376728711170, 
+                    262499941526691840, 
+                    262528558977646592, 
+                    262512641614942208, 
+                    262554991817003008, 
+                    262494539284107264, 
+                    262584708192419840, 
+                    262510494445883392, 
+                    262862887314403329, 
+                    262512142853480450, 
+                    262527548473344000, 
+                    262527552642482176, 
+                    262561635477110787, 
+                    262583252680843264, 
+                    262479779209551872, 
+                    262495180949700608, 
+                    262528722635206656, 
+                    262466525431226368, 
+                    262527728820031489
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E398", 
+                        "expansion": "northern part", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "blast shakes area near church in northern nigeria", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 09:01:51", 
+                "tweets": [
+                    262479280469049344, 
+                    262513929241104384, 
+                    262485395445514240, 
+                    262508988426506242, 
+                    262720498851532801, 
+                    262530714921234433, 
+                    262490525012213760, 
+                    262895086801649664, 
+                    262516169263681537, 
+                    262795593573859328, 
+                    262497080885534720, 
+                    262601334635786242, 
+                    262479779209551872, 
+                    262495180949700608, 
+                    262498758795866113, 
+                    262487966675517440, 
+                    262554991817003008
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E402", 
+                        "expansion": "himself ; sole bomber", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "bomber suspected", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:10:10", 
+                "tweets": [
+                    262509026447859713, 
+                    262481373271564288
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P13", 
+                        "expansion": "commits mass murder ; dead", 
+                        "tokens": [
+                            5, 
+                            6, 
+                            7, 
+                            8, 
+                            10, 
+                            12
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            9
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E384", 
+                        "expansion": "nigeria", 
+                        "tokens": [
+                            11
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church", 
+                        "tokens": [
+                            13
+                        ]
+                    }
+                ], 
+                "sentence": "an unspecified number of persons have been killed in blast in kaduna at church today", 
+                "sentenceExpansion": [
+                    "worshippers killed", 
+                    "muslims kills"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 09:55:46", 
+                "tweets": [
+                    263019158613135360, 
+                    262511756675534849, 
+                    262503531578261505, 
+                    262919166380621824, 
+                    262844952386609152, 
+                    262582757992050688, 
+                    262617948034834432, 
+                    262959695743053824, 
+                    262496531263938560, 
+                    262603197007421442, 
+                    262840166786412544, 
+                    262588936151515137, 
+                    262517490465243136, 
+                    262584573949530112, 
+                    262509810707218432, 
+                    262823741652877312, 
+                    262952376728711170, 
+                    262526327586963457, 
+                    262816078865002496, 
+                    262678652477644801, 
+                    262492848685985792, 
+                    262501652622344192, 
+                    262788115209543680, 
+                    262584708192419840, 
+                    262551174887124992, 
+                    262555583113228288, 
+                    262527552642482176, 
+                    262561635477110787, 
+                    262583252680843264, 
+                    262506182562959360, 
+                    262519935882887168, 
+                    262513891517546496, 
+                    262836601409921024
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E402", 
+                        "expansion": "himself ; sole bomber", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; attack slam", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "bomber injures many in explosion", 
+                "sentenceExpansion": [
+                    "bombing attacks", 
+                    "worshippers injured", 
+                    "bombing kaduna wounding"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 10:38:13", 
+                "tweets": [
+                    262605163989180416, 
+                    263019158613135360, 
+                    262604706961035265, 
+                    262503531578261505, 
+                    262511756675534849, 
+                    262583252680843264, 
+                    262527728820031489, 
+                    262844952386609152, 
+                    262617948034834432, 
+                    262603197007421442, 
+                    262551174887124992, 
+                    262584573949530112, 
+                    262823741652877312, 
+                    262656078624477184, 
+                    262816078865002496, 
+                    262678652477644801, 
+                    262788115209543680, 
+                    262578660027006977, 
+                    262527552642482176, 
+                    262959695743053824, 
+                    262519935882887168, 
+                    262513891517546496, 
+                    262836601409921024
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "christian reprisal attacks after bombing", 
+                "sentenceExpansion": [
+                    "target muslims"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 11:15:36", 
+                "tweets": [
+                    262512939536351232, 
+                    262534116547907584, 
+                    262557898218024960, 
+                    262528827656372226, 
+                    262919166380621824, 
+                    262557030177468416, 
+                    262594149566537728, 
+                    262554823843516418
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E398", 
+                        "expansion": "northern part", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "church holding mass in northern nigeria", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 12:14:22", 
+                "tweets": [
+                    262527728820031489
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E402", 
+                        "expansion": "himself ; sole bomber", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E384", 
+                        "expansion": "kaduna.. ; there", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "bomber drives into church in kaduna", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 13:47:32", 
+                "tweets": [
+                    262551174887124992
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; attack slam", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E382", 
+                        "expansion": "st rita catholic church", 
+                        "tokens": [
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E398", 
+                        "expansion": "kaduna", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "several people killed or injured in explosion church northern nigeria", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 13:47:53", 
+                "tweets": [
+                    262573345734799362, 
+                    262576197991550976, 
+                    262568799205736448, 
+                    262579117453615104, 
+                    262585584764190721, 
+                    262551262954938368, 
+                    262682259440672768
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [], 
+                "sentence": "muslims neighbourhood", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 14:02:02", 
+                "tweets": [
+                    262554823843516418
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P13", 
+                        "expansion": "commits mass murder", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "nema confirms dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 14:29:06", 
+                "tweets": [
+                    262816078865002496, 
+                    262561635477110787
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "10 dead in bombing attacks", 
+                "sentenceExpansion": [
+                    "2 killed"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 15:36:45", 
+                "tweets": [
+                    262605163989180416, 
+                    262604706961035265, 
+                    262594149566537728, 
+                    262919166380621824, 
+                    262578660027006977
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "bombing as mob burns man alive", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 17:14:15", 
+                "tweets": [
+                    262603197007421442
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "president jonathan has condemned attack as cruel", 
+                "sentenceExpansion": [
+                    "mark condemn", 
+                    "saraki condemn"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 19:03:07", 
+                "tweets": [
+                    262690371123961856, 
+                    262630594108878850, 
+                    262706288612503552, 
+                    262836211486449664
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P13", 
+                        "expansion": "commits mass murder ; dead", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "death figure increased to 11 persons", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 22:14:05", 
+                "tweets": [
+                    262678652477644801
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "youth go on rampage after bombing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 10:35:33", 
+                "tweets": [
+                    262865248485265408
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E390", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "bomb jihad/martyrdom", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 16:21:46", 
+                "tweets": [
+                    262952376728711170
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E384", 
+                        "expansion": "kaduna.. ; there", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "bomb ; explosion ; attack slam", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "troops patrol kaduna after attack", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 19:40:01", 
+                "tweets": [
+                    263002268075446272
+                ]
+            }
+        ], 
+        "title": "Kaduna_church"
+    }
+}

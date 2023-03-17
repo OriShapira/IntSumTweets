@@ -1,0 +1,995 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    21
+                ], 
+                "keywords": [
+                    "earthquake", 
+                    "epicenter"
+                ]
+            }, 
+            {
+                "ids": [
+                    18
+                ], 
+                "keywords": [
+                    "california", 
+                    "gets", 
+                    "2.0"
+                ]
+            }, 
+            {
+                "ids": [
+                    20
+                ], 
+                "keywords": [
+                    "hit", 
+                    "about 7pm"
+                ]
+            }, 
+            {
+                "ids": [
+                    14
+                ], 
+                "keywords": [
+                    "summary", 
+                    "usgs"
+                ]
+            }, 
+            {
+                "ids": [
+                    11, 
+                    25
+                ], 
+                "keywords": [
+                    "reports", 
+                    "usgs", 
+                    "breakingnews :", 
+                    "reported"
+                ]
+            }, 
+            {
+                "ids": [
+                    8, 
+                    16, 
+                    23, 
+                    10, 
+                    1, 
+                    15, 
+                    0, 
+                    22, 
+                    13, 
+                    19, 
+                    12, 
+                    7, 
+                    17
+                ], 
+                "keywords": [
+                    "southwestern maine", 
+                    "west of hollis center", 
+                    "residents", 
+                    "nothing", 
+                    "shoreline", 
+                    "new hampshire", 
+                    "new england", 
+                    "region", 
+                    "originally occurred", 
+                    "centered felt", 
+                    "7 p.m et", 
+                    "shortly", 
+                    "usgs", 
+                    "occurred", 
+                    "rattles", 
+                    "earthquake", 
+                    "feeling", 
+                    "felt", 
+                    "rattles causes", 
+                    "aftermath", 
+                    "hit", 
+                    "centered", 
+                    "rocks", 
+                    "struck", 
+                    "injuries", 
+                    "immediate damage", 
+                    "earthquake", 
+                    ":", 
+                    "we", 
+                    "reporting", 
+                    "4.6", 
+                    "breaking news :", 
+                    "strikes", 
+                    "reuters : top news"
+                ]
+            }
+        ], 
+        "numTweets": 155, 
+        "sentences": [
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E250", 
+                        "expansion": "tonigth ; this evening", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "4.0 earthquake in maine tonight", 
+                "sentenceExpansion": [
+                    "4.6 west of hollis center maine", 
+                    "rare earthquake", 
+                    "earthquake here in", 
+                    "moderate earthquake", 
+                    "earthquake 2012", 
+                    "at 7:12 p.m est", 
+                    "in southern maine", 
+                    "in gardiner maine", 
+                    "in lake arrowhead maine", 
+                    "in new england"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:13:16", 
+                "tweets": [
+                    258411665396224000, 
+                    258367704770162688, 
+                    258345764508545024, 
+                    258354563877326848, 
+                    258356786862637056, 
+                    258352408097353728, 
+                    258350218884562944, 
+                    258359056098537472, 
+                    258348255816073216, 
+                    258625205705003008, 
+                    258374528982454272, 
+                    258409790261325826, 
+                    258346028556763136, 
+                    258357030421684224, 
+                    258370229846040576, 
+                    258453809708290048, 
+                    258352706102636544, 
+                    258381294164131841, 
+                    258605626727473152, 
+                    258346154222317569, 
+                    258392354464092160, 
+                    258351963421425666, 
+                    258383597004812289, 
+                    258352819067842560, 
+                    258350633780903936, 
+                    258348314414702592, 
+                    258349044127109121, 
+                    258355079906750464, 
+                    258346309474463744, 
+                    258358963920322560, 
+                    258348587048632321, 
+                    258359601341292546, 
+                    258471765381099520, 
+                    258368434352558080, 
+                    258355243253891072, 
+                    258381634200543232, 
+                    258471807361880064, 
+                    258350864576688128, 
+                    258594977318309888, 
+                    258346498201362432, 
+                    258348704564649985, 
+                    258469680652632065, 
+                    258366366787174402, 
+                    258348738106511361, 
+                    258353226053718016, 
+                    258357634258841600, 
+                    258366446617374721, 
+                    258351078679142400, 
+                    258353288787935232, 
+                    258373106928852994, 
+                    258348985419431937, 
+                    258349002452512768, 
+                    258355608493883392, 
+                    258346842104950784, 
+                    258356480804270080, 
+                    258410662739468288, 
+                    258346691336470528, 
+                    258357944800915458, 
+                    258351363736600576, 
+                    258351359496163330, 
+                    258377792067092481, 
+                    258635133744205824, 
+                    258358061838790656, 
+                    258349270753738752, 
+                    258377859209519105, 
+                    258360280633974784, 
+                    258566992993320960, 
+                    258344892022013953, 
+                    258351514647674880, 
+                    258549674670178305, 
+                    258371362127749122, 
+                    258373581036195841, 
+                    258353834055835648, 
+                    258397824008478720, 
+                    258569354424242176, 
+                    258347278459346944, 
+                    258353913739218944, 
+                    258349547678482432, 
+                    258373757079531520, 
+                    258356170291552258, 
+                    258460658780233728, 
+                    258347077032099840, 
+                    258426575870124032, 
+                    258406791292014593, 
+                    258365054079078400, 
+                    258351887886213120, 
+                    258347790177017856, 
+                    258351904726347777, 
+                    258356308665847809, 
+                    258409094061379584, 
+                    258350000696864768, 
+                    258373958498410496, 
+                    258384993838047232, 
+                    258384993577996289, 
+                    258363023796887553, 
+                    258348545151750145, 
+                    258352060150448129, 
+                    258358665864699904, 
+                    258349883021475840, 
+                    258356485116014592, 
+                    258360901772656640, 
+                    258486261025742848, 
+                    258347731427405824, 
+                    258514895623045120, 
+                    258481924081860608, 
+                    258347785982726144, 
+                    258347786003689473, 
+                    258349597733302272, 
+                    258352202454814721, 
+                    258347823614021632, 
+                    258350033970274304, 
+                    258347832182980609, 
+                    258356644340187136
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P83", 
+                        "expansion": "tremor", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E273", 
+                        "expansion": "s maine", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake epicenter in southern maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:17:47", 
+                "tweets": [
+                    258346028556763136
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "'s earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake hit near hollis center maine at 7:12 p.m est", 
+                "sentenceExpansion": [
+                    "hits just west of portland maine", 
+                    "with 4.5 magnitude earthquake", 
+                    "maine just got", 
+                    "hits lake arrowhead maine", 
+                    "4.5 magnitude earthquake hits"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:18:46", 
+                "tweets": [
+                    258366366787174402, 
+                    258373106928852994, 
+                    258358963920322560, 
+                    258346414306893828, 
+                    258346276003909632
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [], 
+                "sentence": "california gets 2.0", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:18:46", 
+                "tweets": [
+                    258346276003909632
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P12", 
+                        "tokens": [
+                            1, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E265", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake felt here in boston", 
+                "sentenceExpansion": [
+                    "in new hampshire", 
+                    "throughout new england", 
+                    "by neighbouring states", 
+                    "in costal connecticut", 
+                    "brother in", 
+                    "in exeter nh area", 
+                    "in needham mass", 
+                    "through mass", 
+                    "throughout several states", 
+                    "as far south as", 
+                    "was 92 miles from boston in", 
+                    "erupted about 3 miles west of hollis center maine", 
+                    "felt locally", 
+                    "in other cities", 
+                    "'s earthquake centered", 
+                    "4.6 centered", 
+                    "at lake arrowhead maine", 
+                    "maine border", 
+                    "on the tip of cape cod", 
+                    "in western mass", 
+                    "near hollis center maine", 
+                    "in southern maine", 
+                    "miles southeast of boston"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:19:39", 
+                "tweets": [
+                    258352819067842560, 
+                    258350633780903936, 
+                    258348985419431937, 
+                    258349547678482432, 
+                    258349002452512768, 
+                    258355608493883392, 
+                    258356170291552258, 
+                    258349597733302272, 
+                    258426575870124032, 
+                    258347962013462528, 
+                    258410662739468288, 
+                    258348545151750145, 
+                    258352408097353728, 
+                    258350218884562944, 
+                    258356308665847809, 
+                    258357944800915458, 
+                    258351904726347777, 
+                    258351363736600576, 
+                    258351359496163330, 
+                    258355243253891072, 
+                    258381634200543232, 
+                    258377792067092481, 
+                    258351963421425666, 
+                    258594977318309888, 
+                    258346498201362432, 
+                    258351514647674880, 
+                    258348704564649985, 
+                    258384993577996289, 
+                    258360280633974784, 
+                    258566992993320960, 
+                    258352060150448129, 
+                    258358665864699904, 
+                    258348738106511361, 
+                    258453809708290048, 
+                    258360901772656640, 
+                    258353226053718016, 
+                    258371362127749122, 
+                    258373581036195841, 
+                    258366446617374721, 
+                    258348314414702592, 
+                    258351078679142400, 
+                    258353834055835648, 
+                    258350000696864768, 
+                    258352202454814721, 
+                    258347823614021632, 
+                    258347832182980609, 
+                    258356644340187136
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "expansion": "tremors", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E273", 
+                        "expansion": "s maine", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E269", 
+                        "expansion": "ct", 
+                        "tokens": [
+                            12
+                        ]
+                    }
+                ], 
+                "sentence": "breaking news : earthquake centered in southern maine but felt here in connecticut", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:21:57", 
+                "tweets": [
+                    258481924081860608, 
+                    258347077032099840
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P3", 
+                        "expansion": "experienced ; shakes", 
+                        "tokens": [
+                            1, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E250", 
+                        "expansion": "tonigth ; just", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "quake hit maine tonight at about 7pm", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:24:46", 
+                "tweets": [
+                    258365054079078400, 
+                    258373581036195841, 
+                    258384993577996289, 
+                    258352706102636544, 
+                    258366446617374721, 
+                    258377859209519105, 
+                    258347785982726144, 
+                    258351363736600576, 
+                    258356170291552258, 
+                    258384993838047232, 
+                    258352202454814721, 
+                    258460658780233728, 
+                    258355243253891072, 
+                    258381634200543232, 
+                    258360901772656640, 
+                    258377792067092481, 
+                    258426575870124032, 
+                    258373958498410496
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E252", 
+                        "expansion": "magnitude 4.5 ; 4.5 m ; 4.5 on the scale", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "4.5 magnitude earthquake reported six kilometers south-southwest of lake arrowhead maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:25:34", 
+                "tweets": [
+                    258347987288350720
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E264", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "usgs summary of earthquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:29:32", 
+                "tweets": [
+                    258348985419431937
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E252", 
+                        "expansion": "magnitude 4.5 ; 4.5 m ; 4.5 on the scale", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E265", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "4.5 magnitude earthquake just west of portland maine felt in and around boston", 
+                "sentenceExpansion": [
+                    "southern new england", 
+                    "earthquake was", 
+                    "earthquake felt"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:29:46", 
+                "tweets": [
+                    258358061838790656, 
+                    258349270753738752, 
+                    258351233545404417, 
+                    258349044127109121, 
+                    258356485116014592, 
+                    258373106928852994
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "expansion": "tremors", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E273", 
+                        "expansion": "s maine", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake reported across southern maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:29:46", 
+                "tweets": [
+                    258351904726347777, 
+                    258358061838790656, 
+                    258349270753738752, 
+                    258349044127109121
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E264", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "breakingnews : usgs reports earthquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:33:42", 
+                "tweets": [
+                    258350033970274304, 
+                    258357634258841600
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [], 
+                "sentence": "earthquake felt as far south as southern ct , west to ny state", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:41:22", 
+                "tweets": [
+                    258351963421425666
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": []
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": " originally occurred at maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:43:08", 
+                "tweets": [
+                    258352408097353728, 
+                    258409790261325826
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E269", 
+                        "expansion": "ct", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "connecticut residents are feeling the earthquake aftermath", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:44:19", 
+                "tweets": [
+                    258352706102636544
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [], 
+                "sentence": "felt nothing on shoreline", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:44:19", 
+                "tweets": [
+                    258352706102636544
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E298", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "4.6 earthquake occurred in southwestern maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:51:51", 
+                "tweets": [
+                    258354601676398592
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E264", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E249", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "usgs reporting earthquake centered in maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:53:45", 
+                "tweets": [
+                    258355079906750464
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "expansion": "tremors", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E273", 
+                        "expansion": "s maine", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake struck southern maine shortly after 7 p.m et", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:59:20", 
+                "tweets": [
+                    258356485116014592
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P83", 
+                        "expansion": "tremor", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E298", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake centered in southwestern maine felt across region", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:00:32", 
+                "tweets": [
+                    258356786862637056
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P3", 
+                        "expansion": "experienced ; shakes", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P12", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "reuters : top news : strikes felt", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:16:53", 
+                "tweets": [
+                    258373581036195841, 
+                    258360901772656640
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake rattles new england", 
+                "sentenceExpansion": [
+                    "rattles connecticut homes"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:43:55", 
+                "tweets": [
+                    258410662739468288, 
+                    258486261025742848, 
+                    258383597004812289, 
+                    258411665396224000, 
+                    258377859209519105, 
+                    258514895623045120, 
+                    258367704770162688, 
+                    258549674670178305, 
+                    258397824008478720, 
+                    258605626727473152, 
+                    258471765381099520, 
+                    258409094061379584, 
+                    258370229846040576, 
+                    258469680652632065, 
+                    258471807361880064
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "we had earthquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:46:49", 
+                "tweets": [
+                    258368434352558080
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "'s earthquake", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "breaking news : earthquake strikes west of hollis center", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 01:37:55", 
+                "tweets": [
+                    258381294164131841
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "earthquake near ; quake", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake rocks new hampshire", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 14:05:12", 
+                "tweets": [
+                    258569354424242176
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "expansion": "tremors", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake rattles but causes no immediate damage or injuries", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 17:47:08", 
+                "tweets": [
+                    258625205705003008
+                ]
+            }
+        ], 
+        "title": "Earthquake_Maine"
+    }
+}

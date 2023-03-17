@@ -1,0 +1,139 @@
+{"baseline2ScreenInput": {
+"title": "Wisconsin_shooting","entailmentItems": [
+{"type": "entity", "id":999, "name": "Placeholder", "desc":"For bug that first entailment item is not found"},
+{"type": "entity", "id":0, "name": "Four (dead)", "desc":"4 women ; 4 ; four"},
+{"type": "entity", "id":1, "name": "Four (wounded)", "desc":"4 ; four others ; four"},
+{"type": "entity", "id":3, "name": "Spa", "desc":"azana spa ; day spa ; salon"},
+{"type": "entity", "id":4, "name": "suspect", "desc":"suspected gunman ; himself ; jamaican ; radcliffe f. haugh ; states-crime-jamaican ; radcliffe f. haughton ; shooter ; man ; gunman"},
+{"type": "entity", "id":5, "name": "3 (dead)", "desc":"3 ; three women ; 3 people ; three person ; three ; three people"},
+{"type": "entity", "id":8, "name": "7 (shot)", "desc":"7 people ; 7"},
+{"type": "entity", "id":15, "name": "those people (shot)", "desc":"a number of people ; people ; victims"},
+{"type": "entity", "id":30, "name": "Brookfield Square Mall", "desc":"brookfield square mall/spa ; mall ; brookfield square"},
+{"type": "predicate", "id":5, "name": "Shooting (general)", "desc":"shooting ; spashooting ; rampage ; hit in shooting ; massacre ; incident"},
+{"type": "predicate", "id":6, "name": "Dead in (total)", "desc":"kills ; dead ; murder ; fatal"},
+{"type": "predicate", "id":7, "name": "Wounded in (total)", "desc":"wounded ; injured ; hurt"},
+{"type": "predicate", "id":8, "name": "dead (shooter)", "desc":"dead ; kills ; takes life ; body found"},
+{"type": "predicate", "id":9, "name": "found (shooter)", "desc":"found ; revealed"},
+{"type": "predicate", "id":12, "name": "still at large", "desc":"at large ; on the run ; is on the loose"},
+{"type": "predicate", "id":16, "name": "hunt (police, gunman)", "desc":"hunt ; manhunt"},
+{"type": "predicate", "id":19, "name": "shot (gunman, himself)", "desc":"gunshot ; shot ; "},
+{"type": "predicate", "id":27, "name": "kills (wife)", "desc":"kills ; among dead"},
+{"type": "predicate", "id":32, "name": "confirmed (3 dead)", "desc":"pronounced ; confirmed"}
+],
+"sentences": [
+{"id":28,
+"sentence": "suspected gunman kills two others",
+"timestamp": "2012-10-22 17:08:17",
+"scoreSentence":0.09415204678362571,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[260427368022278146],
+"pressableTokens":[
+{"tokens":[0, 1],"item":{"type":"entity","id":4}}
+]
+},
+{"id":31,
+"sentence": "a number of people dead all were women",
+"timestamp": "2012-10-22 01:07:17",
+"scoreSentence":0.09105607155142759,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[260185524675960832, 260433466485768194, 260231666205876224],
+"pressableTokens":[
+{"tokens":[0, 1, 2, 3],"item":{"type":"entity","id":15}},
+{"tokens":[4],"item":{"type":"predicate","id":6}}
+]
+},
+{"id":100,
+"sentence": "wife of suspect among dead",
+"timestamp": "2012-10-22 03:01:18",
+"scoreSentence":0.1,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[260433466485768194, 260348800227491841, 260427368022278146, 260478391571066880],
+"pressableTokens":[
+{"tokens":[2],"item":{"type":"entity","id":4}},
+{"tokens":[3, 4],"item":{"type":"predicate","id":27}}
+]
+},
+{"id":13,
+"sentence": "suspected gunman still at large after at least seven injured",
+"timestamp": "2012-10-21 22:55:40",
+"scoreSentence":0.12820777433780527,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[260152402261471233, 260123528282648576, 260124572806950912, 260148778265362432, 260095326021619712, 260125222865354753, 260175554777608192, 260123306097770496, 260130549849522176, 260066494212358144],
+"pressableTokens":[
+{"tokens":[0, 1],"item":{"type":"entity","id":4}},
+{"tokens":[9],"item":{"type":"predicate","id":7}}
+]
+},
+{"id":50,
+"sentence": "milwaukee wi",
+"timestamp": "2012-10-21 22:17:16",
+"scoreSentence":0.09105607155142759,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[260142738400497664],
+"pressableTokens":[
+]
+},
+{"id":51,
+"sentence": "bomb unit arrives at scene",
+"timestamp": "2012-10-21 22:17:16",
+"scoreSentence":0.09105607155142759,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[260142738400497664],
+"pressableTokens":[
+]
+},
+{"id":43,
+"sentence": "suspected gunman confirmed dead",
+"timestamp": "2012-10-21 22:11:14",
+"scoreSentence":0.12511179910560715,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[260411064825573376, 260138980081795073, 260176632646623232, 260233603697491968, 260144672020783105, 260201102039986178, 260389015394586626, 260148312479498240, 260389560507322370, 260134139926306816, 260136501298479104, 260139307271077888, 260135654049079296, 260445327851655168, 260142738400497664, 260142830700339200, 260168437018542080],
+"pressableTokens":[
+{"tokens":[0, 1],"item":{"type":"entity","id":4}},
+{"tokens":[3],"item":{"type":"predicate","id":8}}
+]
+},
+{"id":71,
+"sentence": "salon outside milwaukee",
+"timestamp": "2012-10-21 21:52:29",
+"scoreSentence":0.09105607155142759,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[260367246986190849, 260154008520507392, 260135159087632384, 260124468087771136, 260148396613066752, 260386616374358016, 260130549849522176, 260411064825573376, 260108240136851456, 260127324454916096, 260274850608861184, 260396460418412545, 260117820073971712, 260141220083421184, 260138980081795073, 260264645724622848, 260070101313798144, 260355976853610496, 260233603697491968, 260451011540447233, 260119925371330560, 260123310233382913, 260131036271370240, 260123528282648576, 260122073165344768, 260144672020783105, 260201102039986178, 260389015394586626, 260107107901247488, 260389560507322370, 260079475885240320, 260078003583864832, 260427368022278146, 260134139926306816, 260136501298479104, 260132650927398912, 260139307271077888, 260354366387662848, 260085343733309442, 260117820069773313, 260358430445957120, 260139361952231424, 260219863270842368, 260123079831871489, 260135654049079296, 260074870518452224, 260099386116292608, 260445327851655168, 260232807052357632, 260417394084806656, 260142738400497664, 260142830700339200, 260124572806950912, 260201785602473984, 260141073253416960, 260185524675960832, 260087662856249345, 260133968115027968, 260089114320334849],
+"pressableTokens":[
+{"tokens":[0],"item":{"type":"entity","id":3}}
+]
+},
+{"id":15,
+"sentence": "hospital near shooting at brookfield square mall",
+"timestamp": "2012-10-21 19:08:52",
+"scoreSentence":0.12820777433780527,
+"scoreExtraInfo":0,
+"showOnInit":true,
+"tweets":[260066494212358144, 260071498058973184, 260135159087632384, 260141220083421184, 260084907504717824, 260126787474964480, 260137323705024512, 260133070429097984, 260095326021619712, 260078779295219714, 260264645724622848, 260451011540447233, 260068964875501568, 260123528282648576, 260137478730702848, 260433466485768194, 260085959914291201, 260073712819245056, 260078510964625408, 260074593702793216, 260129488489283586, 260152397731594240],
+"pressableTokens":[
+{"tokens":[4, 5, 6],"item":{"type":"entity","id":30}}
+]
+},
+{"id":12,
+"sentence": "suspected gunman still at large",
+"timestamp": "2012-10-21 17:14:18",
+"scoreSentence":0.06009631922944616,
+"scoreExtraInfo":0,
+"showOnInit":false,
+"tweets":[260152402261471233, 260123528282648576, 260124572806950912, 260148778265362432, 260095326021619712, 260125222865354753, 260175554777608192, 260123306097770496, 260130549849522176, 260066494212358144],
+"pressableTokens":[
+{"tokens":[0, 1],"item":{"type":"entity","id":4}},
+{"tokens":[2, 3, 4],"item":{"type":"predicate","id":12}}
+]
+}
+]
+}}
+

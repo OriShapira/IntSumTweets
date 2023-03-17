@@ -1,0 +1,10 @@
+u;;;p;;;null
+tstusr;;;pw;;;null
+demoBoy_scouts;;;1234;;;,,,
+demoBurma;;;1234;;;,,,
+demoCyclone;;;1234;;;,,,
+demoEarthquake_maine;;;1234;;;,,,
+demoHurricane_sandy;;;1234;;;,,,
+demoKaduna_church;;;1234;;;,,,
+demoWisconsin_shooting;;;1234;;;,,,
+demoEval;;;1234;;;,,,

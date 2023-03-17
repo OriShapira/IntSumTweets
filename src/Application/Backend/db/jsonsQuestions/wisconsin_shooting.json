@@ -1,0 +1,16 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"In what city did the event occur?"},
+    {"id":1, "text":"Where did the event take place?"},
+    {"id":2, "text":"What kind of event occured?"},
+    {"id":3, "text":"How many victims were killed in the event?"},
+    {"id":4, "text":"How many victims were wounded in the event?"},
+    {"id":5, "text":"How was the event carried out?"},
+    {"id":6, "text":"What was the name of the person who carried out the event?"},
+    {"id":7, "text":"What did police do immediatelly after the event?"},
+    {"id":8, "text":"What happened to the person who carried out the event?"},
+    {"id":9, "text":"How old was the person who carried out the event?"},
+    {"id":10, "text":"Who was among the killed victims?"},
+    {"id":11, "text":"Who offered condolences to Wisconsin officials?"}
+  ]
+}}

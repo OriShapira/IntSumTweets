@@ -1,0 +1,831 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    11, 
+                    1, 
+                    18
+                ], 
+                "keywords": [
+                    "hunt", 
+                    "victims", 
+                    "police", 
+                    "hospital", 
+                    "feared", 
+                    "lockdown"
+                ]
+            }, 
+            {
+                "ids": [
+                    13, 
+                    19, 
+                    0, 
+                    2, 
+                    5
+                ], 
+                "keywords": [
+                    "county", 
+                    "chief", 
+                    "brookfield police", 
+                    "ied", 
+                    "dispatcher", 
+                    "police", 
+                    "chief", 
+                    "scene", 
+                    "identify"
+                ]
+            }, 
+            {
+                "ids": [
+                    6, 
+                    15, 
+                    4, 
+                    10, 
+                    14
+                ], 
+                "keywords": [
+                    "wife", 
+                    "hostage", 
+                    "victims", 
+                    "bomb unit", 
+                    "scene", 
+                    "women", 
+                    "tried", 
+                    "confirmed", 
+                    "arrives"
+                ]
+            }, 
+            {
+                "ids": [
+                    17
+                ], 
+                "keywords": [
+                    "two others", 
+                    "kills"
+                ]
+            }
+        ], 
+        "numTweets": 109, 
+        "sentences": [
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "killsd ; dead", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "suspect still at large after leaves dead", 
+                "sentenceExpansion": [
+                    "after leaves wounded"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 17:14:18", 
+                "tweets": [
+                    260084416464965632, 
+                    260124572806950912, 
+                    260148778265362432, 
+                    260123528282648576, 
+                    260066494212358144, 
+                    260152402261471233
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            1, 
+                            3, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E459", 
+                        "expansion": "brookfield square mall", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E458", 
+                        "expansion": "milwaukee ; wis ; brookfield", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "mass shooting sunday at spa in wisconsin", 
+                "sentenceExpansion": [
+                    "suspect tht", 
+                    "active shooting", 
+                    "allegedly brookfield square mall", 
+                    "wisconsin another shooting", 
+                    "outside milwaukee"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 17:14:18", 
+                "tweets": [
+                    260078510964625408, 
+                    260107107901247488, 
+                    260131300315385856, 
+                    260185524675960832, 
+                    260201785602473984, 
+                    260355976853610496, 
+                    260144672020783105, 
+                    260417394084806656, 
+                    260386616374358016, 
+                    260085343733309442, 
+                    260078779295219714, 
+                    260175554777608192, 
+                    260087662856249345, 
+                    260232807052357632, 
+                    260070101313798144, 
+                    260129488489283586, 
+                    260127324454916096, 
+                    260389015394586626, 
+                    260142738400497664, 
+                    260133968115027968, 
+                    260411064825573376, 
+                    260068029512179713, 
+                    260125222865354753, 
+                    260142830700339200, 
+                    260123079831871489, 
+                    260219863270842368, 
+                    260274850608861184, 
+                    260358430445957120, 
+                    260134139926306816, 
+                    260367246986190849, 
+                    260145162649473024, 
+                    260118801474015232, 
+                    260074870518452224, 
+                    260123306097770496, 
+                    260136501298479104, 
+                    260123310233382913, 
+                    260074593702793216, 
+                    260085959914291201, 
+                    260369683922944001, 
+                    260231666205876224, 
+                    260433466485768194, 
+                    260079475885240320, 
+                    260354366387662848, 
+                    260141073253416960, 
+                    260389560507322370, 
+                    260138909109977090, 
+                    260123528282648576, 
+                    260110375029190656, 
+                    260099386116292608, 
+                    260138980081795073, 
+                    260141220083421184, 
+                    260108240136851456, 
+                    260084907504717824, 
+                    260233603697491968, 
+                    260165442105118721, 
+                    260066494212358144, 
+                    260370073879969792, 
+                    260396460418412545, 
+                    260152402261471233, 
+                    260176632646623232, 
+                    260117270540472321, 
+                    260264645724622848, 
+                    260427368022278146, 
+                    260139307271077888, 
+                    260068964875501568, 
+                    260130549849522176, 
+                    260139361952231424, 
+                    260066804817342467, 
+                    260238393710084096, 
+                    260148312479498240, 
+                    260137323705024512, 
+                    260201102039986178, 
+                    260135159087632384, 
+                    260071393306238976, 
+                    260078003583864832, 
+                    260148396613066752, 
+                    260132650927398912, 
+                    260445327851655168, 
+                    260071498058973184, 
+                    260137478730702848, 
+                    260073712819245056, 
+                    260089114320334849, 
+                    260119925371330560, 
+                    260122140169351168, 
+                    260117820073971712, 
+                    260117820069773313, 
+                    260131036271370240, 
+                    260168437018542080, 
+                    260124468087771136, 
+                    260069509933715457, 
+                    260348800227491841, 
+                    260122073165344768, 
+                    260133070429097984, 
+                    260095326021619712, 
+                    260078460704280576, 
+                    260135654049079296
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E458", 
+                        "expansion": "wi", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "brookfield , wisconsin", 
+                "sentenceExpansion": [
+                    "brookfield square mall wisconsin", 
+                    "suburban wisconsin", 
+                    "spa brookfield"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 17:42:59", 
+                "tweets": [
+                    260137323705024512, 
+                    260142830700339200, 
+                    260078510964625408, 
+                    260135159087632384, 
+                    260141220083421184, 
+                    260123079831871489, 
+                    260145162649473024, 
+                    260133070429097984, 
+                    260137478730702848, 
+                    260073712819245056, 
+                    260478391571066880, 
+                    260152397731594240, 
+                    260117270540472321, 
+                    260264645724622848, 
+                    260451011540447233, 
+                    260095326021619712, 
+                    260087662856249345, 
+                    260139361952231424, 
+                    260129488489283586, 
+                    260079475885240320, 
+                    260124572806950912, 
+                    260231666205876224, 
+                    260074593702793216, 
+                    260123528282648576, 
+                    260078460704280576
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "4 injured shooting", 
+                "sentenceExpansion": [
+                    "suspect wounded"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 18:29:12", 
+                "tweets": [
+                    260201102039986178, 
+                    260123079831871489, 
+                    260132650927398912, 
+                    260148975473139712, 
+                    260201785602473984, 
+                    260137478730702848, 
+                    260118801474015232, 
+                    260119925371330560, 
+                    260370073879969792, 
+                    260396460418412545, 
+                    260152397731594240, 
+                    260152402261471233, 
+                    260417394084806656, 
+                    260386616374358016, 
+                    260085343733309442, 
+                    260176632646623232, 
+                    260168437018542080, 
+                    260231666205876224, 
+                    260130549849522176, 
+                    260122073165344768, 
+                    260139307271077888, 
+                    260142738400497664, 
+                    260123528282648576
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E471", 
+                        "expansion": "people ; a number of people", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "victims are feared shooting", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 18:38:25", 
+                "tweets": [
+                    260087662856249345
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P16", 
+                        "expansion": "manhunt underway", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E469", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "police hunt for suspect", 
+                "sentenceExpansion": [
+                    "after shootings"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 19:08:52", 
+                "tweets": [
+                    260175554777608192, 
+                    260095326021619712, 
+                    260130549849522176, 
+                    260125222865354753, 
+                    260123306097770496
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P16", 
+                        "expansion": "manhunt underway", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "hospital is under lockdown as hunt", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 19:08:52", 
+                "tweets": [
+                    260095326021619712
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "leaves dead ; dead", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E458", 
+                        "expansion": "wis ; brookfield", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "shootings 3 killsd wisconsin", 
+                "sentenceExpansion": [
+                    "wife among", 
+                    "wisconsin suspect killed", 
+                    "mass murder", 
+                    "then suspect", 
+                    "allegedly 3", 
+                    "in suspect self inflicted suspect self inflicted gunshot wound after shooting including"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 20:36:04", 
+                "tweets": [
+                    260148312479498240, 
+                    260125222865354753, 
+                    260219863270842368, 
+                    260142830700339200, 
+                    260138980081795073, 
+                    260201102039986178, 
+                    260131300315385856, 
+                    260135159087632384, 
+                    260141220083421184, 
+                    260123079831871489, 
+                    260233603697491968, 
+                    260148396613066752, 
+                    260165442105118721, 
+                    260274850608861184, 
+                    260148975473139712, 
+                    260161075692044288, 
+                    260134139926306816, 
+                    260238393710084096, 
+                    260367246986190849, 
+                    260130549849522176, 
+                    260123306097770496, 
+                    260201785602473984, 
+                    260133070429097984, 
+                    260332681487855616, 
+                    260445327851655168, 
+                    260118801474015232, 
+                    260119925371330560, 
+                    260370073879969792, 
+                    260144672020783105, 
+                    260122140169351168, 
+                    260478391571066880, 
+                    260152397731594240, 
+                    260152402261471233, 
+                    260348800227491841, 
+                    260386616374358016, 
+                    260176632646623232, 
+                    260136501298479104, 
+                    260117820073971712, 
+                    260117270540472321, 
+                    260175554777608192, 
+                    260131036271370240, 
+                    260264645724622848, 
+                    260427368022278146, 
+                    260139307271077888, 
+                    260124468087771136, 
+                    260168437018542080, 
+                    260134379282653184, 
+                    260369683922944001, 
+                    260232807052357632, 
+                    260433466485768194, 
+                    260139361952231424, 
+                    260355976853610496, 
+                    260132650927398912, 
+                    260354366387662848, 
+                    260124572806950912, 
+                    260127324454916096, 
+                    260231666205876224, 
+                    260389560507322370, 
+                    260148778265362432, 
+                    260389015394586626, 
+                    260142738400497664, 
+                    260141073253416960, 
+                    260117820069773313, 
+                    260138909109977090, 
+                    260123528282648576, 
+                    260122073165344768, 
+                    260411064825573376, 
+                    260135654049079296
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [], 
+                "sentence": "brookfield police chief chief", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 20:38:15", 
+                "tweets": [
+                    260117820069773313, 
+                    260118801474015232
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E495", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "ied found at scene", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 20:42:09", 
+                "tweets": [
+                    260118801474015232
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "suspect in shooting", 
+                "sentenceExpansion": [
+                    "suspect 45-year-old", 
+                    "suspect murder", 
+                    "suspect real"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 21:13:53", 
+                "tweets": [
+                    260348800227491841, 
+                    260136501298479104, 
+                    260142830700339200, 
+                    260135654049079296, 
+                    260445327851655168, 
+                    260138980081795073, 
+                    260389560507322370, 
+                    260126787474964480, 
+                    260389015394586626, 
+                    260427368022278146, 
+                    260144672020783105, 
+                    260233603697491968, 
+                    260274850608861184, 
+                    260411064825573376, 
+                    260332681487855616, 
+                    260134139926306816
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E469", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "police identify suspect in shooting", 
+                "sentenceExpansion": [
+                    "suspect identified"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 21:42:25", 
+                "tweets": [
+                    260332681487855616, 
+                    260133968115027968
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [], 
+                "sentence": "dispatcher county", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 21:43:06", 
+                "tweets": [
+                    260134139926306816
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "dead including ; takes life", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E459", 
+                        "expansion": "salon ; day spa", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "suspect found dead inside spa waukesha county", 
+                "sentenceExpansion": [
+                    "they found"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-21 21:44:03", 
+                "tweets": [
+                    260165442105118721, 
+                    260427368022278146, 
+                    260134379282653184
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P8", 
+                        "expansion": "dead including ; takes life", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "suspect confirmed dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 22:11:14", 
+                "tweets": [
+                    260141220083421184
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E495", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "bomb unit arrives at scene", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 22:17:16", 
+                "tweets": [
+                    260142738400497664
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "suspect tried suspect to take hostage", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-21 23:02:03", 
+                "tweets": [
+                    260154008520507392
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E471", 
+                        "expansion": "people ; a number of people", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "victims all were women", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-22 01:07:17", 
+                "tweets": [
+                    260185524675960832
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "wife of suspect", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-22 11:56:05", 
+                "tweets": [
+                    260348800227491841, 
+                    260433466485768194, 
+                    260478391571066880
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "shoots ; shooting outside ; incident near", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "obama offers condolences to officials after shooting", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-22 12:34:21", 
+                "tweets": [
+                    260358430445957120
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E460", 
+                        "expansion": "himself ; radcliffe f. haughton ; suspected gunman ; states-crime-jamaican ; man", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "suspect kills two others", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-22 17:08:17", 
+                "tweets": [
+                    260427368022278146
+                ]
+            }
+        ], 
+        "title": "Wisconsin_shooting"
+    }
+}

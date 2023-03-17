@@ -1,0 +1,10 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"Where did the cyclone hit?"},
+    {"id":1, "text":"How many people were killed in the Caribbean?"},
+    {"id":2, "text":"How many people were killed in US?"},
+    {"id":3, "text":"What did FEMA urge east coast residents?"},
+    {"id":4, "text":"Were there widespread shutdowns in the east coast?"},
+    {"id":5, "text":"Indicate one preparation in the east coast?"}
+  ]
+}}

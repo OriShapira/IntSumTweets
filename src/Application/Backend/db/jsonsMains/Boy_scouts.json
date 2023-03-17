@@ -1,0 +1,1233 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    1, 
+                    16, 
+                    5, 
+                    4, 
+                    25, 
+                    20, 
+                    13, 
+                    23, 
+                    9, 
+                    0
+                ], 
+                "keywords": [
+                    "boss", 
+                    "bbc", 
+                    "late", 
+                    "tv star", 
+                    "decades", 
+                    "sex abusers", 
+                    "'perversion", 
+                    "allegations", 
+                    "comments", 
+                    "attorneys", 
+                    "leaders", 
+                    "congress", 
+                    "news conference", 
+                    "cases", 
+                    "us", 
+                    "1,200", 
+                    "thousands of", 
+                    "allow", 
+                    "calling", 
+                    "audit", 
+                    "actually harbored", 
+                    "accusations", 
+                    "records", 
+                    "list", 
+                    "leaders", 
+                    "published"
+                ]
+            }, 
+            {
+                "ids": [
+                    21, 
+                    7, 
+                    3, 
+                    26, 
+                    18, 
+                    10, 
+                    19, 
+                    24, 
+                    15, 
+                    27
+                ], 
+                "keywords": [
+                    "cover-up", 
+                    "graphic", 
+                    "chilling", 
+                    "identifying suspected", 
+                    "mt", 
+                    "locals", 
+                    "worry", 
+                    "trove", 
+                    "points", 
+                    "helped cover", 
+                    "'perversion", 
+                    "leaders", 
+                    "the seattle times", 
+                    "local scouts", 
+                    "thousands", 
+                    "records", 
+                    "responds", 
+                    "contain", 
+                    "accounts", 
+                    "kept secret"
+                ]
+            }, 
+            {
+                "ids": [
+                    17, 
+                    29
+                ], 
+                "keywords": [
+                    "light way", 
+                    "banned", 
+                    "kansas", 
+                    "lagasse jr .", 
+                    "46", 
+                    "maine"
+                ]
+            }, 
+            {
+                "ids": [
+                    6, 
+                    8
+                ], 
+                "keywords": [
+                    "allegations", 
+                    "seen", 
+                    "warning", 
+                    "mt", 
+                    "sex abusers"
+                ]
+            }
+        ], 
+        "numTweets": 123, 
+        "sentences": [
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "release ; public", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P4", 
+                        "expansion": "confidential", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts secret abuse files are released", 
+                "sentenceExpansion": [
+                    "from 1965-1985", 
+                    "released 20 years of", 
+                    "by court order", 
+                    "release over 1000 secret", 
+                    "on leaders suspected of abuse released", 
+                    "over 1,200 'perversion", 
+                    "of documentation detailing sexual abuse", 
+                    "from records released", 
+                    "released today", 
+                    "reveal 23 mn boy scouts leaders accused", 
+                    "reveal decades of", 
+                    "reveal 90 maryland cases", 
+                    "on leaders banned after leaders being accused of leaders sexual/inappropriate conduct w/ boys", 
+                    "in oregon", 
+                    "attorneys releasing", 
+                    "released 14,500 pages of", 
+                    "reveal horrific details of sex abuse", 
+                    "include local cases", 
+                    "1200 files"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-17 21:46:46", 
+                "tweets": [
+                    258799755835101184, 
+                    258700812145016833, 
+                    259063103768104962, 
+                    259395866966777858, 
+                    258960871626252288, 
+                    259077984873496577, 
+                    259289646129872896, 
+                    258907583165911040, 
+                    258960355655548930, 
+                    259161585656934400, 
+                    259004911616946176, 
+                    258685511210786816, 
+                    259132477187186688, 
+                    259048926907338752, 
+                    259246906528645120, 
+                    259063779042656257, 
+                    258884015363354625, 
+                    259073824153296897, 
+                    259254565021573120, 
+                    259239717164425218, 
+                    259250396114079744, 
+                    258895591243915264, 
+                    259019294095069184, 
+                    259092962611445760, 
+                    259081348860481536, 
+                    259394243947274240, 
+                    259062193276997632, 
+                    259047362171899904, 
+                    258940717928415232, 
+                    259196910093615104, 
+                    259066622462029824, 
+                    259052311677116416, 
+                    259417924832477184, 
+                    259062247832305664, 
+                    259026386780581888, 
+                    258720307454554113, 
+                    259232138120015872, 
+                    259140333361848320, 
+                    258941875480829953, 
+                    259016102171009025, 
+                    258795112623116288, 
+                    259095164772036608, 
+                    259015536044822528, 
+                    259210768346652672, 
+                    258991489818955776, 
+                    259181643129044992, 
+                    259250060410376192, 
+                    258893490052796416, 
+                    258841904278564864, 
+                    259416163136724992, 
+                    259140115320934400, 
+                    259125594699227137, 
+                    259321862574718977, 
+                    259090421156827137, 
+                    259171542892691456, 
+                    259149258903658496, 
+                    259071747876352000, 
+                    259018421478490114, 
+                    258845259805650944, 
+                    258964566682251264, 
+                    259006362904850432, 
+                    259067381941420035, 
+                    258987689821470721, 
+                    258897537438740480, 
+                    258987702660243456, 
+                    258910200042508288, 
+                    259222872973799424, 
+                    259062319374557184, 
+                    259108074781028353, 
+                    258897038345900032, 
+                    259210956893208576, 
+                    258998754739363840, 
+                    258738175189590016
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "alleged child sex abusers", 
+                "sentenceExpansion": [
+                    "widespread sexual", 
+                    "by sexual predators", 
+                    "repeat minors"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-17 21:46:46", 
+                "tweets": [
+                    258891372017377280, 
+                    258799755835101184, 
+                    258700812145016833, 
+                    259063103768104962, 
+                    259019294095069184, 
+                    259250060410376192, 
+                    259140115320934400, 
+                    258970258478608384, 
+                    259161585656934400, 
+                    259163787955957760, 
+                    259004911616946176, 
+                    258685511210786816, 
+                    259081348860481536, 
+                    259048926907338752, 
+                    259394243947274240, 
+                    259012104835719168, 
+                    258893490052796416, 
+                    259016102171009025, 
+                    259254565021573120, 
+                    259239717164425218, 
+                    259125594699227137, 
+                    259094049238179840, 
+                    258895591243915264, 
+                    259395866966777858, 
+                    259092962611445760, 
+                    259065364376346627, 
+                    259246906528645120, 
+                    259019864486854656, 
+                    259052311677116416, 
+                    258940717928415232, 
+                    259105101132754944, 
+                    259066622462029824, 
+                    259095164772036608, 
+                    259178237291274240, 
+                    259062247832305664, 
+                    259062193276997632, 
+                    259140333361848320, 
+                    259017192849416192, 
+                    258941875480829953, 
+                    259047437900054528, 
+                    259073824153296897, 
+                    259177301697249280, 
+                    258795112623116288, 
+                    259196910093615104, 
+                    259062319374557184, 
+                    259210768346652672, 
+                    259063779042656257, 
+                    259181643129044992, 
+                    259077984873496577, 
+                    259027170989596672, 
+                    259250396114079744, 
+                    259090421156827137, 
+                    259313927211589633, 
+                    259244364683939840, 
+                    259071747876352000, 
+                    259149258903658496, 
+                    258964566682251264, 
+                    259413495869747201, 
+                    259006362904850432, 
+                    259067381941420035, 
+                    258987689821470721, 
+                    258897537438740480, 
+                    258987702660243456, 
+                    258998754739363840, 
+                    259108074781028353, 
+                    259059219846819840, 
+                    259315961390309376, 
+                    259104081879134209
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts announces changes to eagle reqs , boy scouts oath and law to be used in all programs", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-18 07:46:13", 
+                "tweets": [
+                    258836367700815873
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E10", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "boss comments on sexual abuse allegations against late tv star", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 11:24:47", 
+                "tweets": [
+                    258891372017377280
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E10", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "former bbc boss", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 11:24:47", 
+                "tweets": [
+                    258891372017377280
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P35", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "us boy scouts leaders", 
+                "sentenceExpansion": [
+                    "over 1000 boy scouts"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 11:47:18", 
+                "tweets": [
+                    259239717164425218, 
+                    259071747876352000, 
+                    259178237291274240, 
+                    258897038345900032
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E38", 
+                        "expansion": "anti-gay", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            9, 
+                            10
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts not only homophobic but boy scouts allow sexual abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 16:38:15", 
+                "tweets": [
+                    258970258478608384
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E40", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E40", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "attorneys calling on congress congress to audit boy scouts at news conference", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 18:02:38", 
+                "tweets": [
+                    258991489818955776
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E38", 
+                        "expansion": "anti-gay", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "homophobic boy scouts actually harbored", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 18:19:28", 
+                "tweets": [
+                    258995730499375105
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P68", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts sex abuse records", 
+                "sentenceExpansion": [
+                    "internal boy scouts"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 18:31:29", 
+                "tweets": [
+                    259177301697249280, 
+                    258998754739363840
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P13", 
+                        "expansion": "'perversion ' ; pervert", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts 'perversion files detailing thousands of cases of abuse", 
+                "sentenceExpansion": [
+                    "new files"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:24:32", 
+                "tweets": [
+                    259012104835719168, 
+                    259108074781028353, 
+                    259104081879134209
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E53", 
+                        "expansion": "sex abuser", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts published sex abusers list of 1,200 boy scouts leaders", 
+                "sentenceExpansion": [
+                    "publish evidence detailing decades of abuse"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:44:45", 
+                "tweets": [
+                    259094049238179840, 
+                    259017192849416192, 
+                    259294276897349632
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts files detail decades of abuse abuse accusations", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:55:22", 
+                "tweets": [
+                    259019864486854656, 
+                    259027170989596672
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            12, 
+                            13
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts discriminates against homosexuals as members but covers up years of sexual abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-18 21:44:56", 
+                "tweets": [
+                    259250396114079744, 
+                    259047437900054528, 
+                    259065364376346627
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            10, 
+                            11
+                        ]
+                    }
+                ], 
+                "sentence": "the cbs evening news leading tonight with the boy scouts sexual abuse scandal", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-18 22:31:45", 
+                "tweets": [
+                    259059219846819840
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P52", 
+                        "expansion": "cover-up", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "files trove points to coverup", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 22:56:10", 
+                "tweets": [
+                    259065364376346627
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "files detail abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 23:59:41", 
+                "tweets": [
+                    259081348860481536
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E51", 
+                        "expansion": "montana", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P13", 
+                        "expansion": "'perversion ' ; pervert", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "mt perversion files show locals helped cover up sexual abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 01:34:04", 
+                "tweets": [
+                    259105101132754944
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "files identifying thousands suspected of sex abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 03:53:12", 
+                "tweets": [
+                    259140115320934400
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "release ; public", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "released via the seattle times", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 05:58:05", 
+                "tweets": [
+                    259171542892691456
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P68", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "records worry local scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 06:20:58", 
+                "tweets": [
+                    259177301697249280
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P35", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "leaders kept abuse secret", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 06:24:41", 
+                "tweets": [
+                    259178237291274240
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "public", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts responds to release", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 06:38:13", 
+                "tweets": [
+                    259181643129044992
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "files contain chilling graphic accounts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 10:47:27", 
+                "tweets": [
+                    259244364683939840
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P4", 
+                        "expansion": "confidential", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P52", 
+                        "expansion": "coverup", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "secret boy scouts files show cover-up", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 11:11:25", 
+                "tweets": [
+                    259250396114079744
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            10, 
+                            11
+                        ]
+                    }
+                ], 
+                "sentence": "more than 1,200 boy scouts volunteers have been accused of sexual abuse 1965-1985", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 15:23:52", 
+                "tweets": [
+                    259313927211589633
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters ; sex abuse", 
+                        "tokens": [
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E1", 
+                        "expansion": "document", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "46 banned by boy scouts in maine over abuse files show", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 15:31:57", 
+                "tweets": [
+                    259315961390309376
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "lagasse jr . will light the way for boy scouts in kansas", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 18:15:39", 
+                "tweets": [
+                    259357157659643904
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E56", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E56", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E38", 
+                        "expansion": "anti-gay", 
+                        "tokens": [
+                            10
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            11, 
+                            12
+                        ]
+                    }
+                ], 
+                "sentence": "petition for ups to end the ups corporate donations to homophobic boy scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 20:02:43", 
+                "tweets": [
+                    259384102116012032
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E0", 
+                        "expansion": "scout ; the boy scouts of america", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P0", 
+                        "expansion": "molesters", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E51", 
+                        "expansion": "montana", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "boy scouts sex abuse allegations in mt", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 21:59:31", 
+                "tweets": [
+                    259413495869747201
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "public", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P6", 
+                        "expansion": "public", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E53", 
+                        "expansion": "sex abuser", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "release seen as release warning to sex abusers", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 22:10:07", 
+                "tweets": [
+                    259416163136724992
+                ]
+            }
+        ], 
+        "title": "Boy_scouts"
+    }
+}

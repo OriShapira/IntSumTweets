@@ -1,0 +1,1770 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    3, 
+                    46, 
+                    54, 
+                    34, 
+                    9, 
+                    50, 
+                    15, 
+                    51, 
+                    24, 
+                    26
+                ], 
+                "keywords": [
+                    "buddhist-muslim", 
+                    "violence", 
+                    "monday", 
+                    "7", 
+                    "wa", 
+                    "reignites", 
+                    "removal", 
+                    "new", 
+                    "statement", 
+                    "5", 
+                    "clashes", 
+                    "divide", 
+                    "deepens", 
+                    "unrest", 
+                    "curfew", 
+                    "imposes", 
+                    "floating", 
+                    "dead", 
+                    "river", 
+                    "dead fish", 
+                    "now", 
+                    "pak taw township", 
+                    "overnight", 
+                    "steps", 
+                    "kill", 
+                    "clashes", 
+                    "security", 
+                    "issue", 
+                    "students", 
+                    "villages", 
+                    "spread 's", 
+                    "uncertain", 
+                    "security"
+                ]
+            }, 
+            {
+                "ids": [
+                    22, 
+                    7, 
+                    32, 
+                    40
+                ], 
+                "keywords": [
+                    "56", 
+                    "burned", 
+                    "amid die", 
+                    "dead", 
+                    "homes", 
+                    "'many", 
+                    "clashes", 
+                    "killed", 
+                    "raping killing"
+                ]
+            }, 
+            {
+                "ids": [
+                    1, 
+                    45, 
+                    10, 
+                    48, 
+                    47, 
+                    52, 
+                    29, 
+                    30, 
+                    2
+                ], 
+                "keywords": [
+                    "sunday", 
+                    "56", 
+                    "violence", 
+                    "winner", 
+                    "noble peace prize", 
+                    "ask", 
+                    "56+ people", 
+                    "homes", 
+                    "death toll", 
+                    "burned", 
+                    "clashes", 
+                    "killed", 
+                    "torched", 
+                    "killed", 
+                    "thousands of homes", 
+                    "official", 
+                    "dead", 
+                    "torched", 
+                    "scores", 
+                    "die", 
+                    "says", 
+                    "refuse", 
+                    "notice"
+                ]
+            }, 
+            {
+                "ids": [
+                    5, 
+                    43, 
+                    12, 
+                    14, 
+                    39
+                ], 
+                "keywords": [
+                    "wave", 
+                    "killed", 
+                    "wounded", 
+                    "rises", 
+                    "unprecedented", 
+                    "rallied", 
+                    "death toll", 
+                    "hundreds of students", 
+                    "university", 
+                    "at least 112 people", 
+                    "scores more"
+                ]
+            }, 
+            {
+                "ids": [
+                    38, 
+                    44, 
+                    8, 
+                    16, 
+                    42, 
+                    53, 
+                    28, 
+                    31, 
+                    20, 
+                    33
+                ], 
+                "keywords": [
+                    "burnings", 
+                    "cleansing", 
+                    "latest news", 
+                    "images", 
+                    "mass", 
+                    "thousands", 
+                    "discrimination", 
+                    "bbc news", 
+                    "die", 
+                    "deaths", 
+                    "stop", 
+                    "failing", 
+                    "accuse", 
+                    "dozens", 
+                    "endemic", 
+                    "clashes", 
+                    "captures", 
+                    "'destruction'", 
+                    ": vanished'", 
+                    "displaced", 
+                    "campaigners", 
+                    "neighbourhood", 
+                    "'entire", 
+                    "'show"
+                ]
+            }, 
+            {
+                "ids": [
+                    27, 
+                    13, 
+                    4, 
+                    0, 
+                    49, 
+                    11, 
+                    36, 
+                    17, 
+                    37, 
+                    25
+                ], 
+                "keywords": [
+                    "'destruction'", 
+                    "violence", 
+                    "deadly", 
+                    "clashes", 
+                    "bangladesh", 
+                    "targeted", 
+                    "welcome", 
+                    "population", 
+                    "'s", 
+                    "admits", 
+                    "wave", 
+                    "admits", 
+                    "exodus", 
+                    "'s leader", 
+                    "attacks", 
+                    "anti-muslim", 
+                    "massacring", 
+                    "acknowledges", 
+                    "flares", 
+                    "anguish"
+                ]
+            }
+        ], 
+        "numTweets": 78, 
+        "sentences": [
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence ; clashes", 
+                        "tokens": [
+                            1, 
+                            2, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E83", 
+                        "expansion": "communal", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E88", 
+                        "expansion": "=rakhine region", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "ethnic clashes in burma 's rakhine", 
+                "sentenceExpansion": [
+                    "new ethnic", 
+                    "buddhists in", 
+                    "violent burma", 
+                    "latest ethnic", 
+                    "china buddhists", 
+                    "between muslims"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-24 23:37:22", 
+                "tweets": [
+                    262234765002932224, 
+                    261736557185208320, 
+                    262132524459884544, 
+                    261522446232993792, 
+                    262079437225488384, 
+                    261819549660364801, 
+                    261250060011057152, 
+                    261495665635504128, 
+                    262120612686872576, 
+                    262219568997625856, 
+                    261493757315272705, 
+                    261724142154424320, 
+                    261750851280977920, 
+                    261600842099064832, 
+                    261640566427758592, 
+                    261495577655787521, 
+                    261558626563526656, 
+                    261500270842871808, 
+                    262043026610855936, 
+                    261562799623385088
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E88", 
+                        "expansion": "=rakhine region", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "burma imposes overnight curfew in rakhine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 00:40:42", 
+                "tweets": [
+                    261265998236229633
+                ]
+            }, 
+            {
+                "id": 46, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E112", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "unrest again as buddhist-muslim divide deepens", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 00:40:42", 
+                "tweets": [
+                    261265998236229633
+                ]
+            }, 
+            {
+                "id": 54, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "rohingya floating in the river as dead fish", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 00:43:34", 
+                "tweets": [
+                    261266719396478976
+                ]
+            }, 
+            {
+                "id": 34, 
+                "pressableTokens": [], 
+                "sentence": "security in pak taw township now uncertain", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 05:22:29", 
+                "tweets": [
+                    261336911380086784
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E106", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "burma steps up burma security after sectarian clashes kill 7", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 07:39:07", 
+                "tweets": [
+                    261371295994892288
+                ]
+            }, 
+            {
+                "id": 50, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "students call for removal of rohingya villages", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 10:15:43", 
+                "tweets": [
+                    261410705771728896
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P64", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E112", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E104", 
+                        "expansion": "western myanmar", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "new buddhist-muslim violence in western burma", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 10:42:28", 
+                "tweets": [
+                    261706354069225472, 
+                    261718244929458176, 
+                    261417437688373248
+                ]
+            }, 
+            {
+                "id": 51, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P64", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "5 dead as violence reignites", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 10:42:28", 
+                "tweets": [
+                    261417437688373248
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [], 
+                "sentence": "wa to issue statement on monday", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 13:34:44", 
+                "tweets": [
+                    261460790186483712
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "violence ; clash", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E88", 
+                        "expansion": "=rakhine region", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "clashes spread in burma 's rakhine", 
+                "sentenceExpansion": [
+                    "'s arakan state"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 13:49:31", 
+                "tweets": [
+                    261600842099064832, 
+                    261464510462844928, 
+                    261819549660364801
+                ]
+            }, 
+            {
+                "id": 35, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E124", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E106", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "un gravely concerned about resurgence of sectarian violence in burma 's arakan state", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-25 13:49:31", 
+                "tweets": [
+                    261464510462844928
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "clash", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "'many killed in violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 15:45:44", 
+                "tweets": [
+                    261493757315272705, 
+                    261562799623385088
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E103", 
+                        "expansion": "buddhist", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "buddhists and muslims raping and killing each other", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 15:47:25", 
+                "tweets": [
+                    261494180793159680
+                ]
+            }, 
+            {
+                "id": 32, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence ; clashes", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E119", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E101", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "amid tension 56 die in burned homes in burma", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 15:52:58", 
+                "tweets": [
+                    261495577655787521, 
+                    261495665635504128
+                ]
+            }, 
+            {
+                "id": 40, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E119", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "clashes", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "56 dead in violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 16:11:37", 
+                "tweets": [
+                    261500270842871808
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E103", 
+                        "expansion": "buddhist", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E98", 
+                        "tokens": [
+                            2, 
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "fighting between rohingya muslims and buddhists continues for a 5th day in burma , hundreds of homes burn", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-25 16:20:33", 
+                "tweets": [
+                    261502519149215744
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E119", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "clashes", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "burma official says 56 dead in violence", 
+                "sentenceExpansion": [
+                    "says almost 2,000 houses torched in violence"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 17:39:44", 
+                "tweets": [
+                    261522446232993792
+                ]
+            }, 
+            {
+                "id": 45, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "violence ; clash", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E119", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "clashes death toll at 56", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 20:03:30", 
+                "tweets": [
+                    261558626563526656
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "noble peace prize winner ask", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 20:20:05", 
+                "tweets": [
+                    261562799623385088
+                ]
+            }, 
+            {
+                "id": 48, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P21", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P21", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "winner refuse muslims are being killed winner to take notice", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 20:20:05", 
+                "tweets": [
+                    261562799623385088
+                ]
+            }, 
+            {
+                "id": 47, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E97", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence ; clashes", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "56+ people killed since sunday in clashes 's", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 22:51:15", 
+                "tweets": [
+                    261718244929458176, 
+                    261600842099064832, 
+                    261819549660364801
+                ]
+            }, 
+            {
+                "id": 52, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E98", 
+                        "tokens": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E97", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence ; clashes", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "hundreds of homes torched since sunday in clashes 's", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-25 22:51:15", 
+                "tweets": [
+                    261600842099064832, 
+                    261819549660364801
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E100", 
+                        "expansion": "minority", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E101", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "in burma muslims their burned out of homes", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 04:16:17", 
+                "tweets": [
+                    261682639340175361
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P64", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "scores die in violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 05:50:31", 
+                "tweets": [
+                    261706354069225472
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P64", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "thousands of homes torched in violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 06:37:46", 
+                "tweets": [
+                    261718244929458176
+                ]
+            }, 
+            {
+                "id": 41, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E124", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E100", 
+                        "expansion": "minority", 
+                        "tokens": [
+                            10
+                        ]
+                    }
+                ], 
+                "sentence": "according to un rohingya are one of the most persecuted their in the world", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-26 06:45:16", 
+                "tweets": [
+                    261720132303335424
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E103", 
+                        "expansion": "buddhist", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "hundreds of students buddhists university rallied against rohingya against muslims", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 06:49:33", 
+                "tweets": [
+                    261721210117828608
+                ]
+            }, 
+            {
+                "id": 43, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "burma death toll rises in clashes", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 07:01:12", 
+                "tweets": [
+                    261724142154424320, 
+                    261736557185208320
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P107", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "at least 112 people killed in wave", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 08:47:20", 
+                "tweets": [
+                    261750851280977920
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P107", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "clashes", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "unprecedented wave of violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 08:47:20", 
+                "tweets": [
+                    262234765002932224, 
+                    261750851280977920
+                ]
+            }, 
+            {
+                "id": 39, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P107", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "scores more wounded in wave", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 08:47:20", 
+                "tweets": [
+                    261750851280977920
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E106", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E104", 
+                        "expansion": "western myanmar", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "the ongoing sectarian unrest in western burma kills almost hundred of muslims", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-26 09:04:44", 
+                "tweets": [
+                    261755230327279616
+                ]
+            }, 
+            {
+                "id": 38, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "endemic discrimination in burma", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 10:05:44", 
+                "tweets": [
+                    261770581190520833
+                ]
+            }, 
+            {
+                "id": 44, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "campaigners accuse burma of burma failing burma to stop deaths", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 23:20:55", 
+                "tweets": [
+                    261970695905501184
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P28", 
+                        "expansion": "'s cleansing", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E83", 
+                        "expansion": "communal", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "ethnic cleansing in burma", 
+                "sentenceExpansion": [
+                    "of rohingya muslims"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 02:44:28", 
+                "tweets": [
+                    262233426894135296, 
+                    262276770810712064, 
+                    262021920634048513
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E78", 
+                        "expansion": "burma rights", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E79", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P28", 
+                        "expansion": "cleansing", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E90", 
+                        "expansion": "satellite imagery ; satellite reporting", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "myanmar rights group captures 's cleansing by satellite images", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 02:44:28", 
+                "tweets": [
+                    262021920634048513
+                ]
+            }, 
+            {
+                "id": 42, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "violence", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "dozens die as clash", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 04:08:20", 
+                "tweets": [
+                    262043026610855936
+                ]
+            }, 
+            {
+                "id": 53, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P24", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "mass burnings", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 04:49:04", 
+                "tweets": [
+                    262053277355614209, 
+                    262053734534750208, 
+                    262242474121101312, 
+                    262131987714805760
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P24", 
+                        "expansion": "burnings", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "bbc news latest news burma images 'show burnings'", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 04:50:53", 
+                "tweets": [
+                    262053734534750208
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E89", 
+                        "expansion": "human rights watch", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E90", 
+                        "expansion": "satellite imagery ; satellite reporting", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P9", 
+                        "expansion": "destruction", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "hrw satellite images 'show destruction'", 
+                "sentenceExpansion": [
+                    "showing rohingya home burnings", 
+                    "from burma showing"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 05:19:36", 
+                "tweets": [
+                    262194596103196672, 
+                    262108155591401473, 
+                    262073569461288960, 
+                    262060961383448576
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "clashes", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "thousands displaced by violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 06:33:01", 
+                "tweets": [
+                    262079437225488384
+                ]
+            }, 
+            {
+                "id": 33, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "burma : 'entire neighbourhood vanished'", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 09:06:04", 
+                "tweets": [
+                    262117953737224193
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E89", 
+                        "expansion": "human rights watch", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E90", 
+                        "expansion": "satellite imagery ; satellite reporting", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P5", 
+                        "expansion": "violence ; clashes", 
+                        "tokens": [
+                            10
+                        ]
+                    }
+                ], 
+                "sentence": "hrw satellite images of destruction in one town hit by fighting", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 09:16:38", 
+                "tweets": [
+                    262120612686872576
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E78", 
+                        "expansion": "burma rights", 
+                        "tokens": [
+                            9, 
+                            10
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E79", 
+                        "tokens": [
+                            11
+                        ]
+                    }
+                ], 
+                "sentence": "latest news : muslims rohingya under vicious attack in myanmar rights group", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 09:26:44", 
+                "tweets": [
+                    262123154665775104
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "violence ; clash", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "muslims rohingya exodus after clashes", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 10:03:58", 
+                "tweets": [
+                    262132524459884544
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E90", 
+                        "expansion": "satellite imagery ; satellite reporting", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P9", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "burma satellite images show destruction", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 14:47:11", 
+                "tweets": [
+                    262203798573965312
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P15", 
+                        "expansion": "clash", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "anguish in burma as violence flares", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 15:49:51", 
+                "tweets": [
+                    262219568997625856
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P12", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E82", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "deadly anti-muslim violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 16:04:36", 
+                "tweets": [
+                    262223280772091905
+                ]
+            }, 
+            {
+                "id": 49, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P12", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "burma acknowledges violence", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 16:04:36", 
+                "tweets": [
+                    262223280772091905
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P9", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "burma admits destruction", 
+                "sentenceExpansion": [
+                    "burma president admits", 
+                    "admits cleansing", 
+                    "gov admits"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 16:14:58", 
+                "tweets": [
+                    262226170832093184, 
+                    262233426894135296, 
+                    262276770810712064, 
+                    262225889809547264
+                ]
+            }, 
+            {
+                "id": 36, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P107", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "wave has targeted burma 's rohingya muslims population", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 16:50:14", 
+                "tweets": [
+                    262234765002932224
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E82", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "burma 's leader admits deadly attacks on muslims", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 16:52:01", 
+                "tweets": [
+                    262235213579579395
+                ]
+            }, 
+            {
+                "id": 37, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E103", 
+                        "expansion": "buddhist", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E76", 
+                        "expansion": "muslim", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E81", 
+                        "expansion": "country ; =burma ; myanmar", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "buddhists are massacring muslims in burma", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 19:03:25", 
+                "tweets": [
+                    262268281640067074
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E75", 
+                        "expansion": "the rohingya people", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "rohingya not welcome in bangladesh", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 22:54:48", 
+                "tweets": [
+                    262326510952804352
+                ]
+            }
+        ], 
+        "title": "Burma"
+    }
+}

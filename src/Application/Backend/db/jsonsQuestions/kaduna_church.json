@@ -1,0 +1,16 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"In what city did the event occur?"},
+    {"id":1, "text":"What building was attacked?"},
+    {"id":2, "text":"What was happening in the attacked building during the attack?"},
+    {"id":3, "text":"What kind of attack occurred?"},
+    {"id":4, "text":"How was the attack carried out?"},
+    {"id":5, "text":"How many attackers were there?"},
+    {"id":6, "text":"What organization was behind the attack?"},
+    {"id":7, "text":"How many victims were killed in the attack?"},
+    {"id":8, "text":"How many victims were wounded in the attack?"},
+    {"id":9, "text":"Who condemned the attack?"},
+    {"id":10, "text":"What response was there to the attack by civilians?"},
+    {"id":11, "text":"What did police do after the attack?"}
+  ]
+}}

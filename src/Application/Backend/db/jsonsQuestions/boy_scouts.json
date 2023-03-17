@@ -1,0 +1,14 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"In which country were the Boy Scouts files released?"},
+    {"id":1, "text":"Who released the Boy Scouts files?"},
+    {"id":2, "text":"How many scout volunteers have been accused of sexual abuse?"},
+    {"id":3, "text":"How many cases revealed in Maryland?"},
+    {"id":4, "text":"How many pages of documentation released?"},
+    {"id":5, "text":"Which years are the files from?"},
+    {"id":6, "text":"How many banned by Boy Scouts in Maine over abuse?"},
+    {"id":7, "text":"How many MN scout leaders accused?"},
+    {"id":8, "text":"How are the Boy Scouts files referred?"},
+    {"id":9, "text":"How are the Boy Scouts files classified?"}
+  ]
+}}

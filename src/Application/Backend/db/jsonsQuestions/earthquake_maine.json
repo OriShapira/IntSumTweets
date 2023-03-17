@@ -1,0 +1,15 @@
+{"questionsScreenInput": {
+  "questions": [
+    {"id":0, "text":"What was the magnitude of the Earthquake?"},
+    {"id":1, "text":"Which state was hit by the Earthquake?"},
+    {"id":2, "text":"Which city was near the center of the Earthquake?"},
+    {"id":3, "text":"When was the Earthquake?"},
+    {"id":4, "text":"Was the Earthquake felt at Boston?"},
+    {"id":5, "text":"Was the Earthquake felt at Washington?"},
+    {"id":6, "text":"How far was the epicenter of the earthquake from Boston?"},
+    {"id":7, "text":"What Lake was near the earthquake center?"},
+    {"id":8, "text":"What was the depth of the earthquake?"},
+    {"id":9, "text":"Write down all places reported feeling the earthquake."},
+    {"id":10, "text":"How many people were injured?"}
+  ]
+}}
