@@ -1,0 +1,42 @@
+<!-- timer-bar -->
+<div class="bar" style="background: #cccccc; top:64px; position: fixed; z-index: 1000">
+    <div class="bar timer bar-timer" id="barIdTest"></div>
+</div>
+<!-- end -->
+
+<!-- The confirmation dialog for when clicking 'next' -->
+<div class="modal">
+  <div class="modal-content">
+    <div class="message"></div>
+    <div class="modal-buttons">
+      <span class="button yes">Yes</span>
+      <span class="button no">No</span>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-12" style="position: relative;height: 80vh;" ng-if="finish">
+    <div class="col-md-3 absolut-center">
+        <p class="thank">Time is up!</p>
+        <button class="big-btn" ng-click="next(false)">Next Task</button>
+    </div>    
+</div>
+<!--div class="container test"  ng-if="!finish" style="position: relative; padding-top: 85px; padding-bottom:60%;"-->
+<div class="container test"  ng-if="!finish" style="position: relative; padding-top: 85px;">
+    <div ng-if="needDirections" style="color: darkred; text-shadow: 1px 0px 10px black; font-size: medium; margin-bottom: 10px;">
+      Questions: Please answer the questions about the previously read event and click 'Next Task' when finished.
+    </div>
+    <div class="col-md-offset-2  col-md-8 " >
+        <!--div class="col-md-12 " style="height: calc(100vh - 80px);padding-right: 40px;padding-bottom: 40px;"  -->
+        <div class="col-md-12 " >
+            <h2>Questions</h2>
+            <div class="qtn" ng-repeat="question in questions">
+                <label>{{question.text}}</label>
+                <input type="text" placeholder="Text" ng-init="output.currentScreenOutput.screenObj1.questionsScreenOutput.answers[$index].id=$index;output.currentScreenOutput.screenObj1.questionsScreenOutput.answers[$index].text=''" ng-model="output.currentScreenOutput.screenObj1.questionsScreenOutput.answers[$index].text" />
+            </div>
+        </div>
+        <button class=" float-right" ng-if="!finish" ng-click="nextOnConfirm(true)">Next Task</button>
+        <div style="clear:both;"></div>
+    
+    </div>
+</div>

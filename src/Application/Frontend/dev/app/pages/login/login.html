@@ -1,0 +1,55 @@
+<style>
+	input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+
+
+</style>
+<div class="login divLine">
+  
+  <div class="col-xs-6" style="top:175px;position: relative;"> <!--padding-top: 100px;-->
+    <h3 style="text-align: center;">Demo Event Summaries</h3>
+    <div style="text-align: center;padding-top: 40px;">
+      <p><a ng-click="openDemo('Hurricane_sandy');" style="cursor: pointer;font-size: 18px;">Hurricane Sandy</a></p>
+      <p><a ng-click="openDemo('Kaduna_church');" style="cursor: pointer;font-size: 18px;">Kaduna Church</a></p>
+      <p><a ng-click="openDemo('Burma');" style="cursor: pointer;font-size: 18px;">Burma Tension</a></p>
+      <p><a ng-click="openDemo('Earthquake_maine');" style="cursor: pointer;font-size: 18px;">Maine Earthquake</a></p>
+      <p><a ng-click="openDemo('Cyclone');" style="cursor: pointer;font-size: 18px;">India Cyclone</a></p>
+      <p><a ng-click="openDemo('Wisconsin_shooting');" style="cursor: pointer;font-size: 18px;">Wisconsin Shooting</a></p>
+    </div>
+    <div style="text-align: center;padding-top: 40px;">
+      <p style="cursor: pointer;font-size: 12px;">Please note: this application currently works best on screens larger than 7 inches.</a></p>
+    </div>
+    
+    <!--table style="width:400px;margin-left: calc(50% - 200px);text-align: center;margin-top:20px;">
+      <tr>
+        <td><a ng-click="openDemo('Burma');" style="cursor: pointer;">Burma Tension</a></td>
+        <td><a ng-click="openDemo('Cyclone');" style="cursor: pointer;">India Cyclone</a></td>
+      </tr>
+      <tr>
+        <td><a ng-click="openDemo('Earthquake_maine');" style="cursor: pointer;">Maine Earthquake</a></td>
+        <td><a ng-click="openDemo('Hurricane_sandy');" style="cursor: pointer;">Hurricane Sandy</a></td>
+      </tr>
+      <tr>
+        <td><a ng-click="openDemo('Kaduna_church');" style="cursor: pointer;">Kaduna Church</a></td>
+        <td><a ng-click="openDemo('Wisconsin_shooting');" style="cursor: pointer;">Wisconsin Shooting</a></td>
+      </tr>
+    </table-->
+    <!--p style="padding-top: 5px;"><a ng-click="openDemo('Eval');">Evaluation Demo</a></p-->
+  </div>
+  
+  <div class="col-xs-6" style="top:125px;"><!-- class="col-md-3 absolut-center"-->
+    <div class="demos"> <!--style="padding-top:500px;"-->
+      <div>
+        <h3 style="text-align:center">Evaluation Login</h3>
+        <label>Username</label>
+        <input type="text" id="usernameField" style="width:66%;" ng-model="signInScreenOutput.user"/>
+        <label>Password</label>
+        <input type="password" style="width:66%;" ng-model="signInScreenOutput.password"/>
+        <button class="big-btn" style="width:66%;" ng-click="login()">Log in</button>
+        <!-- <div id="d"></div> -->
+      </div>
+    </div>
+  </div>
+  
+</div>

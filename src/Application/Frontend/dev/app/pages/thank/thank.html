@@ -1,0 +1,14 @@
+<div class=" login " style="height: 110vh; padding-top: 120px;">
+	<div class="col-md-3 absolut-center center">
+        <img class="like" src="assets/img/end.png" />
+        <p class="thank">{{finishScreenInput.message?finishScreenInput.message:finishScreenInput.goodbye}}</p><!-- Thank you! -->
+        <p class="complete" ng-if="!finishScreenInput.goodbye&&finishScreenInput.studyNumFinished">You have completed task <span>{{finishScreenInput.studyNumFinished}}</span> out of <span>{{finishScreenInput.numStudiesTotal}}</span></p>
+        <button ng-show="!finishScreenInput.goodbye&&finishScreenInput.studyNumFinished&&finishScreenInput.studyNumFinished!=finishScreenInput.numStudiesTotal" class="" ng-click="next()">Next task</button>
+
+        <div class="qtn" ng-if="!finishScreenInput.goodbye&&finishScreenInput.studyNumFinished&&finishScreenInput.studyNumFinished==finishScreenInput.numStudiesTotal">
+			<label>Want to give us feedback?</label>
+			<textarea class="feedback" ng-model="$parent.feedbackmsg"></textarea>
+			<button ng-click="$parent.finish()" class="big-btn" style="height:35px;margin-bottom: 100px;">Send feedback</button>
+        </div>		
+    </div>
+</div>

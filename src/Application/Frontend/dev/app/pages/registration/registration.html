@@ -1,0 +1,61 @@
+<div class=" login container" style="padding-top: 80px;">
+<div class="row">
+	<div class="col-md-4 ">
+		<div class="col-md-12">
+		<h2 class="title">Personal Information</h2>
+		</div>
+
+		<div class="col-md-6">
+			<label>Age</label>
+			<input type="number" id="ageField" min="0" max="120" ng-model="registrationScreenOutput.userInfo.age" ng-class="{'error':submitted&&!registrationScreenOutput.userInfo.age}"/>
+		</div>
+		<div class="col-md-6">
+			<label>Gender</label>
+			<!-- <input type="text"  ng-model="registrationScreenOutput.userInfo.gender" ng-class="{'error':submitted&&!registrationScreenOutput.userInfo.gender}"/> -->
+			<select style="height:50px;padding:10px;font-size:18px;width:100%;" ng-init="registrationScreenOutput.userInfo.gender='m'"  ng-model="registrationScreenOutput.userInfo.gender" ng-class="{'error':submitted&&!registrationScreenOutput.userInfo.gender}">
+			  <option value="m">Male</option>
+			  <option value="f">Female</option>
+			</select>
+		</div>
+		
+		<div class="col-md-12">
+			<label>Education</label>
+			<input type="text" ng-model="registrationScreenOutput.userInfo.education" ng-class="{'error':submitted&&!registrationScreenOutput.userInfo.education}"/>
+		</div>
+		<div class="col-md-12">
+			<label>Occupation</label>
+			<input type="text" ng-model="registrationScreenOutput.userInfo.occupation" ng-class="{'error':submitted&&!registrationScreenOutput.userInfo.occupation}"/>
+		</div>
+	</div>
+</div>
+
+<div class="">
+	<div class="col-md-12">
+		<h2 class="title">Consent form</h2>
+		</div>
+		<div class="col-md-12">
+			<p>
+			{{metaData}}
+			</p>
+		</div>
+		
+		<div class="col-md-12">
+		
+		<input type="checkbox" ng-checked="registrationScreenOutput.userInfo.agreementAccepted" ng-click="registrationScreenOutput.userInfo.agreementAccepted=!registrationScreenOutput.userInfo.agreementAccepted"/>
+		<label class="agree">I agree</label>
+		</div>
+
+	</div>
+	<div class="col-md-offset-8 col-md-4">
+	<button class="big-btn" ng-click="submitted=true&&
+									  (!registrationScreenOutput.userInfo.age||
+									   !registrationScreenOutput.userInfo.gender||
+									   !registrationScreenOutput.userInfo.education||
+									   !registrationScreenOutput.userInfo.occupation||
+									   registrationScreenOutput.userInfo.agreementAccepted=='false'||
+									   !registrationScreenOutput.userInfo.agreementAccepted||
+									   start())">Start</button>
+	</div>
+	
+</div>
+

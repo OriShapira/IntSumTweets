@@ -1,0 +1,244 @@
+<!-- timer-bar -->
+<div class="bar" style="background: #cccccc; top:64px; position: fixed; z-index: 1000">
+    <div class="bar timer bar-timer" id="barIdInfo"></div>
+</div>
+<!-- end -->
+
+<!-- The confirmation dialog for when clicking 'next' -->
+<div class="modal">
+  <div class="modal-content">
+    <div class="message"></div>
+    <div class="modal-buttons">
+      <span class="button yes">Yes</span>
+      <span class="button no">No</span>
+    </div>
+  </div>
+</div>
+
+<!-- Using col-xs in general in order for the right part not to go under the left when thinning the screen (for responsiveness). -->
+<div class="col-xs-12" style="position: relative;height: 80vh;" ng-if="finish">
+    <div class="col-xs-3 absolut-center">
+        <p class="thank">Time is up!</p>
+        <button class="big-btn" ng-click="nextTask(false)">Next Task</button>
+    </div>
+</div>
+<div class="container" style="position: relative; padding-top: 85px; padding-bottom:100px;"  ng-if="!finish">
+    <div ng-if="needDirections" style="color: darkred; text-shadow: 1px 0px 10px black; font-size: medium; margin-bottom: 10px;">
+      OKR: Please read about the event thoroughly and click 'Next Task' when finished.
+      <br>
+      You will be asked questions about the event on the next page.
+    </div>
+    <h1 class="inline" style="width:calc(100% - 200px);">{{dynamicStoryScreenInput.title}}</h1>
+    <h2 class="inline" style="width:calc(100% - 200px);">Event Summary of {{dynamicStoryScreenInput.numTweets}} Tweets</h2>
+
+    <div class="time-line">
+        <img src="assets/img/clock.png" />
+        <p style="margin-top: -25px; margin-left: 25px;">Timeline</p>
+    </div>
+    <div class="all-cards">
+        <div ng-repeat="sentence in sentences">
+            <!-- opened cards -->
+            <div style="position: relative;" ng-if="sentence[0].showOnInit">
+                <div class="card" ng-repeat="s in sentence" style="display: block;">
+                    <table class="information big-card" style="table-layout:fixed; width: 100%; ">
+                        <tr class="">
+                            <td class="hirrarchy myTooltipHierarchy">
+                              <span class="myTooltiptextSideways">
+                                <span>More informative</span>
+                              </span>
+                            </td>
+                            <td class="date">
+                                <p class="no-margin">
+                                    {{s.timestamp | stringToDate | date :"dd.MM.yy"}}    <!-- 16.08.13 -->
+                                </p>
+                                <p class="no-margin time">
+                                    {{s.timestamp | stringToDate | date :"HH:mm"}}    <!-- 14:44 -->
+                                </p>
+                            </td>
+                            <td class="tweetsSource" align="center">
+                                <div class="show-tooltip">
+                                    <i class="fa fa-twitter twitter-icn" aria-hidden="true"></i>
+                                    <div class="twitters-tooltip scrollbar"  id="style-3">
+                                        <div class="twitt-origin" ng-repeat="x in s.tweets">
+                                            <div class="contain-img">
+                                                <img src="assets/img/tweetBird.png" />
+                                            </div>
+                                            <div class="twitt-text"  ng-init="index=(initObj.tweetsSet.tweets|getByIdOptionFilter:x)!=-1?(initObj.tweetsSet.tweets|getByIdOptionFilter:x):0">
+                                                <p class="inline">
+                                                    <span>{{initObj.tweetsSet.tweets[index].twitterUser}}</span>
+                                                </p>
+                                                <p class="inline float-right">
+                                                    {{initObj.tweetsSet.tweets[index].timestamp | stringToDate | date :"dd.MM.yy  HH:mm"}}
+                                                </p>
+                                                <p class="no-margin">
+                                                    {{initObj.tweetsSet.tweets[index].text}}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="no-margin">
+                                    <span>{{s.tweets.length}}</span> Tweets
+                                </p>
+                            </td>
+                            <td class="summary">
+                                <h3 class=" no-margin news" style="word-wrap: break-word">
+                                    <span ng-repeat="word in s.sentencesarr  track by $index"
+                                      ng-class="{'bold':(word.item && compare(item,word.item)),'dot':(bolds[$parent.$parent.$index][$parent.$index][$index]==true), 'dict-tooltip':(word.item)}"
+                                      ng-style="{'color':word.item?'#bf0636':'', 'cursor':word.item?'pointer':'auto'}"
+                                      ng-click="pressToken($parent.$parent.$index,$parent.$index,$index,word)">
+                                      {{word.word}}&nbsp;
+                                      <span ng-if="word.dictDesc" class="dict-tooltipText">
+                                        <p class="dictionary-onTooltip">
+                                          <span class="span">{{word.dictName}}:</span>
+                                          <span>{{word.dictDesc}}</span>
+                                        </p>
+                                      </span>
+                                    </span>
+                                </h3>
+                            </td>
+                            <td class="details" ng-if="s.sentenceExpansion.length > 0">
+                                <button class="details tooltipSentenceExpansion">
+                                    More Details
+                                    <span class="tooltipSentenceExpansionText">
+                                      <p ng-repeat="expansion in s.sentenceExpansion" >
+                                        <span>{{expansion}}{{$last ? '' : ', '}}</span>
+                                      </p>
+                                    </span>
+                                </button>
+                                
+                                <!--button class="details" data-toggle="collapse" data-target="#demo{{s.id}}" ng-click="sentence.percent[$index]=!sentence.percent[$index];percentCalc(s.scoreExtraInfo,sentence.percent[$index])"-->
+                                <!--button class="details tooltipSentenceExpansion" data-toggle="collapse" data-target="#demo{{s.id}}">
+                                    Extra <i class="fa fa-caret-down" aria-hidden="true"></i>
+                                    <span class="tooltipSentenceExpansionText">
+                                      <p ng-repeat="expansion in s.sentenceExpansion" >
+                                        <span>{{expansion}}{{$last ? '' : ', '}}</span>
+                                      </p>
+                                    </span>
+                                </button>
+                                <div id="demo{{s.id}}" class="collapse">
+                                    <p class="dictionary" ng-repeat="expansion in s.sentenceExpansion" >
+                                        <span>{{expansion}}{{$last ? '' : ', '}}</span>
+                                    </p>
+                                </div-->
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            
+            <!-- closed cards -->
+            <div class="all-close" style="position: relative;" ng-if="!(sentence[0].showOnInit)">
+                <!--div class="card close-card close-card{{$parent.$index}}"  ng-repeat="s in sentence" -->
+                <div class="card close-card{{$parent.$index}}" style="margin:0px 0px -10px 0" ng-repeat="s in sentence" >
+                    <div class="status-strip status-strip{{$parent.$index}} myTooltipHierarchy">
+                      <span class="myTooltiptextSidewaysClosedCard">
+                        <span>Less informative</span>
+                      </span>
+                    </div>
+                    <table class="information small-card" style="table-layout:fixed; width: 100%;display:none;">
+                        <tr>
+                            <td class="hierarchy myTooltipHierarchy">
+                              <span class="myTooltiptextSideways">
+                                <span>Less informative</span>
+                              </span>
+                            </td>
+                            <td class="date">
+                                <p class="no-margin">
+                                    {{s.timestamp | stringToDate | date :"dd.MM.yy"}}
+                                </p>
+                                <p class="no-margin time">
+                                    {{s.timestamp | stringToDate | date :"HH:mm"}}
+                                </p>
+                            </td>
+                            <td class="tweetsSource" align="center">
+                                <div class="show-tooltip">
+                                    <i class="fa fa-twitter twitter-icn" aria-hidden="true"></i>
+                                    <div class="twitters-tooltip scrollbar"  id="style-3">
+                                        <div class="twitt-origin" ng-repeat="x in s.tweets">
+                                            <div class="contain-img">
+                                                <img src="assets/img/tweetBird.png" />
+                                            </div>
+                                            <div class="twitt-text"  ng-init="index=(initObj.tweetsSet.tweets|getByIdOptionFilter:x)!=-1?(initObj.tweetsSet.tweets|getByIdOptionFilter:x):0">
+                                                <p class="inline">
+                                                    <span>{{initObj.tweetsSet.tweets[index].twitterUser}}</span>
+                                                </p>
+                                                <p class="inline float-right">
+                                                    {{initObj.tweetsSet.tweets[index].timestamp | stringToDate | date :"dd.MM.yy  HH:mm"}}
+                                                </p>
+                                                <p class="no-margin">
+                                                    {{initObj.tweetsSet.tweets[index].text}}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="no-margin">
+                                    <span>{{s.tweets.length}}</span> Tweets
+                                </p>
+                            </td><!-- ng-init="s.sentencesarr=s.sentence.split(' ')" -->
+                            <td class="summary">
+                                <h3 class=" no-margin news" style="word-wrap: break-word">
+                                    <span ng-repeat="word in s.sentencesarr  track by $index"
+                                      ng-class="{'bold':(word.item && compare(item,word.item)),'dot':(bolds[$parent.$parent.$index][$parent.$index][$index]==true), 'dict-tooltip':(word.item)}"
+                                      ng-style="{'color':word.item?'#bf0636':'', 'cursor':word.item?'pointer':'auto'}"
+                                      ng-click="pressToken($parent.$parent.$index,$parent.$index,$index,word)">
+                                      {{word.word}}&nbsp;
+                                      <span ng-if="word.dictDesc" class="dict-tooltipText">
+                                        <p class="dictionary-onTooltip">
+                                          <span class="span">{{word.dictName}}:</span>
+                                          <span>{{word.dictDesc}}</span>
+                                        </p>
+                                      </span>
+                                    </span>
+                                </h3>
+                            </td>
+                            
+                            <td class="details" ng-if="s.sentenceExpansion.length > 0">
+                                <button class="details tooltipSentenceExpansion">
+                                    More Details
+                                    <span class="tooltipSentenceExpansionText">
+                                      <p ng-repeat="expansion in s.sentenceExpansion" >
+                                        <span>{{expansion}}{{$last ? '' : ', '}}</span>
+                                      </p>
+                                    </span>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            
+                <div class="amountClose amount{{$index}}" ng-click="openclosecards($index)" ng-mouseenter="hoverIn($index)" ng-mouseleave="hoverOut($index)"> <!-- ng-if="sentences[$index][0].showOnInit==true && (sentences[$index-1][0]&&sentences[$index-1][0].showOnInit==false)" -->
+                  <div class="myTooltip">
+                    <p class="no-margin">{{sentences[$index].length}}</p>
+                    <p class="no-margin"><i id="fa{{$index}}" class="fa fa-angle-down f" aria-hidden="true"></i></p>
+                    <span class="myTooltiptext">{{sentences[$index].length}} less informative sentences</span>
+                  </div>
+                </div>
+                
+                <div id="groupKeywords{{$index}}" class="keywords keywords{{$index}} tooltipKeywords">
+                  <p class="no-margin"><strong>keywords: </strong>{{keywords[$index]}}</p>
+                  <span class="tooltipKeywordsText" ng-if="keywordsWidthPerc($index) >= 0.45">
+                    <!--Only show the tooltip if the max width was reached-->
+                    <p style="white-space: normal; margin: auto;">{{keywords[$index]}}</p>
+                  </span>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fix-btn" ng-if="!finish">
+    <!--button class="light-btn" ng-click="openAllCards()"-->
+    <button ng-click="openAllCards()">
+        Unfold all
+    </button>
+    <button ng-click="closeAllCards()">
+        Fold all
+    </button>
+    &nbsp;&nbsp;
+    <button name="nextButtonName" ng-click="nextOnConfirm(true)" ng-if="!finish" class="light-btn">
+        {{nextButtonTxt}}
+    </button>
+</div>

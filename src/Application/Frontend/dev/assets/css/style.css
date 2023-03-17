@@ -1,0 +1,1153 @@
+/*general*/
+body {
+	background: #f0f1f6;
+    font-family: 'Lato', sans-serif;
+    color: #626d83;
+    padding-bottom: 85px;
+}
+.title{
+	margin: 0;
+    font-weight: 600;
+    font-size: 26px;
+    color: #626d83;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+h1, h2, h3, p, span, label {
+	font-family: 'Lato', sans-serif;
+}
+h1 {
+	font-weight: 700;
+	margin-bottom: 0;
+	margin-top: 0px;
+}
+h2 {
+	margin: 0;
+	font-weight: 300;
+	color: #97a1b5;
+	margin-bottom: 50px;
+    font-size: x-large;
+}
+label{
+	display: block;
+}
+input[type='checkbox']{
+	width: 17px;
+    outline: none;
+    height: 14px !important;
+    margin: 0;
+}
+input{
+	width: 100%;
+}
+
+.divLine:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 150px;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px dotted;
+  transform: translate(-50%);
+  height: 425px;
+}
+
+.agree{
+	    display: inline-block;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    margin: 0 !important;
+}
+.float-right {
+	float: right;
+}
+.knowledge-coverage-total {
+    margin-right: -30px;
+}
+.card {
+	width: 100%;
+    background: white;
+    /* margin-bottom: 10px; */
+    border: solid 1px #e6e9f3 !important;
+    border-radius: 2px;
+    /* padding: 7px; */
+    min-height: 12px;
+    /*margin: 10px 0;*/
+    margin: 20px 0 10px 0;
+}
+.center {
+	text-align: center
+}
+.inline {
+	display: inline-block;
+}
+.no-margin {
+	margin: 0;
+}
+button {
+	background: #626d83;
+	border: none;
+	border-radius: 3px;
+	padding: 4px 10px;
+	color: #d1d6e0;
+	font-weight: 500;
+	transition: all 200ms ease-in-out;
+    opacity: 0.8;
+}
+button:hover {
+	opacity: 1.0;
+}
+.light-btn {
+	background: #d1d6e0;
+	color: #626d83;
+}
+
+/*header*/
+header {
+	width: 100%;
+    height: 70px;
+    background: #626d83;
+    margin-bottom: 40px;
+    /*top: 0;
+    bottom: auto;*/
+    /*position: relative;
+    
+    width: 100%;
+	padding: 5px;*/
+	position: fixed;
+	/*bottom: 0;
+	background: #363636;
+	text-align: center;*/
+	z-index: 999;
+}
+.logo{
+	color: white;
+    text-align: left;
+    font-size: 41px;
+    font-weight: 200;
+    padding-left: 20px;
+}
+.bar{
+	width: 100%;
+    height: 6px;
+    /* background: red; */
+    background-image: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);
+    position: absolute;
+    bottom: 0;
+}
+.bar-timer{
+    width:100%;
+    height: 6px;
+    position: absolute;
+    bottom: 0;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 30s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-timing-function: linear; /* Safari 4.0 - 8.0 */
+    -webkit-animation-play-state: play;
+    animation-name: example;
+    animation-duration: 30s;
+    animation-timing-function: linear;
+    animation-play-state: play;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {width:0%;}
+    25%  {width:25%;}
+    50%  {width:50%;}
+    100% {width:100%;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {width:0%;}
+    25%  {width:25%;}
+    50%  {width:50%;}
+    100% {width:100%;}
+}
+
+/*footer*/
+footer {
+	width: 100%;
+	padding: 5px;
+	position: fixed;
+	bottom: 0;
+	background: #363636;
+	text-align: center;
+	z-index: 999;
+}
+footer p {
+	color: #f0f1f6;
+}
+footer p a {
+	color: #f0f1f6;
+	cursor: pointer;
+	text-decoration: underline;
+}
+footer p a:hover {
+	color: #f0f1f6;
+	font-weight: 600;
+}
+
+/*info*/
+.twitter {
+	margin-right: 20px;
+}
+.twitter-icn {
+	font-size: 25px;
+	color: #3fa9f5;
+	text-align: center;
+	cursor: pointer;
+	transition: all 200ms ease-in-out;
+}
+
+.dictionary .span {
+	font-weight: 800;
+	color: #bf0636;
+	margin-right: 5px;
+}
+.dictionary {
+	margin: 0;
+    margin-left: 10px;
+}
+
+.dictionary-onTooltip .span {
+	font-weight: 800;
+	color: #ccc;
+	margin-right: 5px;
+}
+.dictionary-onTooltip {
+	margin: 0;
+    margin-left: 10px;
+}
+
+.news {
+	/*margin-right: 25px;
+	padding: 8px;*/
+    padding: 4px;
+	font-weight: 700;
+}
+.time {
+	font-size: 21px;
+	margin-top: -6px;
+}
+.tweetsSource {
+    width:80px;
+}
+.details {
+	padding: 8px 0px;
+}
+.details button {
+	background: none;
+	border: none;
+	color: #626d83;
+	outline: none;
+	padding: 0;
+	margin-bottom: 4px;
+    border-bottom: 1px dotted #000;
+    border-radius: 0px;
+    margin-bottom: 4px;
+    margin-left: 30%;
+}
+
+table.information {
+	width: 100%;
+}
+table.big-card tr td:first-child {
+	width: 6px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4bd869+0,3cc786+100 */
+	background: rgb(75,216,105); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(75,216,105,1) 0%, rgba(60,199,134,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(75,216,105,1) 0%,rgba(60,199,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(75,216,105,1) 0%,rgba(60,199,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4bd869', endColorstr='#3cc786',GradientType=0 ); /* IE6-9 */
+}
+table.small-card tr td:first-child {
+	width: 6px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f19520+0,ee3525+100 */
+	background: rgb(241,149,32); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(241,149,32,1) 0%, rgba(238,53,37,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(241,149,32,1) 0%,rgba(238,53,37,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(241,149,32,1) 0%,rgba(238,53,37,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f19520', endColorstr='#ee3525',GradientType=0 ); /* IE6-9 */
+}
+table.information tr td:nth-child(2) {
+	width: 50px;
+	text-align: center;
+}
+table.information tr td:last-child {
+	width: 70px;
+	padding-right: 22px;
+}
+table.information tr td.date {
+	text-align: right;
+	padding-right: 15px;
+	width: 85px;
+}
+table.information tr td.summary {
+	width: 100%;
+}
+table.information tr td.details {
+	width: 30%;
+}
+/*circle*/
+.c100.small {
+	font-size: 53px;
+	margin: 0;
+    z-index: 0;
+}
+.pie, .c100 .bar, .c100.p51 .fill, .c100.p52 .fill, .c100.p53 .fill, .c100.p54 .fill, .c100.p55 .fill, .c100.p56 .fill, .c100.p57 .fill, .c100.p58 .fill, .c100.p59 .fill, .c100.p60 .fill, .c100.p61 .fill, .c100.p62 .fill, .c100.p63 .fill, .c100.p64 .fill, .c100.p65 .fill, .c100.p66 .fill, .c100.p67 .fill, .c100.p68 .fill, .c100.p69 .fill, .c100.p70 .fill, .c100.p71 .fill, .c100.p72 .fill, .c100.p73 .fill, .c100.p74 .fill, .c100.p75 .fill, .c100.p76 .fill, .c100.p77 .fill, .c100.p78 .fill, .c100.p79 .fill, .c100.p80 .fill, .c100.p81 .fill, .c100.p82 .fill, .c100.p83 .fill, .c100.p84 .fill, .c100.p85 .fill, .c100.p86 .fill, .c100.p87 .fill, .c100.p88 .fill, .c100.p89 .fill, .c100.p90 .fill, .c100.p91 .fill, .c100.p92 .fill, .c100.p93 .fill, .c100.p94 .fill, .c100.p95 .fill, .c100.p96 .fill, .c100.p97 .fill, .c100.p98 .fill, .c100.p99 .fill, .c100.p100 .fill {
+	border: 0.08em solid #3cc786;
+}
+
+.c100:hover > span {
+	color: #3cc786;
+}
+.small-card .pie, .small-card .c100 .bar, .small-card .c100.p51 .fill, .small-card .c100.p52 .fill, .small-card .c100.p53 .fill, .small-card .c100.p54 .fill, .small-card .c100.p55 .fill, .small-card .c100.p56 .fill, .small-card .c100.p57 .fill, .small-card .c100.p58 .fill, .small-card .c100.p59 .fill, .small-card .c100.p60 .fill, .small-card .c100.p61 .fill, .small-card .c100.p62 .fill, .small-card .c100.p63 .fill, .small-card .c100.p64 .fill, .small-card .c100.p65 .fill, .small-card .c100.p66 .fill, .small-card .c100.p67 .fill, .small-card .c100.p68 .fill, .small-card .c100.p69 .fill, .small-card .c100.p70 .fill, .small-card .small-card .c100.p71 .fill, .small-card .small-card .c100.p72 .fill, .small-card .small-card .small-card .c100.p73 .fill, .small-card.small-card .c100.p74 .fill, .small-card.small-card .c100.p75 .fill, .small-card .c100.p76 .fill, .small-card .c100.p77 .fill, .small-card .c100.p78 .fill, .small-card .c100.p79 .fill, .small-card .c100.p80 .fill, .small-card .c100.p81 .fill, .small-card .c100.p82 .fill, .small-card .c100.p83 .fill, .small-card .c100.p84 .fill, .small-card .c100.p85 .fill, .small-card .c100.p86 .fill, .small-card .c100.p87 .fill, .small-card .c100.p88 .fill, .small-card .c100.p89 .fill, .small-card .c100.p90 .fill, .small-card .c100.p91 .fill, .small-card .c100.p92 .fill, .small-card .c100.p93 .fill, .small-card .c100.p94 .fill, .small-card .c100.p95 .fill, .small-card .c100.p96 .fill, .small-card .c100.p97 .fill, .small-card .c100.p98 .fill, .small-card .c100.p99 .fill, .small-card .c100.p100 .fill {
+	border: 0.08em solid #e7750e;
+}
+
+.small-card .c100 > span {
+	color: #e7750e;
+}
+/**********/
+table.big-card tr td {
+	/*height: 120px;*/
+    height: 78px;
+	max-height: inherit;
+}
+table.small-card tr td {
+	height: 78px;
+	max-height: inherit;
+}
+.knowledge {
+	font-size: 10px;
+	text-align: center;
+	color: #97a1bb;
+}
+.status-strip {
+	width: 6px;
+	height: 12px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f19520+0,ee3525+100 */
+	background: rgb(241,149,32); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(241,149,32,1) 0%, rgba(238,53,37,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(241,149,32,1) 0%,rgba(238,53,37,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(241,149,32,1) 0%,rgba(238,53,37,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f19520', endColorstr='#ee3525',GradientType=0 ); /* IE6-9 */
+}
+/*.close-card {
+	//margin: 0 0 5px 0 !important;
+    margin: 0 0 -10px 0 !important;
+}*/
+.close-card table {
+	display: none;
+}
+.twitters-tooltip {
+	width: 380px;
+	background: #1da1f2;
+	padding: 5px;
+	border-radius: 6px;
+	position: absolute;
+	height: 232px;
+	overflow-y: scroll;
+	box-shadow: 1px 2px 3px 1px #999;
+	display: none;
+	z-index: 9999;
+}
+#style-3::-webkit-scrollbar-thumb {
+	background-color: #626d83;
+}
+.twitt-origin {
+	width: 100%;
+	background: white;
+	padding: 10px;
+	text-align: left;
+	line-height: 14px;
+	border-bottom: solid 1px #1da1f2;
+	border-top: solid 1px #1da1f2;
+}
+.contain-img {
+	width: 50px;
+	height: 50px;
+	background: #e9eaef;
+	border-radius: 6px;
+	display: inline-block;
+	position: relative;
+}
+.contain-img img {
+	width: 100%;
+	position: absolute;
+	margin: auto;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+}
+.twitt-text {
+	width: calc(100% - 53px);
+	display: inline-block;
+	padding-left: 9px;
+}
+.twitt-text > p > span {
+	color: black;
+	font-weight: 800;
+}
+.show-tooltip:hover .twitters-tooltip {
+	display: block;
+}
+.show-tooltip:hover .twitter-icn {
+	font-size: 30px;
+}
+.time-line {
+	width: 1px;
+	height: calc(100% - 312px);/*calc(100vh - 246px);*/
+    filter: brightness(60%); /*to make the image and line darker*/
+	position: absolute;
+	left: 65px;
+	background: #97a1b5;
+	z-index: -1;
+	/*top: 200px;*/
+    margin-top: -5px;
+}
+.time-line img {
+	position: absolute;
+	margin: auto;
+	right: -16px;
+	width: 36px;
+	top: -31px;
+}
+.fix-btn {
+	position: fixed;
+	bottom: 60px;
+	right: 30px;
+}
+.amountClose {
+	width: 30px;
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom:0; /*-10px;*/
+	/*left: 20px;*/
+    left: 33%;
+	cursor: pointer;
+	text-align: center;
+	padding: 8px;
+}
+.amountCloseUsed {
+	width: 30px;
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom:0; /*-10px;*/
+	/*left: 20px;*/
+    left: 33%;
+	cursor: pointer;
+	text-align: center;
+	padding: 8px;
+}
+.amountOpen {
+	width: 30px;
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	/*top: 0;*/
+	bottom:-20px;
+	/*left: 20px;*/
+    left: 33%;
+	cursor: pointer;
+	text-align: center;
+	padding: 8px;
+}
+.amountg {
+	width: 30px;
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom:0; /*-10px;*/
+	left: 20px;
+	cursor: pointer;
+	text-align: center;
+	padding: 8px;
+}
+.amountClose p {
+	color: #e7750e;
+	line-height: 5px;
+}
+
+.amountCloseUsed p {
+	color: #ca58ca;
+	line-height: 5px;
+}
+
+.amountOpen p {
+	color: #ca58ca;
+	line-height: 5px;
+}
+.amount{
+	width: 30px;
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom:0; /*-10px;*/
+	left: 20px;
+	cursor: pointer;
+	text-align: center;
+	padding: 8px;
+}
+.amount p {
+	color: #e7750e;
+	line-height: 5px;
+}
+
+
+.keywords {
+	/*width: 30px;*/
+	height: 30px;
+	background: #f0f1f6;
+	border-radius: 60px;
+	border: solid 1px #dce2f0;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom:0; /*-10px;*/
+	/*left: 20px;*/
+    left: calc(33% + 30px);
+	/*cursor: pointer;*/
+	/*text-align: center;*/
+	padding: 5px;
+    max-width: 50%;
+}
+.keywords p {
+	/*color: #e7750e;*/
+	line-height: 17px;
+    font-size: 15px;
+    white-space: nowrap; /*keep in one line*/
+    overflow: hidden; /*keep inside parent div*/
+    text-overflow: ellipsis; /*put ... at the end if doesn't fit*/
+}
+
+
+
+
+
+.tooltipKeywords {
+    /*position: relative;*/
+    display: inline-block;
+}
+
+.tooltipKeywordsText {
+    visibility: hidden;
+    /*width: 180px;*/
+    max-width:100%;
+    background-color: #555;
+    color: #fff;
+    /*text-align: center;*/
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+    /*left: 50%;*/
+    /*margin-left: -90px;*/
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltipKeywords:hover .tooltipKeywordsText {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+.tooltipKeywords .tooltipKeywordsText::after {
+    content: " ";
+    position: absolute;
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+}
+
+
+
+
+
+
+
+/*info-test*/
+.side-test {
+	background: #626d83;
+	margin-top: 70px;
+	height: calc(100vh - 66px);
+}
+
+.test p, .test h2, .test label {
+	color: #626d83;
+	display: block;
+}
+.side-test p, .side-test h2, .side-test label {
+	color: white;
+}
+.test h2, {
+text-align: center;
+}
+.side-test input {
+	border-bottom: solid 2px white;
+}
+.test input {
+	width: 100%;
+	padding: 8px;
+	outline: none;
+	transition: all 200ms ease-in-out;
+	color: #626d83;
+	font-size: 16px;
+	font-weight: 300;
+	border: none;
+	background: transparent;
+	border-bottom: solid 2px #96a1b5;
+}
+.test input:focus {
+	border-bottom: solid 2px #55c783;
+}
+.side-test input {
+	color: white;
+}
+
+.test p, .test label {
+	color: #626d83;
+	display: block;
+	font-size: 18px;
+	font-weight: 300;
+}
+.side-test p, .side-test label {
+	color: white;
+}
+
+.test ::-webkit-input-placeholder {/* Chrome/Opera/Safari */
+	color: #626d83;
+}
+.test ::-moz-placeholder {/* Firefox 19+ */
+	color: #626d83;
+}
+.test :-ms-input-placeholder {/* IE 10+ */
+	right: 35.8% !important;
+	z-index: 9999;
+}
+.test :-moz-placeholder {/* Firefox 18- */
+	color: #626d83;
+}
+
+.side-test ::-webkit-input-placeholder {/* Chrome/Opera/Safari */
+	color: #98a1b6;
+}
+.side-test ::-moz-placeholder {/* Firefox 19+ */
+	color: #98a1b6;
+}
+.side-test :-ms-input-placeholder {/* IE 10+ */
+	right: 35.8% !important;
+	z-index: 9999;
+}
+.side-test :-moz-placeholder {/* Firefox 18- */
+	color: #98a1b6;
+}
+
+.test .qtn {
+	margin-bottom: 60px;
+}
+.info-test.fix-btn {
+
+	right: 35.8% !important;
+}
+.side-test .scrollbar {
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: transparent;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+	width: 100% !important;
+	margin: 0;
+}
+
+.side-test #style-3::-webkit-scrollbar-thumb {
+	background-color: #98a1b6;
+}
+.test h2 {
+	text-align: center;
+	margin-bottom: 45px;
+	font-size: 40px;
+	font-weight: 400;
+	margin-top: 20px;
+}
+textarea.feedback{
+	height: 180px;
+    width: 100%;
+    border: solid 2px #96a1b5;
+    background: transparent;
+    padding: 8px;
+    outline: none;
+    margin-top: 10px;
+    transition: all 200ms ease-in-out;
+    font-size: 16px;
+    color: #626d83;
+    font-weight: 300;
+}
+textarea.feedback:focus{
+    border-color: #3cc786;
+}
+.side-test textarea.feedback:focus{
+    color: white;
+}
+/*login*/
+.login input{
+	height: 50px;
+    padding: 10px;
+    font-size: 18px;
+}
+.login label{
+	/*margin-bottom: 8px;*/
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: 300;
+}
+.login h1{
+	font-weight: normal;
+    text-align: center;
+    margin-bottom: 36px;
+    margin-top: 0;
+}
+ button.big-btn{
+	width: 100%;
+    height: 50px;
+    margin-top: 22px;
+    font-size: 20px;
+}
+.absolut-center{
+	position: absolute;
+    /*height: 333px;*/
+    margin: auto;
+    right: 0;
+    left: 0;
+    /*top: 17%;*/
+    /*top: 150px;*/
+}
+/*thanks*/
+.thank{
+	font-size: 72px;
+    font-weight: 200;
+}
+.like{
+	width: 90px;
+}
+.complete{
+	font-size: 20px;
+    margin-bottom:50px;
+    font-weight: 300;
+    color: #626d83;
+}
+.error{
+	border-color:red;
+}
+.dot {    
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+    background-color: rgba(0, 255, 243, 0.75) !important;
+}
+.bold {
+    background-color:rgba(0, 255, 243, 0.31);
+}
+
+.line{
+    width: 1px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}
+#d {
+	float:right;
+	direction:rtl;
+    border: 2px solid;
+    padding: 20px; 
+    width: 30%;
+    resize: horizontal;
+    overflow: auto;
+    cursor:e-resize;
+}
+
+
+.tooltipSentenceExpansion {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltipSentenceExpansionText {
+    visibility: hidden;
+    width: 180px;
+    background-color: #555;
+    color: #fff;
+    /*text-align: center;*/
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+    left: 50%;
+    margin-left: -90px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltipSentenceExpansion:hover .tooltipSentenceExpansionText {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+.tooltipSentenceExpansion .tooltipSentenceExpansionText::after {
+    content: " ";
+    position: absolute;
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+}
+
+/*.tooltipSentenceExpansion .tooltipSentenceExpansionText::before {
+    
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+    
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-right:6px solid #555;
+    left:-6px;
+    
+    top:10px;
+}*/
+
+
+
+.myTooltip {
+    position: relative;
+    display: inline-block;
+    /*border-bottom: 1px dotted black;*/ /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.myTooltip .myTooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: -50%;
+    left: 250%;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.myTooltip:hover .myTooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+/*.myTooltip .myTooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}*/
+.myTooltip .myTooltiptext::before {
+    
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+    
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-right:6px solid #555;
+    left:-6px;
+    
+    top:10px;
+}
+
+.myTooltipHierarchy {
+    position: relative;
+}
+
+/* Tooltip text */
+.myTooltipHierarchy .myTooltiptextSideways {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 125%;
+    left: -35px;
+    transform: rotate(270deg);
+	transform-origin: left top 0;
+    
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.myTooltipHierarchy:hover .myTooltiptextSideways {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+.myTooltipHierarchy .myTooltiptextSideways::after {
+    content: '';
+    position: absolute;
+    top: 100%; /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Tooltip text */
+.myTooltipHierarchy .myTooltiptextSidewaysClosedCard {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 70px;
+    left: -35px;
+    transform: rotate(270deg);
+	transform-origin: left top 0;
+    
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.myTooltipHierarchy:hover .myTooltiptextSidewaysClosedCard {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+.myTooltipHierarchy .myTooltiptextSidewaysClosedCard::after {
+    content: '';
+    position: absolute;
+    top: 100%; /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+
+/* The tooltip for the description of words (dictionary) */
+.dict-tooltip {
+    position: relative;
+    display: inline-block;
+    /*border-bottom: 1px dotted black;*/ /* If you want dots under the hoverable text */
+}
+
+.dict-tooltip .dict-tooltipText {
+    visibility: hidden;
+    width: 180px;
+    background-color: #555;
+    color: #fff;
+    /*text-align: center;*/
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 13px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+    left: 50%;
+    margin-left: -90px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.dict-tooltip:hover .dict-tooltipText {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Tooltip arrow */
+.dict-tooltip .dict-tooltipText::after {
+    content: " ";
+    position: absolute;
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+}
+/*.dict-tooltip .dict-tooltipText::before {
+    
+    content:'';
+    display:block;
+    width:0;
+    height:0;
+    position:absolute;
+    
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-right:6px solid #555;
+    left:-6px;
+    
+    top:10px;
+}*/
+
+
+/* The Modal (background) (to cover the whole page for the pop-up box) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    /*z-index: 1;*/ /* Sit on top */
+    padding-top: 250px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal .modal-buttons {
+    padding-left: 35px;
+    margin-top: 10px;
+}
+
+.modal .button {
+    background-color: #ccc;
+    display: inline-block;
+    border-radius: 3px;
+    
+    padding: 2px;
+    text-align: center;
+    width: 80px;
+    cursor: pointer;
+}
+.modal .button:hover
+{
+    background-color: #ddd;
+}
+
+/* Modal Content (the pop-up itself) */
+.modal .modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #888;
+    border-radius: 5px;
+    width: 250px;
+    text-align: left;
+}
+
+/* The Close Button - not used currently */
+.modal .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.modal .close:hover,
+.modal .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* For the demos secion in the login page */
+.demos {
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.demos a {
+    cursor: pointer;
+}

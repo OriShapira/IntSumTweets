@@ -1,0 +1,43 @@
+<!-- timer-bar -->
+<div class="bar" style="background: #cccccc; top:64px; position: fixed; z-index: 1000"><!-- transition: all 1000ms ease-in-out; -->
+    <div class="bar bar-timer" id="barIdBaseline2"></div>
+</div>
+<!-- end -->
+
+<!-- The confirmation dialog for when clicking 'next' -->
+<div class="modal">
+  <div class="modal-content">
+    <div class="message"></div>
+    <div class="modal-buttons">
+      <span class="button yes">Yes</span>
+      <span class="button no">No</span>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-12" style="position: relative;height: 80vh;" ng-if="finish">
+    <div class="col-md-3 absolut-center">
+        <p class="thank">Time is up!</p>
+        <button class="big-btn" ng-click="next(false)">Next Task</button>
+    </div>    
+</div>            
+<div class="container" style="position: relative;padding-top: 85px;padding-bottom: 50px" ng-if="!finish">
+    <div ng-if="needDirections" style="color: darkred; text-shadow: 1px 0px 10px black; font-size: medium; margin-bottom: 10px;">
+      Baseline2: Please read about the event thoroughly and click 'Next Task' when finished.
+      <br>
+      You will be asked questions about the event on the next page.
+    </div>
+    <div class="col-md-offset-3 col-md-6 ">
+        <div class="twitt-origin card" ng-repeat="sentence in sentences">
+            <div class="twitt-text">
+                <p class="inline">
+                    <span>{{sentence.sentence}}</span>
+                </p>
+                <p class="inline float-right">
+                    {{sentence.timestamp | stringToDate | date :"dd.MM.yy HH:mm"}}
+                </p>
+            </div>
+        </div>
+        <button class="fix-btn" ng-if="!finish" ng-click="nextOnConfirm(true)">Next Task</button>
+    </div>
+</div>
