@@ -1,0 +1,6150 @@
+{
+   "entities": {
+      "E.1": {
+         "alias": "only", 
+         "id": "E.1", 
+         "mentions": [
+            {
+               "sources": [
+                  "262509026447859713"
+               ], 
+               "term": "only"
+            }, 
+            {
+               "sources": [
+                  "262509026447859713"
+               ], 
+               "term": "But"
+            }
+         ]
+      }, 
+      "E.10": {
+         "alias": "Catholic Church", 
+         "id": "E.10", 
+         "mentions": [
+            {
+               "sources": [
+                  "262526327586963457"
+               ], 
+               "term": "St Theresa Catholic Church"
+            }, 
+            {
+               "sources": [
+                  "262470610540716032"
+               ], 
+               "term": "Catholic Church State"
+            }, 
+            {
+               "sources": [
+                  "262513891517546496"
+               ], 
+               "term": "St. Rita Catholic Church Suicide Bomb Attack"
+            }, 
+            {
+               "sources": [
+                  "262502692755234816"
+               ], 
+               "term": "St Rita Catholic Church"
+            }, 
+            {
+               "sources": [
+                  "262510448170131457"
+               ], 
+               "term": "St. Peters Catholic Church"
+            }, 
+            {
+               "sources": [
+                  "262482191106318336", 
+                  "262465053159194624", 
+                  "262498758795866113", 
+                  "262556958740066305", 
+                  "262495180949700608", 
+                  "262528827656372226", 
+                  "262510494445883392", 
+                  "262479779209551872", 
+                  "262487152942788608"
+               ], 
+               "term": "Catholic Church"
+            }, 
+            {
+               "sources": [
+                  "262481704575447040", 
+                  "262481373271564288"
+               ], 
+               "term": "St. Rita Catholic Church"
+            }
+         ]
+      }, 
+      "E.100": {
+         "alias": "9", 
+         "id": "E.100", 
+         "mentions": [
+            {
+               "sources": [
+                  "262594149566537728"
+               ], 
+               "term": "9"
+            }
+         ]
+      }, 
+      "E.11": {
+         "alias": "Suicide Bomber", 
+         "id": "E.11", 
+         "mentions": [
+            {
+               "sources": [
+                  "262542555714027520"
+               ], 
+               "term": "Suicide"
+            }, 
+            {
+               "sources": [
+                  "262482191106318336", 
+                  "262541129365475328"
+               ], 
+               "term": "Suicide Bomber"
+            }
+         ]
+      }, 
+      "E.12": {
+         "alias": "reprisals", 
+         "id": "E.12", 
+         "mentions": [
+            {
+               "sources": [
+                  "262534116547907584", 
+                  "262528827656372226", 
+                  "262919166380621824"
+               ], 
+               "term": "reprisals"
+            }, 
+            {
+               "sources": [
+                  "262512939536351232"
+               ], 
+               "term": "reprisal"
+            }, 
+            {
+               "sources": [
+                  "262594149566537728"
+               ], 
+               "term": "Reprisal"
+            }
+         ]
+      }, 
+      "E.13": {
+         "alias": "*", 
+         "id": "E.13", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "*"
+            }
+         ]
+      }, 
+      "E.14": {
+         "alias": "K", 
+         "id": "E.14", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "K"
+            }
+         ]
+      }, 
+      "E.15": {
+         "alias": "Nigeria", 
+         "id": "E.15", 
+         "mentions": [
+            {
+               "sources": [
+                  "262527728820031489", 
+                  "262823741652877312", 
+                  "262509810707218432", 
+                  "262682259440672768", 
+                  "262488197525803008", 
+                  "262584708192419840", 
+                  "262487966675517440"
+               ], 
+               "term": "Nigeria"
+            }, 
+            {
+               "sources": [
+                  "262594149566537728"
+               ], 
+               "term": "Nigeria Church Bombing Attacks"
+            }, 
+            {
+               "sources": [
+                  "262895086801649664", 
+                  "262601334635786242"
+               ], 
+               "term": "Nigeria suicide bomb attack"
+            }, 
+            {
+               "sources": [
+                  "262516169263681537"
+               ], 
+               "term": "Nigeria bomb attack"
+            }
+         ]
+      }, 
+      "E.16": {
+         "alias": "area", 
+         "id": "E.16", 
+         "mentions": [
+            {
+               "sources": [
+                  "262481704575447040", 
+                  "262481373271564288"
+               ], 
+               "term": "Ungwar Yero area"
+            }, 
+            {
+               "sources": [
+                  "262487966675517440"
+               ], 
+               "term": "area"
+            }
+         ]
+      }, 
+      "E.17": {
+         "alias": "B", 
+         "id": "E.17", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "B"
+            }
+         ]
+      }, 
+      "E.18": {
+         "alias": "R", 
+         "id": "E.18", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "R"
+            }
+         ]
+      }, 
+      "E.19": {
+         "alias": "3", 
+         "id": "E.19", 
+         "mentions": [
+            {
+               "sources": [
+                  "262519935882887168"
+               ], 
+               "term": "3 people"
+            }, 
+            {
+               "sources": [
+                  "262509810707218432", 
+                  "262501652622344192"
+               ], 
+               "term": "3"
+            }
+         ]
+      }, 
+      "E.2": {
+         "alias": "Kaduna Church Attack", 
+         "id": "E.2", 
+         "mentions": [
+            {
+               "sources": [
+                  "262816078865002496"
+               ], 
+               "term": "Kaduna Church Attack"
+            }, 
+            {
+               "sources": [
+                  "262557030177468416", 
+                  "262555583113228288", 
+                  "262836601409921024"
+               ], 
+               "term": "Kaduna Church Bomb Blast"
+            }, 
+            {
+               "sources": [
+                  "262605163989180416", 
+                  "263019158613135360", 
+                  "262604706961035265", 
+                  "262865248485265408", 
+                  "262578660027006977", 
+                  "262959695743053824"
+               ], 
+               "term": "Kaduna church bombing"
+            }, 
+            {
+               "sources": [
+                  "262862887314403329", 
+                  "262495180949700608", 
+                  "262508988426506242", 
+                  "262524557754261504", 
+                  "262541129365475328", 
+                  "262492848685985792", 
+                  "262508963302625280", 
+                  "262470610540716032", 
+                  "262556958740066305", 
+                  "263002268075446272", 
+                  "262499941526691840", 
+                  "262687871553662976", 
+                  "262525686059769856", 
+                  "262503531578261505"
+               ], 
+               "term": "Kaduna"
+            }, 
+            {
+               "sources": [
+                  "262511756675534849"
+               ], 
+               "term": "Kaduna Church explosion"
+            }, 
+            {
+               "sources": [
+                  "262603197007421442"
+               ], 
+               "term": "Kaduna Church Bombing"
+            }, 
+            {
+               "sources": [
+                  "262516169263681537"
+               ], 
+               "term": "Kaduna Church"
+            }, 
+            {
+               "sources": [
+                  "262506182562959360"
+               ], 
+               "term": "Kaduna church"
+            }, 
+            {
+               "sources": [
+                  "262492915786477568"
+               ], 
+               "term": "Kaduna church Daily Times Nigeria"
+            }, 
+            {
+               "sources": [
+                  "262484451668393984"
+               ], 
+               "term": "Catholic Church Kaduna"
+            }
+         ]
+      }, 
+      "E.20": {
+         "alias": "Muslim", 
+         "id": "E.20", 
+         "mentions": [
+            {
+               "sources": [
+                  "262952376728711170"
+               ], 
+               "term": "Muslim"
+            }, 
+            {
+               "sources": [
+                  "262528827656372226"
+               ], 
+               "term": "Muslims"
+            }
+         ]
+      }, 
+      "E.21": {
+         "alias": "bombing", 
+         "id": "E.21", 
+         "mentions": [
+            {
+               "sources": [
+                  "262582757992050688", 
+                  "262468815630262274"
+               ], 
+               "term": "bomb"
+            }, 
+            {
+               "sources": [
+                  "262470610540716032", 
+                  "262492915786477568"
+               ], 
+               "term": "Bomb"
+            }, 
+            {
+               "sources": [
+                  "262813780277329920", 
+                  "262512939536351232"
+               ], 
+               "term": "bombing"
+            }
+         ]
+      }, 
+      "E.22": {
+         "alias": "7", 
+         "id": "E.22", 
+         "mentions": [
+            {
+               "sources": [
+                  "262584708192419840"
+               ], 
+               "term": "seven"
+            }, 
+            {
+               "sources": [
+                  "262582757992050688", 
+                  "262588936151515137"
+               ], 
+               "term": "7"
+            }
+         ]
+      }, 
+      "E.23": {
+         "alias": "others", 
+         "id": "E.23", 
+         "mentions": [
+            {
+               "sources": [
+                  "262519935882887168"
+               ], 
+               "term": "others"
+            }
+         ]
+      }, 
+      "E.24": {
+         "alias": "reportedly", 
+         "id": "E.24", 
+         "mentions": [
+            {
+               "sources": [
+                  "262481704575447040", 
+                  "262468815630262274", 
+                  "262481373271564288"
+               ], 
+               "term": "reportedly"
+            }
+         ]
+      }, 
+      "E.25": {
+         "alias": "Nigeria suicide attack", 
+         "id": "E.25", 
+         "mentions": [
+            {
+               "sources": [
+                  "262551262954938368"
+               ], 
+               "term": "Nigeria suicide attack"
+            }, 
+            {
+               "sources": [
+                  "262497080885534720", 
+                  "262490525012213760"
+               ], 
+               "term": "attack"
+            }, 
+            {
+               "sources": [
+                  "262530714921234433"
+               ], 
+               "term": "Nigeria suicide bomb attack"
+            }, 
+            {
+               "sources": [
+                  "262583252680843264"
+               ], 
+               "term": "suicide attack"
+            }, 
+            {
+               "sources": [
+                  "262630594108878850"
+               ], 
+               "term": "bomb attack"
+            }
+         ]
+      }, 
+      "E.26": {
+         "alias": "officials", 
+         "id": "E.26", 
+         "mentions": [
+            {
+               "sources": [
+                  "262682259440672768"
+               ], 
+               "term": "officials"
+            }
+         ]
+      }, 
+      "E.27": {
+         "alias": "suicide bombing", 
+         "id": "E.27", 
+         "mentions": [
+            {
+               "sources": [
+                  "262823741652877312", 
+                  "262508988426506242", 
+                  "262584573949530112"
+               ], 
+               "term": "suicide bombing"
+            }
+         ]
+      }, 
+      "E.28": {
+         "alias": "many", 
+         "id": "E.28", 
+         "mentions": [
+            {
+               "sources": [
+                  "262656078624477184"
+               ], 
+               "term": "many"
+            }
+         ]
+      }, 
+      "E.29": {
+         "alias": "100 wounded", 
+         "id": "E.29", 
+         "mentions": [
+            {
+               "sources": [
+                  "262551262954938368"
+               ], 
+               "term": "100 wounded"
+            }
+         ]
+      }, 
+      "E.3": {
+         "alias": "bomber", 
+         "id": "E.3", 
+         "mentions": [
+            {
+               "sources": [
+                  "262952376728711170"
+               ], 
+               "term": "suicide bomb"
+            }, 
+            {
+               "sources": [
+                  "262551174887124992"
+               ], 
+               "term": "suicide"
+            }, 
+            {
+               "sources": [
+                  "262492848685985792"
+               ], 
+               "term": "suicide bomber attacks church"
+            }, 
+            {
+               "sources": [
+                  "262503531578261505"
+               ], 
+               "term": "suicide bombers"
+            }, 
+            {
+               "sources": [
+                  "262508963302625280", 
+                  "262525686059769856", 
+                  "262524557754261504"
+               ], 
+               "term": "Two suicide bombers"
+            }, 
+            {
+               "sources": [
+                  "262506182562959360", 
+                  "262510448170131457", 
+                  "262511756675534849", 
+                  "262656078624477184", 
+                  "262919166380621824"
+               ], 
+               "term": "bomber"
+            }, 
+            {
+               "sources": [
+                  "262481704575447040", 
+                  "262862887314403329", 
+                  "262481373271564288", 
+                  "262509026447859713", 
+                  "262502692755234816"
+               ], 
+               "term": "suicide bomber"
+            }
+         ]
+      }, 
+      "E.30": {
+         "alias": "bomber", 
+         "id": "E.30", 
+         "mentions": [
+            {
+               "sources": [
+                  "262527728820031489"
+               ], 
+               "term": "car bomber"
+            }, 
+            {
+               "sources": [
+                  "262588936151515137"
+               ], 
+               "term": "bomber"
+            }
+         ]
+      }, 
+      "E.31": {
+         "alias": "dozens", 
+         "id": "E.31", 
+         "mentions": [
+            {
+               "sources": [
+                  "262823741652877312", 
+                  "262583252680843264"
+               ], 
+               "term": "dozens"
+            }
+         ]
+      }, 
+      "E.32": {
+         "alias": "people", 
+         "id": "E.32", 
+         "mentions": [
+            {
+               "sources": [
+                  "262583252680843264", 
+                  "262823741652877312"
+               ], 
+               "term": "seven people"
+            }, 
+            {
+               "sources": [
+                  "262514059579101185", 
+                  "262682259440672768"
+               ], 
+               "term": "people"
+            }
+         ]
+      }, 
+      "E.33": {
+         "alias": "Others", 
+         "id": "E.33", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513891517546496"
+               ], 
+               "term": "Others"
+            }
+         ]
+      }, 
+      "E.34": {
+         "alias": "Killed 145", 
+         "id": "E.34", 
+         "mentions": [
+            {
+               "sources": [
+                  "262603197007421442"
+               ], 
+               "term": "Killed 145"
+            }, 
+            {
+               "sources": [
+                  "262578660027006977"
+               ], 
+               "term": "145"
+            }, 
+            {
+               "sources": [
+                  "262836601409921024"
+               ], 
+               "term": "10 Dead 145"
+            }
+         ]
+      }, 
+      "E.35": {
+         "alias": "Sunday", 
+         "id": "E.35", 
+         "mentions": [
+            {
+               "sources": [
+                  "262492848685985792"
+               ], 
+               "term": "Sunday"
+            }
+         ]
+      }, 
+      "E.36": {
+         "alias": "Burns Man Alive", 
+         "id": "E.36", 
+         "mentions": [
+            {
+               "sources": [
+                  "262603197007421442"
+               ], 
+               "term": "Burns Man Alive"
+            }
+         ]
+      }, 
+      "E.37": {
+         "alias": "a", 
+         "id": "E.37", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "a"
+            }, 
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "A"
+            }, 
+            {
+               "sources": [
+                  "262603197007421442"
+               ], 
+               "term": "As"
+            }
+         ]
+      }, 
+      "E.38": {
+         "alias": "Least 10", 
+         "id": "E.38", 
+         "mentions": [
+            {
+               "sources": [
+                  "262605163989180416", 
+                  "262604706961035265"
+               ], 
+               "term": "10"
+            }, 
+            {
+               "sources": [
+                  "262603197007421442"
+               ], 
+               "term": "Least 10"
+            }
+         ]
+      }, 
+      "E.39": {
+         "alias": "Revenge", 
+         "id": "E.39", 
+         "mentions": [
+            {
+               "sources": [
+                  "262557030177468416"
+               ], 
+               "term": "Revenge"
+            }
+         ]
+      }, 
+      "E.4": {
+         "alias": "How", 
+         "id": "E.4", 
+         "mentions": [
+            {
+               "sources": [
+                  "262862887314403329"
+               ], 
+               "term": "How"
+            }
+         ]
+      }, 
+      "E.40": {
+         "alias": "Christians", 
+         "id": "E.40", 
+         "mentions": [
+            {
+               "sources": [
+                  "262557030177468416"
+               ], 
+               "term": "Christians"
+            }
+         ]
+      }, 
+      "E.41": {
+         "alias": "Catholic Church Bombing", 
+         "id": "E.41", 
+         "mentions": [
+            {
+               "sources": [
+                  "262512641614942208"
+               ], 
+               "term": "Catholic Church Bombing"
+            }
+         ]
+      }, 
+      "E.42": {
+         "alias": "NAIJA GOSSIP", 
+         "id": "E.42", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "NAIJA GOSSIP"
+            }
+         ]
+      }, 
+      "E.43": {
+         "alias": "G NEWS", 
+         "id": "E.43", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "G NEWS"
+            }
+         ]
+      }, 
+      "E.44": {
+         "alias": "N", 
+         "id": "E.44", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "N"
+            }
+         ]
+      }, 
+      "E.45": {
+         "alias": "1", 
+         "id": "E.45", 
+         "mentions": [
+            {
+               "sources": [
+                  "262844952386609152"
+               ], 
+               "term": "1"
+            }, 
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "I"
+            }
+         ]
+      }, 
+      "E.46": {
+         "alias": "salah", 
+         "id": "E.46", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513929241104384"
+               ], 
+               "term": "salah"
+            }
+         ]
+      }, 
+      "E.47": {
+         "alias": "dem", 
+         "id": "E.47", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513929241104384"
+               ], 
+               "term": "dem"
+            }
+         ]
+      }, 
+      "E.48": {
+         "alias": "we", 
+         "id": "E.48", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513929241104384"
+               ], 
+               "term": "we"
+            }
+         ]
+      }, 
+      "E.49": {
+         "alias": "And", 
+         "id": "E.49", 
+         "mentions": [
+            {
+               "sources": [
+                  "262468815630262274", 
+                  "262513929241104384"
+               ], 
+               "term": "And"
+            }
+         ]
+      }, 
+      "E.5": {
+         "alias": "8 Dead", 
+         "id": "E.5", 
+         "mentions": [
+            {
+               "sources": [
+                  "262561635477110787"
+               ], 
+               "term": "eight dead"
+            }, 
+            {
+               "sources": [
+                  "262816078865002496"
+               ], 
+               "term": "8 Dead"
+            }
+         ]
+      }, 
+      "E.50": {
+         "alias": "RT LeadershipNGA", 
+         "id": "E.50", 
+         "mentions": [
+            {
+               "sources": [
+                  "262492848685985792"
+               ], 
+               "term": "RT LeadershipNGA"
+            }
+         ]
+      }, 
+      "E.51": {
+         "alias": "again", 
+         "id": "E.51", 
+         "mentions": [
+            {
+               "sources": [
+                  "262492848685985792", 
+                  "262470610540716032"
+               ], 
+               "term": "again"
+            }
+         ]
+      }, 
+      "E.52": {
+         "alias": "Rita", 
+         "id": "E.52", 
+         "mentions": [
+            {
+               "sources": [
+                  "262465053159194624"
+               ], 
+               "term": "Rita"
+            }
+         ]
+      }, 
+      "E.53": {
+         "alias": "will", 
+         "id": "E.53", 
+         "mentions": [
+            {
+               "sources": [
+                  "262465053159194624"
+               ], 
+               "term": "will"
+            }
+         ]
+      }, 
+      "E.54": {
+         "alias": "1 Dead", 
+         "id": "E.54", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513891517546496"
+               ], 
+               "term": "1 Dead"
+            }
+         ]
+      }, 
+      "E.55": {
+         "alias": "SuicideBomber", 
+         "id": "E.55", 
+         "mentions": [
+            {
+               "sources": [
+                  "262480207032766464"
+               ], 
+               "term": "SuicideBomber"
+            }
+         ]
+      }, 
+      "E.56": {
+         "alias": "Ten Killed 100", 
+         "id": "E.56", 
+         "mentions": [
+            {
+               "sources": [
+                  "262844952386609152"
+               ], 
+               "term": "Ten Killed 100"
+            }
+         ]
+      }, 
+      "E.57": {
+         "alias": "11 persons", 
+         "id": "E.57", 
+         "mentions": [
+            {
+               "sources": [
+                  "262678652477644801"
+               ], 
+               "term": "11 persons"
+            }
+         ]
+      }, 
+      "E.58": {
+         "alias": "15", 
+         "id": "E.58", 
+         "mentions": [
+            {
+               "sources": [
+                  "262959695743053824", 
+                  "263019158613135360"
+               ], 
+               "term": "15"
+            }
+         ]
+      }, 
+      "E.59": {
+         "alias": "country", 
+         "id": "E.59", 
+         "mentions": [
+            {
+               "sources": [
+                  "262648142862893057"
+               ], 
+               "term": "country"
+            }
+         ]
+      }, 
+      "E.6": {
+         "alias": "NEMA", 
+         "id": "E.6", 
+         "mentions": [
+            {
+               "sources": [
+                  "262816078865002496", 
+                  "262561635477110787"
+               ], 
+               "term": "NEMA"
+            }
+         ]
+      }, 
+      "E.60": {
+         "alias": "and", 
+         "id": "E.60", 
+         "mentions": [
+            {
+               "sources": [
+                  "262630594108878850", 
+                  "262648142862893057"
+               ], 
+               "term": "and"
+            }
+         ]
+      }, 
+      "E.61": {
+         "alias": "part", 
+         "id": "E.61", 
+         "mentions": [
+            {
+               "sources": [
+                  "262508988426506242"
+               ], 
+               "term": "part"
+            }
+         ]
+      }, 
+      "E.62": {
+         "alias": "E", 
+         "id": "E.62", 
+         "mentions": [
+            {
+               "sources": [
+                  "262510494445883392"
+               ], 
+               "term": "E"
+            }
+         ]
+      }, 
+      "E.63": {
+         "alias": "Ngtrends Boko Haram", 
+         "id": "E.63", 
+         "mentions": [
+            {
+               "sources": [
+                  "262499941526691840"
+               ], 
+               "term": "Ngtrends Boko Haram"
+            }
+         ]
+      }, 
+      "E.64": {
+         "alias": "explosion", 
+         "id": "E.64", 
+         "mentions": [
+            {
+               "sources": [
+                  "262682259440672768"
+               ], 
+               "term": "explosion"
+            }
+         ]
+      }, 
+      "E.65": {
+         "alias": "event", 
+         "id": "E.65", 
+         "mentions": [
+            {
+               "sources": [
+                  "262502692755234816"
+               ], 
+               "term": "event"
+            }, 
+            {
+               "sources": [
+                  "262526327586963457"
+               ], 
+               "term": "number"
+            }
+         ]
+      }, 
+      "E.66": {
+         "alias": "today", 
+         "id": "E.66", 
+         "mentions": [
+            {
+               "sources": [
+                  "262630594108878850", 
+                  "262526327586963457"
+               ], 
+               "term": "today"
+            }
+         ]
+      }, 
+      "E.67": {
+         "alias": "Morning", 
+         "id": "E.67", 
+         "mentions": [
+            {
+               "sources": [
+                  "262508963302625280", 
+                  "262502692755234816"
+               ], 
+               "term": "morning"
+            }, 
+            {
+               "sources": [
+                  "262556958740066305"
+               ], 
+               "term": "Morning"
+            }
+         ]
+      }, 
+      "E.68": {
+         "alias": "injure", 
+         "id": "E.68", 
+         "mentions": [
+            {
+               "sources": [
+                  "262503531578261505"
+               ], 
+               "term": "injure"
+            }
+         ]
+      }, 
+      "E.69": {
+         "alias": "Worshippers", 
+         "id": "E.69", 
+         "mentions": [
+            {
+               "sources": [
+                  "262503531578261505"
+               ], 
+               "term": "Worshippers"
+            }, 
+            {
+               "sources": [
+                  "262527728820031489"
+               ], 
+               "term": "worshippers"
+            }
+         ]
+      }, 
+      "E.7": {
+         "alias": "church", 
+         "id": "E.7", 
+         "mentions": [
+            {
+               "sources": [
+                  "263002268075446272"
+               ], 
+               "term": "church attack"
+            }, 
+            {
+               "sources": [
+                  "262534116547907584", 
+                  "262660642031403008"
+               ], 
+               "term": "church bombing"
+            }, 
+            {
+               "sources": [
+                  "262823741652877312", 
+                  "262527728820031489", 
+                  "262468815630262274", 
+                  "262524557754261504", 
+                  "262630594108878850", 
+                  "262601334635786242", 
+                  "262508963302625280", 
+                  "262530714921234433", 
+                  "262509026447859713", 
+                  "262551174887124992", 
+                  "262494539284107264", 
+                  "262499941526691840", 
+                  "262862887314403329", 
+                  "262895086801649664", 
+                  "262525686059769856", 
+                  "262503531578261505"
+               ], 
+               "term": "church"
+            }, 
+            {
+               "sources": [
+                  "262497080885534720"
+               ], 
+               "term": "Nigerian church"
+            }, 
+            {
+               "sources": [
+                  "262501652622344192"
+               ], 
+               "term": "Kaduna church blast"
+            }, 
+            {
+               "sources": [
+                  "262541129365475328"
+               ], 
+               "term": "Church"
+            }, 
+            {
+               "sources": [
+                  "262720498851532801", 
+                  "262542555714027520", 
+                  "262490525012213760"
+               ], 
+               "term": "Nigeria church"
+            }, 
+            {
+               "sources": [
+                  "262528722635206656"
+               ], 
+               "term": "Wetin catholic church"
+            }
+         ]
+      }, 
+      "E.70": {
+         "alias": "himself", 
+         "id": "E.70", 
+         "mentions": [
+            {
+               "sources": [
+                  "262519935882887168"
+               ], 
+               "term": "himself"
+            }
+         ]
+      }, 
+      "E.71": {
+         "alias": "YouTube", 
+         "id": "E.71", 
+         "mentions": [
+            {
+               "sources": [
+                  "262720498851532801"
+               ], 
+               "term": "YouTube"
+            }
+         ]
+      }, 
+      "E.72": {
+         "alias": "Suicide Bomb Attack", 
+         "id": "E.72", 
+         "mentions": [
+            {
+               "sources": [
+                  "262720498851532801"
+               ], 
+               "term": "Attack"
+            }, 
+            {
+               "sources": [
+                  "262840166786412544"
+               ], 
+               "term": "Suicide Bomb Attack"
+            }
+         ]
+      }, 
+      "E.73": {
+         "alias": "several", 
+         "id": "E.73", 
+         "mentions": [
+            {
+               "sources": [
+                  "262551174887124992"
+               ], 
+               "term": "several"
+            }
+         ]
+      }, 
+      "E.74": {
+         "alias": "car bombing", 
+         "id": "E.74", 
+         "mentions": [
+            {
+               "sources": [
+                  "262509810707218432"
+               ], 
+               "term": "car bombing"
+            }
+         ]
+      }, 
+      "E.75": {
+         "alias": "144 Wounded Injured", 
+         "id": "E.75", 
+         "mentions": [
+            {
+               "sources": [
+                  "262678652477644801"
+               ], 
+               "term": "144 Wounded Injured"
+            }
+         ]
+      }, 
+      "E.76": {
+         "alias": "rampage", 
+         "id": "E.76", 
+         "mentions": [
+            {
+               "sources": [
+                  "262865248485265408"
+               ], 
+               "term": "rampage"
+            }
+         ]
+      }, 
+      "E.77": {
+         "alias": "Blog", 
+         "id": "E.77", 
+         "mentions": [
+            {
+               "sources": [
+                  "262865248485265408"
+               ], 
+               "term": "Blog"
+            }
+         ]
+      }, 
+      "E.78": {
+         "alias": "victims", 
+         "id": "E.78", 
+         "mentions": [
+            {
+               "sources": [
+                  "262579117453615104"
+               ], 
+               "term": "victims"
+            }
+         ]
+      }, 
+      "E.79": {
+         "alias": "bomber drives", 
+         "id": "E.79", 
+         "mentions": [
+            {
+               "sources": [
+                  "262551174887124992"
+               ], 
+               "term": "bomber drives"
+            }
+         ]
+      }, 
+      "E.8": {
+         "alias": "bomb blast", 
+         "id": "E.8", 
+         "mentions": [
+            {
+               "sources": [
+                  "262465053159194624", 
+                  "262687871553662976", 
+                  "262487966675517440"
+               ], 
+               "term": "blast"
+            }, 
+            {
+               "sources": [
+                  "262526327586963457", 
+                  "262495180949700608"
+               ], 
+               "term": "bomb blast"
+            }
+         ]
+      }, 
+      "E.80": {
+         "alias": "Youth", 
+         "id": "E.80", 
+         "mentions": [
+            {
+               "sources": [
+                  "262865248485265408"
+               ], 
+               "term": "Youth"
+            }
+         ]
+      }, 
+      "E.81": {
+         "alias": "Bomb Blast", 
+         "id": "E.81", 
+         "mentions": [
+            {
+               "sources": [
+                  "262498758795866113", 
+                  "262479779209551872"
+               ], 
+               "term": "Bomb Blast"
+            }
+         ]
+      }, 
+      "E.82": {
+         "alias": "mass murder", 
+         "id": "E.82", 
+         "mentions": [
+            {
+               "sources": [
+                  "262952376728711170"
+               ], 
+               "term": "mass murder"
+            }
+         ]
+      }, 
+      "E.83": {
+         "alias": "ABUJAnoni", 
+         "id": "E.83", 
+         "mentions": [
+            {
+               "sources": [
+                  "262513929241104384"
+               ], 
+               "term": "ABUJAnoni"
+            }
+         ]
+      }, 
+      "E.84": {
+         "alias": "Copts", 
+         "id": "E.84", 
+         "mentions": [
+            {
+               "sources": [
+                  "262844952386609152"
+               ], 
+               "term": "Copts"
+            }
+         ]
+      }, 
+      "E.85": {
+         "alias": "Storm", 
+         "id": "E.85", 
+         "mentions": [
+            {
+               "sources": [
+                  "262844952386609152"
+               ], 
+               "term": "Storm"
+            }
+         ]
+      }, 
+      "E.86": {
+         "alias": "Pope .3", 
+         "id": "E.86", 
+         "mentions": [
+            {
+               "sources": [
+                  "262844952386609152"
+               ], 
+               "term": "Pope .3"
+            }
+         ]
+      }, 
+      "E.87": {
+         "alias": "8", 
+         "id": "E.87", 
+         "mentions": [
+            {
+               "sources": [
+                  "262919166380621824"
+               ], 
+               "term": "8"
+            }
+         ]
+      }, 
+      "E.88": {
+         "alias": "RT SaharaReporters", 
+         "id": "E.88", 
+         "mentions": [
+            {
+               "sources": [
+                  "262528722635206656"
+               ], 
+               "term": "RT SaharaReporters"
+            }
+         ]
+      }, 
+      "E.89": {
+         "alias": "President Jonathan", 
+         "id": "E.89", 
+         "mentions": [
+            {
+               "sources": [
+                  "262630594108878850"
+               ], 
+               "term": "President Jonathan"
+            }
+         ]
+      }, 
+      "E.9": {
+         "alias": "Mass", 
+         "id": "E.9", 
+         "mentions": [
+            {
+               "sources": [
+                  "262527728820031489"
+               ], 
+               "term": "Mass"
+            }, 
+            {
+               "sources": [
+                  "263002268075446272"
+               ], 
+               "term": "Troops"
+            }
+         ]
+      }, 
+      "E.90": {
+         "alias": "self injures", 
+         "id": "E.90", 
+         "mentions": [
+            {
+               "sources": [
+                  "262511756675534849"
+               ], 
+               "term": "self injures"
+            }
+         ]
+      }, 
+      "E.91": {
+         "alias": "20", 
+         "id": "E.91", 
+         "mentions": [
+            {
+               "sources": [
+                  "262506182562959360"
+               ], 
+               "term": "20"
+            }
+         ]
+      }, 
+      "E.92": {
+         "alias": "story", 
+         "id": "E.92", 
+         "mentions": [
+            {
+               "sources": [
+                  "262578660027006977"
+               ], 
+               "term": "story"
+            }
+         ]
+      }, 
+      "E.93": {
+         "alias": "Al Jazeera", 
+         "id": "E.93", 
+         "mentions": [
+            {
+               "sources": [
+                  "262660642031403008"
+               ], 
+               "term": "Al Jazeera"
+            }
+         ]
+      }, 
+      "E.94": {
+         "alias": "five people", 
+         "id": "E.94", 
+         "mentions": [
+            {
+               "sources": [
+                  "262551174887124992"
+               ], 
+               "term": "five people"
+            }
+         ]
+      }, 
+      "E.95": {
+         "alias": "car bomb", 
+         "id": "E.95", 
+         "mentions": [
+            {
+               "sources": [
+                  "262519935882887168"
+               ], 
+               "term": "car bomb"
+            }
+         ]
+      }, 
+      "E.96": {
+         "alias": "Church In", 
+         "id": "E.96", 
+         "mentions": [
+            {
+               "sources": [
+                  "262480207032766464"
+               ], 
+               "term": "Church In"
+            }
+         ]
+      }, 
+      "E.97": {
+         "alias": "morning bomb attack", 
+         "id": "E.97", 
+         "mentions": [
+            {
+               "sources": [
+                  "262514059579101185"
+               ], 
+               "term": "morning bomb attack"
+            }
+         ]
+      }, 
+      "E.98": {
+         "alias": "My", 
+         "id": "E.98", 
+         "mentions": [
+            {
+               "sources": [
+                  "262579117453615104"
+               ], 
+               "term": "My"
+            }
+         ]
+      }, 
+      "E.99": {
+         "alias": "yero kaduna", 
+         "id": "E.99", 
+         "mentions": [
+            {
+               "sources": [
+                  "262465053159194624"
+               ], 
+               "term": "yero kaduna"
+            }
+         ]
+      }
+   }, 
+   "propositions": {
+      "P.1": {
+         "alias": "247", 
+         "arguments": [
+            {
+               "id": "a.30", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.31", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.32", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.33", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.34", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.35", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262527728820031489", 
+                        "262527728820031489", 
+                        "262488197525803008", 
+                        "262823741652877312", 
+                        "262682259440672768", 
+                        "262487966675517440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262528827656372226"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262510494445883392", 
+                        "262465053159194624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.70", 
+                     "sources": [
+                        "262519935882887168"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.29", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.28", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.92", 
+                     "sources": [
+                        "262578660027006977"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.23", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.62", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.22", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "262519935882887168"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.21", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.69", 
+                     "sources": [
+                        "262527728820031489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.20", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.42", 
+                     "sources": [
+                        "262502692755234816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.27", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.13", 
+                     "sources": [
+                        "262604706961035265", 
+                        "262605163989180416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.26", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.53", 
+                     "sources": [
+                        "262465053159194624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.25", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "262465053159194624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.24", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.99", 
+                     "sources": [
+                        "262465053159194624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.17", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.42", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "262527728820031489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.9", 
+                     "sources": [
+                        "262502692755234816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262484451668393984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262465053159194624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "262519935882887168"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "262604706961035265", 
+                        "262605163989180416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.18", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.45", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.19", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.44", 
+                     "sources": [
+                        "262510494445883392"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.1", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262484451668393984"
+                  ], 
+                  "template": "{a.12} In"
+               }, 
+               {
+                  "sources": [
+                     "262519935882887168"
+                  ], 
+                  "template": "wounding {a.22}"
+               }, 
+               {
+                  "sources": [
+                     "262488197525803008", 
+                     "262823741652877312", 
+                     "262682259440672768", 
+                     "262487966675517440"
+                  ], 
+                  "template": "northern {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262519935882887168"
+                  ], 
+                  "template": "killing {a.10} {a.8} and wounding"
+               }, 
+               {
+                  "sources": [
+                     "262527728820031489"
+                  ], 
+                  "template": "injuring {a.21}"
+               }, 
+               {
+                  "sources": [
+                     "262465053159194624"
+                  ], 
+                  "template": "{a.13} {a.3} {a.24} When {a.26}"
+               }, 
+               {
+                  "sources": [
+                     "262510494445883392"
+                  ], 
+                  "template": "247 {a.17} {a.5} {a.29} {a.9} {a.30} {a.23} {a.31} {a.35} {a.32} {a.6} {a.33} {a.18} {a.34} {a.19} {a.2} {a.16} {a.4} {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262578660027006977"
+                  ], 
+                  "template": "Updating {a.28}"
+               }, 
+               {
+                  "sources": [
+                     "262604706961035265", 
+                     "262605163989180416"
+                  ], 
+                  "template": "{a.11} 145 {a.27}"
+               }, 
+               {
+                  "sources": [
+                     "262528827656372226"
+                  ], 
+                  "template": "prompting {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "262527728820031489"
+                  ], 
+                  "template": "north {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262527728820031489"
+                  ], 
+                  "template": "holding {a.14} in {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262502692755234816"
+                  ], 
+                  "template": "{a.20} as {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "262465053159194624"
+                  ], 
+                  "template": "saint {a.25}"
+               }
+            ]
+         }
+      }, 
+      "P.10": {
+         "alias": "Welcome To", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.11", 
+                     "sources": [
+                        "262865248485265408"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.77", 
+                     "sources": [
+                        "262865248485265408"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.10", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262865248485265408"
+                  ], 
+                  "template": "Welcome To {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.11": {
+         "alias": "go on after", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262865248485265408"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.80", 
+                     "sources": [
+                        "262865248485265408"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.76", 
+                     "sources": [
+                        "262865248485265408"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.11", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262865248485265408"
+                  ], 
+                  "template": "{a.2} go on {a.3} after {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.12": {
+         "alias": "Bombed In", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262556958740066305", 
+                        "262487152942788608"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.67", 
+                     "sources": [
+                        "262556958740066305"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262556958740066305"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.12", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262556958740066305"
+                  ], 
+                  "template": "{a.1} Bombed In {a.3} {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262487152942788608"
+                  ], 
+                  "template": "{a.1} Bombed"
+               }
+            ]
+         }
+      }, 
+      "P.13": {
+         "alias": "wounded in", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "262584573949530112"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "262578660027006977"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "262578660027006977"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262604706961035265", 
+                        "262605163989180416", 
+                        "262578660027006977"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.13", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262604706961035265", 
+                     "262605163989180416"
+                  ], 
+                  "template": "wounded in {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262584573949530112"
+                  ], 
+                  "template": "wounded in {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "262578660027006977"
+                  ], 
+                  "template": "{a.2} {a.1} wounded in {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.14": {
+         "alias": "At Injured", 
+         "arguments": [
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.84", 
+                     "sources": [
+                        "262844952386609152"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262513891517546496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "262603197007421442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "262513891517546496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "262603197007421442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.54", 
+                     "sources": [
+                        "262513891517546496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "262603197007421442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.45", 
+                     "sources": [
+                        "262844952386609152"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.36", 
+                     "sources": [
+                        "262603197007421442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.56", 
+                     "sources": [
+                        "262844952386609152"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262603197007421442"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.14", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262603197007421442"
+                  ], 
+                  "template": "{a.9} At {a.6} {a.1} Injured {a.4} {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262844952386609152"
+                  ], 
+                  "template": "{a.10} {a.8} Injured in {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262513891517546496"
+                  ], 
+                  "template": "{a.7} {a.5} Injured In {a.11}"
+               }
+            ]
+         }
+      }, 
+      "P.15": {
+         "alias": "Killed in", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262555583113228288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.100", 
+                     "sources": [
+                        "262594149566537728"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262594149566537728"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.72", 
+                     "sources": [
+                        "262840166786412544"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262594149566537728"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.15", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262555583113228288"
+                  ], 
+                  "template": "Killed In {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "262594149566537728"
+                  ], 
+                  "template": "{a.5} Killed in {a.3} {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "262840166786412544"
+                  ], 
+                  "template": "Killed In {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.16": {
+         "alias": "bombed", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262687871553662976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262687871553662976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262494539284107264"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.16", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262494539284107264"
+                  ], 
+                  "template": "{a.3} bombed"
+               }, 
+               {
+                  "sources": [
+                     "262687871553662976"
+                  ], 
+                  "template": "{a.2} bomb {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.17": {
+         "alias": "BBCAfrica", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.35", 
+                     "sources": [
+                        "262492848685985792"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "262492848685985792"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "262492848685985792"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.17", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262492848685985792"
+                  ], 
+                  "template": "{a.1} {a.3} BBCAfrica {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.18": {
+         "alias": "report on", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.93", 
+                     "sources": [
+                        "262660642031403008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262660642031403008"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.18", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262660642031403008"
+                  ], 
+                  "template": "{a.1} report on {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.19": {
+         "alias": "attacks/Bombs", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.55", 
+                     "sources": [
+                        "262480207032766464"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.96", 
+                     "sources": [
+                        "262480207032766464"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.19", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262480207032766464"
+                  ], 
+                  "template": "{a.1} attacks/Bombs {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.2": {
+         "alias": "attack in", 
+         "arguments": [
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.69", 
+                     "sources": [
+                        "262503531578261505"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262542555714027520"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "262528827656372226"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.30", 
+                     "sources": [
+                        "262527728820031489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262512939536351232"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262525686059769856", 
+                        "262527728820031489", 
+                        "262503531578261505", 
+                        "262508963302625280", 
+                        "262524557754261504", 
+                        "262542555714027520"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "262528827656372226", 
+                        "262527728820031489", 
+                        "262605163989180416", 
+                        "262604706961035265"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262525686059769856", 
+                        "262506182562959360", 
+                        "262508963302625280", 
+                        "262524557754261504", 
+                        "262510448170131457"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.13", 
+                     "sources": [
+                        "262578660027006977"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262528827656372226", 
+                        "262510448170131457"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262525686059769856", 
+                        "262506182562959360", 
+                        "262503531578261505", 
+                        "262508963302625280", 
+                        "262524557754261504"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "262527728820031489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "262605163989180416", 
+                        "262604706961035265"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.67", 
+                     "sources": [
+                        "262508963302625280"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262512939536351232"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.2", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262512939536351232"
+                  ], 
+                  "template": "{a.1} attacks after {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "262525686059769856", 
+                     "262524557754261504"
+                  ], 
+                  "template": "{a.12} attack {a.14} in {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "262578660027006977"
+                  ], 
+                  "template": "{a.13} attacks"
+               }, 
+               {
+                  "sources": [
+                     "262542555714027520"
+                  ], 
+                  "template": "{a.3} attack at {a.14}"
+               }, 
+               {
+                  "sources": [
+                     "262508963302625280"
+                  ], 
+                  "template": "{a.12} attack {a.14} in {a.11} {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "262527728820031489"
+                  ], 
+                  "template": "{a.4} attacks {a.14} {a.15} {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262528827656372226"
+                  ], 
+                  "template": "{a.6} attack {a.2} {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262506182562959360"
+                  ], 
+                  "template": "{a.12} attacks {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "262510448170131457"
+                  ], 
+                  "template": "{a.12} attacks {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262503531578261505"
+                  ], 
+                  "template": "{a.10} attack {a.14} in {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "262605163989180416", 
+                     "262604706961035265"
+                  ], 
+                  "template": "{a.8} {a.7} attacks"
+               }
+            ]
+         }
+      }, 
+      "P.20": {
+         "alias": "patrol after", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "263002268075446272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "263002268075446272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "263002268075446272"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.20", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "263002268075446272"
+                  ], 
+                  "template": "{a.1} patrol {a.2} after {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.21": {
+         "alias": "shakes in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262487966675517440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "262487966675517440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262487966675517440"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.21", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262487966675517440"
+                  ], 
+                  "template": "{a.1} shakes {a.2} in {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.22": {
+         "alias": "condolences to", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.78", 
+                     "sources": [
+                        "262579117453615104"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.98", 
+                     "sources": [
+                        "262579117453615104"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.22", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262579117453615104"
+                  ], 
+                  "template": "{a.2} condolences to {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.23": {
+         "alias": "hurt in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "262583252680843264"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.31", 
+                     "sources": [
+                        "262583252680843264"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "262583252680843264"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.23", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262583252680843264"
+                  ], 
+                  "template": "{a.3} {a.2} hurt in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.24": {
+         "alias": "Increased to", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.57", 
+                     "sources": [
+                        "262678652477644801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.75", 
+                     "sources": [
+                        "262678652477644801"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.24", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262678652477644801"
+                  ], 
+                  "template": "Increased to {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.25": {
+         "alias": "do", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.88", 
+                     "sources": [
+                        "262528722635206656"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262528722635206656"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.25", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262528722635206656"
+                  ], 
+                  "template": "{a.2} do {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.26": {
+         "alias": "help from", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "262648142862893057"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "262648142862893057"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.26", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262648142862893057"
+                  ], 
+                  "template": "help {a.2} from {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.27": {
+         "alias": "Wounded In", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "262836601409921024"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262836601409921024"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.27", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262836601409921024"
+                  ], 
+                  "template": "{a.1} Wounded In {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.28": {
+         "alias": "commits with", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.82", 
+                     "sources": [
+                        "262952376728711170"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262952376728711170"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "262952376728711170"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.28", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262952376728711170"
+                  ], 
+                  "template": "{a.3} commits {a.1} with {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.29": {
+         "alias": "Sympathise with over", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.97", 
+                     "sources": [
+                        "262514059579101185"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "262514059579101185"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.29", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262514059579101185"
+                  ], 
+                  "template": "Sympathise with {a.2} over {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.3": {
+         "alias": "to slam", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.95", 
+                     "sources": [
+                        "262519935882887168"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.3", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262519935882887168"
+                  ], 
+                  "template": "to slam {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.30": {
+         "alias": "say", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.26", 
+                     "sources": [
+                        "262682259440672768"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.30", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262682259440672768"
+                  ], 
+                  "template": "{a.1} say"
+               }
+            ]
+         }
+      }, 
+      "P.31": {
+         "alias": "be", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "262509026447859713"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262509026447859713"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "262509026447859713"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.31", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262509026447859713"
+                  ], 
+                  "template": "{a.3} {a.2} {a.1} be"
+               }
+            ]
+         }
+      }, 
+      "P.32": {
+         "alias": "explode for", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262509026447859713"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.32", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262509026447859713"
+                  ], 
+                  "template": "explode for {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.33": {
+         "alias": "confirms", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "262561635477110787"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "262561635477110787"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.33", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262561635477110787"
+                  ], 
+                  "template": "{a.2} confirms {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.34": {
+         "alias": "Says", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262816078865002496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "262816078865002496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "262816078865002496"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.34", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262816078865002496"
+                  ], 
+                  "template": "{a.3} Says {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.35": {
+         "alias": "has condemned on as", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.66", 
+                     "sources": [
+                        "262630594108878850"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262630594108878850"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "262630594108878850"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "262630594108878850"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.89", 
+                     "sources": [
+                        "262630594108878850"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.35", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262630594108878850"
+                  ], 
+                  "template": "{a.3} has condemned {a.1} on {a.5} {a.4} as {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.36": {
+         "alias": "blow at", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262468815630262274"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "262468815630262274"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.24", 
+                     "sources": [
+                        "262468815630262274"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262468815630262274"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.36", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262468815630262274"
+                  ], 
+                  "template": "{a.1} {a.3} {a.2} blow at {a.4}"
+               }
+            ]
+         }
+      }, 
+      "P.37": {
+         "alias": "Attacks in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262541129365475328"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262541129365475328"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262541129365475328"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.37", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262541129365475328"
+                  ], 
+                  "template": "{a.2} Attacks {a.3} in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.38": {
+         "alias": "Seek After", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "262557030177468416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262557030177468416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "262557030177468416"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.38", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262557030177468416"
+                  ], 
+                  "template": "{a.1} Seek {a.3} After {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.39": {
+         "alias": "sparks", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262534116547907584"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262534116547907584"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.39", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262534116547907584"
+                  ], 
+                  "template": "{a.2} sparks {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.4": {
+         "alias": "Hits", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.63", 
+                     "sources": [
+                        "262499941526691840"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262499941526691840"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262499941526691840"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262479779209551872", 
+                        "262482191106318336", 
+                        "262498758795866113"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262482191106318336"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.81", 
+                     "sources": [
+                        "262479779209551872", 
+                        "262498758795866113"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.4", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262479779209551872", 
+                     "262498758795866113"
+                  ], 
+                  "template": "{a.3} Hits {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "262499941526691840"
+                  ], 
+                  "template": "{a.4} Hits {a.6} in {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "262482191106318336"
+                  ], 
+                  "template": "{a.2} Hits {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.40": {
+         "alias": "let", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.48", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.41", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.40", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262513929241104384"
+                  ], 
+                  "template": "{a.1} {a.2} let {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.41": {
+         "alias": "celebrate", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.47", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.83", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.46", 
+                     "sources": [
+                        "262513929241104384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.41", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262513929241104384"
+                  ], 
+                  "template": "{a.1} celebrate {a.3} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.42": {
+         "alias": "occurred", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.67", 
+                     "sources": [
+                        "262502692755234816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "262502692755234816"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.42", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262502692755234816"
+                  ], 
+                  "template": "{a.2} occurred {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.43": {
+         "alias": "toptosyn", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262813780277329920"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.43", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262813780277329920"
+                  ], 
+                  "template": "toptosyn {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.44": {
+         "alias": "to vote for", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.86", 
+                     "sources": [
+                        "262844952386609152"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.44", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262844952386609152"
+                  ], 
+                  "template": "to vote for {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.45": {
+         "alias": "Flee Before", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.85", 
+                     "sources": [
+                        "262844952386609152"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.45", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262844952386609152"
+                  ], 
+                  "template": "Flee Before {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.5": {
+         "alias": "injured", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "262682259440672768", 
+                        "262823741652877312"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.73", 
+                     "sources": [
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "262656078624477184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262656078624477184", 
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "262823741652877312"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.79", 
+                     "sources": [
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.31", 
+                     "sources": [
+                        "262823741652877312"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262823741652877312", 
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.94", 
+                     "sources": [
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.5", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262682259440672768"
+                  ], 
+                  "template": "{a.4} injured"
+               }, 
+               {
+                  "sources": [
+                     "262551174887124992"
+                  ], 
+                  "template": "{a.9} {a.5} injured after {a.7} {a.2} into {a.8}"
+               }, 
+               {
+                  "sources": [
+                     "262823741652877312"
+                  ], 
+                  "template": "{a.4} {a.3} injured in {a.1} at {a.8}"
+               }, 
+               {
+                  "sources": [
+                     "262656078624477184"
+                  ], 
+                  "template": "{a.7} injures {a.6}"
+               }
+            ]
+         }
+      }, 
+      "P.6": {
+         "alias": "Aftermath Of", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.41", 
+                     "sources": [
+                        "262512641614942208"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.6", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262512641614942208"
+                  ], 
+                  "template": "Aftermath Of {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.7": {
+         "alias": "kills", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "262823741652877312", 
+                        "262583252680843264", 
+                        "262682259440672768"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262584708192419840", 
+                        "262509810707218432"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "262509810707218432", 
+                        "262501652622344192"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.74", 
+                     "sources": [
+                        "262509810707218432"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262919166380621824"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262526327586963457"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.30", 
+                     "sources": [
+                        "262588936151515137"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.30", 
+                     "sources": [
+                        "262682259440672768"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262959695743053824", 
+                        "263019158613135360", 
+                        "262492848685985792", 
+                        "262511756675534849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.23", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.94", 
+                     "sources": [
+                        "262551174887124992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.22", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "262551262954938368"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.21", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.64", 
+                     "sources": [
+                        "262682259440672768"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.20", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "262526327586963457"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.26", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "262959695743053824", 
+                        "263019158613135360"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.25", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.91", 
+                     "sources": [
+                        "262506182562959360"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.24", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.90", 
+                     "sources": [
+                        "262511756675534849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.68", 
+                     "sources": [
+                        "262503531578261505"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.17", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.22", 
+                     "sources": [
+                        "262584708192419840", 
+                        "262582757992050688", 
+                        "262588936151515137"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.2", 
+                     "sources": [
+                        "262506182562959360"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "262551262954938368"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262526327586963457"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.87", 
+                     "sources": [
+                        "262919166380621824"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262919166380621824", 
+                        "262492848685985792", 
+                        "262503531578261505", 
+                        "262511756675534849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262501652622344192"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.18", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262582757992050688"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.19", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.66", 
+                     "sources": [
+                        "262526327586963457"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.7", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262584708192419840"
+                  ], 
+                  "template": "{a.5} kills {a.17}"
+               }, 
+               {
+                  "sources": [
+                     "262526327586963457"
+                  ], 
+                  "template": "{a.20} have been killed in {a.12} at {a.2} {a.19}"
+               }, 
+               {
+                  "sources": [
+                     "262582757992050688"
+                  ], 
+                  "template": "{a.18} kills {a.17}"
+               }, 
+               {
+                  "sources": [
+                     "262823741652877312"
+                  ], 
+                  "template": "{a.4} have been killed and injured"
+               }, 
+               {
+                  "sources": [
+                     "262919166380621824"
+                  ], 
+                  "template": "{a.10} kills {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "262959695743053824", 
+                     "263019158613135360"
+                  ], 
+                  "template": "{a.9} kills {a.26}"
+               }, 
+               {
+                  "sources": [
+                     "262503531578261505"
+                  ], 
+                  "template": "killed {a.16} as {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "262509810707218432"
+                  ], 
+                  "template": "{a.6} killed in {a.7} in {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "262511756675534849"
+                  ], 
+                  "template": "{a.10} kills {a.24} in {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "262492848685985792"
+                  ], 
+                  "template": "killed as {a.10} in {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "262506182562959360"
+                  ], 
+                  "template": "{a.14} kills {a.25}"
+               }, 
+               {
+                  "sources": [
+                     "262583252680843264"
+                  ], 
+                  "template": "{a.4} have been killed and hurt"
+               }, 
+               {
+                  "sources": [
+                     "262501652622344192"
+                  ], 
+                  "template": "{a.6} killed in {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "262588936151515137"
+                  ], 
+                  "template": "{a.3} kills {a.17}"
+               }, 
+               {
+                  "sources": [
+                     "262919166380621824"
+                  ], 
+                  "template": "killed in {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "262551174887124992"
+                  ], 
+                  "template": "{a.23} killed and injured"
+               }, 
+               {
+                  "sources": [
+                     "262551262954938368"
+                  ], 
+                  "template": "{a.22} killed in {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "262682259440672768"
+                  ], 
+                  "template": "{a.4} killed or injured in {a.21} {a.8}"
+               }
+            ]
+         }
+      }, 
+      "P.8": {
+         "alias": "blast at", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "262470610540716032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262470610540716032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262470610540716032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262470610540716032"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.8", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262470610540716032"
+                  ], 
+                  "template": "{a.3} blast {a.4} at {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.9": {
+         "alias": "hit in", 
+         "arguments": [
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "262720498851532801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "262530714921234433", 
+                        "262490525012213760", 
+                        "262497080885534720"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262862887314403329", 
+                        "262502692755234816", 
+                        "262481704575447040", 
+                        "262481373271564288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262495180949700608"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "262481704575447040", 
+                        "262481373271564288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "262492915786477568"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262895086801649664", 
+                        "262516169263681537", 
+                        "262601334635786242"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.61", 
+                     "sources": [
+                        "262508988426506242"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "262862887314403329"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "262530714921234433", 
+                        "262862887314403329", 
+                        "262720498851532801", 
+                        "262490525012213760", 
+                        "262895086801649664", 
+                        "262601334635786242", 
+                        "262497080885534720"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262862887314403329", 
+                        "262495180949700608", 
+                        "262492915786477568", 
+                        "262516169263681537", 
+                        "262508988426506242"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.24", 
+                     "sources": [
+                        "262481704575447040", 
+                        "262481373271564288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.72", 
+                     "sources": [
+                        "262720498851532801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "262502692755234816", 
+                        "262481704575447040", 
+                        "262495180949700608", 
+                        "262481373271564288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "262508988426506242"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.9", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262492915786477568"
+                  ], 
+                  "template": "{a.5} hits {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "262490525012213760", 
+                     "262497080885534720"
+                  ], 
+                  "template": "{a.2} hits {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "262895086801649664", 
+                     "262601334635786242"
+                  ], 
+                  "template": "{a.13} hit in {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "262502692755234816"
+                  ], 
+                  "template": "{a.11} hit {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "262508988426506242"
+                  ], 
+                  "template": "{a.1} hit {a.10} in {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "262495180949700608"
+                  ], 
+                  "template": "{a.14} hits {a.9} in {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "262530714921234433"
+                  ], 
+                  "template": "{a.13} hit in {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262516169263681537"
+                  ], 
+                  "template": "{a.10} hit in {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "262481704575447040", 
+                     "262481373271564288"
+                  ], 
+                  "template": "{a.11} has {a.3} hit {a.9} in {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "262862887314403329"
+                  ], 
+                  "template": "{a.12} {a.11} hit {a.13} in {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "262720498851532801"
+                  ], 
+                  "template": "{a.8} hits {a.13} on {a.7}"
+               }
+            ]
+         }
+      }
+   }, 
+   "tweets": {
+      "262465053159194624": {
+         "author": "Loiskange", 
+         "id": "262465053159194624", 
+         "string": "Bomb blast in saint Rita's Catholic Church in angwan yero kaduna! When will all this end?", 
+         "timestamp": "2012-10-28 08:05:19"
+      }, 
+      "262466525431226368": {
+         "author": "FidelisMbah", 
+         "id": "262466525431226368", 
+         "string": "Any confirmation of the reported bomb explosion at Ungwar Yero Catholic church in Kaduna?", 
+         "timestamp": "2012-10-28 08:11:10"
+      }, 
+      "262467460874240000": {
+         "author": "YBaba_kes", 
+         "id": "262467460874240000", 
+         "string": "So another bomb blast in Kaduna smh.", 
+         "timestamp": "2012-10-28 08:14:53"
+      }, 
+      "262468815630262274": {
+         "author": "abbasbaggy", 
+         "id": "262468815630262274", 
+         "string": "And another bomb has reportedly been blow at a church in kaduna.", 
+         "timestamp": "2012-10-28 08:20:16"
+      }, 
+      "262470304398450688": {
+         "author": "xaxxoo", 
+         "id": "262470304398450688", 
+         "string": "Kaduna. Bomb. Church. Today.", 
+         "timestamp": "2012-10-28 08:26:11"
+      }, 
+      "262470610540716032": {
+         "author": "iotama22", 
+         "id": "262470610540716032", 
+         "string": "Bomb blast again at St. Rita's Catholic Church, Badarawa, Kaduna State.", 
+         "timestamp": "2012-10-28 08:27:24"
+      }, 
+      "262479280469049344": {
+         "author": "PremiumTimesng", 
+         "id": "262479280469049344", 
+         "string": "Explosion rocks Kaduna Church", 
+         "timestamp": "2012-10-28 09:01:51"
+      }, 
+      "262479779209551872": {
+         "author": "MuthokaTito", 
+         "id": "262479779209551872", 
+         "string": "Bomb Blast Hits Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 09:03:50"
+      }, 
+      "262480207032766464": {
+         "author": "Steffgossip", 
+         "id": "262480207032766464", 
+         "string": "SuicideBomber attacks/Bombs Church In", 
+         "timestamp": "2012-10-28 09:05:32"
+      }, 
+      "262481373271564288": {
+         "author": "Olabaddie", 
+         "id": "262481373271564288", 
+         "string": "A suspected suicide bomber has reportedly hit St. Rita Catholic Church in Ungwar Yero area of Kaduna metropolis.\"", 
+         "timestamp": "2012-10-28 09:10:10"
+      }, 
+      "262481704575447040": {
+         "author": "awonelly", 
+         "id": "262481704575447040", 
+         "string": "A suicide bomber has reportedly hit St. Rita Catholic Church in Ungwar Yero area of Kaduna metropolis.", 
+         "timestamp": "2012-10-28 09:11:29"
+      }, 
+      "262482191106318336": {
+         "author": "miamy4tweet", 
+         "id": "262482191106318336", 
+         "string": "Suicide Bomber Hits Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 09:13:25"
+      }, 
+      "262483457958100992": {
+         "author": "nzesylva", 
+         "id": "262483457958100992", 
+         "string": "This people no dey taya? To what end? Another Church bombed in Kaduna. Just sad.", 
+         "timestamp": "2012-10-28 09:18:27"
+      }, 
+      "262484451668393984": {
+         "author": "MCYACKS", 
+         "id": "262484451668393984", 
+         "string": "Suicide Bomber Hits Catholic Church In Kaduna", 
+         "timestamp": "2012-10-28 09:22:24"
+      }, 
+      "262485395445514240": {
+         "author": "Nyaku9", 
+         "id": "262485395445514240", 
+         "string": "Explosion rocks Kaduna Church", 
+         "timestamp": "2012-10-28 09:26:09"
+      }, 
+      "262487152942788608": {
+         "author": "Mivida7News", 
+         "id": "262487152942788608", 
+         "string": "Catholic Church in Kaduna Bombed", 
+         "timestamp": "2012-10-28 09:33:08"
+      }, 
+      "262487966675517440": {
+         "author": "chuhaizhou", 
+         "id": "262487966675517440", 
+         "string": "Loud blast shakes area near church in northern Nigeria", 
+         "timestamp": "2012-10-28 09:36:22"
+      }, 
+      "262488197525803008": {
+         "author": "Voiceof9jathugs", 
+         "id": "262488197525803008", 
+         "string": "Loud blast in area near church in northern Nigeria", 
+         "timestamp": "2012-10-28 09:37:17"
+      }, 
+      "262490525012213760": {
+         "author": "Heatingnewsss", 
+         "id": "262490525012213760", 
+         "string": "Bomb attack hits Nigeria church", 
+         "timestamp": "2012-10-28 09:46:32"
+      }, 
+      "262492848685985792": {
+         "author": "o2xerxes", 
+         "id": "262492848685985792", 
+         "string": "Bloody Sunday all again BBCAfrica RT LeadershipNGA:UPDATE:Over 15 killed as suicide bomber attacks church in Kaduna..", 
+         "timestamp": "2012-10-28 09:55:46"
+      }, 
+      "262492852901269504": {
+         "author": "ebuka_akara", 
+         "id": "262492852901269504", 
+         "string": "Another Boko Haram BOMB Explosion in Kaduna Catholic church", 
+         "timestamp": "2012-10-28 09:55:47"
+      }, 
+      "262492915786477568": {
+         "author": "MalmeeMOHAMMED", 
+         "id": "262492915786477568", 
+         "string": "Bomb hits Kaduna church | Daily Times Nigeria", 
+         "timestamp": "2012-10-28 09:56:02"
+      }, 
+      "262494539284107264": {
+         "author": "Yhustler_me", 
+         "id": "262494539284107264", 
+         "string": "Catholic church in Kaduna bombed", 
+         "timestamp": "2012-10-28 10:02:29"
+      }, 
+      "262495180949700608": {
+         "author": "_MoneyMaker1", 
+         "id": "262495180949700608", 
+         "string": "Another bomb blast hits Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 10:05:02"
+      }, 
+      "262496531263938560": {
+         "author": "FunnyliticaJoke", 
+         "id": "262496531263938560", 
+         "string": "Kaduna bombing! 3 dead with the sole suicide bomber! God ve mercy IJN!", 
+         "timestamp": "2012-10-28 10:10:24"
+      }, 
+      "262497080885534720": {
+         "author": "nintendolovers", 
+         "id": "262497080885534720", 
+         "string": "Bomb attack hits northern Nigerian church", 
+         "timestamp": "2012-10-28 10:12:35"
+      }, 
+      "262498758795866113": {
+         "author": "naomilashondra", 
+         "id": "262498758795866113", 
+         "string": "Bomb Blast Hits Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 10:19:15"
+      }, 
+      "262499941526691840": {
+         "author": "Eniolasays", 
+         "id": "262499941526691840", 
+         "string": "Ngtrends Boko Haram Hits Catholic church in Kaduna", 
+         "timestamp": "2012-10-28 10:23:57"
+      }, 
+      "262501652622344192": {
+         "author": "teambbm4biz", 
+         "id": "262501652622344192", 
+         "string": "At least 3 killed in new Kaduna church blast", 
+         "timestamp": "2012-10-28 10:30:45"
+      }, 
+      "262502692755234816": {
+         "author": "Stanfcpoto1", 
+         "id": "262502692755234816", 
+         "string": "A sad event occurred this morning as a suicide bomber hit \"St Rita Catholic Church in", 
+         "timestamp": "2012-10-28 10:34:53"
+      }, 
+      "262503531578261505": {
+         "author": "AareSAINT", 
+         "id": "262503531578261505", 
+         "string": "Worshippers killed, injured as suicide bombers attack Catholic church in Kaduna", 
+         "timestamp": "2012-10-28 10:38:13"
+      }, 
+      "262506182562959360": {
+         "author": "sunnewsnigeria", 
+         "id": "262506182562959360", 
+         "string": "Suicide bomber attacks Kaduna church, kills 20", 
+         "timestamp": "2012-10-28 10:48:45"
+      }, 
+      "262508963302625280": {
+         "author": "Voiceof9jathugs", 
+         "id": "262508963302625280", 
+         "string": "Two suicide bombers attack church in Kaduna this morning", 
+         "timestamp": "2012-10-28 10:59:48"
+      }, 
+      "262508988426506242": {
+         "author": "Aceyralph", 
+         "id": "262508988426506242", 
+         "string": "nigeria suicide bombing hit Kaduna in Northern part of the country cattolica", 
+         "timestamp": "2012-10-28 10:59:54"
+      }, 
+      "262509026447859713": {
+         "author": "Ourpikin", 
+         "id": "262509026447859713", 
+         "string": "Bomb explode for a catholic church for Malali, Kaduna State. But d Suspected suicide bomber na only am be d victim.\"", 
+         "timestamp": "2012-10-28 11:00:03"
+      }, 
+      "262509810707218432": {
+         "author": "ImsuperTheRoad", 
+         "id": "262509810707218432", 
+         "string": "3 killed in car bombing of Catholic church in Nigeria", 
+         "timestamp": "2012-10-28 11:03:10"
+      }, 
+      "262510448170131457": {
+         "author": "ElotiTV", 
+         "id": "262510448170131457", 
+         "string": "Suicide bomber attacks St.Peters Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 11:05:42"
+      }, 
+      "262510494445883392": {
+         "author": "almusa2020", 
+         "id": "262510494445883392", 
+         "string": "247 NAIJA GOSSIP: B*R*E*A*K*I*N*G NEWS! Suicide Bomber Attack a Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 11:05:53"
+      }, 
+      "262511756675534849": {
+         "author": "ShehuBello", 
+         "id": "262511756675534849", 
+         "string": "Suicide bomber kills self, injures many, in Kaduna Church explosion", 
+         "timestamp": "2012-10-28 11:10:54"
+      }, 
+      "262512142853480450": {
+         "author": "doublesilver007", 
+         "id": "262512142853480450", 
+         "string": "Alert! Bomb Explosion at Unguwar Yero Catholic Church, Malali Area, KaDuNa now!", 
+         "timestamp": "2012-10-28 11:12:26"
+      }, 
+      "262512641614942208": {
+         "author": "AfricanSpotligh", 
+         "id": "262512641614942208", 
+         "string": "Aftermath Of Catholic Church Bombing In Kaduna", 
+         "timestamp": "2012-10-28 11:14:25"
+      }, 
+      "262512939536351232": {
+         "author": "lebanesepress", 
+         "id": "262512939536351232", 
+         "string": "Christian reprisal attacks after bombing of Nigerian church", 
+         "timestamp": "2012-10-28 11:15:36"
+      }, 
+      "262513891517546496": {
+         "author": "glitzNglamourNG", 
+         "id": "262513891517546496", 
+         "string": "1 Dead, Several Others Injured In St. Rita Catholic Church Suicide Bomb Attack", 
+         "timestamp": "2012-10-28 11:19:23"
+      }, 
+      "262513929241104384": {
+         "author": "Abujamedia_net", 
+         "id": "262513929241104384", 
+         "string": "And we let dem celebrate salah in peace\"ABUJAnoni: Breaking News:Another Bomb Blast Hits Kaduna Catholic Church\"\"", 
+         "timestamp": "2012-10-28 11:19:32"
+      }, 
+      "262514059579101185": {
+         "author": "Jikliptu", 
+         "id": "262514059579101185", 
+         "string": "Sympathise with the entire people of Kaduna and particularly St Rita Cath Church over this morning bomb attack", 
+         "timestamp": "2012-10-28 11:20:03"
+      }, 
+      "262516169263681537": {
+         "author": "June12Post", 
+         "id": "262516169263681537", 
+         "string": "Kaduna Church hit in Nigeria bomb attack", 
+         "timestamp": "2012-10-28 11:28:26"
+      }, 
+      "262517490465243136": {
+         "author": "Softmanconsult", 
+         "id": "262517490465243136", 
+         "string": "Car bomb attack at Catholic Church  Malali Kaduna. several people killed.", 
+         "timestamp": "2012-10-28 11:33:41"
+      }, 
+      "262519935882887168": {
+         "author": "donmorosoto", 
+         "id": "262519935882887168", 
+         "string": "An attempted attack to slam a car bomb in2 a church in the northern Nigerian city of Kaduna, killing 3 people, himself, and wounding others", 
+         "timestamp": "2012-10-28 11:43:24"
+      }, 
+      "262524557754261504": {
+         "author": "KhrizLloyd", 
+         "id": "262524557754261504", 
+         "string": "Two suicide bombers attack church in Kaduna", 
+         "timestamp": "2012-10-28 12:01:46"
+      }, 
+      "262525686059769856": {
+         "author": "Tuniwini", 
+         "id": "262525686059769856", 
+         "string": "Two suicide bombers attack church in Kaduna", 
+         "timestamp": "2012-10-28 12:06:15"
+      }, 
+      "262526327586963457": {
+         "author": "donboulor", 
+         "id": "262526327586963457", 
+         "string": "An unspecified number of persons have been killed in a bomb blast in Kaduna at St Theresa Catholic Church today.", 
+         "timestamp": "2012-10-28 12:08:48"
+      }, 
+      "262527548473344000": {
+         "author": "spyidea", 
+         "id": "262527548473344000", 
+         "string": "Catholic Church Bomb Blast In Malali, Kaduna", 
+         "timestamp": "2012-10-28 12:13:39"
+      }, 
+      "262527552642482176": {
+         "author": "spyidea", 
+         "id": "262527552642482176", 
+         "string": "UPDATE On Kaduna Catholic Church Suicide Bomb Attack:1 Dead, Several Others Injured", 
+         "timestamp": "2012-10-28 12:13:40"
+      }, 
+      "262527728820031489": {
+         "author": "The_News_Page", 
+         "id": "262527728820031489", 
+         "string": "Suicide car bomber attacks Catholic church holding Mass in north Nigeria, injuring worshippers", 
+         "timestamp": "2012-10-28 12:14:22"
+      }, 
+      "262528558977646592": {
+         "author": "Brimtimes", 
+         "id": "262528558977646592", 
+         "string": "Breaking News : Catholic Church Bombed in Kaduna", 
+         "timestamp": "2012-10-28 12:17:40"
+      }, 
+      "262528722635206656": {
+         "author": "Dirawnn", 
+         "id": "262528722635206656", 
+         "string": "Wetin catholic church do RT SaharaReporters: Suicide Bomber Hits Catholic Church in Kaduna", 
+         "timestamp": "2012-10-28 12:18:19"
+      }, 
+      "262528827656372226": {
+         "author": "kay_sesen", 
+         "id": "262528827656372226", 
+         "string": "Muslims attack another Catholic Church in Kaduna, Nigeria, prompting reprisals.", 
+         "timestamp": "2012-10-28 12:18:44"
+      }, 
+      "262530714921234433": {
+         "author": "RickysFlower", 
+         "id": "262530714921234433", 
+         "string": "Kaduna church hit in Nigeria suicide bomb attack", 
+         "timestamp": "2012-10-28 12:26:14"
+      }, 
+      "262534116547907584": {
+         "author": "loudmouth9geria", 
+         "id": "262534116547907584", 
+         "string": "Kaduna church bombing sparks reprisals", 
+         "timestamp": "2012-10-28 12:39:45"
+      }, 
+      "262535219905695744": {
+         "author": "aionews", 
+         "id": "262535219905695744", 
+         "string": "Suicide attack at", 
+         "timestamp": "2012-10-28 12:44:08"
+      }, 
+      "262541129365475328": {
+         "author": "NewsworthyNews", 
+         "id": "262541129365475328", 
+         "string": "Suicide Bomber Attacks Church in Kaduna", 
+         "timestamp": "2012-10-28 13:07:37"
+      }, 
+      "262542555714027520": {
+         "author": "pxeris", 
+         "id": "262542555714027520", 
+         "string": "Suicide attack at Nigeria church", 
+         "timestamp": "2012-10-28 13:13:17"
+      }, 
+      "262551174887124992": {
+         "author": "AGTIntelligence", 
+         "id": "262551174887124992", 
+         "string": "At least five people killed and several injured after a suicide bomber drives into a church in the city of Kaduna.", 
+         "timestamp": "2012-10-28 13:47:32"
+      }, 
+      "262551262954938368": {
+         "author": "fartarly657", 
+         "id": "262551262954938368", 
+         "string": "Nearly 100 wounded killed in Nigeria suicide attack", 
+         "timestamp": "2012-10-28 13:47:53"
+      }, 
+      "262554823843516418": {
+         "author": "OreFakorede", 
+         "id": "262554823843516418", 
+         "string": "Christian Mobs Target Neighbourhood Muslims", 
+         "timestamp": "2012-10-28 14:02:02"
+      }, 
+      "262554991817003008": {
+         "author": "nicoadamu", 
+         "id": "262554991817003008", 
+         "string": "Bomb Blast Rocks Catholic Church, Articles", 
+         "timestamp": "2012-10-28 14:02:42"
+      }, 
+      "262555583113228288": {
+         "author": "Le_Actualite", 
+         "id": "262555583113228288", 
+         "string": "At Least 3 Killed In Kaduna Church Bomb Blast", 
+         "timestamp": "2012-10-28 14:05:03"
+      }, 
+      "262556958740066305": {
+         "author": "Dickson_Tarhe", 
+         "id": "262556958740066305", 
+         "string": "Catholic Church Bombed In Kaduna This Morning", 
+         "timestamp": "2012-10-28 14:10:31"
+      }, 
+      "262557030177468416": {
+         "author": "naijcom", 
+         "id": "262557030177468416", 
+         "string": "Christians Seek Revenge After Kaduna Church Bomb Blast", 
+         "timestamp": "2012-10-28 14:10:48"
+      }, 
+      "262561635477110787": {
+         "author": "GistNaija", 
+         "id": "262561635477110787", 
+         "string": "NEMA confirms eight dead in suicide bomb attack on Catholic church", 
+         "timestamp": "2012-10-28 14:29:06"
+      }, 
+      "262567327185379329": {
+         "author": "Me_adaolisa", 
+         "id": "262567327185379329", 
+         "string": "Bomb blast in catholic church in kaduna :(", 
+         "timestamp": "2012-10-28 14:51:43"
+      }, 
+      "262568799205736448": {
+         "author": "victordaramola", 
+         "id": "262568799205736448", 
+         "string": "Victims Of Suicide Bombing Of St. Rita's Catholic Church In Kaduna", 
+         "timestamp": "2012-10-28 14:57:34"
+      }, 
+      "262577003574734848": {
+         "author": "srinagar_news", 
+         "id": "262577003574734848", 
+         "string": "Admin Ishrat Ali", 
+         "timestamp": "2012-10-28 15:30:10"
+      }, 
+      "262578660027006977": {
+         "author": "onyithere", 
+         "id": "262578660027006977", 
+         "string": "Updating story:10 dead, 145 wounded in Kaduna church bombing, attacks.\"", 
+         "timestamp": "2012-10-28 15:36:45"
+      }, 
+      "262579117453615104": {
+         "author": "Aziken29002", 
+         "id": "262579117453615104", 
+         "string": "My condolences to victims of kaduna bomb blast.", 
+         "timestamp": "2012-10-28 15:38:34"
+      }, 
+      "262580165765373955": {
+         "author": "Ben_Carthy12", 
+         "id": "262580165765373955", 
+         "string": "BBC News - In pictures: Kaduna church bombing", 
+         "timestamp": "2012-10-28 15:42:44"
+      }, 
+      "262582757992050688": {
+         "author": "Mizz_dhee", 
+         "id": "262582757992050688", 
+         "string": "Suicide bomb kills 7 in Nigerian church", 
+         "timestamp": "2012-10-28 15:53:02"
+      }, 
+      "262583252680843264": {
+         "author": "FalconMadhab", 
+         "id": "262583252680843264", 
+         "string": "At least seven people have been killed and dozens hurt in a suicide attack at a Catholic church in the northern Nigerian city of Kaduna.", 
+         "timestamp": "2012-10-28 15:55:00"
+      }, 
+      "262584573949530112": {
+         "author": "luchadora41", 
+         "id": "262584573949530112", 
+         "string": "At least 8 killed and more than 100 wounded in suicide bombing of Catholic church", 
+         "timestamp": "2012-10-28 16:00:15"
+      }, 
+      "262584708192419840": {
+         "author": "GlobalNewsUSA", 
+         "id": "262584708192419840", 
+         "string": "Nigeria: Suicide car bombing kills seven in Catholic church", 
+         "timestamp": "2012-10-28 16:00:47"
+      }, 
+      "262585584764190721": {
+         "author": "OutOf9Ja_Tv", 
+         "id": "262585584764190721", 
+         "string": "Victims Of Suicide Bombing Of St. Rita's Catholic Church In Kaduna (Photo)", 
+         "timestamp": "2012-10-28 16:04:16"
+      }, 
+      "262588822720753664": {
+         "author": "gistpals", 
+         "id": "262588822720753664", 
+         "string": "Jonathan Speaks\" on Naijacommunity", 
+         "timestamp": "2012-10-28 16:17:08"
+      }, 
+      "262588936151515137": {
+         "author": "xoDanielleHayes", 
+         "id": "262588936151515137", 
+         "string": "Suicide bomber kills 7 in Nigeria church", 
+         "timestamp": "2012-10-28 16:17:35"
+      }, 
+      "262594149566537728": {
+         "author": "HumanityNews", 
+         "id": "262594149566537728", 
+         "string": "9 Killed in Nigeria Church Bombing, Reprisal Attacks", 
+         "timestamp": "2012-10-28 16:38:18"
+      }, 
+      "262598595809792001": {
+         "author": "eagleyereport", 
+         "id": "262598595809792001", 
+         "string": "via sharethis", 
+         "timestamp": "2012-10-28 16:55:58"
+      }, 
+      "262599761482358786": {
+         "author": "danny_digit", 
+         "id": "262599761482358786", 
+         "string": "Two suicide bombers attack church in Kaduna this morning +Video", 
+         "timestamp": "2012-10-28 17:00:36"
+      }, 
+      "262601334635786242": {
+         "author": "JWNewsHistory", 
+         "id": "262601334635786242", 
+         "string": "Kaduna church hit in Nigeria suicide bomb attack", 
+         "timestamp": "2012-10-28 17:06:51"
+      }, 
+      "262603197007421442": {
+         "author": "sadiomilano", 
+         "id": "262603197007421442", 
+         "string": "Kaduna Church Bombing: At Least 10 Killed, 145 Injured As Mob Burns Man Alive", 
+         "timestamp": "2012-10-28 17:14:15"
+      }, 
+      "262604706961035265": {
+         "author": "HotGossipRumors", 
+         "id": "262604706961035265", 
+         "string": "10 dead, 145 wounded in Kaduna church bombing, attacks", 
+         "timestamp": "2012-10-28 17:20:15"
+      }, 
+      "262605163989180416": {
+         "author": "7unafish", 
+         "id": "262605163989180416", 
+         "string": "10 dead, 145 wounded in Kaduna church bombing, attacks", 
+         "timestamp": "2012-10-28 17:22:04"
+      }, 
+      "262616299870507008": {
+         "author": "carmenmccain", 
+         "id": "262616299870507008", 
+         "string": "AP on Kaduna bombing and reprisals", 
+         "timestamp": "2012-10-28 18:06:19"
+      }, 
+      "262617948034834432": {
+         "author": "247ureports", 
+         "id": "262617948034834432", 
+         "string": "Boko Haram Hits Catholic Church in Kaduna, Bauchi Metropolis, 5 dead, 2 Injured", 
+         "timestamp": "2012-10-28 18:12:52"
+      }, 
+      "262630594108878850": {
+         "author": "solaogundeko", 
+         "id": "262630594108878850", 
+         "string": "President Jonathan has condemned the bomb attack on a church in Kaduna today as barbaric and cruel. Reuben Abati", 
+         "timestamp": "2012-10-28 19:03:07"
+      }, 
+      "262648142862893057": {
+         "author": "DhunNurayn", 
+         "id": "262648142862893057", 
+         "string": "DearGod, help this country from incessant Bomb and repraisal attacks. When will peace return?", 
+         "timestamp": "2012-10-28 20:12:51"
+      }, 
+      "262656078624477184": {
+         "author": "Giftjoshua1", 
+         "id": "262656078624477184", 
+         "string": "Suicide bomber injures many in Kaduna Church explosion", 
+         "timestamp": "2012-10-28 20:44:23"
+      }, 
+      "262660642031403008": {
+         "author": "AffairsNigerian", 
+         "id": "262660642031403008", 
+         "string": "An Al'Jazeera report on today's church bombing in Kaduna", 
+         "timestamp": "2012-10-28 21:02:31"
+      }, 
+      "262678652477644801": {
+         "author": "spyidea", 
+         "id": "262678652477644801", 
+         "string": "Kaduna Church Bomb Blast:Death figure Increased to 11 persons, 144 Wounded Injured.", 
+         "timestamp": "2012-10-28 22:14:05"
+      }, 
+      "262682259440672768": {
+         "author": "OsiEgole", 
+         "id": "262682259440672768", 
+         "string": "Several people killed or injured in an explosion at a church in northern Nigeria, officials say", 
+         "timestamp": "2012-10-28 22:28:25"
+      }, 
+      "262687871553662976": {
+         "author": "sasmetu1", 
+         "id": "262687871553662976", 
+         "string": "Kaduna bomb blast in church 2day.", 
+         "timestamp": "2012-10-28 22:50:43"
+      }, 
+      "262690371123961856": {
+         "author": "icechuks1", 
+         "id": "262690371123961856", 
+         "string": "PRESIDENT JONATHAN CONDEMNS KADUNA CHURCH SUICIDE BOMB ATTACK", 
+         "timestamp": "2012-10-28 23:00:39"
+      }, 
+      "262706288612503552": {
+         "author": "Voiceof9jathugs", 
+         "id": "262706288612503552", 
+         "string": "Jonathan Condemns Kaduna Suicide Bombing", 
+         "timestamp": "2012-10-29 00:03:54"
+      }, 
+      "262720498851532801": {
+         "author": "TurtleWoman777", 
+         "id": "262720498851532801", 
+         "string": "Attack hits northern Nigeria church on YouTube", 
+         "timestamp": "2012-10-29 01:00:22"
+      }, 
+      "262788115209543680": {
+         "author": "KoomeIsaac", 
+         "id": "262788115209543680", 
+         "string": "8 People Killed, Over 100 Injured in Nigeria Church Attack", 
+         "timestamp": "2012-10-29 05:29:03"
+      }, 
+      "262795593573859328": {
+         "author": "Acebon9", 
+         "id": "262795593573859328", 
+         "string": "Bomb Explosion Rocks St. Rita Catholic Church, Kaduna", 
+         "timestamp": "2012-10-29 05:58:46"
+      }, 
+      "262813780277329920": {
+         "author": "Skindy19", 
+         "id": "262813780277329920", 
+         "string": "TeamUnited leggo RT ideyvex: toptosyn low the bombing of the Catholic church in kaduna High Manutd beating Chelsea", 
+         "timestamp": "2012-10-29 07:11:02"
+      }, 
+      "262816078865002496": {
+         "author": "extremely9jeezy", 
+         "id": "262816078865002496", 
+         "string": "NEMA Says Kaduna Church Attack, 8 Dead", 
+         "timestamp": "2012-10-29 07:20:10"
+      }, 
+      "262823741652877312": {
+         "author": "RSJ_News", 
+         "id": "262823741652877312", 
+         "string": "At least seven people have been killed and dozens injured in a suicide bombing during Mass at a Catholic church in northern Nigeria.", 
+         "timestamp": "2012-10-29 07:50:37"
+      }, 
+      "262836211486449664": {
+         "author": "Atls_DJ_Red", 
+         "id": "262836211486449664", 
+         "string": "Jonathan, Mark, Saraki Condemn Kaduna Catholic Church Blast", 
+         "timestamp": "2012-10-29 08:40:10"
+      }, 
+      "262836601409921024": {
+         "author": "AimLEGEND_", 
+         "id": "262836601409921024", 
+         "string": "10 Dead, 145 Wounded In Kaduna Church Bomb Blast", 
+         "timestamp": "2012-10-29 08:41:43"
+      }, 
+      "262840166786412544": {
+         "author": "Headlines_World", 
+         "id": "262840166786412544", 
+         "string": "At Least 7 Killed In Suicide Bomb Attack On Nigeria Church", 
+         "timestamp": "2012-10-29 08:55:53"
+      }, 
+      "262844952386609152": {
+         "author": "Korrect_guy", 
+         "id": "262844952386609152", 
+         "string": "1. Ten Killed, 100 Injured in Kaduna Church Bombing.2. Egypt's Copts to vote for Pope.3. Hurricane Sandy: Thousands Flee Before Storm.", 
+         "timestamp": "2012-10-29 09:14:54"
+      }, 
+      "262862887314403329": {
+         "author": "newssearchlight", 
+         "id": "262862887314403329", 
+         "string": "How suicide bomber hit Catholic church in Kaduna", 
+         "timestamp": "2012-10-29 10:26:10"
+      }, 
+      "262865248485265408": {
+         "author": "MrLewinOkotie", 
+         "id": "262865248485265408", 
+         "string": "Welcome To Mackson Okotie's Blog: Youth go on rampage after Kaduna church bombing.", 
+         "timestamp": "2012-10-29 10:35:33"
+      }, 
+      "262895086801649664": {
+         "author": "BritisChristian", 
+         "id": "262895086801649664", 
+         "string": "Kaduna church hit in yet another Nigeria suicide bomb attack - video", 
+         "timestamp": "2012-10-29 12:34:07"
+      }, 
+      "262919166380621824": {
+         "author": "saeedu19", 
+         "id": "262919166380621824", 
+         "string": "Suicide bomber kills 8 in Kaduna church - 2 killed in reprisals", 
+         "timestamp": "2012-10-29 14:09:48"
+      }, 
+      "262952376728711170": {
+         "author": "Yonadav7", 
+         "id": "262952376728711170", 
+         "string": "Muslim commits mass murder with jihad/martyrdom suicide bomb at Catholic Church", 
+         "timestamp": "2012-10-29 16:21:46"
+      }, 
+      "262959695743053824": {
+         "author": "glitzNglamourNG", 
+         "id": "262959695743053824", 
+         "string": "Kaduna church bombing kills 15, injures 100", 
+         "timestamp": "2012-10-29 16:50:51"
+      }, 
+      "263002268075446272": {
+         "author": "whatsup9ja", 
+         "id": "263002268075446272", 
+         "string": "Troops patrol Kaduna after church attack", 
+         "timestamp": "2012-10-29 19:40:01"
+      }, 
+      "263008907750952962": {
+         "author": "THDudu", 
+         "id": "263008907750952962", 
+         "string": "Suicide Bombing Of St. Rita's Catholic Church In Kaduna: photo and video", 
+         "timestamp": "2012-10-29 20:06:24"
+      }, 
+      "263019158613135360": {
+         "author": "bornleader_29", 
+         "id": "263019158613135360", 
+         "string": "Kaduna church bombing kills 15, injures 100", 
+         "timestamp": "2012-10-29 20:47:08"
+      }
+   }
+}

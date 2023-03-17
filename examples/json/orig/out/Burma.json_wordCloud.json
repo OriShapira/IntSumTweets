@@ -1,0 +1,318 @@
+{
+    "0": {
+        "score": 11, 
+        "str": "Burma"
+    }, 
+    "1": {
+        "score": 6, 
+        "str": "Rakhine destruction"
+    }, 
+    "2": {
+        "score": 5, 
+        "str": "Buddhists"
+    }, 
+    "3": {
+        "score": 5, 
+        "str": "Rohingya"
+    }, 
+    "4": {
+        "score": 5, 
+        "str": "violence"
+    }, 
+    "5": {
+        "score": 4, 
+        "str": "Muslims"
+    }, 
+    "6": {
+        "score": 4, 
+        "str": "clashes"
+    }, 
+    "7": {
+        "score": 4, 
+        "str": "burnings"
+    }, 
+    "8": {
+        "score": 3, 
+        "str": "Hundreds"
+    }, 
+    "9": {
+        "score": 3, 
+        "str": "people"
+    }, 
+    "10": {
+        "score": 3, 
+        "str": "Muslim"
+    }, 
+    "11": {
+        "score": 3, 
+        "str": "homes"
+    }, 
+    "12": {
+        "score": 3, 
+        "str": "wave"
+    }, 
+    "13": {
+        "score": 2, 
+        "str": "cleansing"
+    }, 
+    "14": {
+        "score": 2, 
+        "str": "fighting"
+    }, 
+    "15": {
+        "score": 2, 
+        "str": "images"
+    }, 
+    "16": {
+        "score": 2, 
+        "str": "satellite images"
+    }, 
+    "17": {
+        "score": 2, 
+        "str": "notice"
+    }, 
+    "18": {
+        "score": 1, 
+        "str": "thoughts & prayers"
+    }, 
+    "19": {
+        "score": 1, 
+        "str": "Thousands"
+    }, 
+    "20": {
+        "score": 1, 
+        "str": "Sunday"
+    }, 
+    "21": {
+        "score": 1, 
+        "str": "sectarian unrest"
+    }, 
+    "22": {
+        "score": 1, 
+        "str": "Bangladesh"
+    }, 
+    "23": {
+        "score": 1, 
+        "str": "day"
+    }, 
+    "24": {
+        "score": 1, 
+        "str": "still"
+    }, 
+    "25": {
+        "score": 1, 
+        "str": "neighbor"
+    }, 
+    "26": {
+        "score": 1, 
+        "str": "Burma Rights Group"
+    }, 
+    "27": {
+        "score": 1, 
+        "str": "Ethnic Cleansing"
+    }, 
+    "28": {
+        "score": 1, 
+        "str": "leader"
+    }, 
+    "29": {
+        "score": 1, 
+        "str": "Phir"
+    }, 
+    "30": {
+        "score": 1, 
+        "str": "deepens"
+    }, 
+    "31": {
+        "score": 1, 
+        "str": "curfew"
+    }, 
+    "32": {
+        "score": 1, 
+        "str": "Buddhist-Muslim"
+    }, 
+    "33": {
+        "score": 1, 
+        "str": "fish"
+    }, 
+    "34": {
+        "score": 1, 
+        "str": "Unrest"
+    }, 
+    "35": {
+        "score": 1, 
+        "str": "river"
+    }, 
+    "36": {
+        "score": 1, 
+        "str": "Rohingya home burnings"
+    }, 
+    "37": {
+        "score": 1, 
+        "str": "HRW satellite imagery"
+    }, 
+    "38": {
+        "score": 1, 
+        "str": "Latest Images"
+    }, 
+    "39": {
+        "score": 1, 
+        "str": "BBC News"
+    }, 
+    "40": {
+        "score": 1, 
+        "str": "Rakhine state"
+    }, 
+    "41": {
+        "score": 1, 
+        "str": "security"
+    }, 
+    "42": {
+        "score": 1, 
+        "str": "December 8th"
+    }, 
+    "43": {
+        "score": 1, 
+        "str": "minorities"
+    }, 
+    "44": {
+        "score": 1, 
+        "str": "religion"
+    }, 
+    "45": {
+        "score": 1, 
+        "str": "56"
+    }, 
+    "46": {
+        "score": 1, 
+        "str": "tension"
+    }, 
+    "47": {
+        "score": 1, 
+        "str": "campaigners"
+    }, 
+    "48": {
+        "score": 1, 
+        "str": "failing"
+    }, 
+    "49": {
+        "score": 1, 
+        "str": "hunger strike"
+    }, 
+    "50": {
+        "score": 1, 
+        "str": "dead"
+    }, 
+    "51": {
+        "score": 1, 
+        "str": "2,000 houses"
+    }, 
+    "52": {
+        "score": 1, 
+        "str": "Human Rights Watch satellite images"
+    }, 
+    "53": {
+        "score": 1, 
+        "str": "UN"
+    }, 
+    "54": {
+        "score": 1, 
+        "str": "sources"
+    }, 
+    "55": {
+        "score": 1, 
+        "str": "trouble"
+    }, 
+    "56": {
+        "score": 1, 
+        "str": "really"
+    }, 
+    "57": {
+        "score": 1, 
+        "str": "else"
+    }, 
+    "58": {
+        "score": 1, 
+        "str": "military 2710:11:25"
+    }, 
+    "59": {
+        "score": 1, 
+        "str": "Dozens"
+    }, 
+    "60": {
+        "score": 1, 
+        "str": "Syria"
+    }, 
+    "61": {
+        "score": 1, 
+        "str": "Burma death toll"
+    }, 
+    "62": {
+        "score": 1, 
+        "str": "epidemic"
+    }, 
+    "63": {
+        "score": 1, 
+        "str": "discussion"
+    }, 
+    "64": {
+        "score": 1, 
+        "str": "deaths"
+    }, 
+    "65": {
+        "score": 1, 
+        "str": "400 Rohingya victims"
+    }, 
+    "66": {
+        "score": 1, 
+        "str": "vigil"
+    }, 
+    "67": {
+        "score": 1, 
+        "str": "Monday"
+    }, 
+    "68": {
+        "score": 1, 
+        "str": "Students"
+    }, 
+    "69": {
+        "score": 1, 
+        "str": "China"
+    }, 
+    "70": {
+        "score": 1, 
+        "str": "statement"
+    }, 
+    "71": {
+        "score": 1, 
+        "str": "mass burnings"
+    }, 
+    "72": {
+        "score": 1, 
+        "str": "Afgan 5"
+    }, 
+    "73": {
+        "score": 1, 
+        "str": "president"
+    }, 
+    "74": {
+        "score": 1, 
+        "str": "gov"
+    }, 
+    "75": {
+        "score": 1, 
+        "str": "Rohingya Muslim population"
+    }, 
+    "76": {
+        "score": 1, 
+        "str": "peace prize winner ASK"
+    }, 
+    "77": {
+        "score": 1, 
+        "str": "Many"
+    }, 
+    "78": {
+        "score": 1, 
+        "str": "removal"
+    }
+}

@@ -1,0 +1,1051 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    3, 
+                    8, 
+                    12, 
+                    32, 
+                    30, 
+                    25
+                ], 
+                "keywords": [
+                    "Bomb", 
+                    "blast", 
+                    "reportedly", 
+                    "Bomb Blast", 
+                    "Nigeria", 
+                    "blow", 
+                    "Bombed In", 
+                    "morning", 
+                    "Hits", 
+                    "shakes", 
+                    "blast", 
+                    "SuicideBomber", 
+                    "Church In", 
+                    "again", 
+                    "And", 
+                    "Ungwar Yero area", 
+                    "attacks/Bombs"
+                ]
+            }, 
+            {
+                "ids": [
+                    29, 
+                    7, 
+                    14
+                ], 
+                "keywords": [
+                    "Sunday", 
+                    "Aftermath Of", 
+                    "Catholic Church Bombing", 
+                    "only", 
+                    "BBCAfrica", 
+                    "RT LeadershipNGA", 
+                    "again"
+                ]
+            }, 
+            {
+                "ids": [
+                    17
+                ], 
+                "keywords": [
+                    "ABUJAnoni", 
+                    "dem", 
+                    "salah", 
+                    "And", 
+                    "we", 
+                    "let", 
+                    "celebrate"
+                ]
+            }, 
+            {
+                "ids": [
+                    10, 
+                    21, 
+                    0, 
+                    2
+                ], 
+                "keywords": [
+                    "reprisals", 
+                    "Suicide Bomber", 
+                    "sparks", 
+                    "Attacks", 
+                    "slam", 
+                    "RT SaharaReporters", 
+                    "car bomb"
+                ]
+            }, 
+            {
+                "ids": [
+                    1, 
+                    6, 
+                    23, 
+                    26, 
+                    27
+                ], 
+                "keywords": [
+                    "victims", 
+                    "wounded", 
+                    "Seek After", 
+                    "confirms", 
+                    "Revenge", 
+                    "condolences", 
+                    "hurt", 
+                    "Christians", 
+                    "My", 
+                    "eight dead", 
+                    "NEMA", 
+                    "dozens"
+                ]
+            }, 
+            {
+                "ids": [
+                    22, 
+                    33, 
+                    20, 
+                    5, 
+                    15, 
+                    16
+                ], 
+                "keywords": [
+                    "Storm", 
+                    "Pope .3", 
+                    "Increased", 
+                    "help", 
+                    "Says", 
+                    "144 Wounded Injured", 
+                    "11 persons", 
+                    "eight dead", 
+                    "NEMA", 
+                    "Al Jazeera", 
+                    "vote", 
+                    "Flee Before", 
+                    "report", 
+                    "country"
+                ]
+            }, 
+            {
+                "ids": [
+                    18, 
+                    24
+                ], 
+                "keywords": [
+                    "patrol", 
+                    "Mass", 
+                    "mass murder", 
+                    "commits", 
+                    "Muslim"
+                ]
+            }
+        ], 
+        "numTweets": 120, 
+        "sentences": [
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.1", 
+                        "expansion": "In ; north ; killing wounding", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.37", 
+                        "expansion": "As", 
+                        "tokens": [
+                            9
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            10
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            12
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            14
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.13", 
+                        "tokens": [
+                            16
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.37", 
+                        "expansion": "As", 
+                        "tokens": [
+                            19
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "St. Rita Catholic Church Suicide Bomb Attack ; St. Rita Catholic Church", 
+                        "tokens": [
+                            20, 
+                            21
+                        ]
+                    }
+                ], 
+                "sentence": "247 NAIJA GOSSIP B * R * E * a * K * 1 * N * G NEWS a Catholic Church", 
+                "sentenceExpansion": [
+                    "prompting reprisals", 
+                    "as bomber hit Catholic Church", 
+                    "injuring Worshippers", 
+                    "wounding others", 
+                    "in Nigeria", 
+                    "3 himself and", 
+                    "killing 3 himself", 
+                    "blast Catholic Church", 
+                    "Kaduna In", 
+                    "Catholic Church yero kaduna When", 
+                    "saint Rita", 
+                    "When will", 
+                    "Updating story", 
+                    "holding Mass in", 
+                    "event occurred morning as"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 08:05:19", 
+                "tweets": [
+                    262484451668393984, 
+                    262519935882887168, 
+                    262528827656372226, 
+                    262488197525803008, 
+                    262578660027006977, 
+                    262605163989180416, 
+                    262487966675517440, 
+                    262527728820031489, 
+                    262682259440672768, 
+                    262823741652877312, 
+                    262510494445883392, 
+                    262502692755234816, 
+                    262604706961035265, 
+                    262465053159194624
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.49", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.21", 
+                        "expansion": "bomb", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "And Bomb reportedly blow at church", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 08:20:16", 
+                "tweets": [
+                    262468815630262274
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.21", 
+                        "expansion": "bomb", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.51", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "St. Rita Catholic Church Suicide Bomb Attack ; St. Rita Catholic Church", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Bomb blast again at Catholic Church Kaduna", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 08:27:24", 
+                "tweets": [
+                    262470610540716032
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "St. Rita Catholic Church Suicide Bomb Attack ; St. Rita Catholic Church", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Bomb Blast Hits Catholic Church", 
+                "sentenceExpansion": [
+                    "Ngtrends Boko Haram Hits", 
+                    "in Kaduna", 
+                    "Suicide Bomber Hits", 
+                    "Hits church in"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:03:50", 
+                "tweets": [
+                    262479779209551872, 
+                    262498758795866113, 
+                    262499941526691840, 
+                    262482191106318336
+                ]
+            }, 
+            {
+                "id": 32, 
+                "pressableTokens": [], 
+                "sentence": "SuicideBomber attacks/Bombs Church In", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:05:32", 
+                "tweets": [
+                    262480207032766464
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "St. Rita Catholic Church Suicide Bomb Attack ; St. Rita Catholic Church", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Catholic Church Bombed In Kaduna morning", 
+                "sentenceExpansion": [
+                    "bomb blast", 
+                    "church bombed"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:33:08", 
+                "tweets": [
+                    262494539284107264, 
+                    262687871553662976, 
+                    262487152942788608, 
+                    262556958740066305
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [], 
+                "sentence": "blast shakes Ungwar Yero area in Nigeria", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:36:22", 
+                "tweets": [
+                    262487966675517440
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "suicide bomb ; suicide bomber attacks church", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "bomber kills self injures in Kaduna", 
+                "sentenceExpansion": [
+                    "in reprisals", 
+                    "at Catholic Church today", 
+                    "seven people killed", 
+                    "in Nigeria", 
+                    "3 killed", 
+                    "in car bombing in", 
+                    "in church", 
+                    "in blast at", 
+                    "9 Killed", 
+                    "bomber attacks Kaduna kills", 
+                    "killed injure as", 
+                    "Bomb kills", 
+                    "event have", 
+                    "in explosion officials say", 
+                    "100 wounded killed", 
+                    "five people killed", 
+                    "kills 20", 
+                    "kills 15"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 09:55:46", 
+                "tweets": [
+                    262584708192419840, 
+                    262526327586963457, 
+                    263019158613135360, 
+                    262503531578261505, 
+                    262588936151515137, 
+                    262959695743053824, 
+                    262511756675534849, 
+                    262583252680843264, 
+                    262582757992050688, 
+                    262823741652877312, 
+                    262509810707218432, 
+                    262919166380621824, 
+                    262506182562959360, 
+                    262682259440672768, 
+                    262551262954938368, 
+                    262594149566537728, 
+                    262501652622344192, 
+                    262555583113228288, 
+                    262551174887124992, 
+                    262840166786412544, 
+                    262492848685985792
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.51", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Sunday again BBCAfrica RT LeadershipNGA", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:55:46", 
+                "tweets": [
+                    262492848685985792
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.1", 
+                        "expansion": "But", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "suicide bomb ; suicide bomber attacks church", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.1", 
+                        "expansion": "But", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "only bomber only be", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 11:00:03", 
+                "tweets": [
+                    262509026447859713
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [], 
+                "sentence": "Aftermath Of Catholic Church Bombing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 11:14:25", 
+                "tweets": [
+                    262512641614942208
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.34", 
+                        "expansion": "145 ; 10 Dead 145", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.37", 
+                        "expansion": "As", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Kaduna At 10 Killed 145 Injured a Burns Man Alive", 
+                "sentenceExpansion": [
+                    "in Copts", 
+                    "In Catholic Church", 
+                    "1 Dead Others Injured", 
+                    "1 Ten Killed 100 Injured"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 11:19:23", 
+                "tweets": [
+                    262844952386609152, 
+                    262513891517546496, 
+                    262603197007421442
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.49", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "And we let dem celebrate salah ABUJAnoni", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 11:19:32", 
+                "tweets": [
+                    262513929241104384
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.32", 
+                        "expansion": "people", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Sympathise with seven people over morning bomb attack", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 11:20:03", 
+                "tweets": [
+                    262514059579101185
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [], 
+                "sentence": "to slam car bomb", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 11:43:24", 
+                "tweets": [
+                    262519935882887168
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "church do RT SaharaReporters", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 12:18:19", 
+                "tweets": [
+                    262528722635206656
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "church sparks reprisals", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 12:39:45", 
+                "tweets": [
+                    262534116547907584
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Suicide Bomber Attacks church in Kaduna", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 13:07:37", 
+                "tweets": [
+                    262541129365475328
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "suicide bomb ; suicide bomber attacks church", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "five people several injured after bomber bomber drives into church", 
+                "sentenceExpansion": [
+                    "in suicide bombing at", 
+                    "seven people dozens injured", 
+                    "injures many"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 13:47:32", 
+                "tweets": [
+                    262682259440672768, 
+                    262551174887124992, 
+                    262656078624477184, 
+                    262823741652877312
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Christians Seek Revenge After Kaduna", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 14:10:48", 
+                "tweets": [
+                    262557030177468416
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.6", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "8 Dead", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "NEMA confirms eight dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 14:29:06", 
+                "tweets": [
+                    262561635477110787
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.1", 
+                        "expansion": "In ; north ; killing wounding", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.34", 
+                        "expansion": "145 ; 10 Dead 145", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Updating Killed 145 wounded in Kaduna", 
+                "sentenceExpansion": [
+                    "in suicide bombing"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 15:36:45", 
+                "tweets": [
+                    262836601409921024, 
+                    262605163989180416, 
+                    262578660027006977, 
+                    262584573949530112, 
+                    262604706961035265
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [], 
+                "sentence": "My condolences to victims", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 15:38:34", 
+                "tweets": [
+                    262579117453615104
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.32", 
+                        "expansion": "people", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.25", 
+                        "expansion": "Nigeria suicide attack ; bomb attack", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "seven people dozens hurt in attack", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 15:55:00", 
+                "tweets": [
+                    262583252680843264
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.25", 
+                        "expansion": "Nigeria suicide attack ; bomb attack", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.60", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "President Jonathan has condemned attack on church today as and", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 19:03:07", 
+                "tweets": [
+                    262630594108878850
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.60", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "help country from and", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 20:12:51", 
+                "tweets": [
+                    262648142862893057
+                ]
+            }, 
+            {
+                "id": 33, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Al Jazeera report on church", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 21:02:31", 
+                "tweets": [
+                    262660642031403008
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [], 
+                "sentence": "Increased to 11 persons 144 Wounded Injured", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 22:14:05", 
+                "tweets": [
+                    262678652477644801
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.6", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "8 Dead", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "NEMA Says Kaduna eight dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 07:20:10", 
+                "tweets": [
+                    262816078865002496
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [], 
+                "sentence": "to vote for Pope .3", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 09:14:54", 
+                "tweets": [
+                    262844952386609152
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [], 
+                "sentence": "Flee Before Storm", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 09:14:54", 
+                "tweets": [
+                    262844952386609152
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "Welcome To Blog Youth go on rampage after Kaduna", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-29 10:35:33", 
+                "tweets": [
+                    262865248485265408
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "suicide bomb ; suicide bomber attacks church", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Muslim commits mass murder with bomber", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 16:21:46", 
+                "tweets": [
+                    262952376728711170
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Kaduna Church Bombing ; Kaduna Church ; Kaduna church Daily Times Nigeria ; Catholic Church Kaduna", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.7", 
+                        "expansion": "Nigerian church ; Kaduna church blast ; Wetin catholic church", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Mass patrol Kaduna after church", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 19:40:01", 
+                "tweets": [
+                    263002268075446272
+                ]
+            }
+        ], 
+        "title": "Kaduna_church"
+    }
+}

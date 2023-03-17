@@ -1,0 +1,985 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    17, 
+                    25, 
+                    18
+                ], 
+                "keywords": [
+                    "wreak", 
+                    "sky", 
+                    "havoc", 
+                    "cyclone", 
+                    "Explains"
+                ]
+            }, 
+            {
+                "ids": [
+                    12, 
+                    23, 
+                    27, 
+                    21, 
+                    30, 
+                    0, 
+                    24, 
+                    31, 
+                    14
+                ], 
+                "keywords": [
+                    "Chennai", 
+                    "storm", 
+                    "Depression", 
+                    "humanity", 
+                    "nature", 
+                    "cyclone", 
+                    "likely", 
+                    "schools", 
+                    "coasts", 
+                    "turns", 
+                    "Power-LESS", 
+                    "threat", 
+                    "truly", 
+                    "issued", 
+                    "closed", 
+                    "needed", 
+                    "cuts", 
+                    "shut", 
+                    "lashed", 
+                    "rains"
+                ]
+            }, 
+            {
+                "ids": [
+                    20
+                ], 
+                "keywords": [
+                    "also", 
+                    "alerted", 
+                    "districts"
+                ]
+            }, 
+            {
+                "ids": [
+                    3, 
+                    7, 
+                    15
+                ], 
+                "keywords": [
+                    ":10 developments", 
+                    "end", 
+                    "experiences", 
+                    "dy cause", 
+                    "rainfall amidst fear", 
+                    "kmph", 
+                    "O", 
+                    "dey", 
+                    "wonder"
+                ]
+            }, 
+            {
+                "ids": [
+                    4, 
+                    8
+                ], 
+                "keywords": [
+                    "wreak", 
+                    "Nilam", 
+                    "ll", 
+                    "news Cyclone", 
+                    "heading"
+                ]
+            }, 
+            {
+                "ids": [
+                    28, 
+                    1
+                ], 
+                "keywords": [
+                    "coast", 
+                    "makes", 
+                    "and", 
+                    "struck", 
+                    "landfall"
+                ]
+            }, 
+            {
+                "ids": [
+                    16, 
+                    2, 
+                    9, 
+                    5, 
+                    19
+                ], 
+                "keywords": [
+                    "impact", 
+                    "approaches", 
+                    "far", 
+                    "Depression", 
+                    "bone", 
+                    "coast", 
+                    "weaken", 
+                    "Oct 2012", 
+                    "Bangalore", 
+                    "set", 
+                    "leaves", 
+                    "reported", 
+                    "chilled", 
+                    "Stay friends"
+                ]
+            }
+        ], 
+        "numTweets": 95, 
+        "sentences": [
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "safe ; northern ; promoting ; CYCLONE ; day", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "safe ; northern ; promoting ; CYCLONE ; day", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "India Cyclone alert ; INDIA South India", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam hitting hitting India sandy", 
+                "sentenceExpansion": [
+                    "using VizWeather India to show projections", 
+                    "Cyclone Nilam tomorrow a", 
+                    "Cyclone Stay everyone safe", 
+                    "a sunny day", 
+                    "bracing for", 
+                    "to cyclone", 
+                    "Depression moving", 
+                    "To people heading wishes as", 
+                    "leaving damage", 
+                    "and Andhra Pradesh are", 
+                    "Tamil Nadu and Andhra Pradesh", 
+                    "likely cross", 
+                    "landfall heavy damage", 
+                    "after Sri Lanka flooding", 
+                    "promoting photos to", 
+                    "Tens flee homes as"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 02:49:39", 
+                "tweets": [
+                    263493777543532544, 
+                    263569002327048193, 
+                    263737810404646914, 
+                    263425229865488384, 
+                    263164537358917633, 
+                    263549628866260992, 
+                    264009010053795841, 
+                    263608584141680640, 
+                    263619417785643010, 
+                    263236188498968576, 
+                    263611297676017664, 
+                    263335589494018048, 
+                    263632113897701377, 
+                    263330963281567744, 
+                    263110388936237056, 
+                    263200641776750593, 
+                    263917666471903232, 
+                    263633011784962048, 
+                    263554263500865536, 
+                    263283840246743040
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.24", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam wreak", 
+                "sentenceExpansion": [
+                    "wreak havoc"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 03:36:29", 
+                "tweets": [
+                    263538228831866880, 
+                    263122174695575553
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.24", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "havoc will cyclone wreak", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 03:36:29", 
+                "tweets": [
+                    263122174695575553
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [], 
+                "sentence": "Explains sky", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 04:43:41", 
+                "tweets": [
+                    263139086250934272
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.1", 
+                        "tokens": [
+                            2, 
+                            3, 
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.24", 
+                        "expansion": "Andhra", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.42", 
+                        "tokens": [
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam to hit Tamil Nadu Andhra Pradesh on alert", 
+                "sentenceExpansion": [
+                    "Tamil Nadu damage", 
+                    "at 100 kmph", 
+                    "and thousands photos", 
+                    "Tamil Nadu 15 sailors", 
+                    "coast today afternoon", 
+                    "hits TN six", 
+                    "Cyclone Nilam intensifies into storm hits", 
+                    "hits India", 
+                    "cyclone hits", 
+                    "with heading", 
+                    "rains hit"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 05:03:49", 
+                "tweets": [
+                    263533346678771712, 
+                    263636908389834752, 
+                    263633493899231234, 
+                    263653391803240448, 
+                    263419534030016512, 
+                    263671464924962817, 
+                    263501667167789056, 
+                    263709792806268928, 
+                    263917666471903232, 
+                    263578305482076161, 
+                    263904395526283264, 
+                    263205872287756288, 
+                    263481559707971584, 
+                    263144152903073792, 
+                    263700892090515456, 
+                    263663567218298880, 
+                    263152705256710144, 
+                    263581518419619840, 
+                    263701878100078593, 
+                    263293629660028929, 
+                    263279419165143040, 
+                    263620390910312448, 
+                    263236188498968576, 
+                    263995680689909760
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "threat Tamil Nadu coasts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 05:30:04", 
+                "tweets": [
+                    263168228333854720, 
+                    263150759133188096
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "power", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "storm cuts in Tamil Nadu", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 06:06:52", 
+                "tweets": [
+                    263160019812483075
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "Power-LESS Tamil Nadu needed", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 06:24:49", 
+                "tweets": [
+                    263164537358917633
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.42", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.24", 
+                        "expansion": "Andhra", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "alert issued in Tamil Nadu Andhra Pradesh", 
+                "sentenceExpansion": [
+                    "India issued"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 07:26:43", 
+                "tweets": [
+                    263180114995593216, 
+                    263182690214346752, 
+                    263198309794078720, 
+                    263180429379649537
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.10", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "likely schools closed in Chennai", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 07:28:00", 
+                "tweets": [
+                    263180437881499648, 
+                    263248712661352450
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [], 
+                "sentence": "seems nature is truly against humanity", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 08:48:17", 
+                "tweets": [
+                    263200641776750593
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "power", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "storm shut in Chennai", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 09:47:14", 
+                "tweets": [
+                    263215473049624576
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "rains have lashed Tamil Nadu", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 10:27:50", 
+                "tweets": [
+                    263225694471991296
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "depression", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.23", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Depression turns into cyclone cross", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 10:37:19", 
+                "tweets": [
+                    263228081131646976
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.23", 
+                        "expansion": "cross", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam crossed Tamil Nadu Wednesday evening", 
+                "sentenceExpansion": [
+                    "cross nadu", 
+                    "in Andhra Pradesh tomorrow", 
+                    "Depression to", 
+                    "in and in", 
+                    "TopNews Two crosses", 
+                    "cross coast Nagapattinam in", 
+                    "Tamil Nadu tomorrow"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 10:37:19", 
+                "tweets": [
+                    263246984578748416, 
+                    263686505686528000, 
+                    263737810404646914, 
+                    263672371154665472, 
+                    263626963678294017, 
+                    263335589494018048, 
+                    263228081131646976, 
+                    263283840246743040
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.24", 
+                        "expansion": "Andhra", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Andhra Pradesh has also alerted districts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 11:09:32", 
+                "tweets": [
+                    263236188498968576
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam Lurks South Indian Coast fisherman told to stay sea", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 11:45:20", 
+                "tweets": [
+                    263245198019149824, 
+                    263248712661352450
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Tamil Nadu experiences rainfall amidst fear", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 14:18:42", 
+                "tweets": [
+                    263283793773879296
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam kmph :10 developments", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 14:57:47", 
+                "tweets": [
+                    263293629660028929
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [], 
+                "sentence": "O wonder dey end dy cause", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-30 15:29:09", 
+                "tweets": [
+                    263301523063336960
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.1", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam expected hit by 4 MPs", 
+                "sentenceExpansion": [
+                    "Expected Cyclone Nilam To Make landfall Evening In Regions", 
+                    "expected Cyclone Nilam to ask for relief funds by 5 pm", 
+                    "expect anything"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-30 19:09:53", 
+                "tweets": [
+                    263616742037798912, 
+                    263581518419619840, 
+                    263533346678771712, 
+                    263357072584867840, 
+                    263578305482076161, 
+                    263501667167789056, 
+                    263481559707971584
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.24", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam ll wreak", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 07:09:44", 
+                "tweets": [
+                    263538228831866880
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [], 
+                "sentence": "news Cyclone Nilam heading", 
+                "sentenceExpansion": [
+                    "Cyclone Nilam Nilam"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 07:43:02", 
+                "tweets": [
+                    263553844229857280, 
+                    263546609101598720
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [], 
+                "sentence": "AFTER HURRICANE SANDY NILAM 'S TURN TO WRECK HAVOC", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-31 12:00:05", 
+                "tweets": [
+                    263611297676017664
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam makes landfall", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 12:19:49", 
+                "tweets": [
+                    263616263937482753
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.35", 
+                        "expansion": "Tamil Nadu-Andhra Pradesh coast", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "safe ; northern ; promoting ; CYCLONE ; day", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam struck coast and showing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:22:48", 
+                "tweets": [
+                    263632113897701377
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "safe ; northern ; CYCLONE ; day", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "When they heard promoting Student were spotted at beach", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-31 13:26:22", 
+                "tweets": [
+                    263633011784962048
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [], 
+                "sentence": "reported far", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 13:28:17", 
+                "tweets": [
+                    263633493899231234
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "state Tamil Nadu ; Tamil Nadu coast", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "depression", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Tamil Nadu to weaken into Depression", 
+                "sentenceExpansion": [
+                    "after displacing 150K", 
+                    "Cyclone Nilam weakens"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 16:02:46", 
+                "tweets": [
+                    263672371154665472, 
+                    263996750312927233
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.35", 
+                        "expansion": "Tamil Nadu-Andhra Pradesh coast", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Stay friends approaches coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-31 17:23:11", 
+                "tweets": [
+                    263692608688238592
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "India Cyclone alert ; INDIA South India", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam set to impact India Oct 2012", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 10:39:26", 
+                "tweets": [
+                    263953389602353152
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "darkness Cyclone Nilam ; Cyclone", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "India Cyclone alert ; INDIA South India", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Cyclone Nilam leaves Bangalore India chilled to bone", 
+                "sentenceExpansion": [
+                    "leaves dead"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-11-01 14:12:22", 
+                "tweets": [
+                    264006975782801408, 
+                    264014190157639680
+                ]
+            }
+        ], 
+        "title": "Cyclone"
+    }
+}

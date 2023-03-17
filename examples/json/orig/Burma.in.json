@@ -1,0 +1,4681 @@
+{
+   "entities": {
+      "E.1": {
+         "alias": "still", 
+         "id": "E.1", 
+         "mentions": [
+            {
+               "sources": [
+                  "262301760700416000"
+               ], 
+               "term": "still"
+            }
+         ]
+      }, 
+      "E.10": {
+         "alias": "security", 
+         "id": "E.10", 
+         "mentions": [
+            {
+               "sources": [
+                  "261371295994892288"
+               ], 
+               "term": "security"
+            }
+         ]
+      }, 
+      "E.11": {
+         "alias": "burn", 
+         "id": "E.11", 
+         "mentions": [
+            {
+               "sources": [
+                  "262053734534750208"
+               ], 
+               "term": "burnings"
+            }, 
+            {
+               "sources": [
+                  "262235213579579395"
+               ], 
+               "term": "attacks"
+            }, 
+            {
+               "sources": [
+                  "262087641267331072"
+               ], 
+               "term": "attack"
+            }, 
+            {
+               "sources": [
+                  "261502519149215744"
+               ], 
+               "term": "burn"
+            }
+         ]
+      }, 
+      "E.12": {
+         "alias": "Buddhists", 
+         "id": "E.12", 
+         "mentions": [
+            {
+               "sources": [
+                  "262043026610855936"
+               ], 
+               "term": "Buddhists clash"
+            }, 
+            {
+               "sources": [
+                  "261494180793159680", 
+                  "261583590712823808", 
+                  "262148681111855105", 
+                  "262268281640067074"
+               ], 
+               "term": "Buddhists"
+            }
+         ]
+      }, 
+      "E.13": {
+         "alias": "people", 
+         "id": "E.13", 
+         "mentions": [
+            {
+               "sources": [
+                  "261819549660364801"
+               ], 
+               "term": "56 people"
+            }, 
+            {
+               "sources": [
+                  "262193883130253312", 
+                  "262148681111855105"
+               ], 
+               "term": "people"
+            }
+         ]
+      }, 
+      "E.14": {
+         "alias": "minorities", 
+         "id": "E.14", 
+         "mentions": [
+            {
+               "sources": [
+                  "261720132303335424"
+               ], 
+               "term": "minorities"
+            }
+         ]
+      }, 
+      "E.15": {
+         "alias": "Muslim", 
+         "id": "E.15", 
+         "mentions": [
+            {
+               "sources": [
+                  "262087641267331072"
+               ], 
+               "term": "Muslim"
+            }, 
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "Muslim minority"
+            }, 
+            {
+               "sources": [
+                  "261682639340175361"
+               ], 
+               "term": "Muslim Minority"
+            }
+         ]
+      }, 
+      "E.16": {
+         "alias": "December 8th", 
+         "id": "E.16", 
+         "mentions": [
+            {
+               "sources": [
+                  "261583590712823808"
+               ], 
+               "term": "December 8th"
+            }
+         ]
+      }, 
+      "E.17": {
+         "alias": "Rohingyas", 
+         "id": "E.17", 
+         "mentions": [
+            {
+               "sources": [
+                  "261583590712823808", 
+                  "261721210117828608"
+               ], 
+               "term": "Rohingya"
+            }, 
+            {
+               "sources": [
+                  "262326510952804352", 
+                  "261266719396478976"
+               ], 
+               "term": "Rohingyas"
+            }, 
+            {
+               "sources": [
+                  "261720132303335424"
+               ], 
+               "term": "Rohingya People"
+            }
+         ]
+      }, 
+      "E.18": {
+         "alias": "I", 
+         "id": "E.18", 
+         "mentions": [
+            {
+               "sources": [
+                  "261583590712823808"
+               ], 
+               "term": "I"
+            }
+         ]
+      }, 
+      "E.19": {
+         "alias": "religion", 
+         "id": "E.19", 
+         "mentions": [
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "religion"
+            }
+         ]
+      }, 
+      "E.2": {
+         "alias": "they", 
+         "id": "E.2", 
+         "mentions": [
+            {
+               "sources": [
+                  "262301760700416000", 
+                  "262097661354725376"
+               ], 
+               "term": "they"
+            }
+         ]
+      }, 
+      "E.20": {
+         "alias": "Rakhine destruction", 
+         "id": "E.20", 
+         "mentions": [
+            {
+               "sources": [
+                  "262226170832093184", 
+                  "262225889809547264", 
+                  "262233426894135296", 
+                  "262060961383448576", 
+                  "262073569461288960"
+               ], 
+               "term": "Rakhine destruction"
+            }, 
+            {
+               "sources": [
+                  "262203798573965312"
+               ], 
+               "term": "destruction"
+            }
+         ]
+      }, 
+      "E.21": {
+         "alias": "BBC News", 
+         "id": "E.21", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "BBC News"
+            }
+         ]
+      }, 
+      "E.22": {
+         "alias": "Latest Images", 
+         "id": "E.22", 
+         "mentions": [
+            {
+               "sources": [
+                  "261611390769434624"
+               ], 
+               "term": "Latest Images"
+            }
+         ]
+      }, 
+      "E.23": {
+         "alias": "HRW satellite imagery", 
+         "id": "E.23", 
+         "mentions": [
+            {
+               "sources": [
+                  "262108155591401473"
+               ], 
+               "term": "HRW satellite imagery"
+            }
+         ]
+      }, 
+      "E.24": {
+         "alias": "Rohingya home burnings", 
+         "id": "E.24", 
+         "mentions": [
+            {
+               "sources": [
+                  "262108155591401473"
+               ], 
+               "term": "Rohingya home burnings"
+            }
+         ]
+      }, 
+      "E.25": {
+         "alias": "at", 
+         "id": "E.25", 
+         "mentions": [
+            {
+               "sources": [
+                  "262108155591401473"
+               ], 
+               "term": "at"
+            }
+         ]
+      }, 
+      "E.26": {
+         "alias": "news Burma images", 
+         "id": "E.26", 
+         "mentions": [
+            {
+               "sources": [
+                  "261651031149117440"
+               ], 
+               "term": "images"
+            }, 
+            {
+               "sources": [
+                  "262053734534750208"
+               ], 
+               "term": "news Burma images"
+            }
+         ]
+      }, 
+      "E.27": {
+         "alias": "river", 
+         "id": "E.27", 
+         "mentions": [
+            {
+               "sources": [
+                  "261266719396478976"
+               ], 
+               "term": "river"
+            }
+         ]
+      }, 
+      "E.28": {
+         "alias": "and", 
+         "id": "E.28", 
+         "mentions": [
+            {
+               "sources": [
+                  "261819549660364801", 
+                  "261494180793159680"
+               ], 
+               "term": "and"
+            }, 
+            {
+               "sources": [
+                  "262303211745071104"
+               ], 
+               "term": "Land"
+            }
+         ]
+      }, 
+      "E.29": {
+         "alias": "Rakhine state", 
+         "id": "E.29", 
+         "mentions": [
+            {
+               "sources": [
+                  "261819549660364801"
+               ], 
+               "term": "Rakhine state"
+            }
+         ]
+      }, 
+      "E.3": {
+         "alias": "you", 
+         "id": "E.3", 
+         "mentions": [
+            {
+               "sources": [
+                  "262301760700416000"
+               ], 
+               "term": "you"
+            }
+         ]
+      }, 
+      "E.30": {
+         "alias": "cleansing", 
+         "id": "E.30", 
+         "mentions": [
+            {
+               "sources": [
+                  "262233426894135296", 
+                  "262276770810712064"
+               ], 
+               "term": "cleansing"
+            }
+         ]
+      }, 
+      "E.31": {
+         "alias": "Sunday", 
+         "id": "E.31", 
+         "mentions": [
+            {
+               "sources": [
+                  "261819549660364801"
+               ], 
+               "term": "Sunday"
+            }
+         ]
+      }, 
+      "E.32": {
+         "alias": "sectarian unrest", 
+         "id": "E.32", 
+         "mentions": [
+            {
+               "sources": [
+                  "261755230327279616"
+               ], 
+               "term": "sectarian unrest"
+            }
+         ]
+      }, 
+      "E.33": {
+         "alias": "Hundreds", 
+         "id": "E.33", 
+         "mentions": [
+            {
+               "sources": [
+                  "261755230327279616"
+               ], 
+               "term": "hundred"
+            }, 
+            {
+               "sources": [
+                  "261819549660364801"
+               ], 
+               "term": "hundreds"
+            }, 
+            {
+               "sources": [
+                  "261721210117828608"
+               ], 
+               "term": "Hundreds"
+            }
+         ]
+      }, 
+      "E.34": {
+         "alias": "thoughts & prayers", 
+         "id": "E.34", 
+         "mentions": [
+            {
+               "sources": [
+                  "262193883130253312"
+               ], 
+               "term": "thoughts & prayers"
+            }
+         ]
+      }, 
+      "E.35": {
+         "alias": "after", 
+         "id": "E.35", 
+         "mentions": [
+            {
+               "sources": [
+                  "261371295994892288"
+               ], 
+               "term": "after"
+            }
+         ]
+      }, 
+      "E.36": {
+         "alias": "Thousands", 
+         "id": "E.36", 
+         "mentions": [
+            {
+               "sources": [
+                  "262079437225488384"
+               ], 
+               "term": "Thousands"
+            }
+         ]
+      }, 
+      "E.37": {
+         "alias": "Muslims", 
+         "id": "E.37", 
+         "mentions": [
+            {
+               "sources": [
+                  "261562799623385088"
+               ], 
+               "term": "Burma violence Muslims"
+            }, 
+            {
+               "sources": [
+                  "262268281640067074", 
+                  "262235213579579395", 
+                  "261721210117828608"
+               ], 
+               "term": "Muslims"
+            }
+         ]
+      }, 
+      "E.38": {
+         "alias": "Bangladesh", 
+         "id": "E.38", 
+         "mentions": [
+            {
+               "sources": [
+                  "262326510952804352"
+               ], 
+               "term": "Bangladesh"
+            }
+         ]
+      }, 
+      "E.39": {
+         "alias": "day", 
+         "id": "E.39", 
+         "mentions": [
+            {
+               "sources": [
+                  "261502519149215744"
+               ], 
+               "term": "day"
+            }
+         ]
+      }, 
+      "E.4": {
+         "alias": "How", 
+         "id": "E.4", 
+         "mentions": [
+            {
+               "sources": [
+                  "262301760700416000"
+               ], 
+               "term": "How"
+            }
+         ]
+      }, 
+      "E.40": {
+         "alias": "Ethnic Cleansing", 
+         "id": "E.40", 
+         "mentions": [
+            {
+               "sources": [
+                  "262021920634048513"
+               ], 
+               "term": "Ethnic Cleansing"
+            }
+         ]
+      }, 
+      "E.41": {
+         "alias": "Burma Rights Group", 
+         "id": "E.41", 
+         "mentions": [
+            {
+               "sources": [
+                  "262021920634048513"
+               ], 
+               "term": "Burma Rights Group"
+            }
+         ]
+      }, 
+      "E.42": {
+         "alias": "Phir", 
+         "id": "E.42", 
+         "mentions": [
+            {
+               "sources": [
+                  "261502519149215744"
+               ], 
+               "term": "Phir"
+            }
+         ]
+      }, 
+      "E.43": {
+         "alias": "leader", 
+         "id": "E.43", 
+         "mentions": [
+            {
+               "sources": [
+                  "262235213579579395"
+               ], 
+               "term": "leader"
+            }
+         ]
+      }, 
+      "E.44": {
+         "alias": "as", 
+         "id": "E.44", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "as"
+            }
+         ]
+      }, 
+      "E.45": {
+         "alias": "deepens", 
+         "id": "E.45", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "deepens"
+            }
+         ]
+      }, 
+      "E.46": {
+         "alias": "Buddhist-Muslim", 
+         "id": "E.46", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "Buddhist-Muslim"
+            }
+         ]
+      }, 
+      "E.47": {
+         "alias": "curfew", 
+         "id": "E.47", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "curfew"
+            }
+         ]
+      }, 
+      "E.48": {
+         "alias": "Unrest", 
+         "id": "E.48", 
+         "mentions": [
+            {
+               "sources": [
+                  "261265998236229633"
+               ], 
+               "term": "Unrest"
+            }
+         ]
+      }, 
+      "E.49": {
+         "alias": "fish", 
+         "id": "E.49", 
+         "mentions": [
+            {
+               "sources": [
+                  "261266719396478976"
+               ], 
+               "term": "fish"
+            }
+         ]
+      }, 
+      "E.5": {
+         "alias": "neighbor", 
+         "id": "E.5", 
+         "mentions": [
+            {
+               "sources": [
+                  "262301760700416000"
+               ], 
+               "term": "neighbor"
+            }
+         ]
+      }, 
+      "E.50": {
+         "alias": "notice", 
+         "id": "E.50", 
+         "mentions": [
+            {
+               "sources": [
+                  "261562799623385088"
+               ], 
+               "term": "notice"
+            }, 
+            {
+               "sources": [
+                  "261706354069225472"
+               ], 
+               "term": "Scores"
+            }
+         ]
+      }, 
+      "E.51": {
+         "alias": "Many", 
+         "id": "E.51", 
+         "mentions": [
+            {
+               "sources": [
+                  "261562799623385088"
+               ], 
+               "term": "Many"
+            }
+         ]
+      }, 
+      "E.52": {
+         "alias": "peace prize winner ASK", 
+         "id": "E.52", 
+         "mentions": [
+            {
+               "sources": [
+                  "261562799623385088"
+               ], 
+               "term": "peace prize winner ASK"
+            }
+         ]
+      }, 
+      "E.53": {
+         "alias": "we", 
+         "id": "E.53", 
+         "mentions": [
+            {
+               "sources": [
+                  "261651031149117440"
+               ], 
+               "term": "we"
+            }
+         ]
+      }, 
+      "E.54": {
+         "alias": "gov", 
+         "id": "E.54", 
+         "mentions": [
+            {
+               "sources": [
+                  "262226170832093184"
+               ], 
+               "term": "gov"
+            }
+         ]
+      }, 
+      "E.55": {
+         "alias": "Rohingya Muslim population", 
+         "id": "E.55", 
+         "mentions": [
+            {
+               "sources": [
+                  "262234765002932224"
+               ], 
+               "term": "Rohingya Muslim population"
+            }
+         ]
+      }, 
+      "E.56": {
+         "alias": "Afgan 5", 
+         "id": "E.56", 
+         "mentions": [
+            {
+               "sources": [
+                  "262132642231771138"
+               ], 
+               "term": "Afgan 5"
+            }
+         ]
+      }, 
+      "E.57": {
+         "alias": "president", 
+         "id": "E.57", 
+         "mentions": [
+            {
+               "sources": [
+                  "262276770810712064"
+               ], 
+               "term": "president"
+            }
+         ]
+      }, 
+      "E.58": {
+         "alias": "violence flares", 
+         "id": "E.58", 
+         "mentions": [
+            {
+               "sources": [
+                  "261706354069225472", 
+                  "262079437225488384", 
+                  "261522446232993792", 
+                  "261718244929458176"
+               ], 
+               "term": "violence"
+            }, 
+            {
+               "sources": [
+                  "262219568997625856"
+               ], 
+               "term": "violence flares"
+            }
+         ]
+      }, 
+      "E.59": {
+         "alias": "removal", 
+         "id": "E.59", 
+         "mentions": [
+            {
+               "sources": [
+                  "261410705771728896"
+               ], 
+               "term": "removal"
+            }
+         ]
+      }, 
+      "E.6": {
+         "alias": "7", 
+         "id": "E.6", 
+         "mentions": [
+            {
+               "sources": [
+                  "261371295994892288"
+               ], 
+               "term": "7"
+            }
+         ]
+      }, 
+      "E.60": {
+         "alias": "Students", 
+         "id": "E.60", 
+         "mentions": [
+            {
+               "sources": [
+                  "261410705771728896"
+               ], 
+               "term": "Students"
+            }
+         ]
+      }, 
+      "E.61": {
+         "alias": "more", 
+         "id": "E.61", 
+         "mentions": [
+            {
+               "sources": [
+                  "261750851280977920"
+               ], 
+               "term": "more"
+            }
+         ]
+      }, 
+      "E.62": {
+         "alias": "Monday", 
+         "id": "E.62", 
+         "mentions": [
+            {
+               "sources": [
+                  "261460790186483712"
+               ], 
+               "term": "Monday"
+            }
+         ]
+      }, 
+      "E.63": {
+         "alias": "Burma satellite images", 
+         "id": "E.63", 
+         "mentions": [
+            {
+               "sources": [
+                  "262073569461288960"
+               ], 
+               "term": "satellite images"
+            }, 
+            {
+               "sources": [
+                  "262203798573965312"
+               ], 
+               "term": "Burma satellite images"
+            }
+         ]
+      }, 
+      "E.64": {
+         "alias": "mass burnings", 
+         "id": "E.64", 
+         "mentions": [
+            {
+               "sources": [
+                  "262053277355614209"
+               ], 
+               "term": "mass burnings"
+            }
+         ]
+      }, 
+      "E.65": {
+         "alias": "wave", 
+         "id": "E.65", 
+         "mentions": [
+            {
+               "sources": [
+                  "262223280772091905", 
+                  "261750851280977920", 
+                  "262234765002932224"
+               ], 
+               "term": "wave"
+            }
+         ]
+      }, 
+      "E.66": {
+         "alias": "statement", 
+         "id": "E.66", 
+         "mentions": [
+            {
+               "sources": [
+                  "261460790186483712"
+               ], 
+               "term": "statement"
+            }
+         ]
+      }, 
+      "E.67": {
+         "alias": "China", 
+         "id": "E.67", 
+         "mentions": [
+            {
+               "sources": [
+                  "261250060011057152"
+               ], 
+               "term": "China"
+            }
+         ]
+      }, 
+      "E.68": {
+         "alias": "vigil", 
+         "id": "E.68", 
+         "mentions": [
+            {
+               "sources": [
+                  "261583590712823808"
+               ], 
+               "term": "vigil"
+            }
+         ]
+      }, 
+      "E.69": {
+         "alias": "most", 
+         "id": "E.69", 
+         "mentions": [
+            {
+               "sources": [
+                  "261720132303335424"
+               ], 
+               "term": "most"
+            }
+         ]
+      }, 
+      "E.7": {
+         "alias": "clashes", 
+         "id": "E.7", 
+         "mentions": [
+            {
+               "sources": [
+                  "261819549660364801", 
+                  "261250060011057152", 
+                  "261736557185208320"
+               ], 
+               "term": "clashes"
+            }, 
+            {
+               "sources": [
+                  "261371295994892288"
+               ], 
+               "term": "sectarian clashes"
+            }
+         ]
+      }, 
+      "E.70": {
+         "alias": "Human Rights Watch satellite images", 
+         "id": "E.70", 
+         "mentions": [
+            {
+               "sources": [
+                  "262060961383448576"
+               ], 
+               "term": "Human Rights Watch satellite images"
+            }
+         ]
+      }, 
+      "E.71": {
+         "alias": "here", 
+         "id": "E.71", 
+         "mentions": [
+            {
+               "sources": [
+                  "261583590712823808"
+               ], 
+               "term": "here"
+            }
+         ]
+      }, 
+      "E.72": {
+         "alias": "UN", 
+         "id": "E.72", 
+         "mentions": [
+            {
+               "sources": [
+                  "261720132303335424"
+               ], 
+               "term": "UN"
+            }
+         ]
+      }, 
+      "E.73": {
+         "alias": "We", 
+         "id": "E.73", 
+         "mentions": [
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "We"
+            }
+         ]
+      }, 
+      "E.74": {
+         "alias": "sources", 
+         "id": "E.74", 
+         "mentions": [
+            {
+               "sources": [
+                  "261651031149117440"
+               ], 
+               "term": "sources"
+            }
+         ]
+      }, 
+      "E.75": {
+         "alias": "trouble", 
+         "id": "E.75", 
+         "mentions": [
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "trouble"
+            }
+         ]
+      }, 
+      "E.76": {
+         "alias": "really", 
+         "id": "E.76", 
+         "mentions": [
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "really"
+            }
+         ]
+      }, 
+      "E.77": {
+         "alias": "when", 
+         "id": "E.77", 
+         "mentions": [
+            {
+               "sources": [
+                  "262148681111855105"
+               ], 
+               "term": "when"
+            }
+         ]
+      }, 
+      "E.78": {
+         "alias": "dead", 
+         "id": "E.78", 
+         "mentions": [
+            {
+               "sources": [
+                  "261522446232993792"
+               ], 
+               "term": "dead"
+            }
+         ]
+      }, 
+      "E.79": {
+         "alias": "2,000 houses", 
+         "id": "E.79", 
+         "mentions": [
+            {
+               "sources": [
+                  "261522446232993792"
+               ], 
+               "term": "2,000 houses"
+            }
+         ]
+      }, 
+      "E.8": {
+         "alias": "fighting", 
+         "id": "E.8", 
+         "mentions": [
+            {
+               "sources": [
+                  "261502519149215744"
+               ], 
+               "term": "Fighting"
+            }, 
+            {
+               "sources": [
+                  "262120612686872576"
+               ], 
+               "term": "fighting"
+            }
+         ]
+      }, 
+      "E.80": {
+         "alias": "epidemic", 
+         "id": "E.80", 
+         "mentions": [
+            {
+               "sources": [
+                  "262303211745071104"
+               ], 
+               "term": "epidemic"
+            }
+         ]
+      }, 
+      "E.81": {
+         "alias": "Burma death toll", 
+         "id": "E.81", 
+         "mentions": [
+            {
+               "sources": [
+                  "261736557185208320"
+               ], 
+               "term": "Burma death toll"
+            }
+         ]
+      }, 
+      "E.82": {
+         "alias": "discussion", 
+         "id": "E.82", 
+         "mentions": [
+            {
+               "sources": [
+                  "261611390769434624"
+               ], 
+               "term": "discussion"
+            }
+         ]
+      }, 
+      "E.83": {
+         "alias": "homes", 
+         "id": "E.83", 
+         "mentions": [
+            {
+               "sources": [
+                  "261495577655787521"
+               ], 
+               "term": "homes"
+            }, 
+            {
+               "sources": [
+                  "261651031149117440"
+               ], 
+               "term": "ground"
+            }, 
+            {
+               "sources": [
+                  "261682639340175361"
+               ], 
+               "term": "Homes"
+            }
+         ]
+      }, 
+      "E.84": {
+         "alias": "military 2710:11:25", 
+         "id": "E.84", 
+         "mentions": [
+            {
+               "sources": [
+                  "262097661354725376"
+               ], 
+               "term": "military 2710:11:25"
+            }
+         ]
+      }, 
+      "E.85": {
+         "alias": "else", 
+         "id": "E.85", 
+         "mentions": [
+            {
+               "sources": [
+                  "262097661354725376"
+               ], 
+               "term": "else"
+            }
+         ]
+      }, 
+      "E.86": {
+         "alias": "Syria", 
+         "id": "E.86", 
+         "mentions": [
+            {
+               "sources": [
+                  "262132642231771138"
+               ], 
+               "term": "Syria"
+            }
+         ]
+      }, 
+      "E.87": {
+         "alias": "Dozens", 
+         "id": "E.87", 
+         "mentions": [
+            {
+               "sources": [
+                  "262043026610855936"
+               ], 
+               "term": "Dozens"
+            }
+         ]
+      }, 
+      "E.88": {
+         "alias": "400 Rohingya victims", 
+         "id": "E.88", 
+         "mentions": [
+            {
+               "sources": [
+                  "262097661354725376"
+               ], 
+               "term": "400 Rohingya victims"
+            }
+         ]
+      }, 
+      "E.89": {
+         "alias": "deaths", 
+         "id": "E.89", 
+         "mentions": [
+            {
+               "sources": [
+                  "261970695905501184"
+               ], 
+               "term": "deaths"
+            }
+         ]
+      }, 
+      "E.9": {
+         "alias": "Burma", 
+         "id": "E.9", 
+         "mentions": [
+            {
+               "sources": [
+                  "262225889809547264", 
+                  "261970695905501184", 
+                  "262268281640067074", 
+                  "261682639340175361", 
+                  "262219568997625856", 
+                  "262223280772091905", 
+                  "261706354069225472"
+               ], 
+               "term": "Burma"
+            }, 
+            {
+               "sources": [
+                  "261522446232993792"
+               ], 
+               "term": "Burma official"
+            }, 
+            {
+               "sources": [
+                  "262053277355614209"
+               ], 
+               "term": "Burma images"
+            }, 
+            {
+               "sources": [
+                  "261371295994892288", 
+                  "261718244929458176"
+               ], 
+               "term": "Myanmar"
+            }
+         ]
+      }, 
+      "E.90": {
+         "alias": "campaigners", 
+         "id": "E.90", 
+         "mentions": [
+            {
+               "sources": [
+                  "261970695905501184"
+               ], 
+               "term": "campaigners"
+            }
+         ]
+      }, 
+      "E.91": {
+         "alias": "failing", 
+         "id": "E.91", 
+         "mentions": [
+            {
+               "sources": [
+                  "261970695905501184"
+               ], 
+               "term": "failing"
+            }
+         ]
+      }, 
+      "E.92": {
+         "alias": "56", 
+         "id": "E.92", 
+         "mentions": [
+            {
+               "sources": [
+                  "261495577655787521"
+               ], 
+               "term": "56"
+            }
+         ]
+      }, 
+      "E.93": {
+         "alias": "tension", 
+         "id": "E.93", 
+         "mentions": [
+            {
+               "sources": [
+                  "261495577655787521"
+               ], 
+               "term": "tension"
+            }
+         ]
+      }, 
+      "E.94": {
+         "alias": "hunger strike", 
+         "id": "E.94", 
+         "mentions": [
+            {
+               "sources": [
+                  "262097661354725376"
+               ], 
+               "term": "hunger strike"
+            }
+         ]
+      }, 
+      "E.95": {
+         "alias": "$", 
+         "id": "E.95", 
+         "mentions": [
+            {
+               "sources": [
+                  "261706354069225472"
+               ], 
+               "term": "$"
+            }
+         ]
+      }, 
+      "E.96": {
+         "alias": "other", 
+         "id": "E.96", 
+         "mentions": [
+            {
+               "sources": [
+                  "261494180793159680"
+               ], 
+               "term": "other"
+            }
+         ]
+      }
+   }, 
+   "propositions": {
+      "P.1": {
+         "alias": "admits", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "262235213579579395"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.57", 
+                     "sources": [
+                        "262276770810712064"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.54", 
+                     "sources": [
+                        "262226170832093184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262235213579579395"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "262235213579579395"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.30", 
+                     "sources": [
+                        "262276770810712064", 
+                        "262233426894135296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "262225889809547264", 
+                        "262226170832093184", 
+                        "262233426894135296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "262225889809547264"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.1", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262233426894135296"
+                  ], 
+                  "template": "{a.2} admits {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262226170832093184"
+                  ], 
+                  "template": "{a.6} admits {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262235213579579395"
+                  ], 
+                  "template": "{a.4} admits {a.7} on {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "262276770810712064"
+                  ], 
+                  "template": "{a.5} admits {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262225889809547264"
+                  ], 
+                  "template": "{a.8} admits {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.10": {
+         "alias": "says", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.78", 
+                     "sources": [
+                        "261522446232993792"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "261522446232993792"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.79", 
+                     "sources": [
+                        "261522446232993792"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.10", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261522446232993792"
+                  ], 
+                  "template": "{a.2} says {a.1} {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.11": {
+         "alias": "rallied against against", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "261721210117828608"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "261721210117828608"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "261721210117828608"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.11", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261721210117828608"
+                  ], 
+                  "template": "{a.3} rallied against {a.2} against {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.12": {
+         "alias": "In Burned Of", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "261682639340175361"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.83", 
+                     "sources": [
+                        "261682639340175361"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "261682639340175361"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.12", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261682639340175361"
+                  ], 
+                  "template": "In {a.1} {a.3} Burned Of {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.13": {
+         "alias": "wounded in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.61", 
+                     "sources": [
+                        "261750851280977920"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "261750851280977920"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.13", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261750851280977920"
+                  ], 
+                  "template": "{a.1} wounded in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.14": {
+         "alias": "to send by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.85", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.84", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.14", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262097661354725376"
+                  ], 
+                  "template": "{a.3} to send {a.1} by {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.15": {
+         "alias": "are forced", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.14", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.15", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262097661354725376"
+                  ], 
+                  "template": "{a.2} are forced {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.16": {
+         "alias": "have been targeting", 
+         "arguments": [
+            {
+               "id": "a.30", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "261494180793159680"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "261720132303335424", 
+                        "261266719396478976", 
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "261720132303335424"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.72", 
+                     "sources": [
+                        "261720132303335424"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "261583590712823808", 
+                        "262148681111855105", 
+                        "261494180793159680", 
+                        "262268281640067074", 
+                        "261494180793159680"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "262268281640067074"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.74", 
+                     "sources": [
+                        "261651031149117440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.77", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.29", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "261494180793159680"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.28", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.95", 
+                     "sources": [
+                        "261706354069225472"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.23", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.96", 
+                     "sources": [
+                        "261494180793159680"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.22", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.35", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.21", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "261494180793159680", 
+                        "262303211745071104", 
+                        "261494180793159680"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.20", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.26", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.27", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.19", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.26", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.53", 
+                     "sources": [
+                        "261651031149117440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.25", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.16", 
+                     "sources": [
+                        "262301760700416000", 
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.24", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.15", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.41", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.17", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "261266719396478976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "261266719396478976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "261706354069225472", 
+                        "262268281640067074", 
+                        "261718244929458176"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.39", 
+                     "sources": [
+                        "262303211745071104"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "262301760700416000", 
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.18", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.24", 
+                     "sources": [
+                        "262108155591401473"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.19", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.24", 
+                     "sources": [
+                        "261651031149117440"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.16", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261583590712823808"
+                  ], 
+                  "template": "have been targeting {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "261494180793159680"
+                  ], 
+                  "template": "{a.1} {a.30} {a.21} killing {a.23}"
+               }, 
+               {
+                  "sources": [
+                     "261494180793159680"
+                  ], 
+                  "template": "{a.1} {a.29} {a.21} raping and killing"
+               }, 
+               {
+                  "sources": [
+                     "261583590712823808"
+                  ], 
+                  "template": "{a.15} am trying {a.22} {a.4} {a.25}"
+               }, 
+               {
+                  "sources": [
+                     "261718244929458176"
+                  ], 
+                  "template": "western {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "261651031149117440"
+                  ], 
+                  "template": "{a.8} {a.26} able {a.19}"
+               }, 
+               {
+                  "sources": [
+                     "262148681111855105"
+                  ], 
+                  "template": "{a.9} {a.1} are attacking {a.2} over {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "261706354069225472"
+                  ], 
+                  "template": "western {a.12} {a.28}"
+               }, 
+               {
+                  "sources": [
+                     "261266719396478976"
+                  ], 
+                  "template": "{a.4} floating in {a.17} as {a.14}"
+               }, 
+               {
+                  "sources": [
+                     "261720132303335424"
+                  ], 
+                  "template": "{a.6} {a.4} one of {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "262268281640067074"
+                  ], 
+                  "template": "{a.1} are massacring {a.3} in {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "262108155591401473"
+                  ], 
+                  "template": "showing {a.18}"
+               }, 
+               {
+                  "sources": [
+                     "262301760700416000"
+                  ], 
+                  "template": "{a.11} {a.10} were killing"
+               }, 
+               {
+                  "sources": [
+                     "262303211745071104"
+                  ], 
+                  "template": "{a.21} grabbing {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "262301760700416000"
+                  ], 
+                  "template": "{a.27} if {a.16} {a.10} {a.25}"
+               }, 
+               {
+                  "sources": [
+                     "262097661354725376"
+                  ], 
+                  "template": "{a.20} because {a.24}"
+               }
+            ]
+         }
+      }, 
+      "P.17": {
+         "alias": "accuse of", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "261970695905501184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.90", 
+                     "sources": [
+                        "261970695905501184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.91", 
+                     "sources": [
+                        "261970695905501184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.17", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261970695905501184"
+                  ], 
+                  "template": "{a.2} accuse {a.1} of {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.18": {
+         "alias": "imposes", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.48", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.47", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.18", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261265998236229633"
+                  ], 
+                  "template": "{a.1} imposes {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.19": {
+         "alias": "do sleep", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.19", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262301760700416000"
+                  ], 
+                  "template": "{a.2} do {a.1} sleep"
+               }
+            ]
+         }
+      }, 
+      "P.2": {
+         "alias": "Rohingyas under", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262087641267331072"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262087641267331072"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.2", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262087641267331072"
+                  ], 
+                  "template": "{a.2} Rohingyas under {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.20": {
+         "alias": "torched since", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.23", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "261718244929458176", 
+                        "261522446232993792"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.31", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.20", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261718244929458176", 
+                     "261522446232993792"
+                  ], 
+                  "template": "torched in {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "261819549660364801"
+                  ], 
+                  "template": "{a.1} {a.5} {a.3} torched since {a.2} {a.4}"
+               }
+            ]
+         }
+      }, 
+      "P.21": {
+         "alias": "injured in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.86", 
+                     "sources": [
+                        "262132642231771138"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.21", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262132642231771138"
+                  ], 
+                  "template": "injured in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.22": {
+         "alias": "hit by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "262120612686872576"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.22", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262120612686872576"
+                  ], 
+                  "template": "hit by {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.23": {
+         "alias": "spread in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "261819549660364801"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.23", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261819549660364801"
+                  ], 
+                  "template": "{a.2} spread in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.24": {
+         "alias": "to get from", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.26", 
+                     "sources": [
+                        "261651031149117440"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.83", 
+                     "sources": [
+                        "261651031149117440"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.24", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261651031149117440"
+                  ], 
+                  "template": "to get {a.1} from {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.25": {
+         "alias": "steps", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.6", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.25", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261371295994892288"
+                  ], 
+                  "template": "{a.1} steps {a.2} {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.26": {
+         "alias": "are on", 
+         "arguments": [
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "262193883130253312"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "262108155591401473"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.73", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.88", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.76", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "262193883130253312"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.94", 
+                     "sources": [
+                        "262097661354725376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "262108155591401473"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.75", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.16", 
+                     "sources": [
+                        "262148681111855105", 
+                        "262108155591401473"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.26", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262193883130253312"
+                  ], 
+                  "template": "{a.1} are with {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "262108155591401473"
+                  ], 
+                  "template": "{a.4} {a.9} is {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262148681111855105"
+                  ], 
+                  "template": "{a.5} {a.7} are in {a.8} {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "262097661354725376"
+                  ], 
+                  "template": "{a.6} are on {a.10}"
+               }
+            ]
+         }
+      }, 
+      "P.27": {
+         "alias": "rises in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.81", 
+                     "sources": [
+                        "261736557185208320"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "261736557185208320"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.27", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261736557185208320"
+                  ], 
+                  "template": "{a.1} rises in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.28": {
+         "alias": "sey", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.42", 
+                     "sources": [
+                        "261502519149215744"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "261502519149215744"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.30", 
+                     "sources": [
+                        "261502519149215744"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.28", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261502519149215744"
+                  ], 
+                  "template": "{a.1} sey {a.3} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.29": {
+         "alias": "has targeted", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.55", 
+                     "sources": [
+                        "262234765002932224"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "262234765002932224"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.29", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262234765002932224"
+                  ], 
+                  "template": "{a.2} has targeted {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.3": {
+         "alias": "displaced by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.36", 
+                     "sources": [
+                        "262079437225488384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "262079437225488384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.3", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262079437225488384"
+                  ], 
+                  "template": "{a.1} displaced by {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.30": {
+         "alias": "continues for", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "261502519149215744"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "261502519149215744"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.30", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261502519149215744"
+                  ], 
+                  "template": "{a.1} continues for {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.31": {
+         "alias": "persecuted", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.69", 
+                     "sources": [
+                        "261720132303335424"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.31", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261720132303335424"
+                  ], 
+                  "template": "{a.1} persecuted"
+               }
+            ]
+         }
+      }, 
+      "P.32": {
+         "alias": "Wa", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.33", 
+                     "sources": [
+                        "261460790186483712"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.32", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261460790186483712"
+                  ], 
+                  "template": "Wa {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.33": {
+         "alias": "to issue on", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.62", 
+                     "sources": [
+                        "261460790186483712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.66", 
+                     "sources": [
+                        "261460790186483712"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.33", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261460790186483712"
+                  ], 
+                  "template": "to issue {a.2} on {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.34": {
+         "alias": "acknowledges", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "262223280772091905"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "262223280772091905"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.34", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262223280772091905"
+                  ], 
+                  "template": "{a.1} acknowledges {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.35": {
+         "alias": "to organize on", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.68", 
+                     "sources": [
+                        "261583590712823808"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.35", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261583590712823808"
+                  ], 
+                  "template": "{a.2} to organize {a.3} {a.1} on {a.4} {a.5}"
+               }
+            ]
+         }
+      }, 
+      "P.36": {
+         "alias": "were attacked by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.26", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "262148681111855105"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.36", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262148681111855105"
+                  ], 
+                  "template": "{a.3} were attacked by {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.37": {
+         "alias": "refuse", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.44", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.37", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261562799623385088"
+                  ], 
+                  "template": "{a.2} refuse {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.38": {
+         "alias": "to stop", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.89", 
+                     "sources": [
+                        "261970695905501184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.38", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261970695905501184"
+                  ], 
+                  "template": "to stop {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.39": {
+         "alias": "to make", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.80", 
+                     "sources": [
+                        "262303211745071104"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "262303211745071104"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.39", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262303211745071104"
+                  ], 
+                  "template": "{a.2} to make {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.4": {
+         "alias": "Anguish in as", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "262219568997625856"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "262219568997625856"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.4", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262219568997625856"
+                  ], 
+                  "template": "Anguish in {a.1} as {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.40": {
+         "alias": "Posted", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.22", 
+                     "sources": [
+                        "261611390769434624"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.82", 
+                     "sources": [
+                        "261611390769434624"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.40", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261611390769434624"
+                  ], 
+                  "template": "Posted {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.41": {
+         "alias": "hungry and killing", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "262301760700416000"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.41", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262301760700416000"
+                  ], 
+                  "template": "{a.2} {a.1} hungry and killing"
+               }
+            ]
+         }
+      }, 
+      "P.42": {
+         "alias": "not welcome in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "262326510952804352"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "262326510952804352"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.42", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262326510952804352"
+                  ], 
+                  "template": "{a.2} not welcome in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.43": {
+         "alias": "Captures", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.41", 
+                     "sources": [
+                        "262021920634048513"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "262021920634048513"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.43", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262021920634048513"
+                  ], 
+                  "template": "{a.1} Captures {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.44": {
+         "alias": "to take", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.44", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261562799623385088"
+                  ], 
+                  "template": "{a.1} to take {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.45": {
+         "alias": "divide", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.46", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.45", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.44", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "261265998236229633"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.45", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261265998236229633"
+                  ], 
+                  "template": "{a.2} {a.4} divide {a.1} {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.5": {
+         "alias": "show", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.63", 
+                     "sources": [
+                        "262203798573965312", 
+                        "262073569461288960"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.64", 
+                     "sources": [
+                        "262053277355614209"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.70", 
+                     "sources": [
+                        "262060961383448576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "262053277355614209"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.26", 
+                     "sources": [
+                        "262053734534750208"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "262053734534750208"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "262203798573965312", 
+                        "262060961383448576", 
+                        "262073569461288960"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.5", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "262203798573965312"
+                  ], 
+                  "template": "{a.4} show {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262073569461288960"
+                  ], 
+                  "template": "HRW {a.4} show {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262053277355614209"
+                  ], 
+                  "template": "{a.7} show {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "262060961383448576"
+                  ], 
+                  "template": "{a.6} show {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "262053734534750208"
+                  ], 
+                  "template": "bbc {a.1} show {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.6": {
+         "alias": "are being killed and refuse", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "261755230327279616"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.56", 
+                     "sources": [
+                        "262132642231771138"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.35", 
+                     "sources": [
+                        "261371295994892288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "261755230327279616"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "261562799623385088"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.6", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261371295994892288"
+                  ], 
+                  "template": "{a.1} {a.5} kill {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "261562799623385088"
+                  ], 
+                  "template": "killed in {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "261755230327279616"
+                  ], 
+                  "template": "{a.3} kills {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "261562799623385088"
+                  ], 
+                  "template": "{a.8} are being killed and refuse"
+               }, 
+               {
+                  "sources": [
+                     "262132642231771138"
+                  ], 
+                  "template": "killed in {a.6}"
+               }
+            ]
+         }
+      }, 
+      "P.7": {
+         "alias": "call for", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "261410705771728896"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "261410705771728896"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.7", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261410705771728896"
+                  ], 
+                  "template": "{a.1} call for {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.8": {
+         "alias": "Buddhists in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.67", 
+                     "sources": [
+                        "261250060011057152"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "261250060011057152"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.8", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261250060011057152"
+                  ], 
+                  "template": "{a.1} Buddhists in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.9": {
+         "alias": "die in", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "261706354069225472"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.92", 
+                     "sources": [
+                        "261495577655787521"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.93", 
+                     "sources": [
+                        "261495577655787521"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "261706354069225472"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "262043026610855936"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.87", 
+                     "sources": [
+                        "262043026610855936"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.83", 
+                     "sources": [
+                        "261495577655787521"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.9", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "261706354069225472"
+                  ], 
+                  "template": "{a.4} die in {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "262043026610855936"
+                  ], 
+                  "template": "{a.2} die as {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "261495577655787521"
+                  ], 
+                  "template": "Amid {a.6} {a.5} die in {a.3}"
+               }
+            ]
+         }
+      }
+   }, 
+   "tweets": {
+      "261250060011057152": {
+         "author": "MeetChina", 
+         "id": "261250060011057152", 
+         "string": "China Buddhists in new clashes with Muslims", 
+         "timestamp": "2012-10-24 23:37:22"
+      }, 
+      "261265998236229633": {
+         "author": "christiansoler", 
+         "id": "261265998236229633", 
+         "string": "Unrest again as Buddhist-Muslim divide deepens BBC News - Burma imposes overnight curfew in Rakhine state", 
+         "timestamp": "2012-10-25 00:40:42"
+      }, 
+      "261266719396478976": {
+         "author": "rohingyavoice", 
+         "id": "261266719396478976", 
+         "string": "The Voice Of Rohingya: Rohingyas floating in the river as dead fish", 
+         "timestamp": "2012-10-25 00:43:34"
+      }, 
+      "261336911380086784": {
+         "author": "NewsAtMmedia", 
+         "id": "261336911380086784", 
+         "string": "Security in Pak Taw Township Now Uncertain", 
+         "timestamp": "2012-10-25 05:22:29"
+      }, 
+      "261371295994892288": {
+         "author": "NottDan", 
+         "id": "261371295994892288", 
+         "string": "Myanmar steps up security after sectarian clashes kill 7", 
+         "timestamp": "2012-10-25 07:39:07"
+      }, 
+      "261410705771728896": {
+         "author": "MizzimaNews", 
+         "id": "261410705771728896", 
+         "string": "Students call for removal of Rohingya villages", 
+         "timestamp": "2012-10-25 10:15:43"
+      }, 
+      "261417437688373248": {
+         "author": "Blottr", 
+         "id": "261417437688373248", 
+         "string": "5 dead as violence in Western Burma reignites", 
+         "timestamp": "2012-10-25 10:42:28"
+      }, 
+      "261460790186483712": {
+         "author": "Buffalohair", 
+         "id": "261460790186483712", 
+         "string": "Wa to issue statement on Monday", 
+         "timestamp": "2012-10-25 13:34:44"
+      }, 
+      "261464510462844928": {
+         "author": "Altsean", 
+         "id": "261464510462844928", 
+         "string": "UN \"gravely concerned\" about resurgence of sectarian violence in Burma's Arakan State", 
+         "timestamp": "2012-10-25 13:49:31"
+      }, 
+      "261493757315272705": {
+         "author": "_tidings_", 
+         "id": "261493757315272705", 
+         "string": "'Many killed' in Burma violence", 
+         "timestamp": "2012-10-25 15:45:44"
+      }, 
+      "261494180793159680": {
+         "author": "incrediblekulk", 
+         "id": "261494180793159680", 
+         "string": "Buddhists and Muslims raping and killing each other.", 
+         "timestamp": "2012-10-25 15:47:25"
+      }, 
+      "261495577655787521": {
+         "author": "JackClayton617", 
+         "id": "261495577655787521", 
+         "string": "Amid ethnic tension, 56 die in burned homes in Burma", 
+         "timestamp": "2012-10-25 15:52:58"
+      }, 
+      "261500270842871808": {
+         "author": "Adil_Lateef", 
+         "id": "261500270842871808", 
+         "string": "56 dead in new ethnic violence in", 
+         "timestamp": "2012-10-25 16:11:37"
+      }, 
+      "261502519149215744": {
+         "author": "HariMirchein", 
+         "id": "261502519149215744", 
+         "string": "Phir sey ?? Fighting between Rohingya Muslims and Buddhists continues for a 5th day in Myanmar; hundreds of homes burn", 
+         "timestamp": "2012-10-25 16:20:33"
+      }, 
+      "261522446232993792": {
+         "author": "AlphaRelief", 
+         "id": "261522446232993792", 
+         "string": "Burma official says 56 dead, almost 2,000 houses torched in latest ethnic violence", 
+         "timestamp": "2012-10-25 17:39:44"
+      }, 
+      "261558626563526656": {
+         "author": "tholalmohamed", 
+         "id": "261558626563526656", 
+         "string": "BBC News - Burma Rakhine clashes death toll at 56", 
+         "timestamp": "2012-10-25 20:03:30"
+      }, 
+      "261562799623385088": {
+         "author": "EngrNasirJamal", 
+         "id": "261562799623385088", 
+         "string": "'Many killed' in Burma violence. Muslims are being killed and noble peace prize winner ASK refuse to take notice.", 
+         "timestamp": "2012-10-25 20:20:05"
+      }, 
+      "261563743228551168": {
+         "author": "jwholl", 
+         "id": "261563743228551168", 
+         "string": "Rivers of Flavor", 
+         "timestamp": "2012-10-25 20:23:50"
+      }, 
+      "261583590712823808": {
+         "author": "SmilingFlower", 
+         "id": "261583590712823808", 
+         "string": "I am trying to organize an interfaith vigil here in Toronto on December 8th. Some Rohingya here in Canada have been targeting Buddhists.", 
+         "timestamp": "2012-10-25 21:42:42"
+      }, 
+      "261600842099064832": {
+         "author": "KherUlAmalNEWS", 
+         "id": "261600842099064832", 
+         "string": "EWS: ALERT: BURMA: At Least=56 People Killed And Hundreds of Homes Torched Since Sunday in Ethnic Clashes in =Burma's =Rakhine Region", 
+         "timestamp": "2012-10-25 22:51:15"
+      }, 
+      "261611390769434624": {
+         "author": "RestlessBeings", 
+         "id": "261611390769434624", 
+         "string": "Posted \"Latest Images from Burma on the Rohingya Crisis\" on Rohingya project. Join the discussion!", 
+         "timestamp": "2012-10-25 23:33:10"
+      }, 
+      "261636606727954432": {
+         "author": "ajaxray", 
+         "id": "261636606727954432", 
+         "string": "Road to Paharpur Buddhist temple", 
+         "timestamp": "2012-10-26 01:13:22"
+      }, 
+      "261640566427758592": {
+         "author": "AungMoeWin", 
+         "id": "261640566427758592", 
+         "string": "Burma Violence Continues Between Buddhists And Muslims In Myanmar", 
+         "timestamp": "2012-10-26 01:29:06"
+      }, 
+      "261651031149117440": {
+         "author": "akrockefeller", 
+         "id": "261651031149117440", 
+         "string": "Direct from our sources we have been able to get images from the ground", 
+         "timestamp": "2012-10-26 02:10:41"
+      }, 
+      "261682639340175361": {
+         "author": "sapratama", 
+         "id": "261682639340175361", 
+         "string": "In Burma, Muslim Minority Burned Out Of Their Homes", 
+         "timestamp": "2012-10-26 04:16:17"
+      }, 
+      "261706354069225472": {
+         "author": "dicklp", 
+         "id": "261706354069225472", 
+         "string": "Scores die in new Buddhist-Muslim violence in western Burma ($)", 
+         "timestamp": "2012-10-26 05:50:31"
+      }, 
+      "261718244929458176": {
+         "author": "SjaakSeen", 
+         "id": "261718244929458176", 
+         "string": "56+ people killed and thousands of homes torched in Buddhist-Muslim violence in western Myanmar", 
+         "timestamp": "2012-10-26 06:37:46"
+      }, 
+      "261720132303335424": {
+         "author": "malaychange", 
+         "id": "261720132303335424", 
+         "string": "According to the UN, the Rohingya People are one of the most persecuted minorities in the world.", 
+         "timestamp": "2012-10-26 06:45:16"
+      }, 
+      "261721210117828608": {
+         "author": "NajeeebMuhammad", 
+         "id": "261721210117828608", 
+         "string": "Hundreds of Buddhist university students rallied against Rohingya against Muslims", 
+         "timestamp": "2012-10-26 06:49:33"
+      }, 
+      "261724142154424320": {
+         "author": "EthCon2", 
+         "id": "261724142154424320", 
+         "string": "Burma death toll rises in ethnic clashes - San Francisco Chronicle", 
+         "timestamp": "2012-10-26 07:01:12"
+      }, 
+      "261736557185208320": {
+         "author": "ToyubommNews", 
+         "id": "261736557185208320", 
+         "string": "Burma death toll rises in ethnic clashes", 
+         "timestamp": "2012-10-26 07:50:32"
+      }, 
+      "261750851280977920": {
+         "author": "100P_News", 
+         "id": "261750851280977920", 
+         "string": "At least 112 people killed and scores more wounded in wave of communal violence between Muslims &amp; Buddhists in", 
+         "timestamp": "2012-10-26 08:47:20"
+      }, 
+      "261755230327279616": {
+         "author": "zawwailinn", 
+         "id": "261755230327279616", 
+         "string": "the ongoing sectarian unrest in Western Myanmar kills almost hundred of Muslims.", 
+         "timestamp": "2012-10-26 09:04:44"
+      }, 
+      "261770581190520833": {
+         "author": "VOAStevenson", 
+         "id": "261770581190520833", 
+         "string": "UN Rights Expert: Endemic Discrimination in Burma", 
+         "timestamp": "2012-10-26 10:05:44"
+      }, 
+      "261819549660364801": {
+         "author": "TTM_Media", 
+         "id": "261819549660364801", 
+         "string": "At least 56 people killed and hundreds of homes torched since Sunday; clashes spread in Burma's Rakhine state.", 
+         "timestamp": "2012-10-26 13:20:19"
+      }, 
+      "261970695905501184": {
+         "author": "MuslimNewsAlert", 
+         "id": "261970695905501184", 
+         "string": "Rohingya campaigners accuse Burma of failing to stop deaths", 
+         "timestamp": "2012-10-26 23:20:55"
+      }, 
+      "261977931075698688": {
+         "author": "Rosebud191", 
+         "id": "261977931075698688", 
+         "string": "Buddhist Detachment for the Western Mind", 
+         "timestamp": "2012-10-26 23:49:40"
+      }, 
+      "261990820020908032": {
+         "author": "radiofreeorg", 
+         "id": "261990820020908032", 
+         "string": "New Violence in Arakan State", 
+         "timestamp": "2012-10-27 00:40:53"
+      }, 
+      "262021920634048513": {
+         "author": "AungMoeWin", 
+         "id": "262021920634048513", 
+         "string": "Burma Rights Group Captures Burma's Ethnic Cleansing by Satellite Reporting", 
+         "timestamp": "2012-10-27 02:44:28"
+      }, 
+      "262043026610855936": {
+         "author": "xxxriainxxx", 
+         "id": "262043026610855936", 
+         "string": "Dozens die as Buddhists, Muslims clash in BURMA", 
+         "timestamp": "2012-10-27 04:08:20"
+      }, 
+      "262053277355614209": {
+         "author": "MyPublicInbox", 
+         "id": "262053277355614209", 
+         "string": "Burma images 'show mass burnings'", 
+         "timestamp": "2012-10-27 04:49:04"
+      }, 
+      "262053734534750208": {
+         "author": "LatestNews25", 
+         "id": "262053734534750208", 
+         "string": "bbc latest news Burma images 'show mass burnings'", 
+         "timestamp": "2012-10-27 04:50:53"
+      }, 
+      "262060961383448576": {
+         "author": "MuslimNewsAlert", 
+         "id": "262060961383448576", 
+         "string": "Human Rights Watch satellite images 'show Rakhine destruction'", 
+         "timestamp": "2012-10-27 05:19:36"
+      }, 
+      "262073569461288960": {
+         "author": "YourAnonCentral", 
+         "id": "262073569461288960", 
+         "string": "HRW satellite images 'show Rakhine destruction'", 
+         "timestamp": "2012-10-27 06:09:42"
+      }, 
+      "262076941560070144": {
+         "author": "RES911CUE", 
+         "id": "262076941560070144", 
+         "string": "Muslim Rohingyas under \"vicious\" attack in Myanmar: rights group", 
+         "timestamp": "2012-10-27 06:23:06"
+      }, 
+      "262077675789758464": {
+         "author": "Berry_Smith", 
+         "id": "262077675789758464", 
+         "string": "Muslim Rohingyas under &amp;quot;vicious&amp;quot; attack in Myanmar-rights group", 
+         "timestamp": "2012-10-27 06:26:01"
+      }, 
+      "262079437225488384": {
+         "author": "FRANCE24", 
+         "id": "262079437225488384", 
+         "string": "Thousands displaced by ethnic violence in Burma", 
+         "timestamp": "2012-10-27 06:33:01"
+      }, 
+      "262087641267331072": {
+         "author": "N_H_Asia", 
+         "id": "262087641267331072", 
+         "string": "Muslim Rohingyas under \"vicious\" attack in Myanmar-rights group", 
+         "timestamp": "2012-10-27 07:05:37"
+      }, 
+      "262097661354725376": {
+         "author": "BBCKhi", 
+         "id": "262097661354725376", 
+         "string": "400 Rohingya victims are on hunger strike in Sittwe because they are forced to send somewhere else by military: 2710:11:25", 
+         "timestamp": "2012-10-27 07:45:26"
+      }, 
+      "262108155591401473": {
+         "author": "AliDayan", 
+         "id": "262108155591401473", 
+         "string": "HRW satellite imagery from Burma, showing Rohingya home burnings, is at", 
+         "timestamp": "2012-10-27 08:27:08"
+      }, 
+      "262117953737224193": {
+         "author": "UkBentley", 
+         "id": "262117953737224193", 
+         "string": "Burma: 'Entire neighbourhood vanished'", 
+         "timestamp": "2012-10-27 09:06:04"
+      }, 
+      "262120612686872576": {
+         "author": "jamesmenendez", 
+         "id": "262120612686872576", 
+         "string": "HRW satellite images of destruction in one town hit by communal fighting in Rakhine state", 
+         "timestamp": "2012-10-27 09:16:38"
+      }, 
+      "262123154665775104": {
+         "author": "RohingyaSociety", 
+         "id": "262123154665775104", 
+         "string": "Latest News :  Muslim Rohingyas under \"vicious\" attack in Myanmar: rights group", 
+         "timestamp": "2012-10-27 09:26:44"
+      }, 
+      "262132524459884544": {
+         "author": "MoroccanNews1", 
+         "id": "262132524459884544", 
+         "string": "Muslim Rohingya exodus after violent Myanmar clashes", 
+         "timestamp": "2012-10-27 10:03:58"
+      }, 
+      "262132642231771138": {
+         "author": "JaseemDeltota", 
+         "id": "262132642231771138", 
+         "string": "on the day of Eid 41 killed in Afgan, 5 dead &amp; several injured in Syria, Rohingya Muslims attack in Burma, Masjid Burning in SL.", 
+         "timestamp": "2012-10-27 10:04:26"
+      }, 
+      "262148681111855105": {
+         "author": "Volumiser_AFC", 
+         "id": "262148681111855105", 
+         "string": "A Muslim minority in Burma were attacked by Buddhists. We really are in trouble when Buddhists are attacking people over religion.", 
+         "timestamp": "2012-10-27 11:08:10"
+      }, 
+      "262170881369972736": {
+         "author": "Myanmar_", 
+         "id": "262170881369972736", 
+         "string": "Is It Safe to Visit Myanmar?", 
+         "timestamp": "2012-10-27 12:36:23"
+      }, 
+      "262193883130253312": {
+         "author": "Mob_D", 
+         "id": "262193883130253312", 
+         "string": "My thoughts &amp; prayers are with the people of Burma", 
+         "timestamp": "2012-10-27 14:07:47"
+      }, 
+      "262194596103196672": {
+         "author": "MohamedAlAmine_", 
+         "id": "262194596103196672", 
+         "string": "Satellite Images Show 'Destruction'", 
+         "timestamp": "2012-10-27 14:10:37"
+      }, 
+      "262203798573965312": {
+         "author": "BelkissObadia", 
+         "id": "262203798573965312", 
+         "string": "BBC News - Burma satellite images show destruction in Rakhine state", 
+         "timestamp": "2012-10-27 14:47:11"
+      }, 
+      "262219568997625856": {
+         "author": "FirefoxWorldNew", 
+         "id": "262219568997625856", 
+         "string": "Anguish in Burma as violence flares", 
+         "timestamp": "2012-10-27 15:49:51"
+      }, 
+      "262223280772091905": {
+         "author": "juanmuriango", 
+         "id": "262223280772091905", 
+         "string": "Burma acknowledges wave of deadly anti-Muslim violence", 
+         "timestamp": "2012-10-27 16:04:36"
+      }, 
+      "262225889809547264": {
+         "author": "smartthumb", 
+         "id": "262225889809547264", 
+         "string": "Burma admits Rakhine destruction", 
+         "timestamp": "2012-10-27 16:14:58"
+      }, 
+      "262226170832093184": {
+         "author": "smartthumb", 
+         "id": "262226170832093184", 
+         "string": "Burma gov admits Rakhine destruction", 
+         "timestamp": "2012-10-27 16:16:05"
+      }, 
+      "262233426894135296": {
+         "author": "EdJoyce", 
+         "id": "262233426894135296", 
+         "string": "Ethnic cleansing in Burma: Burma admits Rakhine destruction.", 
+         "timestamp": "2012-10-27 16:44:55"
+      }, 
+      "262234765002932224": {
+         "author": "fredric_wertham", 
+         "id": "262234765002932224", 
+         "string": "unprecedented wave of ethnic (=religious) violence in Burma has targeted country's Rohingya Muslim population", 
+         "timestamp": "2012-10-27 16:50:14"
+      }, 
+      "262235213579579395": {
+         "author": "nicosuavehh", 
+         "id": "262235213579579395", 
+         "string": "Burma's leader admits deadly attacks on Muslims", 
+         "timestamp": "2012-10-27 16:52:01"
+      }, 
+      "262268281640067074": {
+         "author": "amplifyit", 
+         "id": "262268281640067074", 
+         "string": "Buddhists are massacring Muslims in Burma? What on earth?", 
+         "timestamp": "2012-10-27 19:03:25"
+      }, 
+      "262276770810712064": {
+         "author": "Farhan_Imaan", 
+         "id": "262276770810712064", 
+         "string": "Burma president admits ethnic cleansing of Rohingya muslims", 
+         "timestamp": "2012-10-27 19:37:09"
+      }, 
+      "262301760700416000": {
+         "author": "neverlandgovern", 
+         "id": "262301760700416000", 
+         "string": "How do you sleep if your neighbor still hungry and they were killing", 
+         "timestamp": "2012-10-27 21:16:27"
+      }, 
+      "262303211745071104": {
+         "author": "JamilaHanan", 
+         "id": "262303211745071104", 
+         "string": "Land grabbing to make way 4 large scale economic projects now epidemic in", 
+         "timestamp": "2012-10-27 21:22:13"
+      }, 
+      "262320223909187584": {
+         "author": "crypticvalentin", 
+         "id": "262320223909187584", 
+         "string": "Plight of Myanmar Muslims..myanmar..rohingya", 
+         "timestamp": "2012-10-27 22:29:49"
+      }, 
+      "262326510952804352": {
+         "author": "brcuk786", 
+         "id": "262326510952804352", 
+         "string": "Rohingyas not welcome in Bangladesh", 
+         "timestamp": "2012-10-27 22:54:48"
+      }
+   }
+}

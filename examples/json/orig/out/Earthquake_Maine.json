@@ -1,0 +1,858 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    7, 
+                    21
+                ], 
+                "keywords": [
+                    "in", 
+                    "2.0", 
+                    "And", 
+                    "California", 
+                    "gets"
+                ]
+            }, 
+            {
+                "ids": [
+                    10, 
+                    1
+                ], 
+                "keywords": [
+                    "watch", 
+                    "Ok", 
+                    "news", 
+                    "everybody"
+                ]
+            }, 
+            {
+                "ids": [
+                    0, 
+                    16, 
+                    14
+                ], 
+                "keywords": [
+                    "MAINE PEOPLE", 
+                    "came", 
+                    "WAS IN", 
+                    "yeah"
+                ]
+            }, 
+            {
+                "ids": [
+                    4, 
+                    18, 
+                    3
+                ], 
+                "keywords": [
+                    "while", 
+                    "Brother", 
+                    "experienced", 
+                    "Who", 
+                    "knew", 
+                    "close", 
+                    "the"
+                ]
+            }, 
+            {
+                "ids": [
+                    19, 
+                    20, 
+                    13, 
+                    17, 
+                    12, 
+                    11
+                ], 
+                "keywords": [
+                    "New England", 
+                    "novelization", 
+                    "Doomquake", 
+                    "causes", 
+                    "Look", 
+                    "shakes", 
+                    "4.6", 
+                    "tonight", 
+                    "!", 
+                    "Hit With", 
+                    "or", 
+                    "injuries", 
+                    "rattles"
+                ]
+            }
+        ], 
+        "numTweets": 152, 
+        "sentences": [
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "4.6 magnitude ; magnitude", 
+                        "tokens": [
+                            2, 
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "USGS reports 4.5 magnitude earthquake earthquake at 7:12 EST EST", 
+                "sentenceExpansion": [
+                    "reported six kilometers", 
+                    "across Maine", 
+                    "at depth", 
+                    "reported 6 miles SW at", 
+                    "reports Magnitude"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:18:17", 
+                "tweets": [
+                    258347987288350720, 
+                    258346154222317569, 
+                    258409790261325826, 
+                    258359056098537472, 
+                    258351904726347777, 
+                    258350864576688128, 
+                    258351875500408832
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.9", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake was in", 
+                "sentenceExpansion": [
+                    "of 4.5 magnitude earthquake strong", 
+                    "is why I ca n't live in New England", 
+                    "are just", 
+                    "in maine 4.5 magnitude"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:18:46", 
+                "tweets": [
+                    258349547678482432, 
+                    258346276003909632, 
+                    258356308665847809, 
+                    258348964619886592, 
+                    258348960446554112, 
+                    258349883021475840, 
+                    258351078679142400, 
+                    258354601676398592, 
+                    258352408097353728, 
+                    258347144052867072
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [], 
+                "sentence": "And California gets 2.0", 
+                "sentenceExpansion": [
+                    "got attention on", 
+                    "earthquake got"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:18:46", 
+                "tweets": [
+                    258346276003909632, 
+                    258359848964587521
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "It", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "It", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.38", 
+                        "expansion": "there ; Here", 
+                        "tokens": [
+                            10
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.28", 
+                        "expansion": "Just", 
+                        "tokens": [
+                            11
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "It", 
+                        "tokens": [
+                            13
+                        ]
+                    }
+                ], 
+                "sentence": "To settle it earthquake it was centered in Hollis Center Maine coworker here just confirmed it", 
+                "sentenceExpansion": [
+                    "felt Hope all", 
+                    "4.5 magnitude earthquake centered", 
+                    "centered west", 
+                    "at Lake Arrowhead Maine", 
+                    "4.6 centered", 
+                    "4.5 M Earthquake centered", 
+                    "Maine felt Hope"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:18:54", 
+                "tweets": [
+                    258411665396224000, 
+                    258453809708290048, 
+                    258351963421425666, 
+                    258347786003689473, 
+                    258409094061379584, 
+                    258358078972518401, 
+                    258356308665847809, 
+                    258346309474463744, 
+                    258371362127749122, 
+                    258347077032099840, 
+                    258481924081860608, 
+                    258350633780903936, 
+                    258356786862637056, 
+                    258397824008478720, 
+                    258346926041358336, 
+                    258355079906750464, 
+                    258347962013462528, 
+                    258348704564649985, 
+                    258355243253891072
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.3", 
+                        "expansion": "Was felt", 
+                        "tokens": [
+                            1, 
+                            3, 
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.28", 
+                        "expansion": "Just", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.38", 
+                        "expansion": "there ; Here", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "just felt earthquake from Maine here in mass", 
+                "sentenceExpansion": [
+                    "across New England", 
+                    "4.5 magnitude earthquake felt", 
+                    "totes felt", 
+                    "in Mass. Centered around Hollis Center Maine", 
+                    "Wow earthquake", 
+                    "in Boston", 
+                    "across region", 
+                    "south west", 
+                    "summary felt", 
+                    "felt locally", 
+                    "states Ya I", 
+                    "4.6-Magnitude Earthquake felt", 
+                    "through Massachusetts", 
+                    "in Concord"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:21:57", 
+                "tweets": [
+                    258349002452512768, 
+                    258351078679142400, 
+                    258351963421425666, 
+                    258453809708290048, 
+                    258353880121872384, 
+                    258352060150448129, 
+                    258356170291552258, 
+                    258348985419431937, 
+                    258348545151750145, 
+                    258349270753738752, 
+                    258355608493883392, 
+                    258384993577996289, 
+                    258353226053718016, 
+                    258356308665847809, 
+                    258360280633974784, 
+                    258358061838790656, 
+                    258356485116014592, 
+                    258352819067842560, 
+                    258360901772656640, 
+                    258347823614021632, 
+                    258351233545404417, 
+                    258348314414702592, 
+                    258349044127109121, 
+                    258352408097353728, 
+                    258350633780903936, 
+                    258351359496163330, 
+                    258349547678482432, 
+                    258577440983621632, 
+                    258348738106511361, 
+                    258352605082824705, 
+                    258351514647674880, 
+                    258351904726347777, 
+                    258356786862637056, 
+                    258349597733302272, 
+                    258347832182980609, 
+                    258355243253891072, 
+                    258481924081860608, 
+                    258356644340187136, 
+                    258351363736600576, 
+                    258350218884562944, 
+                    258397735777091584, 
+                    258347077032099840, 
+                    258352202454814721, 
+                    258377792067092481, 
+                    258366446617374721, 
+                    258373581036195841
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.28", 
+                        "expansion": "Just", 
+                        "tokens": [
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "please just watch news", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:22:13", 
+                "tweets": [
+                    258347144052867072
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "Exists", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "Ok everybody Is", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:25:46", 
+                "tweets": [
+                    258348037733228545
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.15", 
+                        "expansion": "so", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.14", 
+                        "expansion": "one", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "Exists", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "So I guess Is and was", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:25:46", 
+                "tweets": [
+                    258348037733228545
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake WAS IN MAINE PEOPLE", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:27:22", 
+                "tweets": [
+                    258348440247996416
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.28", 
+                        "expansion": "Just", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake yeah just", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:28:25", 
+                "tweets": [
+                    258348704468189187
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.15", 
+                        "expansion": "so", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "So earthquake came from Maine", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:33:05", 
+                "tweets": [
+                    258349878940405760
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake struck Maine shortly after 7 ET and felt", 
+                "sentenceExpansion": [
+                    "strikes west", 
+                    "RT Reuters strikes", 
+                    "4.5 magnitude earthquake strikes"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:38:59", 
+                "tweets": [
+                    258360901772656640, 
+                    258351363736600576, 
+                    258381294164131841, 
+                    258365054079078400, 
+                    258366446617374721, 
+                    258352202454814721, 
+                    258356485116014592, 
+                    258384993577996289
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "It", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.9", 
+                        "tokens": []
+                    }
+                ], 
+                "sentence": "it originally occurred at Maine earthquake ", 
+                "sentenceExpansion": [
+                    "Maine here"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-16 23:43:08", 
+                "tweets": [
+                    258354601676398592, 
+                    258352408097353728
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Who knew the had earthquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:44:50", 
+                "tweets": [
+                    258352835790516225
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.14", 
+                        "expansion": "one", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "I close in while", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:54:24", 
+                "tweets": [
+                    258355243253891072
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.28", 
+                        "expansion": "Just", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.3", 
+                        "expansion": "Was felt", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Maine just experienced earthquake Brother felt", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-16 23:58:05", 
+                "tweets": [
+                    258356170291552258
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "Exists", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Is Zumba ring karma RTBreakingNews Magnitude earthquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-17 00:03:54", 
+                "tweets": [
+                    258357634258841600
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "4.6 magnitude ; magnitude", 
+                        "tokens": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "4.5 magnitude earthquake tonight !", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:11:43", 
+                "tweets": [
+                    258359601341292546
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "Maine Hit With 4.6", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:48:32", 
+                "tweets": [
+                    258373958498410496, 
+                    258368866558803969
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "New England States ; New England earthquake", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake shakes New England", 
+                "sentenceExpansion": [
+                    "shakes Maine", 
+                    "4.5 magnitude earthquake shakes"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 00:53:57", 
+                "tweets": [
+                    258409094061379584, 
+                    258411665396224000, 
+                    258370229846040576, 
+                    258377792067092481
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "UCWRadio Magnitude 4.5 earthquake ; Earthquake ; 4.5 earthquake ; magnitude 4.6 earthquake", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "Portland Maine ; Southern Maine Earthquake ; Maine Fucking", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "New England States ; New England earthquake", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "earthquake rattles Maine New England", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 01:24:16", 
+                "tweets": [
+                    258471765381099520, 
+                    258471807361880064, 
+                    258469680652632065, 
+                    258605626727473152, 
+                    258377859209519105, 
+                    258625205705003008, 
+                    258397824008478720
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [], 
+                "sentence": "Look for novelization Doomquake", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 14:31:40", 
+                "tweets": [
+                    258576014924472320
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.47", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.47", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "causes or or injuries", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 17:47:08", 
+                "tweets": [
+                    258625205705003008
+                ]
+            }
+        ], 
+        "title": "Earthquake_Maine"
+    }
+}

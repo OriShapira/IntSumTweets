@@ -1,0 +1,6975 @@
+{
+   "entities": {
+      "E.1": {
+         "alias": "boys", 
+         "id": "E.1", 
+         "mentions": [
+            {
+               "sources": [
+                  "259350115570036737"
+               ], 
+               "term": "boys"
+            }, 
+            {
+               "sources": [
+                  "258991800277139456"
+               ], 
+               "term": "boys scouts"
+            }
+         ]
+      }, 
+      "E.10": {
+         "alias": "smh", 
+         "id": "E.10", 
+         "mentions": [
+            {
+               "sources": [
+                  "258991800277139456"
+               ], 
+               "term": "smh"
+            }
+         ]
+      }, 
+      "E.100": {
+         "alias": "Eagle Scouts", 
+         "id": "E.100", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "Eagle Scouts"
+            }
+         ]
+      }, 
+      "E.101": {
+         "alias": "accountable", 
+         "id": "E.101", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "accountable"
+            }
+         ]
+      }, 
+      "E.102": {
+         "alias": "responsible", 
+         "id": "E.102", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "responsible"
+            }
+         ]
+      }, 
+      "E.103": {
+         "alias": "this", 
+         "id": "E.103", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "this"
+            }
+         ]
+      }, 
+      "E.104": {
+         "alias": "We", 
+         "id": "E.104", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "We"
+            }
+         ]
+      }, 
+      "E.105": {
+         "alias": "away", 
+         "id": "E.105", 
+         "mentions": [
+            {
+               "sources": [
+                  "259386941403959296"
+               ], 
+               "term": "away"
+            }
+         ]
+      }, 
+      "E.106": {
+         "alias": "MT Perversion files show locals", 
+         "id": "E.106", 
+         "mentions": [
+            {
+               "sources": [
+                  "259105101132754944"
+               ], 
+               "term": "MT Perversion files show locals"
+            }
+         ]
+      }, 
+      "E.107": {
+         "alias": "jack", 
+         "id": "E.107", 
+         "mentions": [
+            {
+               "sources": [
+                  "258914633430204416"
+               ], 
+               "term": "jack"
+            }
+         ]
+      }, 
+      "E.108": {
+         "alias": "why", 
+         "id": "E.108", 
+         "mentions": [
+            {
+               "sources": [
+                  "259320034093068290"
+               ], 
+               "term": "why"
+            }
+         ]
+      }, 
+      "E.109": {
+         "alias": "people", 
+         "id": "E.109", 
+         "mentions": [
+            {
+               "sources": [
+                  "259320034093068290"
+               ], 
+               "term": "people"
+            }
+         ]
+      }, 
+      "E.11": {
+         "alias": "Now", 
+         "id": "E.11", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "now"
+            }, 
+            {
+               "sources": [
+                  "258991800277139456"
+               ], 
+               "term": "Now"
+            }, 
+            {
+               "sources": [
+                  "259044246139592704", 
+                  "258897038345900032", 
+                  "258910200042508288"
+               ], 
+               "term": "today"
+            }
+         ]
+      }, 
+      "E.12": {
+         "alias": "abuse allegations", 
+         "id": "E.12", 
+         "mentions": [
+            {
+               "sources": [
+                  "259060960092893184", 
+                  "259036260167979008"
+               ], 
+               "term": "allegations"
+            }, 
+            {
+               "sources": [
+                  "259413495869747201"
+               ], 
+               "term": "abuse allegations"
+            }
+         ]
+      }, 
+      "E.13": {
+         "alias": "Montana", 
+         "id": "E.13", 
+         "mentions": [
+            {
+               "sources": [
+                  "259413495869747201"
+               ], 
+               "term": "Montana"
+            }
+         ]
+      }, 
+      "E.14": {
+         "alias": "files", 
+         "id": "E.14", 
+         "mentions": [
+            {
+               "sources": [
+                  "258884015363354625", 
+                  "258910200042508288", 
+                  "259062193276997632", 
+                  "258991489818955776"
+               ], 
+               "term": "files"
+            }, 
+            {
+               "sources": [
+                  "259062319374557184"
+               ], 
+               "term": "Scout files"
+            }, 
+            {
+               "sources": [
+                  "259250396114079744"
+               ], 
+               "term": "Secret Boy Scout files"
+            }, 
+            {
+               "sources": [
+                  "259048926907338752"
+               ], 
+               "term": "child abuse files"
+            }, 
+            {
+               "sources": [
+                  "259044246139592704"
+               ], 
+               "term": "records"
+            }
+         ]
+      }, 
+      "E.15": {
+         "alias": "code", 
+         "id": "E.15", 
+         "mentions": [
+            {
+               "sources": [
+                  "259083236154683392"
+               ], 
+               "term": "code"
+            }
+         ]
+      }, 
+      "E.16": {
+         "alias": "child", 
+         "id": "E.16", 
+         "mentions": [
+            {
+               "sources": [
+                  "259062247832305664"
+               ], 
+               "term": "child abuse"
+            }, 
+            {
+               "sources": [
+                  "259052311677116416"
+               ], 
+               "term": "child abuse files"
+            }, 
+            {
+               "sources": [
+                  "259383095550177281", 
+                  "259149258903658496", 
+                  "259320034093068290"
+               ], 
+               "term": "child"
+            }
+         ]
+      }, 
+      "E.17": {
+         "alias": "I", 
+         "id": "E.17", 
+         "mentions": [
+            {
+               "sources": [
+                  "259383095550177281", 
+                  "259317307770294272", 
+                  "259060469460000770", 
+                  "259385599562235904"
+               ], 
+               "term": "I"
+            }
+         ]
+      }, 
+      "E.18": {
+         "alias": "History", 
+         "id": "E.18", 
+         "mentions": [
+            {
+               "sources": [
+                  "259244364683939840"
+               ], 
+               "term": "accounts"
+            }, 
+            {
+               "sources": [
+                  "258716758880419841"
+               ], 
+               "term": "name"
+            }, 
+            {
+               "sources": [
+                  "259383095550177281"
+               ], 
+               "term": "reports"
+            }, 
+            {
+               "sources": [
+                  "259012104835719168"
+               ], 
+               "term": "History"
+            }
+         ]
+      }, 
+      "E.19": {
+         "alias": "1965-1985", 
+         "id": "E.19", 
+         "mentions": [
+            {
+               "sources": [
+                  "258991489818955776"
+               ], 
+               "term": "1965-1985"
+            }
+         ]
+      }, 
+      "E.2": {
+         "alias": "sexual", 
+         "id": "E.2", 
+         "mentions": [
+            {
+               "sources": [
+                  "259044246139592704"
+               ], 
+               "term": "sexual"
+            }, 
+            {
+               "sources": [
+                  "258925551530684417", 
+                  "259317307770294272", 
+                  "259350115570036737", 
+                  "259385599562235904"
+               ], 
+               "term": "sexually"
+            }
+         ]
+      }, 
+      "E.20": {
+         "alias": "on", 
+         "id": "E.20", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384", 
+                  "258991489818955776"
+               ], 
+               "term": "on"
+            }
+         ]
+      }, 
+      "E.21": {
+         "alias": "Attorneys", 
+         "id": "E.21", 
+         "mentions": [
+            {
+               "sources": [
+                  "258991489818955776", 
+                  "259016102171009025"
+               ], 
+               "term": "Lawyers"
+            }, 
+            {
+               "sources": [
+                  "259140333361848320", 
+                  "258987689821470721", 
+                  "258685511210786816", 
+                  "258700812145016833"
+               ], 
+               "term": "Attorneys"
+            }
+         ]
+      }, 
+      "E.22": {
+         "alias": "news conference", 
+         "id": "E.22", 
+         "mentions": [
+            {
+               "sources": [
+                  "258991489818955776"
+               ], 
+               "term": "news conference"
+            }
+         ]
+      }, 
+      "E.23": {
+         "alias": "me", 
+         "id": "E.23", 
+         "mentions": [
+            {
+               "sources": [
+                  "259006362904850432"
+               ], 
+               "term": "me"
+            }
+         ]
+      }, 
+      "E.24": {
+         "alias": "Congress", 
+         "id": "E.24", 
+         "mentions": [
+            {
+               "sources": [
+                  "258991489818955776"
+               ], 
+               "term": "Congress"
+            }
+         ]
+      }, 
+      "E.25": {
+         "alias": "Ugh RT", 
+         "id": "E.25", 
+         "mentions": [
+            {
+               "sources": [
+                  "259004911616946176"
+               ], 
+               "term": "Ugh RT"
+            }
+         ]
+      }, 
+      "E.26": {
+         "alias": "court", 
+         "id": "E.26", 
+         "mentions": [
+            {
+               "sources": [
+                  "259232138120015872"
+               ], 
+               "term": "court order"
+            }, 
+            {
+               "sources": [
+                  "259417924832477184"
+               ], 
+               "term": "court"
+            }
+         ]
+      }, 
+      "E.27": {
+         "alias": "Boy Scout sex abuse records", 
+         "id": "E.27", 
+         "mentions": [
+            {
+               "sources": [
+                  "259177301697249280"
+               ], 
+               "term": "Boy Scout sex abuse records"
+            }
+         ]
+      }, 
+      "E.28": {
+         "alias": "way", 
+         "id": "E.28", 
+         "mentions": [
+            {
+               "sources": [
+                  "259112659423739904"
+               ], 
+               "term": "Way"
+            }, 
+            {
+               "sources": [
+                  "259357157659643904"
+               ], 
+               "term": "way"
+            }
+         ]
+      }, 
+      "E.29": {
+         "alias": "scouts", 
+         "id": "E.29", 
+         "mentions": [
+            {
+               "sources": [
+                  "259320034093068290"
+               ], 
+               "term": "See"
+            }, 
+            {
+               "sources": [
+                  "258897038345900032"
+               ], 
+               "term": "conduct"
+            }, 
+            {
+               "sources": [
+                  "259177301697249280", 
+                  "259385599562235904"
+               ], 
+               "term": "scouts"
+            }
+         ]
+      }, 
+      "E.3": {
+         "alias": "20 years", 
+         "id": "E.3", 
+         "mentions": [
+            {
+               "sources": [
+                  "259140115320934400", 
+                  "259015536044822528", 
+                  "259239075721138176"
+               ], 
+               "term": "20 years"
+            }, 
+            {
+               "sources": [
+                  "259350115570036737"
+               ], 
+               "term": "age"
+            }, 
+            {
+               "sources": [
+                  "259047437900054528", 
+                  "259060960092893184", 
+                  "259044246139592704"
+               ], 
+               "term": "years"
+            }
+         ]
+      }, 
+      "E.30": {
+         "alias": "Kansas", 
+         "id": "E.30", 
+         "mentions": [
+            {
+               "sources": [
+                  "259357157659643904"
+               ], 
+               "term": "Kansas"
+            }
+         ]
+      }, 
+      "E.31": {
+         "alias": "Lagasse Jr.", 
+         "id": "E.31", 
+         "mentions": [
+            {
+               "sources": [
+                  "259357157659643904"
+               ], 
+               "term": "Lagasse Jr."
+            }
+         ]
+      }, 
+      "E.32": {
+         "alias": "just", 
+         "id": "E.32", 
+         "mentions": [
+            {
+               "sources": [
+                  "258970258478608384"
+               ], 
+               "term": "only"
+            }, 
+            {
+               "sources": [
+                  "258925551530684417"
+               ], 
+               "term": "Just"
+            }, 
+            {
+               "sources": [
+                  "259082355489251328"
+               ], 
+               "term": "just"
+            }
+         ]
+      }, 
+      "E.33": {
+         "alias": "7-year-old", 
+         "id": "E.33", 
+         "mentions": [
+            {
+               "sources": [
+                  "258925551530684417"
+               ], 
+               "term": "7-year-old"
+            }
+         ]
+      }, 
+      "E.34": {
+         "alias": "phrase honor", 
+         "id": "E.34", 
+         "mentions": [
+            {
+               "sources": [
+                  "259062247832305664"
+               ], 
+               "term": "phrase honor"
+            }
+         ]
+      }, 
+      "E.35": {
+         "alias": "1000 files", 
+         "id": "E.35", 
+         "mentions": [
+            {
+               "sources": [
+                  "259062247832305664"
+               ], 
+               "term": "1000 files"
+            }
+         ]
+      }, 
+      "E.36": {
+         "alias": "90 cases", 
+         "id": "E.36", 
+         "mentions": [
+            {
+               "sources": [
+                  "259125594699227137"
+               ], 
+               "term": "90 cases"
+            }
+         ]
+      }, 
+      "E.37": {
+         "alias": "Maryland", 
+         "id": "E.37", 
+         "mentions": [
+            {
+               "sources": [
+                  "259125594699227137"
+               ], 
+               "term": "Maryland"
+            }
+         ]
+      }, 
+      "E.38": {
+         "alias": "Boy Scout files", 
+         "id": "E.38", 
+         "mentions": [
+            {
+               "sources": [
+                  "259125594699227137"
+               ], 
+               "term": "Boy Scout files"
+            }
+         ]
+      }, 
+      "E.39": {
+         "alias": "1,200 scout volunteers", 
+         "id": "E.39", 
+         "mentions": [
+            {
+               "sources": [
+                  "259385599562235904"
+               ], 
+               "term": "volunteers"
+            }, 
+            {
+               "sources": [
+                  "259313927211589633"
+               ], 
+               "term": "1,200 scout volunteers"
+            }
+         ]
+      }, 
+      "E.4": {
+         "alias": "document sex abuse", 
+         "id": "E.4", 
+         "mentions": [
+            {
+               "sources": [
+                  "259019294095069184"
+               ], 
+               "term": "child abuse"
+            }, 
+            {
+               "sources": [
+                  "259254565021573120", 
+                  "259073824153296897", 
+                  "259181643129044992", 
+                  "259239717164425218", 
+                  "259313927211589633", 
+                  "258970258478608384"
+               ], 
+               "term": "abuse"
+            }, 
+            {
+               "sources": [
+                  "259077984873496577", 
+                  "258940717928415232"
+               ], 
+               "term": "sex abuse files"
+            }, 
+            {
+               "sources": [
+                  "259063103768104962"
+               ], 
+               "term": "document sex abuse"
+            }, 
+            {
+               "sources": [
+                  "259149258903658496"
+               ], 
+               "term": "abuse files"
+            }, 
+            {
+               "sources": [
+                  "259244364683939840"
+               ], 
+               "term": "Boy Scouts child abuse files"
+            }, 
+            {
+               "sources": [
+                  "259140115320934400"
+               ], 
+               "term": "child sex abuse"
+            }
+         ]
+      }, 
+      "E.40": {
+         "alias": "Decades", 
+         "id": "E.40", 
+         "mentions": [
+            {
+               "sources": [
+                  "259006362904850432"
+               ], 
+               "term": "Decades"
+            }, 
+            {
+               "sources": [
+                  "259027170989596672"
+               ], 
+               "term": "Detail Decades"
+            }
+         ]
+      }, 
+      "E.41": {
+         "alias": "child sex abusers", 
+         "id": "E.41", 
+         "mentions": [
+            {
+               "sources": [
+                  "258795112623116288"
+               ], 
+               "term": "sex abusers"
+            }, 
+            {
+               "sources": [
+                  "259140333361848320", 
+                  "258700812145016833", 
+                  "259016102171009025", 
+                  "259092962611445760", 
+                  "258685511210786816", 
+                  "258987689821470721"
+               ], 
+               "term": "child sex abusers"
+            }
+         ]
+      }, 
+      "E.42": {
+         "alias": "news headlines", 
+         "id": "E.42", 
+         "mentions": [
+            {
+               "sources": [
+                  "259060960092893184"
+               ], 
+               "term": "news headlines"
+            }
+         ]
+      }, 
+      "E.43": {
+         "alias": "Boy Scout leaders", 
+         "id": "E.43", 
+         "mentions": [
+            {
+               "sources": [
+                  "259239717164425218", 
+                  "259385599562235904"
+               ], 
+               "term": "Boy Scout leaders"
+            }
+         ]
+      }, 
+      "E.44": {
+         "alias": "Roanoke &gt; Boy Scout", 
+         "id": "E.44", 
+         "mentions": [
+            {
+               "sources": [
+                  "259019294095069184"
+               ], 
+               "term": "Roanoke &gt; Boy Scout"
+            }
+         ]
+      }, 
+      "E.45": {
+         "alias": "changes", 
+         "id": "E.45", 
+         "mentions": [
+            {
+               "sources": [
+                  "258836367700815873"
+               ], 
+               "term": "changes"
+            }
+         ]
+      }, 
+      "E.46": {
+         "alias": "programs", 
+         "id": "E.46", 
+         "mentions": [
+            {
+               "sources": [
+                  "258836367700815873"
+               ], 
+               "term": "programs"
+            }
+         ]
+      }, 
+      "E.47": {
+         "alias": "abuse show", 
+         "id": "E.47", 
+         "mentions": [
+            {
+               "sources": [
+                  "259315961390309376"
+               ], 
+               "term": "abuse show"
+            }
+         ]
+      }, 
+      "E.48": {
+         "alias": "wrap", 
+         "id": "E.48", 
+         "mentions": [
+            {
+               "sources": [
+                  "259317307770294272"
+               ], 
+               "term": "wrap"
+            }
+         ]
+      }, 
+      "E.49": {
+         "alias": "EVER", 
+         "id": "E.49", 
+         "mentions": [
+            {
+               "sources": [
+                  "259317307770294272"
+               ], 
+               "term": "ever"
+            }, 
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "EVER"
+            }
+         ]
+      }, 
+      "E.5": {
+         "alias": "Boy Scouts files", 
+         "id": "E.5", 
+         "mentions": [
+            {
+               "sources": [
+                  "259239075721138176"
+               ], 
+               "term": "Boy Scouts quotperversion filesquot"
+            }, 
+            {
+               "sources": [
+                  "259384102116012032", 
+                  "258940717928415232"
+               ], 
+               "term": "Boy"
+            }, 
+            {
+               "sources": [
+                  "258720307454554113"
+               ], 
+               "term": "Secret Boy Scouts"
+            }, 
+            {
+               "sources": [
+                  "259060960092893184"
+               ], 
+               "term": "Boy Scouts USA"
+            }, 
+            {
+               "sources": [
+                  "258738175189590016", 
+                  "259413495869747201", 
+                  "259383095550177281", 
+                  "258795112623116288", 
+                  "258910200042508288", 
+                  "259232138120015872", 
+                  "259047437900054528", 
+                  "259315961390309376", 
+                  "258836367700815873", 
+                  "259112659423739904", 
+                  "258700812145016833", 
+                  "259017192849416192", 
+                  "259294276897349632", 
+                  "258970258478608384", 
+                  "259254565021573120", 
+                  "259317307770294272", 
+                  "259077984873496577", 
+                  "259181643129044992", 
+                  "259083236154683392", 
+                  "259015536044822528", 
+                  "259140115320934400", 
+                  "259353508858458112", 
+                  "259052311677116416", 
+                  "259321862574718977", 
+                  "258685511210786816", 
+                  "259062247832305664", 
+                  "259048926907338752", 
+                  "259044246139592704", 
+                  "259417924832477184", 
+                  "258991489818955776"
+               ], 
+               "term": "Boy Scouts"
+            }, 
+            {
+               "sources": [
+                  "259140333361848320", 
+                  "258987689821470721", 
+                  "259016102171009025"
+               ], 
+               "term": "Boy Scouts files"
+            }, 
+            {
+               "sources": [
+                  "259105491072974849"
+               ], 
+               "term": "thing Boy Scouts"
+            }, 
+            {
+               "sources": [
+                  "259027170989596672", 
+                  "259063103768104962", 
+                  "259006362904850432"
+               ], 
+               "term": "Boy Scout"
+            }, 
+            {
+               "sources": [
+                  "259105101132754944"
+               ], 
+               "term": "Boy Scouts abuse"
+            }, 
+            {
+               "sources": [
+                  "259092962611445760"
+               ], 
+               "term": "Confidential Boy Scouts"
+            }, 
+            {
+               "sources": [
+                  "258893490052796416"
+               ], 
+               "term": "Confidential Boy Scouts Files"
+            }
+         ]
+      }, 
+      "E.50": {
+         "alias": "they", 
+         "id": "E.50", 
+         "mentions": [
+            {
+               "sources": [
+                  "259044246139592704", 
+                  "259317307770294272"
+               ], 
+               "term": "they"
+            }
+         ]
+      }, 
+      "E.51": {
+         "alias": "New", 
+         "id": "E.51", 
+         "mentions": [
+            {
+               "sources": [
+                  "259317307770294272"
+               ], 
+               "term": "youth"
+            }, 
+            {
+               "sources": [
+                  "259104081879134209"
+               ], 
+               "term": "New"
+            }
+         ]
+      }, 
+      "E.52": {
+         "alias": "News Scout", 
+         "id": "E.52", 
+         "mentions": [
+            {
+               "sources": [
+                  "259073824153296897"
+               ], 
+               "term": "News Scout"
+            }
+         ]
+      }, 
+      "E.53": {
+         "alias": "trips", 
+         "id": "E.53", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "trips"
+            }
+         ]
+      }, 
+      "E.54": {
+         "alias": "what", 
+         "id": "E.54", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "what"
+            }
+         ]
+      }, 
+      "E.55": {
+         "alias": "we", 
+         "id": "E.55", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "we"
+            }
+         ]
+      }, 
+      "E.56": {
+         "alias": "1247 cases", 
+         "id": "E.56", 
+         "mentions": [
+            {
+               "sources": [
+                  "259266850188304384"
+               ], 
+               "term": "1247 cases"
+            }
+         ]
+      }, 
+      "E.57": {
+         "alias": "face", 
+         "id": "E.57", 
+         "mentions": [
+            {
+               "sources": [
+                  "259006362904850432"
+               ], 
+               "term": "face"
+            }
+         ]
+      }, 
+      "E.58": {
+         "alias": "Sex Abusers", 
+         "id": "E.58", 
+         "mentions": [
+            {
+               "sources": [
+                  "259294276897349632"
+               ], 
+               "term": "Sex Abuser list"
+            }, 
+            {
+               "sources": [
+                  "258893490052796416"
+               ], 
+               "term": "Sex Abusers"
+            }
+         ]
+      }, 
+      "E.59": {
+         "alias": "perversion files", 
+         "id": "E.59", 
+         "mentions": [
+            {
+               "sources": [
+                  "259082355489251328"
+               ], 
+               "term": "Boy Scout perversion files"
+            }, 
+            {
+               "sources": [
+                  "258960871626252288"
+               ], 
+               "term": "perversion"
+            }, 
+            {
+               "sources": [
+                  "259321862574718977", 
+                  "258845259805650944", 
+                  "259132477187186688"
+               ], 
+               "term": "perversion files"
+            }
+         ]
+      }, 
+      "E.6": {
+         "alias": "that", 
+         "id": "E.6", 
+         "mentions": [
+            {
+               "sources": [
+                  "259320034093068290", 
+                  "259105491072974849"
+               ], 
+               "term": "that"
+            }
+         ]
+      }, 
+      "E.60": {
+         "alias": "homosexuals", 
+         "id": "E.60", 
+         "mentions": [
+            {
+               "sources": [
+                  "259047437900054528"
+               ], 
+               "term": "homosexuals"
+            }, 
+            {
+               "sources": [
+                  "258716758880419841"
+               ], 
+               "term": "men"
+            }
+         ]
+      }, 
+      "E.61": {
+         "alias": "members", 
+         "id": "E.61", 
+         "mentions": [
+            {
+               "sources": [
+                  "259047437900054528"
+               ], 
+               "term": "members"
+            }
+         ]
+      }, 
+      "E.62": {
+         "alias": "pervert files", 
+         "id": "E.62", 
+         "mentions": [
+            {
+               "sources": [
+                  "259232138120015872"
+               ], 
+               "term": "pervert files"
+            }
+         ]
+      }, 
+      "E.63": {
+         "alias": "Oregon", 
+         "id": "E.63", 
+         "mentions": [
+            {
+               "sources": [
+                  "259239717164425218"
+               ], 
+               "term": "Oregon"
+            }
+         ]
+      }, 
+      "E.64": {
+         "alias": "1200", 
+         "id": "E.64", 
+         "mentions": [
+            {
+               "sources": [
+                  "259239717164425218"
+               ], 
+               "term": "1200"
+            }
+         ]
+      }, 
+      "E.65": {
+         "alias": "badge", 
+         "id": "E.65", 
+         "mentions": [
+            {
+               "sources": [
+                  "259112659423739904"
+               ], 
+               "term": "badge"
+            }
+         ]
+      }, 
+      "E.66": {
+         "alias": "something", 
+         "id": "E.66", 
+         "mentions": [
+            {
+               "sources": [
+                  "259060469460000770"
+               ], 
+               "term": "something"
+            }
+         ]
+      }, 
+      "E.67": {
+         "alias": "here", 
+         "id": "E.67", 
+         "mentions": [
+            {
+               "sources": [
+                  "259082355489251328"
+               ], 
+               "term": "here"
+            }
+         ]
+      }, 
+      "E.68": {
+         "alias": "23 MN scout leaders", 
+         "id": "E.68", 
+         "mentions": [
+            {
+               "sources": [
+                  "259132477187186688"
+               ], 
+               "term": "23 MN scout leaders"
+            }
+         ]
+      }, 
+      "E.69": {
+         "alias": "Documents", 
+         "id": "E.69", 
+         "mentions": [
+            {
+               "sources": [
+                  "259012104835719168"
+               ], 
+               "term": "Documents"
+            }, 
+            {
+               "sources": [
+                  "259004911616946176"
+               ], 
+               "term": "Boy Scout Documents Reveal Decades"
+            }
+         ]
+      }, 
+      "E.7": {
+         "alias": "homosexuality", 
+         "id": "E.7", 
+         "mentions": [
+            {
+               "sources": [
+                  "259105491072974849"
+               ], 
+               "term": "homosexuality"
+            }
+         ]
+      }, 
+      "E.70": {
+         "alias": "What", 
+         "id": "E.70", 
+         "mentions": [
+            {
+               "sources": [
+                  "259036260167979008"
+               ], 
+               "term": "What"
+            }
+         ]
+      }, 
+      "E.71": {
+         "alias": "you", 
+         "id": "E.71", 
+         "mentions": [
+            {
+               "sources": [
+                  "259254565021573120", 
+                  "259036260167979008", 
+                  "259320034093068290"
+               ], 
+               "term": "you"
+            }
+         ]
+      }, 
+      "E.72": {
+         "alias": "revelations", 
+         "id": "E.72", 
+         "mentions": [
+            {
+               "sources": [
+                  "259353508858458112"
+               ], 
+               "term": "revelations"
+            }
+         ]
+      }, 
+      "E.73": {
+         "alias": "parent", 
+         "id": "E.73", 
+         "mentions": [
+            {
+               "sources": [
+                  "259036260167979008"
+               ], 
+               "term": "parent"
+            }
+         ]
+      }, 
+      "E.74": {
+         "alias": "former", 
+         "id": "E.74", 
+         "mentions": [
+            {
+               "sources": [
+                  "259036260167979008"
+               ], 
+               "term": "former"
+            }
+         ]
+      }, 
+      "E.75": {
+         "alias": "boy scout", 
+         "id": "E.75", 
+         "mentions": [
+            {
+               "sources": [
+                  "259036260167979008"
+               ], 
+               "term": "boy scout"
+            }
+         ]
+      }, 
+      "E.76": {
+         "alias": "someone", 
+         "id": "E.76", 
+         "mentions": [
+            {
+               "sources": [
+                  "258914633430204416"
+               ], 
+               "term": "someone"
+            }
+         ]
+      }, 
+      "E.77": {
+         "alias": "immunity", 
+         "id": "E.77", 
+         "mentions": [
+            {
+               "sources": [
+                  "259060469460000770"
+               ], 
+               "term": "immunity"
+            }
+         ]
+      }, 
+      "E.78": {
+         "alias": "for", 
+         "id": "E.78", 
+         "mentions": [
+            {
+               "sources": [
+                  "259384102116012032"
+               ], 
+               "term": "for"
+            }
+         ]
+      }, 
+      "E.79": {
+         "alias": "UPS", 
+         "id": "E.79", 
+         "mentions": [
+            {
+               "sources": [
+                  "259384102116012032"
+               ], 
+               "term": "UPS"
+            }
+         ]
+      }, 
+      "E.8": {
+         "alias": "Perversion Files Set", 
+         "id": "E.8", 
+         "mentions": [
+            {
+               "sources": [
+                  "258897537438740480", 
+                  "259090421156827137", 
+                  "258799755835101184"
+               ], 
+               "term": "Files"
+            }, 
+            {
+               "sources": [
+                  "258897038345900032"
+               ], 
+               "term": "Perversion Files"
+            }, 
+            {
+               "sources": [
+                  "258845259805650944", 
+                  "258907583165911040"
+               ], 
+               "term": "Perversion Files Set"
+            }
+         ]
+      }, 
+      "E.80": {
+         "alias": "donations", 
+         "id": "E.80", 
+         "mentions": [
+            {
+               "sources": [
+                  "259384102116012032"
+               ], 
+               "term": "donations"
+            }
+         ]
+      }, 
+      "E.81": {
+         "alias": "Petition", 
+         "id": "E.81", 
+         "mentions": [
+            {
+               "sources": [
+                  "259384102116012032"
+               ], 
+               "term": "Petition"
+            }
+         ]
+      }, 
+      "E.82": {
+         "alias": "America", 
+         "id": "E.82", 
+         "mentions": [
+            {
+               "sources": [
+                  "259384102116012032"
+               ], 
+               "term": "America"
+            }
+         ]
+      }, 
+      "E.83": {
+         "alias": "They", 
+         "id": "E.83", 
+         "mentions": [
+            {
+               "sources": [
+                  "259060469460000770"
+               ], 
+               "term": "They"
+            }
+         ]
+      }, 
+      "E.84": {
+         "alias": "VIDEO", 
+         "id": "E.84", 
+         "mentions": [
+            {
+               "sources": [
+                  "258914633430204416"
+               ], 
+               "term": "Photo"
+            }, 
+            {
+               "sources": [
+                  "259104081879134209"
+               ], 
+               "term": "VIDEO"
+            }
+         ]
+      }, 
+      "E.85": {
+         "alias": "evidence", 
+         "id": "E.85", 
+         "mentions": [
+            {
+               "sources": [
+                  "259017192849416192"
+               ], 
+               "term": "evidence"
+            }
+         ]
+      }, 
+      "E.86": {
+         "alias": "Freudian", 
+         "id": "E.86", 
+         "mentions": [
+            {
+               "sources": [
+                  "258716758880419841"
+               ], 
+               "term": "Freudian"
+            }
+         ]
+      }, 
+      "E.87": {
+         "alias": "Confidential", 
+         "id": "E.87", 
+         "mentions": [
+            {
+               "sources": [
+                  "259417924832477184"
+               ], 
+               "term": "Confidential"
+            }
+         ]
+      }, 
+      "E.88": {
+         "alias": "Seattle Times", 
+         "id": "E.88", 
+         "mentions": [
+            {
+               "sources": [
+                  "259171542892691456"
+               ], 
+               "term": "Seattle Times"
+            }
+         ]
+      }, 
+      "E.89": {
+         "alias": "abuse cover-up", 
+         "id": "E.89", 
+         "mentions": [
+            {
+               "sources": [
+                  "259250396114079744"
+               ], 
+               "term": "abuse cover-up"
+            }
+         ]
+      }, 
+      "E.9": {
+         "alias": "release", 
+         "id": "E.9", 
+         "mentions": [
+            {
+               "sources": [
+                  "258845259805650944", 
+                  "258907583165911040"
+               ], 
+               "term": "Released"
+            }, 
+            {
+               "sources": [
+                  "258738175189590016"
+               ], 
+               "term": "releasing"
+            }, 
+            {
+               "sources": [
+                  "259171542892691456"
+               ], 
+               "term": "TopStories Released Boy Scout"
+            }, 
+            {
+               "sources": [
+                  "259161585656934400"
+               ], 
+               "term": "Release"
+            }, 
+            {
+               "sources": [
+                  "259181643129044992"
+               ], 
+               "term": "release"
+            }, 
+            {
+               "sources": [
+                  "258991800277139456"
+               ], 
+               "term": "issues"
+            }
+         ]
+      }, 
+      "E.90": {
+         "alias": "Fellatio Badge", 
+         "id": "E.90", 
+         "mentions": [
+            {
+               "sources": [
+                  "259353508858458112"
+               ], 
+               "term": "Fellatio Badge"
+            }
+         ]
+      }, 
+      "E.91": {
+         "alias": "thousands", 
+         "id": "E.91", 
+         "mentions": [
+            {
+               "sources": [
+                  "259140115320934400"
+               ], 
+               "term": "thousands"
+            }
+         ]
+      }, 
+      "E.92": {
+         "alias": "decades", 
+         "id": "E.92", 
+         "mentions": [
+            {
+               "sources": [
+                  "259017192849416192", 
+                  "259196910093615104", 
+                  "259161585656934400"
+               ], 
+               "term": "decades"
+            }
+         ]
+      }, 
+      "E.93": {
+         "alias": "detail history", 
+         "id": "E.93", 
+         "mentions": [
+            {
+               "sources": [
+                  "259104081879134209"
+               ], 
+               "term": "detail history"
+            }
+         ]
+      }, 
+      "E.94": {
+         "alias": "and", 
+         "id": "E.94", 
+         "mentions": [
+            {
+               "sources": [
+                  "259385599562235904"
+               ], 
+               "term": "and"
+            }
+         ]
+      }, 
+      "E.95": {
+         "alias": "adults", 
+         "id": "E.95", 
+         "mentions": [
+            {
+               "sources": [
+                  "259044246139592704"
+               ], 
+               "term": "adults"
+            }
+         ]
+      }, 
+      "E.96": {
+         "alias": "coverups", 
+         "id": "E.96", 
+         "mentions": [
+            {
+               "sources": [
+                  "259239075721138176"
+               ], 
+               "term": "coverups"
+            }
+         ]
+      }, 
+      "E.97": {
+         "alias": "14,500 pages", 
+         "id": "E.97", 
+         "mentions": [
+            {
+               "sources": [
+                  "259254565021573120"
+               ], 
+               "term": "14,500 pages"
+            }
+         ]
+      }, 
+      "E.98": {
+         "alias": "46", 
+         "id": "E.98", 
+         "mentions": [
+            {
+               "sources": [
+                  "259315961390309376"
+               ], 
+               "term": "46"
+            }
+         ]
+      }, 
+      "E.99": {
+         "alias": "predators", 
+         "id": "E.99", 
+         "mentions": [
+            {
+               "sources": [
+                  "259019294095069184"
+               ], 
+               "term": "predators"
+            }
+         ]
+      }
+   }, 
+   "propositions": {
+      "P.1": {
+         "alias": "get with", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.48", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.105", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.103", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.1", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259317307770294272"
+                  ], 
+                  "template": "{a.4} get {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "get {a.2} with {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.10": {
+         "alias": "will not let after", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.11", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.10", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259383095550177281"
+                  ], 
+                  "template": "{a.3} will not let {a.2} after {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.11": {
+         "alias": "participate in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.11", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259383095550177281"
+                  ], 
+                  "template": "{a.1} participate in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.12": {
+         "alias": "Hold", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.54", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.39", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.12", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259006362904850432"
+                  ], 
+                  "template": "Hold {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.13": {
+         "alias": "released", 
+         "arguments": [
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.63", 
+                     "sources": [
+                        "259239717164425218"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "259044246139592704", 
+                        "258897038345900032", 
+                        "258910200042508288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "259149258903658496", 
+                        "259052311677116416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.26", 
+                     "sources": [
+                        "259232138120015872", 
+                        "259417924832477184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "259140333361848320", 
+                        "258987689821470721", 
+                        "259016102171009025"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "259062319374557184", 
+                        "258884015363354625", 
+                        "259044246139592704", 
+                        "259062193276997632", 
+                        "259048926907338752"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "258897038345900032", 
+                        "259090421156827137", 
+                        "258897537438740480"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "258960871626252288", 
+                        "258845259805650944", 
+                        "259132477187186688", 
+                        "259321862574718977"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259149258903658496", 
+                        "258940717928415232", 
+                        "259077984873496577"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259140115320934400", 
+                        "259062247832305664", 
+                        "258795112623116288", 
+                        "259140333361848320", 
+                        "259044246139592704", 
+                        "258940717928415232", 
+                        "258685511210786816", 
+                        "258987689821470721", 
+                        "259232138120015872", 
+                        "258720307454554113", 
+                        "259321862574718977", 
+                        "259052311677116416", 
+                        "259016102171009025", 
+                        "258700812145016833", 
+                        "259015536044822528", 
+                        "259048926907338752", 
+                        "259077984873496577"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.41", 
+                     "sources": [
+                        "259140333361848320", 
+                        "258987689821470721", 
+                        "259016102171009025", 
+                        "259092962611445760"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "259140115320934400", 
+                        "259015536044822528"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.62", 
+                     "sources": [
+                        "259232138120015872"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "259082355489251328"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.35", 
+                     "sources": [
+                        "259062247832305664"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.13", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259062319374557184", 
+                     "259062193276997632"
+                  ], 
+                  "template": "{a.5} released"
+               }, 
+               {
+                  "sources": [
+                     "259090421156827137"
+                  ], 
+                  "template": "{a.14} released"
+               }, 
+               {
+                  "sources": [
+                     "259417924832477184"
+                  ], 
+                  "template": "released by {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "259052311677116416"
+                  ], 
+                  "template": "{a.13} release {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259140333361848320", 
+                     "258987689821470721", 
+                     "259016102171009025"
+                  ], 
+                  "template": "{a.4} release {a.13} on {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "258960871626252288", 
+                     "258845259805650944"
+                  ], 
+                  "template": "{a.15} to be released"
+               }, 
+               {
+                  "sources": [
+                     "259044246139592704"
+                  ], 
+                  "template": "{a.2} {a.13} released {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "259082355489251328"
+                  ], 
+                  "template": "{a.9} released"
+               }, 
+               {
+                  "sources": [
+                     "259048926907338752"
+                  ], 
+                  "template": "{a.13} release {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "258910200042508288"
+                  ], 
+                  "template": "to be released {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "258897038345900032"
+                  ], 
+                  "template": "{a.14} to be released {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259062247832305664"
+                  ], 
+                  "template": "{a.13} release {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "259140115320934400"
+                  ], 
+                  "template": "{a.13} released {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "259321862574718977"
+                  ], 
+                  "template": "{a.13} release {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "259239717164425218"
+                  ], 
+                  "template": "released in {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "258884015363354625"
+                  ], 
+                  "template": "{a.5} to be released"
+               }, 
+               {
+                  "sources": [
+                     "259015536044822528"
+                  ], 
+                  "template": "{a.13} release {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "258940717928415232"
+                  ], 
+                  "template": "{a.13} to release {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "258897537438740480"
+                  ], 
+                  "template": "{a.14} to be released"
+               }, 
+               {
+                  "sources": [
+                     "259077984873496577"
+                  ], 
+                  "template": "{a.13} release {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "259092962611445760"
+                  ], 
+                  "template": "released on {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "258795112623116288", 
+                     "258720307454554113"
+                  ], 
+                  "template": "{a.13} to be released"
+               }, 
+               {
+                  "sources": [
+                     "259132477187186688"
+                  ], 
+                  "template": "{a.15} released"
+               }, 
+               {
+                  "sources": [
+                     "258685511210786816", 
+                     "258700812145016833"
+                  ], 
+                  "template": "to release {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "259232138120015872"
+                  ], 
+                  "template": "{a.13} have released {a.8} by {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "259149258903658496"
+                  ], 
+                  "template": "{a.3} {a.12} are released"
+               }
+            ]
+         }
+      }, 
+      "P.14": {
+         "alias": "files", 
+         "arguments": [
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "258685511210786816", 
+                        "258700812145016833"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "258738175189590016", 
+                        "259171542892691456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.44", 
+                     "sources": [
+                        "259019294095069184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.88", 
+                     "sources": [
+                        "259171542892691456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.64", 
+                     "sources": [
+                        "259239717164425218"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.41", 
+                     "sources": [
+                        "258685511210786816", 
+                        "258795112623116288", 
+                        "258700812145016833"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "259239717164425218"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "259073824153296897"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "258960871626252288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.13", 
+                     "sources": [
+                        "258720307454554113", 
+                        "258795112623116288", 
+                        "259092962611445760", 
+                        "258960871626252288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.25", 
+                     "sources": [
+                        "259019294095069184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259073824153296897", 
+                        "259063103768104962"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258720307454554113", 
+                        "259417924832477184", 
+                        "258795112623116288", 
+                        "259092962611445760", 
+                        "258738175189590016", 
+                        "259063103768104962"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.87", 
+                     "sources": [
+                        "259417924832477184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.14", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259171542892691456"
+                  ], 
+                  "template": "{a.11} files via {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "259073824153296897"
+                  ], 
+                  "template": "{a.12} files on {a.8}"
+               }, 
+               {
+                  "sources": [
+                     "258795112623116288"
+                  ], 
+                  "template": "{a.9} files on {a.6} {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "259063103768104962"
+                  ], 
+                  "template": "{a.9} files {a.8}"
+               }, 
+               {
+                  "sources": [
+                     "258685511210786816", 
+                     "258700812145016833"
+                  ], 
+                  "template": "{a.2} files on {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "259417924832477184"
+                  ], 
+                  "template": "{a.1} files of {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "259239717164425218"
+                  ], 
+                  "template": "{a.5} files on {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "259019294095069184"
+                  ], 
+                  "template": "{a.14} files {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "258960871626252288"
+                  ], 
+                  "template": "{a.13} files {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "258738175189590016"
+                  ], 
+                  "template": "{a.9} files {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "258720307454554113", 
+                     "259092962611445760"
+                  ], 
+                  "template": "{a.9} files {a.10}"
+               }
+            ]
+         }
+      }, 
+      "P.15": {
+         "alias": "covers", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "259060960092893184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "259047437900054528", 
+                        "259060960092893184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259047437900054528", 
+                        "259105101132754944", 
+                        "259060960092893184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.15", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259105101132754944"
+                  ], 
+                  "template": "cover {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259047437900054528"
+                  ], 
+                  "template": "{a.3} covers {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259060960092893184"
+                  ], 
+                  "template": "{a.3} covered {a.1} for {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.16": {
+         "alias": "Horrified by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.42", 
+                     "sources": [
+                        "259060960092893184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.16", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259060960092893184"
+                  ], 
+                  "template": "Horrified by {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.17": {
+         "alias": "Cuz", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.4", 
+                     "sources": [
+                        "259105491072974849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259105491072974849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "259105491072974849"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.17", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259105491072974849"
+                  ], 
+                  "template": "{a.2} {a.3} Cuz {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.18": {
+         "alias": "to hold", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.100", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.104", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.102", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.101", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.18", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "{a.4} to hold {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "{a.1} to hold {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.19": {
+         "alias": "need", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.104", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.18", 
+                     "sources": [
+                        "259386941403959296", 
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.100", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.19", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "{a.3} need {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "{a.1} need {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.2": {
+         "alias": "and Shame", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.3", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.6", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.2", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259317307770294272"
+                  ], 
+                  "template": "{a.2} and {a.3} Shame {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.20": {
+         "alias": "Did realize", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "259254565021573120"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259254565021573120"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.4", 
+                     "sources": [
+                        "259254565021573120"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.20", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259254565021573120"
+                  ], 
+                  "template": "Did {a.1} realize {a.2} {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.21": {
+         "alias": "show", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259239075721138176"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "259250396114079744"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.96", 
+                     "sources": [
+                        "259239075721138176"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "259239075721138176"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.89", 
+                     "sources": [
+                        "259250396114079744"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.21", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259250396114079744"
+                  ], 
+                  "template": "{a.5} show {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259239075721138176"
+                  ], 
+                  "template": "{a.4} show {a.1} over {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.22": {
+         "alias": "to audit at", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.22", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.24", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.22", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258991489818955776"
+                  ], 
+                  "template": "{a.1} {a.2} to audit {a.3} at {a.4}"
+               }
+            ]
+         }
+      }, 
+      "P.23": {
+         "alias": "sex in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "259413495869747201"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "259413495869747201"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259413495869747201"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.23", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259413495869747201"
+                  ], 
+                  "template": "{a.3} sex {a.1} in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.24": {
+         "alias": "repeat by", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.99", 
+                     "sources": [
+                        "259019294095069184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259019294095069184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.24", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259019294095069184"
+                  ], 
+                  "template": "repeat {a.2} by {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.25": {
+         "alias": "reveal", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "259125594699227137"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.92", 
+                     "sources": [
+                        "259161585656934400", 
+                        "259196910093615104"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "259161585656934400"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.36", 
+                     "sources": [
+                        "259125594699227137"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "259125594699227137"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.24", 
+                     "sources": [
+                        "259019294095069184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.25", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259019294095069184"
+                  ], 
+                  "template": "reveal {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259196910093615104"
+                  ], 
+                  "template": "reveal {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "259161585656934400"
+                  ], 
+                  "template": "{a.6} reveals {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "259125594699227137"
+                  ], 
+                  "template": "{a.4} reveal {a.1} in {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.26": {
+         "alias": "nytimes", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "259004911616946176"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.69", 
+                     "sources": [
+                        "259004911616946176"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.26", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259004911616946176"
+                  ], 
+                  "template": "{a.1} nytimes {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.27": {
+         "alias": "Detail", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.69", 
+                     "sources": [
+                        "259012104835719168"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "259012104835719168"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.27", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259012104835719168"
+                  ], 
+                  "template": "{a.1} Detail {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.28": {
+         "alias": "will light in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.30", 
+                     "sources": [
+                        "259357157659643904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.31", 
+                     "sources": [
+                        "259357157659643904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "259357157659643904"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.28", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259357157659643904"
+                  ], 
+                  "template": "{a.2} will light {a.3} in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.29": {
+         "alias": "to go", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.54", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.53", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "258799755835101184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259112659423739904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.4", 
+                     "sources": [
+                        "259112659423739904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "259112659423739904"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.29", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259266850188304384"
+                  ], 
+                  "template": "{a.4} goes {a.1} on {a.5}"
+               }, 
+               {
+                  "sources": [
+                     "259112659423739904"
+                  ], 
+                  "template": "{a.3} to go {a.7} {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "258799755835101184"
+                  ], 
+                  "template": "{a.6} go"
+               }
+            ]
+         }
+      }, 
+      "P.3": {
+         "alias": "is of with", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.76", 
+                     "sources": [
+                        "258914633430204416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.107", 
+                     "sources": [
+                        "258914633430204416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.84", 
+                     "sources": [
+                        "258914633430204416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.3", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258914633430204416"
+                  ], 
+                  "template": "{a.2} is of {a.4} with {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "259317307770294272"
+                  ], 
+                  "template": "{a.3} was in {a.5} as {a.6}"
+               }
+            ]
+         }
+      }, 
+      "P.30": {
+         "alias": "'s", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.31", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.30", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259320034093068290"
+                  ], 
+                  "template": "{a.3} {a.2} 's {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.31": {
+         "alias": "do n't leave with", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.108", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.109", 
+                     "sources": [
+                        "259320034093068290"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.31", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259320034093068290"
+                  ], 
+                  "template": "{a.4} {a.1} do n't leave {a.2} with {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.32": {
+         "alias": "contain", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "259244364683939840"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259244364683939840"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.32", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259244364683939840"
+                  ], 
+                  "template": "{a.2} contain {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.33": {
+         "alias": "announces", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.45", 
+                     "sources": [
+                        "258836367700815873"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258836367700815873"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.33", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258836367700815873"
+                  ], 
+                  "template": "{a.2} announces {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.34": {
+         "alias": "discriminates against as but covers", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.61", 
+                     "sources": [
+                        "259047437900054528"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "259047437900054528"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259047437900054528"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.34", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259047437900054528"
+                  ], 
+                  "template": "{a.3} discriminates against {a.2} as {a.1} but covers"
+               }
+            ]
+         }
+      }, 
+      "P.35": {
+         "alias": "to be used in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.46", 
+                     "sources": [
+                        "258836367700815873"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.35", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258836367700815873"
+                  ], 
+                  "template": "to be used in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.36": {
+         "alias": "do think about", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.70", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.36", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259036260167979008"
+                  ], 
+                  "template": "{a.3} do {a.2} think about {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.37": {
+         "alias": "Are and cover", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.71", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.73", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.36", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.37", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259036260167979008"
+                  ], 
+                  "template": "Are {a.1} {a.2} {a.3} and cover"
+               }
+            ]
+         }
+      }, 
+      "P.38": {
+         "alias": "set", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "258884015363354625"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.13", 
+                     "sources": [
+                        "258910200042508288", 
+                        "258845259805650944", 
+                        "258884015363354625"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "258845259805650944"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.38", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258845259805650944"
+                  ], 
+                  "template": "{a.3} set {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "258910200042508288"
+                  ], 
+                  "template": "set {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "258884015363354625"
+                  ], 
+                  "template": "{a.1} set {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.39": {
+         "alias": "Let", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.64", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.39", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259006362904850432"
+                  ], 
+                  "template": "Let {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.4": {
+         "alias": "having", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "259383095550177281"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "258991800277139456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "258991800277139456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "259062247832305664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.74", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.29", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.95", 
+                     "sources": [
+                        "259044246139592704"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.28", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.94", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.23", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.75", 
+                     "sources": [
+                        "259036260167979008"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.22", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.65", 
+                     "sources": [
+                        "259112659423739904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.21", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "258991489818955776"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.20", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.27", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.97", 
+                     "sources": [
+                        "259254565021573120"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.26", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.91", 
+                     "sources": [
+                        "259140115320934400"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.25", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.53", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.24", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.92", 
+                     "sources": [
+                        "259017192849416192"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.100", 
+                     "sources": [
+                        "259386941403959296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.17", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.56", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "259105491072974849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "258991800277139456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259181643129044992", 
+                        "259254565021573120"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259105101132754944", 
+                        "259105491072974849", 
+                        "259140333361848320", 
+                        "258987689821470721", 
+                        "259384102116012032", 
+                        "258685511210786816", 
+                        "259353508858458112"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "258991800277139456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "259044246139592704"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.18", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.61", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.19", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.4", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259060469460000770"
+                  ], 
+                  "template": "{a.4} 'm going {a.17} {a.25}"
+               }, 
+               {
+                  "sources": [
+                     "259112659423739904"
+                  ], 
+                  "template": "earning {a.22}"
+               }, 
+               {
+                  "sources": [
+                     "259384102116012032"
+                  ], 
+                  "template": "anti-gay {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "259036260167979008"
+                  ], 
+                  "template": "{a.23} a {a.8} scout"
+               }, 
+               {
+                  "sources": [
+                     "258991800277139456"
+                  ], 
+                  "template": "{a.2} {a.10} having {a.15} {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "259385599562235904"
+                  ], 
+                  "template": "former {a.19} {a.28} {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "259105491072974849"
+                  ], 
+                  "template": "Good {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "259254565021573120"
+                  ], 
+                  "template": "released {a.27} detailing {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "259140333361848320", 
+                     "258987689821470721"
+                  ], 
+                  "template": "confidential {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "259266850188304384"
+                  ], 
+                  "template": "{a.20} a boy {a.18}"
+               }, 
+               {
+                  "sources": [
+                     "259105491072974849"
+                  ], 
+                  "template": "{a.14} bad"
+               }, 
+               {
+                  "sources": [
+                     "259383095550177281"
+                  ], 
+                  "template": "{a.6} are coming"
+               }, 
+               {
+                  "sources": [
+                     "258991489818955776"
+                  ], 
+                  "template": "{a.21} releasing {a.5} from {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "259140115320934400"
+                  ], 
+                  "template": "identifying {a.26}"
+               }, 
+               {
+                  "sources": [
+                     "259181643129044992"
+                  ], 
+                  "template": "revealing {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "259062247832305664"
+                  ], 
+                  "template": "regarding {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259105101132754944"
+                  ], 
+                  "template": "{a.13} sexual"
+               }, 
+               {
+                  "sources": [
+                     "259044246139592704"
+                  ], 
+                  "template": "{a.29} {a.11} offenders"
+               }, 
+               {
+                  "sources": [
+                     "259017192849416192"
+                  ], 
+                  "template": "detailing {a.24}"
+               }, 
+               {
+                  "sources": [
+                     "258685511210786816"
+                  ], 
+                  "template": "once-secret {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "259386941403959296"
+                  ], 
+                  "template": "fellow {a.16}"
+               }, 
+               {
+                  "sources": [
+                     "259353508858458112"
+                  ], 
+                  "template": "new {a.13}"
+               }
+            ]
+         }
+      }, 
+      "P.40": {
+         "alias": "Files", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "259027170989596672"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259027170989596672"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.40", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259027170989596672"
+                  ], 
+                  "template": "{a.2} Files {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.41": {
+         "alias": "not homophobic but allow", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258970258478608384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "258970258478608384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.41", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258970258478608384"
+                  ], 
+                  "template": "{a.1} not {a.2} homophobic but allow"
+               }
+            ]
+         }
+      }, 
+      "P.42": {
+         "alias": "For protected but released", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "259044246139592704"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "259044246139592704"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.95", 
+                     "sources": [
+                        "259044246139592704"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.42", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259044246139592704"
+                  ], 
+                  "template": "For {a.1} {a.2} protected {a.3} but released"
+               }
+            ]
+         }
+      }, 
+      "P.43": {
+         "alias": "documents", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.93", 
+                     "sources": [
+                        "259104081879134209"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.84", 
+                     "sources": [
+                        "259104081879134209"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "259104081879134209"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.43", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259104081879134209"
+                  ], 
+                  "template": "{a.3} documents {a.1} {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.44": {
+         "alias": "being accused of", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "258897038345900032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "259313927211589633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.68", 
+                     "sources": [
+                        "259132477187186688"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259313927211589633"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.13", 
+                     "sources": [
+                        "259132477187186688"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.44", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259132477187186688"
+                  ], 
+                  "template": "{a.3} reveal {a.1} accused"
+               }, 
+               {
+                  "sources": [
+                     "258897038345900032"
+                  ], 
+                  "template": "being accused of {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "259313927211589633"
+                  ], 
+                  "template": "{a.5} have been accused of {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.45": {
+         "alias": "banned by over", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259315961390309376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.47", 
+                     "sources": [
+                        "259315961390309376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "258897038345900032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.98", 
+                     "sources": [
+                        "259315961390309376"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.44", 
+                     "sources": [
+                        "258897038345900032"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.45", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258897038345900032"
+                  ], 
+                  "template": "{a.1} banned after {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259315961390309376"
+                  ], 
+                  "template": "{a.2} banned by {a.4} over {a.5}"
+               }
+            ]
+         }
+      }, 
+      "P.46": {
+         "alias": "ca n't believe", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.58", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.46", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259385599562235904"
+                  ], 
+                  "template": "{a.2} ca n't believe {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.47": {
+         "alias": "records", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.72", 
+                     "sources": [
+                        "259353508858458112"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259353508858458112"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.47", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259353508858458112"
+                  ], 
+                  "template": "{a.2} records {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.48": {
+         "alias": "to discontinue", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.90", 
+                     "sources": [
+                        "259353508858458112"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.48", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259353508858458112"
+                  ], 
+                  "template": "to discontinue {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.49": {
+         "alias": "slip for", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.86", 
+                     "sources": [
+                        "258716758880419841"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "258716758880419841"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "258716758880419841"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.49", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258716758880419841"
+                  ], 
+                  "template": "{a.1} slip {a.2} for {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.5": {
+         "alias": "being abused", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "259317307770294272", 
+                        "259350115570036737", 
+                        "258925551530684417"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "259350115570036737"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "258925551530684417"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "258925551530684417"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "259350115570036737"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.5", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258925551530684417"
+                  ], 
+                  "template": "{a.1} got {a.4} abused by {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259317307770294272"
+                  ], 
+                  "template": "{a.6} being {a.4} abused"
+               }, 
+               {
+                  "sources": [
+                     "259350115570036737"
+                  ], 
+                  "template": "{a.3} is {a.4} abused by {a.5}"
+               }
+            ]
+         }
+      }, 
+      "P.50": {
+         "alias": "worry", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "259177301697249280"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "259177301697249280"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.50", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259177301697249280"
+                  ], 
+                  "template": "{a.1} worry {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.51": {
+         "alias": "perversion", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258910200042508288"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "258910200042508288"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.51", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258910200042508288"
+                  ], 
+                  "template": "{a.1} perversion {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.52": {
+         "alias": "helped", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.15", 
+                     "sources": [
+                        "259105101132754944"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.106", 
+                     "sources": [
+                        "259105101132754944"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.52", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259105101132754944"
+                  ], 
+                  "template": "{a.2} helped {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.53": {
+         "alias": "do n't have", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.83", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.77", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.53", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259060469460000770"
+                  ], 
+                  "template": "{a.1} do n't have {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.54": {
+         "alias": "Documents", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.54", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259006362904850432"
+                  ], 
+                  "template": "{a.2} Documents {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.55": {
+         "alias": "suspected of", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "259239717164425218"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "259239717164425218", 
+                        "259140115320934400"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.55", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259140115320934400"
+                  ], 
+                  "template": "suspected of {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "259239717164425218"
+                  ], 
+                  "template": "{a.1} suspected of {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.56": {
+         "alias": "to say", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.66", 
+                     "sources": [
+                        "259060469460000770"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.56", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259060469460000770"
+                  ], 
+                  "template": "{a.1} to say {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.57": {
+         "alias": "allow", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "258970258478608384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258970258478608384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.57", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258970258478608384"
+                  ], 
+                  "template": "{a.2} allow {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.58": {
+         "alias": "preyed on", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.94", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "259385599562235904"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.58", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259385599562235904"
+                  ], 
+                  "template": "{a.2} {a.1} {a.4} preyed {a.3} on {a.5}"
+               }
+            ]
+         }
+      }, 
+      "P.59": {
+         "alias": "Stick to", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259083236154683392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "259083236154683392"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.59", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259083236154683392"
+                  ], 
+                  "template": "Stick to {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.6": {
+         "alias": "do n't recall", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.5", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "259317307770294272"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.6", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259317307770294272"
+                  ], 
+                  "template": "{a.2} do n't recall {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.60": {
+         "alias": "publish", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.85", 
+                     "sources": [
+                        "259017192849416192"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259017192849416192", 
+                        "259294276897349632"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "259294276897349632"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.60", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259294276897349632"
+                  ], 
+                  "template": "{a.2} published {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "259017192849416192"
+                  ], 
+                  "template": "{a.2} publish {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.61": {
+         "alias": "scout", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.56", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.61", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259266850188304384"
+                  ], 
+                  "template": "scout {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.62": {
+         "alias": "guess know", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.55", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.29", 
+                     "sources": [
+                        "259266850188304384"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.62", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259266850188304384"
+                  ], 
+                  "template": "guess {a.1} {a.2} know {a.3}"
+               }
+            ]
+         }
+      }, 
+      "P.63": {
+         "alias": "brings", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "259062247832305664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.35", 
+                     "sources": [
+                        "259062247832305664"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.63", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259062247832305664"
+                  ], 
+                  "template": "{a.2} brings {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.64": {
+         "alias": "dig", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.57", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "259006362904850432"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.64", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259006362904850432"
+                  ], 
+                  "template": "{a.2} dig {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.65": {
+         "alias": "See", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.67", 
+                     "sources": [
+                        "259082355489251328"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "259082355489251328"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.65", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259082355489251328"
+                  ], 
+                  "template": "See {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.66": {
+         "alias": "to Release on", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "258893490052796416"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "258893490052796416"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.66", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258893490052796416"
+                  ], 
+                  "template": "to Release {a.1} on {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.67": {
+         "alias": "responds to", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "259181643129044992"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259181643129044992"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.67", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259181643129044992"
+                  ], 
+                  "template": "{a.2} responds to {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.7": {
+         "alias": "To Be", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "258845259805650944", 
+                        "258907583165911040", 
+                        "258907583165911040"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "258845259805650944", 
+                        "258907583165911040", 
+                        "258907583165911040"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "258907583165911040"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.7", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "258845259805650944", 
+                     "258907583165911040"
+                  ], 
+                  "template": "{a.1} To Be {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "258907583165911040"
+                  ], 
+                  "template": "{a.3} {a.1} To Be {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.8": {
+         "alias": "Scouts of", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.81", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.82", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.8", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259384102116012032"
+                  ], 
+                  "template": "{a.1} Scouts of {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.9": {
+         "alias": "to end to", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.80", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.78", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.79", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "259384102116012032"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.9", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "259384102116012032"
+                  ], 
+                  "template": "{a.1} {a.2} to end {a.4} to {a.3}"
+               }
+            ]
+         }
+      }
+   }, 
+   "tweets": {
+      "258685511210786816": {
+         "author": "script965", 
+         "id": "258685511210786816", 
+         "string": "Attorneys to release once-secret Boy Scouts files on alleged child sex abusers", 
+         "timestamp": "2012-10-17 21:46:46"
+      }, 
+      "258700812145016833": {
+         "author": "ivo3d", 
+         "id": "258700812145016833", 
+         "string": "Attorneys to release confidential Boy Scouts files on alleged child sex abusers", 
+         "timestamp": "2012-10-17 22:47:34"
+      }, 
+      "258716758880419841": {
+         "author": "ScarredSurvivor", 
+         "id": "258716758880419841", 
+         "string": "Freudian slip name for men scouting for boys?", 
+         "timestamp": "2012-10-17 23:50:56"
+      }, 
+      "258720307454554113": {
+         "author": "bornleader_29", 
+         "id": "258720307454554113", 
+         "string": "Secret Boy Scouts files to be released", 
+         "timestamp": "2012-10-18 00:05:02"
+      }, 
+      "258738175189590016": {
+         "author": "RTNowIf", 
+         "id": "258738175189590016", 
+         "string": "Once-secret Boy Scouts files releasing", 
+         "timestamp": "2012-10-18 01:16:02"
+      }, 
+      "258795112623116288": {
+         "author": "jo3_f", 
+         "id": "258795112623116288", 
+         "string": "Boy Scouts files on alleged sex abusers to be released", 
+         "timestamp": "2012-10-18 05:02:17"
+      }, 
+      "258799755835101184": {
+         "author": "seattletimes", 
+         "id": "258799755835101184", 
+         "string": "Files on alleged Boy Scout sex abusers go public", 
+         "timestamp": "2012-10-18 05:20:44"
+      }, 
+      "258836367700815873": {
+         "author": "KimFatica", 
+         "id": "258836367700815873", 
+         "string": "Boy Scouts of America announces changes to Eagle reqs; Scout Oath and Law to be used in all programs.", 
+         "timestamp": "2012-10-18 07:46:13"
+      }, 
+      "258841904278564864": {
+         "author": "reginap81789323", 
+         "id": "258841904278564864", 
+         "string": "Scouts 'perversion' files releasing", 
+         "timestamp": "2012-10-18 08:08:13"
+      }, 
+      "258845259805650944": {
+         "author": "CherieFaucheux", 
+         "id": "258845259805650944", 
+         "string": "Boy Scouts' 'Perversion' Files Set To Be Released: Boy Scouts' 'perversion' files set to be released", 
+         "timestamp": "2012-10-18 08:21:33"
+      }, 
+      "258884015363354625": {
+         "author": "TbAsia", 
+         "id": "258884015363354625", 
+         "string": "Boy Scouts' 'perversion' files set to be released", 
+         "timestamp": "2012-10-18 10:55:33"
+      }, 
+      "258891372017377280": {
+         "author": "EvesLounge", 
+         "id": "258891372017377280", 
+         "string": "Former BBC Boss Comments on Sexual Abuse Allegations Against Late TV Star", 
+         "timestamp": "2012-10-18 11:24:47"
+      }, 
+      "258893490052796416": {
+         "author": "PHILINKEL", 
+         "id": "258893490052796416", 
+         "string": "Attorneys to Release Confidential Boy Scouts Files on Alleged Sex Abusers", 
+         "timestamp": "2012-10-18 11:33:12"
+      }, 
+      "258897038345900032": {
+         "author": "jdkolakowski", 
+         "id": "258897038345900032", 
+         "string": "Perversion Files to be released today on over 1000 Boy Scout leaders banned after being accused of sexual/inappropriate conduct w/ boys.", 
+         "timestamp": "2012-10-18 11:47:18"
+      }, 
+      "258897537438740480": {
+         "author": "wbaltv11", 
+         "id": "258897537438740480", 
+         "string": "Files on Boy Scouts abuse to be released", 
+         "timestamp": "2012-10-18 11:49:17"
+      }, 
+      "258907583165911040": {
+         "author": "MaxGentry", 
+         "id": "258907583165911040", 
+         "string": "Boy Scouts' 'Perversion' Files Set To Be Released: Boy Scouts' 'Perversion' Files Set To Be Released", 
+         "timestamp": "2012-10-18 12:29:12"
+      }, 
+      "258910200042508288": {
+         "author": "ninpo4you63", 
+         "id": "258910200042508288", 
+         "string": "Boy Scouts of America perversion files set to be released today", 
+         "timestamp": "2012-10-18 12:39:36"
+      }, 
+      "258914633430204416": {
+         "author": "SmokesIndoors", 
+         "id": "258914633430204416", 
+         "string": "Photo is of someone with a pallet jack of boxes.", 
+         "timestamp": "2012-10-18 12:57:13"
+      }, 
+      "258925551530684417": {
+         "author": "arunosullivan", 
+         "id": "258925551530684417", 
+         "string": "Just got sexually abused by a 7-year-old", 
+         "timestamp": "2012-10-18 13:40:36"
+      }, 
+      "258940717928415232": {
+         "author": "Easy_Branches", 
+         "id": "258940717928415232", 
+         "string": "Boy Scouts of America to release alleged sex abuse files", 
+         "timestamp": "2012-10-18 14:40:52"
+      }, 
+      "258960871626252288": {
+         "author": "WCPO", 
+         "id": "258960871626252288", 
+         "string": "Boy Scouts' 'perversion' files to be released", 
+         "timestamp": "2012-10-18 16:00:57"
+      }, 
+      "258970258478608384": {
+         "author": "moonklutz", 
+         "id": "258970258478608384", 
+         "string": "Boy Scouts of America not only homophobic but allow sexual abuse of minors", 
+         "timestamp": "2012-10-18 16:38:15"
+      }, 
+      "258987689821470721": {
+         "author": "reviewsproduct", 
+         "id": "258987689821470721", 
+         "string": "Attorneys release confidential Boy Scouts files on alleged child sex abusers", 
+         "timestamp": "2012-10-18 17:47:31"
+      }, 
+      "258991489818955776": {
+         "author": "CBSLAErica", 
+         "id": "258991489818955776", 
+         "string": "Lawyers calling on Congress to audit Boy Scouts of America at news conference releasing files from 1965-1985", 
+         "timestamp": "2012-10-18 18:02:38"
+      }, 
+      "258991800277139456": {
+         "author": "Shem_215", 
+         "id": "258991800277139456", 
+         "string": "Now boys scouts of America having issues smh", 
+         "timestamp": "2012-10-18 18:03:51"
+      }, 
+      "258995730499375105": {
+         "author": "bjr70", 
+         "id": "258995730499375105", 
+         "string": "Homophobic Boy Scouts of America Actually Harbored Thousands of Child Molesters", 
+         "timestamp": "2012-10-18 18:19:28"
+      }, 
+      "258998754739363840": {
+         "author": "FarmerJaffe", 
+         "id": "258998754739363840", 
+         "string": "SEX ABUSE FILES FROM INTERNAL BOY SCOUT RECORDS RELEASED", 
+         "timestamp": "2012-10-18 18:31:29"
+      }, 
+      "259004911616946176": {
+         "author": "zack_akers", 
+         "id": "259004911616946176", 
+         "string": "Ugh. RT nytimes Boy Scout Documents Reveal Decades of Sexual Abuse", 
+         "timestamp": "2012-10-18 18:55:57"
+      }, 
+      "259006362904850432": {
+         "author": "ServiceChatter", 
+         "id": "259006362904850432", 
+         "string": "Hold on. Let me dig out my surprised face: Boy Scout Documents Reveal Decades of Sexual Abuse", 
+         "timestamp": "2012-10-18 19:01:43"
+      }, 
+      "259012104835719168": {
+         "author": "VideoTracker", 
+         "id": "259012104835719168", 
+         "string": "New Documents Detail History of Boy Scout Abuse", 
+         "timestamp": "2012-10-18 19:24:32"
+      }, 
+      "259015536044822528": {
+         "author": "KHONnews", 
+         "id": "259015536044822528", 
+         "string": "Boy Scouts release 20 years of 'perversion' files", 
+         "timestamp": "2012-10-18 19:38:10"
+      }, 
+      "259016102171009025": {
+         "author": "saysomtinn", 
+         "id": "259016102171009025", 
+         "string": "Lawyers release Boy Scouts files on alleged child sex abusers", 
+         "timestamp": "2012-10-18 19:40:25"
+      }, 
+      "259017192849416192": {
+         "author": "FYConspiracy", 
+         "id": "259017192849416192", 
+         "string": "Boy Scouts publish evidence detailing decades of child abuse", 
+         "timestamp": "2012-10-18 19:44:45"
+      }, 
+      "259018421478490114": {
+         "author": "BcraigV", 
+         "id": "259018421478490114", 
+         "string": "Boy Scouts Of America: Boy Scouts of America's 'Perversion Files' Released", 
+         "timestamp": "2012-10-18 19:49:38"
+      }, 
+      "259019294095069184": {
+         "author": "VaNewsLive", 
+         "id": "259019294095069184", 
+         "string": "Roanoke&gt; Boy Scout files reveal repeat child abuse by sexual predators", 
+         "timestamp": "2012-10-18 19:53:06"
+      }, 
+      "259019864486854656": {
+         "author": "Libafu", 
+         "id": "259019864486854656", 
+         "string": "Boy Scout Files on Sex Abuse Detail Decades of Accusations", 
+         "timestamp": "2012-10-18 19:55:22"
+      }, 
+      "259026386780581888": {
+         "author": "11AliveNews", 
+         "id": "259026386780581888", 
+         "string": "Attorneys release Boy Scouts 'perversion files'", 
+         "timestamp": "2012-10-18 20:21:17"
+      }, 
+      "259027170989596672": {
+         "author": "buffaloon", 
+         "id": "259027170989596672", 
+         "string": "Boy Scout Files Detail Decades of Abuse Accusations", 
+         "timestamp": "2012-10-18 20:24:24"
+      }, 
+      "259036260167979008": {
+         "author": "TiffanyTarpley", 
+         "id": "259036260167979008", 
+         "string": "Are you a parent of a boy scout, a former boy scout? What do you think about the allegations of sexual abuse and cover up?", 
+         "timestamp": "2012-10-18 21:00:31"
+      }, 
+      "259036675152441344": {
+         "author": "elcidharth", 
+         "id": "259036675152441344", 
+         "string": "Boy Scout of America, The Devil in Disguise?", 
+         "timestamp": "2012-10-18 21:02:10"
+      }, 
+      "259044246139592704": {
+         "author": "ABC13News", 
+         "id": "259044246139592704", 
+         "string": "For years they protected adults who were sexual offenders, but today the Boy Scouts of America released their records.", 
+         "timestamp": "2012-10-18 21:32:15"
+      }, 
+      "259047362171899904": {
+         "author": "paijwar", 
+         "id": "259047362171899904", 
+         "string": "Boy Scouts of America's 'Perversion Files' Released [Boy Scouts Of America]", 
+         "timestamp": "2012-10-18 21:44:38"
+      }, 
+      "259047437900054528": {
+         "author": "DustinAkers", 
+         "id": "259047437900054528", 
+         "string": "Boy Scouts discriminates against homosexuals as members but covers up years of sexual abuse.", 
+         "timestamp": "2012-10-18 21:44:56"
+      }, 
+      "259048926907338752": {
+         "author": "Hicksville47", 
+         "id": "259048926907338752", 
+         "string": "Boy Scouts release secret child abuse files -- 'the pain and the anguish of thousands'", 
+         "timestamp": "2012-10-18 21:50:51"
+      }, 
+      "259052311677116416": {
+         "author": "aishamusic", 
+         "id": "259052311677116416", 
+         "string": "Boy Scouts release secret child abuse files -- 'the pain and the anguish of thousands'", 
+         "timestamp": "2012-10-18 22:04:18"
+      }, 
+      "259059219846819840": {
+         "author": "alexromano", 
+         "id": "259059219846819840", 
+         "string": "The CBS Evening News leading tonight with the Boy Scouts of America sexual abuse scandal", 
+         "timestamp": "2012-10-18 22:31:45"
+      }, 
+      "259060469460000770": {
+         "author": "LexAlexander", 
+         "id": "259060469460000770", 
+         "string": "I'm going to say something nice about the Boy Scouts of America: They don't have diplomatic immunity.", 
+         "timestamp": "2012-10-18 22:36:43"
+      }, 
+      "259060914190446592": {
+         "author": "itssadieee", 
+         "id": "259060914190446592", 
+         "string": "Them dirty boy scouts", 
+         "timestamp": "2012-10-18 22:38:29"
+      }, 
+      "259060960092893184": {
+         "author": "traviswirt", 
+         "id": "259060960092893184", 
+         "string": "Horrified by national news headlines this evening that  the Boy Scouts USA covered up allegations of child abuse for years.", 
+         "timestamp": "2012-10-18 22:38:40"
+      }, 
+      "259062193276997632": {
+         "author": "silvimasss", 
+         "id": "259062193276997632", 
+         "string": "Scout files on alleged abuse released", 
+         "timestamp": "2012-10-18 22:43:34"
+      }, 
+      "259062247832305664": {
+         "author": "hayduenas", 
+         "id": "259062247832305664", 
+         "string": "The Boy Scouts release over 1000 secret files regarding child abuse. That brings the phrase \"scout's honor\" to a whole new different meaning", 
+         "timestamp": "2012-10-18 22:43:47"
+      }, 
+      "259062319374557184": {
+         "author": "inothernewc", 
+         "id": "259062319374557184", 
+         "string": "WorldNews:Scout files on alleged abuse released", 
+         "timestamp": "2012-10-18 22:44:04"
+      }, 
+      "259063103768104962": {
+         "author": "sexmyths", 
+         "id": "259063103768104962", 
+         "string": "Boy Scout files document alleged sex abuse", 
+         "timestamp": "2012-10-18 22:47:11"
+      }, 
+      "259065364376346627": {
+         "author": "badwebsites", 
+         "id": "259065364376346627", 
+         "string": "Document Trove Points to Sex-Abuse Coverup within Boy Scouts", 
+         "timestamp": "2012-10-18 22:56:10"
+      }, 
+      "259066622462029824": {
+         "author": "westkystar", 
+         "id": "259066622462029824", 
+         "string": "Boy Scout Sex Abuse Files Include Local Cases", 
+         "timestamp": "2012-10-18 23:01:10"
+      }, 
+      "259067381941420035": {
+         "author": "AskDonK", 
+         "id": "259067381941420035", 
+         "string": "Boy Scout Documents Reveal Decades of Sexual Abuse", 
+         "timestamp": "2012-10-18 23:04:11"
+      }, 
+      "259071747876352000": {
+         "author": "RUNtoChase", 
+         "id": "259071747876352000", 
+         "string": "Over 1,200 'Perversion Files' Reveal Abuse By Boy Scouts Leaders", 
+         "timestamp": "2012-10-18 23:21:32"
+      }, 
+      "259073824153296897": {
+         "author": "kamaluf", 
+         "id": "259073824153296897", 
+         "string": "News Scout files on alleged abuse released", 
+         "timestamp": "2012-10-18 23:29:47"
+      }, 
+      "259077984873496577": {
+         "author": "spinellimd", 
+         "id": "259077984873496577", 
+         "string": "Boy Scouts release sex abuse files", 
+         "timestamp": "2012-10-18 23:46:19"
+      }, 
+      "259081348860481536": {
+         "author": "katieaward", 
+         "id": "259081348860481536", 
+         "string": "Released Files Detail Alleged Abuse in Boy Scouts", 
+         "timestamp": "2012-10-18 23:59:41"
+      }, 
+      "259082355489251328": {
+         "author": "CJIngalls", 
+         "id": "259082355489251328", 
+         "string": "See the just released Boy Scout \"perversion files\" here", 
+         "timestamp": "2012-10-19 00:03:41"
+      }, 
+      "259083236154683392": {
+         "author": "HamletDweller", 
+         "id": "259083236154683392", 
+         "string": "But no Eagle Scout badge for a gay kid. Stick to that impressive moral code, Boy Scouts of America!", 
+         "timestamp": "2012-10-19 00:07:11"
+      }, 
+      "259090421156827137": {
+         "author": "SanAntonioLocks", 
+         "id": "259090421156827137", 
+         "string": "Files on Boy Scouts abuse released", 
+         "timestamp": "2012-10-19 00:35:44"
+      }, 
+      "259092962611445760": {
+         "author": "KDVR", 
+         "id": "259092962611445760", 
+         "string": "Confidential Boy Scouts files released on alleged child sex abusers", 
+         "timestamp": "2012-10-19 00:45:50"
+      }, 
+      "259095164772036608": {
+         "author": "Charla_Kill", 
+         "id": "259095164772036608", 
+         "string": "Years of Boy Scout Files on Sex Abuse Released - Wall Street Journal", 
+         "timestamp": "2012-10-19 00:54:35"
+      }, 
+      "259104081879134209": {
+         "author": "aolon", 
+         "id": "259104081879134209", 
+         "string": "New documents detail history of Boy Scout abuse (VIDEO)", 
+         "timestamp": "2012-10-19 01:30:01"
+      }, 
+      "259105101132754944": {
+         "author": "carlowe", 
+         "id": "259105101132754944", 
+         "string": "MT \"Perversion files\" show locals helped cover up Boy Scouts sexual abuse", 
+         "timestamp": "2012-10-19 01:34:04"
+      }, 
+      "259105491072974849": {
+         "author": "RileyWorth", 
+         "id": "259105491072974849", 
+         "string": "Good thing Boy Scouts of America are against homosexuality. Cuz that would be bad.", 
+         "timestamp": "2012-10-19 01:35:37"
+      }, 
+      "259108074781028353": {
+         "author": "s2softpronews", 
+         "id": "259108074781028353", 
+         "string": "Boy Scouts' 'Perversion Files' Released, Detailing Thousands Of Cases Of Child Abuse", 
+         "timestamp": "2012-10-19 01:45:53"
+      }, 
+      "259112659423739904": {
+         "author": "AustinKeyes", 
+         "id": "259112659423739904", 
+         "string": "Way to go Boy Scouts of America..earning a badge of shame.", 
+         "timestamp": "2012-10-19 02:04:06"
+      }, 
+      "259125594699227137": {
+         "author": "melissarcarr", 
+         "id": "259125594699227137", 
+         "string": "Boy Scout files reveal 90 cases of alleged sexual abuse in Maryland", 
+         "timestamp": "2012-10-19 02:55:30"
+      }, 
+      "259132477187186688": {
+         "author": "malbertnews", 
+         "id": "259132477187186688", 
+         "string": "Secret Boy Scouts' \"perversion files\" released, reveal 23 MN scout leaders accused", 
+         "timestamp": "2012-10-19 03:22:51"
+      }, 
+      "259140115320934400": {
+         "author": "InvestigateMT", 
+         "id": "259140115320934400", 
+         "string": "The Boy Scouts of America released 20 years of secret files identifying thousands suspected of child sex abuse", 
+         "timestamp": "2012-10-19 03:53:12"
+      }, 
+      "259140333361848320": {
+         "author": "freedomforthwin", 
+         "id": "259140333361848320", 
+         "string": "Attorneys release confidential Boy Scouts files on alleged child sex abusers", 
+         "timestamp": "2012-10-19 03:54:04"
+      }, 
+      "259149258903658496": {
+         "author": "Phatnatickz", 
+         "id": "259149258903658496", 
+         "string": "Boy Scouts' secret child abuse files are released - Kansas City Star", 
+         "timestamp": "2012-10-19 04:29:32"
+      }, 
+      "259161585656934400": {
+         "author": "globefeed", 
+         "id": "259161585656934400", 
+         "string": "Release of Scouts' files reveals decades of abuse", 
+         "timestamp": "2012-10-19 05:18:31"
+      }, 
+      "259163787955957760": {
+         "author": "theledger", 
+         "id": "259163787955957760", 
+         "string": "Boy Scout Molesters Protected", 
+         "timestamp": "2012-10-19 05:27:16"
+      }, 
+      "259171542892691456": {
+         "author": "MinutePost", 
+         "id": "259171542892691456", 
+         "string": "TopStories Released Boy Scout files via The Seattle Times", 
+         "timestamp": "2012-10-19 05:58:05"
+      }, 
+      "259177301697249280": {
+         "author": "ArizonaNewsnet", 
+         "id": "259177301697249280", 
+         "string": "Boy Scout sex abuse records worry local scouts", 
+         "timestamp": "2012-10-19 06:20:58"
+      }, 
+      "259178237291274240": {
+         "author": "ndjworldnews", 
+         "id": "259178237291274240", 
+         "string": "US Scout Leaders Kept Child Abuse Secret", 
+         "timestamp": "2012-10-19 06:24:41"
+      }, 
+      "259181643129044992": {
+         "author": "PuddingBrains", 
+         "id": "259181643129044992", 
+         "string": "Boy Scouts of America responds to release of documents revealing abuse", 
+         "timestamp": "2012-10-19 06:38:13"
+      }, 
+      "259196910093615104": {
+         "author": "Phatnatickz", 
+         "id": "259196910093615104", 
+         "string": "Boy Scout documents reveal decades of abuse - Minneapolis Star Tribune", 
+         "timestamp": "2012-10-19 07:38:53"
+      }, 
+      "259200987057778688": {
+         "author": "Digixp", 
+         "id": "259200987057778688", 
+         "string": "Search the Boy Scouts of America's 'Perversion Files' 1959-1985", 
+         "timestamp": "2012-10-19 07:55:05"
+      }, 
+      "259210768346652672": {
+         "author": "tweetiebirdies", 
+         "id": "259210768346652672", 
+         "string": "Boy Scouts Of America Publish Sex Abuse Files", 
+         "timestamp": "2012-10-19 08:33:57"
+      }, 
+      "259210956893208576": {
+         "author": "MAXINEPSOSO", 
+         "id": "259210956893208576", 
+         "string": "Boy Scouts Release 20 Years of 'Perversion Files'", 
+         "timestamp": "2012-10-19 08:34:42"
+      }, 
+      "259222872973799424": {
+         "author": "nocrossnj", 
+         "id": "259222872973799424", 
+         "string": "Boy Scout \"Perversion Files\" Released", 
+         "timestamp": "2012-10-19 09:22:03"
+      }, 
+      "259232138120015872": {
+         "author": "freedomforthwin", 
+         "id": "259232138120015872", 
+         "string": "Boy Scouts of America have released their pervert files, by court order.", 
+         "timestamp": "2012-10-19 09:58:52"
+      }, 
+      "259239075721138176": {
+         "author": "MtHopeTOR", 
+         "id": "259239075721138176", 
+         "string": "Boy Scouts quotperversion filesquot show coverups of abuse over 20 years", 
+         "timestamp": "2012-10-19 10:26:26"
+      }, 
+      "259239717164425218": {
+         "author": "TrendWorldNews", 
+         "id": "259239717164425218", 
+         "string": "1200 files on Boy Scout leaders suspected of abuse released in Oregon", 
+         "timestamp": "2012-10-19 10:28:59"
+      }, 
+      "259244364683939840": {
+         "author": "VeronikaSummer", 
+         "id": "259244364683939840", 
+         "string": "Boy Scouts child abuse files contain chilling, graphic accounts - Los Angeles Times", 
+         "timestamp": "2012-10-19 10:47:27"
+      }, 
+      "259246906528645120": {
+         "author": "Neo_Negre", 
+         "id": "259246906528645120", 
+         "string": "Secret Files Reveal Horrific Details Of Boy Scout Sex Abuse", 
+         "timestamp": "2012-10-19 10:57:33"
+      }, 
+      "259250396114079744": {
+         "author": "AJEnglish", 
+         "id": "259250396114079744", 
+         "string": "Secret Boy Scout files show abuse cover-up", 
+         "timestamp": "2012-10-19 11:11:25"
+      }, 
+      "259254565021573120": {
+         "author": "ShadowLeagueTSL", 
+         "id": "259254565021573120", 
+         "string": "Did you realize? The Boy Scouts released 14,500 pages of documentation detailing widespread sexual abuse", 
+         "timestamp": "2012-10-19 11:27:59"
+      }, 
+      "259266850188304384": {
+         "author": "Oh_She_Petty", 
+         "id": "259266850188304384", 
+         "string": "There's NO way in HELL Jaron will EVER be a boy scout 1247 cases of sexual abuse..OH HELL NO I guess we now know what goes on on those trips", 
+         "timestamp": "2012-10-19 12:16:48"
+      }, 
+      "259284336363319296": {
+         "author": "CheckMyEsque", 
+         "id": "259284336363319296", 
+         "string": "Over 1,000 Files Of Sex Abuse And The Boy Scouts Tried To Cover It Up?!?", 
+         "timestamp": "2012-10-19 13:26:17"
+      }, 
+      "259294276897349632": {
+         "author": "EcoShire", 
+         "id": "259294276897349632", 
+         "string": "Boy Scouts Of America published Sex Abuser list of 1,200 scout leaders   - Breaking News Buzz", 
+         "timestamp": "2012-10-19 14:05:47"
+      }, 
+      "259313927211589633": {
+         "author": "Boston_CP", 
+         "id": "259313927211589633", 
+         "string": "More than 1,200 scout volunteers have been accused of sexual abuse between 1965 and 1985,", 
+         "timestamp": "2012-10-19 15:23:52"
+      }, 
+      "259315961390309376": {
+         "author": "mainedirtycops", 
+         "id": "259315961390309376", 
+         "string": "46 banned by Boy Scouts in Maine over abuse, files show", 
+         "timestamp": "2012-10-19 15:31:57"
+      }, 
+      "259317307770294272": {
+         "author": "MichaelArtman", 
+         "id": "259317307770294272", 
+         "string": "I was in the Boy Scouts as a youth, and I don't recall ever being sexually abused. Shame they get a bad wrap from a few bad apples.", 
+         "timestamp": "2012-10-19 15:37:18"
+      }, 
+      "259320034093068290": {
+         "author": "BPtheAdvocate", 
+         "id": "259320034093068290", 
+         "string": "See, that's why you don't leave your child with people.", 
+         "timestamp": "2012-10-19 15:48:08"
+      }, 
+      "259321862574718977": {
+         "author": "Majic_Angel", 
+         "id": "259321862574718977", 
+         "string": "Boy Scouts release 'perversion files'", 
+         "timestamp": "2012-10-19 15:55:24"
+      }, 
+      "259350115570036737": {
+         "author": "ktbcolors", 
+         "id": "259350115570036737", 
+         "string": "1 in 6 boys in America is sexually abused by the age of 16 in America per NPR. Oh my god.", 
+         "timestamp": "2012-10-19 17:47:40"
+      }, 
+      "259353508858458112": {
+         "author": "theBCdaily", 
+         "id": "259353508858458112", 
+         "string": "new Boy Scouts of America records revelations: 1973 internal correspondence relating to its decision to discontinue the Fellatio Badge.", 
+         "timestamp": "2012-10-19 18:01:09"
+      }, 
+      "259357157659643904": {
+         "author": "speedwaydigest", 
+         "id": "259357157659643904", 
+         "string": "Lagasse Jr. will light the way for Boy Scouts of America in Kansas", 
+         "timestamp": "2012-10-19 18:15:39"
+      }, 
+      "259383095550177281": {
+         "author": "ThePornoJukebox", 
+         "id": "259383095550177281", 
+         "string": "I will not let any child of mine participate in The Boy Scouts of America after the reports that are coming out", 
+         "timestamp": "2012-10-19 19:58:43"
+      }, 
+      "259384102116012032": {
+         "author": "BSU_PrideCenter", 
+         "id": "259384102116012032", 
+         "string": "Petition for UPS to end the corporate donations to anti-gay Boy Scouts of America.", 
+         "timestamp": "2012-10-19 20:02:43"
+      }, 
+      "259385599562235904": {
+         "author": "Drew_Gardiner", 
+         "id": "259385599562235904", 
+         "string": "I can't believe former Boy Scout leaders and volunteers preyed sexually on young scouts", 
+         "timestamp": "2012-10-19 20:08:40"
+      }, 
+      "259386941403959296": {
+         "author": "ThePornoJukebox", 
+         "id": "259386941403959296", 
+         "string": "The Boy Scouts of America CAN NOT get away with this. We need to hold them accountable. My fellow Eagle Scouts need to hold them responsible", 
+         "timestamp": "2012-10-19 20:14:00"
+      }, 
+      "259394243947274240": {
+         "author": "MarylandUpdate", 
+         "id": "259394243947274240", 
+         "string": "Boy Scout Sex Abuse Files Reveal 90 Maryland Cases", 
+         "timestamp": "2012-10-19 20:43:01"
+      }, 
+      "259395866966777858": {
+         "author": "NewsworthyNews", 
+         "id": "259395866966777858", 
+         "string": "Boy Scouts Release Sex-Abuse Documents", 
+         "timestamp": "2012-10-19 20:49:28"
+      }, 
+      "259413495869747201": {
+         "author": "KTVH_KBGF", 
+         "id": "259413495869747201", 
+         "string": "Boy Scouts of America sex abuse allegations in Montana.", 
+         "timestamp": "2012-10-19 21:59:31"
+      }, 
+      "259416163136724992": {
+         "author": "raiganleonard6", 
+         "id": "259416163136724992", 
+         "string": "Release of Scout Files Seen As Warning to Sex Abusers", 
+         "timestamp": "2012-10-19 22:10:07"
+      }, 
+      "259417924832477184": {
+         "author": "AlvinJDutton", 
+         "id": "259417924832477184", 
+         "string": "Confidential files of Boy Scouts released by court", 
+         "timestamp": "2012-10-19 22:17:07"
+      }
+   }
+}

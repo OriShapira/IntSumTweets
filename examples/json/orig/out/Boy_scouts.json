@@ -1,0 +1,1337 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    11
+                ], 
+                "keywords": [
+                    "'m going"
+                ]
+            }, 
+            {
+                "ids": [
+                    17, 
+                    3, 
+                    5, 
+                    1, 
+                    12, 
+                    19, 
+                    38, 
+                    23, 
+                    30, 
+                    26, 
+                    37, 
+                    27, 
+                    13
+                ], 
+                "keywords": [
+                    "Documents", 
+                    "only", 
+                    "set", 
+                    "used", 
+                    "announces", 
+                    "Detail", 
+                    "Files", 
+                    "Released", 
+                    "Freudian", 
+                    "Let", 
+                    "To Be", 
+                    "published", 
+                    "Decades", 
+                    "changes", 
+                    "abuse show", 
+                    "slip", 
+                    "dig", 
+                    "banned", 
+                    "homophobic allow", 
+                    "Ugh RT", 
+                    "Congress", 
+                    "me", 
+                    "news conference", 
+                    "on", 
+                    "programs", 
+                    "nytimes", 
+                    "homosexuals", 
+                    "audit", 
+                    "face", 
+                    "46", 
+                    "Hold", 
+                    "perversion", 
+                    "Documents", 
+                    "Sex Abuser list", 
+                    "perversion files"
+                ]
+            }, 
+            {
+                "ids": [
+                    20, 
+                    4, 
+                    35, 
+                    15, 
+                    9, 
+                    21, 
+                    40, 
+                    34, 
+                    33, 
+                    39, 
+                    0, 
+                    29, 
+                    6, 
+                    28, 
+                    14
+                ], 
+                "keywords": [
+                    "20 years", 
+                    "abuse", 
+                    "'m going", 
+                    "phrase honor", 
+                    "1000 files", 
+                    "code", 
+                    "discriminates covers", 
+                    "contain", 
+                    "homosexuality", 
+                    "Released", 
+                    "Stick", 
+                    "what", 
+                    "on", 
+                    "guess know", 
+                    "brings", 
+                    "responds", 
+                    "MT Perversion files show locals", 
+                    "For protected released", 
+                    "documents", 
+                    "we", 
+                    "Boy Scout sex abuse records", 
+                    "goes", 
+                    "Photo", 
+                    "members", 
+                    "homosexuals", 
+                    "Did realize", 
+                    "news headlines", 
+                    "worry", 
+                    "coverups", 
+                    "cover", 
+                    "Cuz", 
+                    "Horrified", 
+                    "trips", 
+                    "detail history", 
+                    "helped", 
+                    "suspected", 
+                    "adults"
+                ]
+            }, 
+            {
+                "ids": [
+                    16, 
+                    24
+                ], 
+                "keywords": [
+                    "Kansas", 
+                    "Lagasse Jr.", 
+                    "way", 
+                    "discontinue", 
+                    "light", 
+                    "Fellatio Badge"
+                ]
+            }, 
+            {
+                "ids": [
+                    8, 
+                    25
+                ], 
+                "keywords": [
+                    "end", 
+                    "for", 
+                    "Petition", 
+                    "donations", 
+                    "Scouts", 
+                    "America", 
+                    "UPS"
+                ]
+            }, 
+            {
+                "ids": [
+                    41, 
+                    31
+                ], 
+                "keywords": [
+                    "Montana", 
+                    "responsible", 
+                    "Eagle Scouts", 
+                    "sex", 
+                    "need", 
+                    "hold"
+                ]
+            }
+        ], 
+        "numTweets": 113, 
+        "sentences": [
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "revealing ; identifying ; boy ; once-secret ; released detailing", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "anti-gay Boy Scouts", 
+                "sentenceExpansion": [
+                    "regarding child", 
+                    "releasing files from", 
+                    "accounts are", 
+                    "from 1965-1985", 
+                    "today boys having", 
+                    "adults sexually offenders", 
+                    "revealing abuse", 
+                    "that bad", 
+                    "having Released smh", 
+                    "fellow Eagle Scouts", 
+                    "going I to say something They do n't have immunity", 
+                    "boy scout 1247 cases", 
+                    "Attorneys releasing", 
+                    "earning badge", 
+                    "detailing decades", 
+                    "identifying thousands", 
+                    "released 14,500 pages detailing", 
+                    "Boy Scout leaders and volunteers"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 21:46:46", 
+                "tweets": [
+                    259112659423739904, 
+                    259384102116012032, 
+                    259060469460000770, 
+                    259036260167979008, 
+                    259105491072974849, 
+                    259254565021573120, 
+                    258991800277139456, 
+                    258991489818955776, 
+                    258987689821470721, 
+                    259266850188304384, 
+                    259105101132754944, 
+                    259181643129044992, 
+                    259140115320934400, 
+                    259140333361848320, 
+                    259353508858458112, 
+                    258685511210786816, 
+                    259062247832305664, 
+                    259017192849416192, 
+                    259383095550177281, 
+                    259386941403959296, 
+                    259385599562235904, 
+                    259044246139592704
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.13", 
+                        "expansion": "release", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts files on child sex abusers released", 
+                "sentenceExpansion": [
+                    "Confidential files", 
+                    "Attorneys files", 
+                    "files reveal repeat abuse by predators", 
+                    "via Seattle Times", 
+                    "1200 files", 
+                    "Files Decades", 
+                    "on Boy Scout leaders", 
+                    "Roanoke &gt; Boy Scout files", 
+                    "files Released", 
+                    "News Scout files", 
+                    "perversion files files"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-17 21:46:46", 
+                "tweets": [
+                    259027170989596672, 
+                    259171542892691456, 
+                    259063103768104962, 
+                    259073824153296897, 
+                    258700812145016833, 
+                    258795112623116288, 
+                    258720307454554113, 
+                    258960871626252288, 
+                    258738175189590016, 
+                    259239717164425218, 
+                    259417924832477184, 
+                    259092962611445760, 
+                    259019294095069184, 
+                    258685511210786816
+                ]
+            }, 
+            {
+                "id": 32, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.13", 
+                        "expansion": "release", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "Now", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.14", 
+                        "expansion": "Secret Boy Scout files ; child abuse files", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "today Boy Scouts released files", 
+                "sentenceExpansion": [
+                    "release 1000 files", 
+                    "only released", 
+                    "Attorneys release", 
+                    "by court order", 
+                    "in Oregon", 
+                    "released pervert files by", 
+                    "on child sex abusers", 
+                    "release 20 years", 
+                    "child abuse are", 
+                    "Files to", 
+                    "on Sex Abuser list", 
+                    "perversion files released"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-17 21:46:46", 
+                "tweets": [
+                    258893490052796416, 
+                    259062319374557184, 
+                    259239717164425218, 
+                    259015536044822528, 
+                    259140115320934400, 
+                    258884015363354625, 
+                    259140333361848320, 
+                    258940717928415232, 
+                    258897038345900032, 
+                    259321862574718977, 
+                    259062247832305664, 
+                    259052311677116416, 
+                    259232138120015872, 
+                    258897537438740480, 
+                    259092962611445760, 
+                    258910200042508288, 
+                    259048926907338752, 
+                    258987689821470721, 
+                    259044246139592704, 
+                    258845259805650944, 
+                    258685511210786816, 
+                    258720307454554113, 
+                    259077984873496577, 
+                    258960871626252288, 
+                    259090421156827137, 
+                    259016102171009025, 
+                    259082355489251328, 
+                    258795112623116288, 
+                    258700812145016833, 
+                    259062193276997632, 
+                    259417924832477184, 
+                    259149258903658496, 
+                    259132477187186688
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.18", 
+                        "expansion": "reports ; name", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.60", 
+                        "expansion": "men", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Freudian slip accounts for homosexuals", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-17 23:50:56", 
+                "tweets": [
+                    258716758880419841
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [], 
+                "sentence": "to be used in programs", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 07:46:13", 
+                "tweets": [
+                    258836367700815873
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts announces changes", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 07:46:13", 
+                "tweets": [
+                    258836367700815873
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.13", 
+                        "expansion": "release", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "perversion files set released", 
+                "sentenceExpansion": [
+                    "perversion files here", 
+                    "files set"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 08:21:33", 
+                "tweets": [
+                    258845259805650944, 
+                    258910200042508288, 
+                    259082355489251328, 
+                    258884015363354625
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "Perversion Files Set", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "Perversion Files Set", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.9", 
+                        "expansion": "TopStories Released Boy Scout ; issues ; Release", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Files Files To Be Released", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 08:21:33", 
+                "tweets": [
+                    258845259805650944, 
+                    258907583165911040
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "46 banned by Boy Scouts over abuse show", 
+                "sentenceExpansion": [
+                    "Files banned", 
+                    "after being accused of scouts"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 11:47:18", 
+                "tweets": [
+                    258897038345900032, 
+                    259315961390309376
+                ]
+            }, 
+            {
+                "id": 38, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.14", 
+                        "expansion": "Secret Boy Scout files ; child abuse files", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts perversion files", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 12:39:36", 
+                "tweets": [
+                    258910200042508288
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts not only homophobic but allow", 
+                "sentenceExpansion": [
+                    "allow abuse"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 16:38:15", 
+                "tweets": [
+                    258970258478608384
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.20", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "on Congress to audit Boy Scouts at news conference", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 18:02:38", 
+                "tweets": [
+                    258991489818955776
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.69", 
+                        "expansion": "Boy Scout Documents Reveal Decades", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Ugh RT nytimes Documents", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 18:55:57", 
+                "tweets": [
+                    259004911616946176
+                ]
+            }, 
+            {
+                "id": 37, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Hold Let me dig face Boy Scouts Documents Decades", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:01:43", 
+                "tweets": [
+                    259006362904850432
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.69", 
+                        "expansion": "Boy Scout Documents Reveal Decades", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.18", 
+                        "expansion": "reports ; name", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "Documents Detail accounts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:24:32", 
+                "tweets": [
+                    259012104835719168
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts published Sex Abuser list", 
+                "sentenceExpansion": [
+                    "publish evidence"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 19:44:45", 
+                "tweets": [
+                    259294276897349632, 
+                    259017192849416192
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.71", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.71", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "abuse allegations", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "Are you parent What do you think about allegations and cover", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-18 21:00:31", 
+                "tweets": [
+                    259036260167979008
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "age ; years", 
+                        "tokens": [
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.50", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "For 20 years they protected adults but released", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 21:32:15", 
+                "tweets": [
+                    259044246139592704
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.60", 
+                        "expansion": "men", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts discriminates against homosexuals as members but covers", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 21:44:56", 
+                "tweets": [
+                    259047437900054528
+                ]
+            }, 
+            {
+                "id": 35, 
+                "pressableTokens": [], 
+                "sentence": "Horrified by news headlines", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 22:38:40", 
+                "tweets": [
+                    259060960092893184
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [], 
+                "sentence": "1000 files brings phrase honor", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-18 22:43:47", 
+                "tweets": [
+                    259062247832305664
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Stick to code Boy Scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 00:07:11", 
+                "tweets": [
+                    259083236154683392
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.51", 
+                        "expansion": "New", 
+                        "tokens": [
+                            0
+                        ]
+                    }
+                ], 
+                "sentence": "youth documents detail history Photo", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 01:30:01", 
+                "tweets": [
+                    259104081879134209
+                ]
+            }, 
+            {
+                "id": 40, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "MT Perversion files show locals helped cover Boy Scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 01:34:04", 
+                "tweets": [
+                    259105101132754944
+                ]
+            }, 
+            {
+                "id": 34, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "revealing ; identifying ; boy ; anti-gay ; once-secret ; released detailing", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts homosexuality Cuz Good", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 01:35:37", 
+                "tweets": [
+                    259105491072974849
+                ]
+            }, 
+            {
+                "id": 33, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.43", 
+                        "tokens": [
+                            0, 
+                            1, 
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.4", 
+                        "expansion": "child sex abuse ; Boy Scouts child abuse files ; abuse files", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scout leaders suspected of abuse", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 03:53:12", 
+                "tweets": [
+                    259140115320934400, 
+                    259239717164425218
+                ]
+            }, 
+            {
+                "id": 39, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "See ; conduct", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scout sex abuse records worry scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 06:20:58", 
+                "tweets": [
+                    259177301697249280
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.9", 
+                        "expansion": "TopStories Released Boy Scout ; issues ; Release", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts responds to Released", 
+                "sentenceExpansion": [
+                    "records revelations"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 06:38:13", 
+                "tweets": [
+                    259181643129044992, 
+                    259353508858458112
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.3", 
+                        "expansion": "age ; years", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts show coverups over 20 years", 
+                "sentenceExpansion": [
+                    "show abuse cover-up", 
+                    "files show"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 10:26:26", 
+                "tweets": [
+                    259250396114079744, 
+                    259239075721138176
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.4", 
+                        "expansion": "child sex abuse ; Boy Scouts child abuse files ; abuse files", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.18", 
+                        "expansion": "reports ; name", 
+                        "tokens": [
+                            2
+                        ]
+                    }
+                ], 
+                "sentence": "abuse contain accounts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 10:47:27", 
+                "tweets": [
+                    259244364683939840
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.71", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "revealing ; identifying ; boy ; anti-gay ; once-secret", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Did you realize Boy Scouts released detailing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 11:27:59", 
+                "tweets": [
+                    259254565021573120
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.11", 
+                        "expansion": "Now", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.20", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "guess we today know what goes on on trips", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 12:16:48", 
+                "tweets": [
+                    259266850188304384
+                ]
+            }, 
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.51", 
+                        "expansion": "New", 
+                        "tokens": [
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.17", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "sexual", 
+                        "tokens": [
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.50", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "I was in Boy Scouts as youth and I do n't recall EVER being sexually abused Shame they get wrap", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 15:37:18", 
+                "tweets": [
+                    259317307770294272
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "See ; conduct", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.71", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "child abuse files", 
+                        "tokens": [
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "scouts that 's why you do n't leave child with people", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 15:48:08", 
+                "tweets": [
+                    259320034093068290
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [], 
+                "sentence": "to discontinue Fellatio Badge", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 18:01:09", 
+                "tweets": [
+                    259353508858458112
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [], 
+                "sentence": "Lagasse Jr. will light way in Kansas", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 18:15:39", 
+                "tweets": [
+                    259357157659643904
+                ]
+            }, 
+            {
+                "id": 36, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.16", 
+                        "expansion": "child abuse files", 
+                        "tokens": [
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.18", 
+                        "expansion": "reports ; name", 
+                        "tokens": [
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "I will not let child participate in Boy Scouts after accounts", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 19:58:43", 
+                "tweets": [
+                    259383095550177281
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "for UPS to end donations to Boy Scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 20:02:43", 
+                "tweets": [
+                    259384102116012032
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [], 
+                "sentence": "Petition Scouts of America", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 20:02:43", 
+                "tweets": [
+                    259384102116012032
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.17", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.43", 
+                        "tokens": [
+                            4, 
+                            5, 
+                            6
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "sexual", 
+                        "tokens": [
+                            10
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "See ; conduct", 
+                        "tokens": [
+                            12
+                        ]
+                    }
+                ], 
+                "sentence": "I ca n't believe Boy Scout leaders and volunteers preyed sexually on scouts", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-19 20:08:40", 
+                "tweets": [
+                    259385599562235904
+                ]
+            }, 
+            {
+                "id": 41, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.100", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.100", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Eagle Scouts need Eagle Scouts to hold responsible", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 20:14:00", 
+                "tweets": [
+                    259386941403959296
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "Boy Scouts quotperversion filesquot ; Confidential Boy Scouts Files ; Boy Scout", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "abuse allegations", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Boy Scouts sex allegations in Montana", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-19 21:59:31", 
+                "tweets": [
+                    259413495869747201
+                ]
+            }
+        ], 
+        "title": "Boy_scouts"
+    }
+}

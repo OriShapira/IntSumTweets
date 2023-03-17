@@ -1,0 +1,3973 @@
+{
+   "entities": {
+      "E.1": {
+         "alias": "3 4 injured", 
+         "id": "E.1", 
+         "mentions": [
+            {
+               "sources": [
+                  "260201785602473984", 
+                  "260142738400497664"
+               ], 
+               "term": "3 dead"
+            }, 
+            {
+               "sources": [
+                  "260117820069773313", 
+                  "260117270540472321", 
+                  "260148396613066752", 
+                  "260123528282648576"
+               ], 
+               "term": "3"
+            }, 
+            {
+               "sources": [
+                  "260122140169351168"
+               ], 
+               "term": "Damn 3"
+            }, 
+            {
+               "sources": [
+                  "260118801474015232"
+               ], 
+               "term": "3 4 injured"
+            }
+         ]
+      }, 
+      "E.10": {
+         "alias": "shooting", 
+         "id": "E.10", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123079831871489", 
+                  "260071393306238976", 
+                  "260139361952231424"
+               ], 
+               "term": "shooting"
+            }, 
+            {
+               "sources": [
+                  "260201102039986178", 
+                  "260099386116292608", 
+                  "260141220083421184", 
+                  "260122073165344768"
+               ], 
+               "term": "mass shooting"
+            }, 
+            {
+               "sources": [
+                  "260108240136851456"
+               ], 
+               "term": "Mass shooting '"
+            }, 
+            {
+               "sources": [
+                  "260079475885240320"
+               ], 
+               "term": "Mass shooting"
+            }
+         ]
+      }, 
+      "E.11": {
+         "alias": "Victims", 
+         "id": "E.11", 
+         "mentions": [
+            {
+               "sources": [
+                  "260185524675960832"
+               ], 
+               "term": "Victims"
+            }
+         ]
+      }, 
+      "E.12": {
+         "alias": "people", 
+         "id": "E.12", 
+         "mentions": [
+            {
+               "sources": [
+                  "260117820073971712"
+               ], 
+               "term": "3 people"
+            }, 
+            {
+               "sources": [
+                  "260141073253416960", 
+                  "260110375029190656"
+               ], 
+               "term": "7 people"
+            }, 
+            {
+               "sources": [
+                  "260123079831871489"
+               ], 
+               "term": "Three people"
+            }, 
+            {
+               "sources": [
+                  "260087398598324224", 
+                  "260165442105118721"
+               ], 
+               "term": "people"
+            }
+         ]
+      }, 
+      "E.13": {
+         "alias": "lockdown", 
+         "id": "E.13", 
+         "mentions": [
+            {
+               "sources": [
+                  "260095326021619712"
+               ], 
+               "term": "lockdown"
+            }
+         ]
+      }, 
+      "E.14": {
+         "alias": "Brookfield", 
+         "id": "E.14", 
+         "mentions": [
+            {
+               "sources": [
+                  "260085959914291201"
+               ], 
+               "term": "Brookfield mall"
+            }, 
+            {
+               "sources": [
+                  "260118801474015232"
+               ], 
+               "term": "Brookfield Police Chief Dan Tushaus"
+            }, 
+            {
+               "sources": [
+                  "260133070429097984", 
+                  "260152397731594240", 
+                  "260066804817342467", 
+                  "260079475885240320", 
+                  "260123079831871489"
+               ], 
+               "term": "Brookfield"
+            }, 
+            {
+               "sources": [
+                  "260071498058973184"
+               ], 
+               "term": "brookfield"
+            }
+         ]
+      }, 
+      "E.15": {
+         "alias": "They", 
+         "id": "E.15", 
+         "mentions": [
+            {
+               "sources": [
+                  "260165442105118721"
+               ], 
+               "term": "They"
+            }
+         ]
+      }, 
+      "E.16": {
+         "alias": "rampage", 
+         "id": "E.16", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123528282648576"
+               ], 
+               "term": "rampage"
+            }
+         ]
+      }, 
+      "E.17": {
+         "alias": "still", 
+         "id": "E.17", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123528282648576"
+               ], 
+               "term": "still"
+            }
+         ]
+      }, 
+      "E.18": {
+         "alias": "self gunshot", 
+         "id": "E.18", 
+         "mentions": [
+            {
+               "sources": [
+                  "260141220083421184"
+               ], 
+               "term": "self gunshot"
+            }, 
+            {
+               "sources": [
+                  "260165442105118721"
+               ], 
+               "term": "self"
+            }
+         ]
+      }, 
+      "E.19": {
+         "alias": "suspect", 
+         "id": "E.19", 
+         "mentions": [
+            {
+               "sources": [
+                  "260233603697491968", 
+                  "260138980081795073"
+               ], 
+               "term": "Suspect"
+            }, 
+            {
+               "sources": [
+                  "260144672020783105", 
+                  "260133968115027968", 
+                  "260136501298479104", 
+                  "260134139926306816", 
+                  "260139307271077888"
+               ], 
+               "term": "suspect"
+            }
+         ]
+      }, 
+      "E.2": {
+         "alias": "Wisconsin aka ghettoville u.s.a.", 
+         "id": "E.2", 
+         "mentions": [
+            {
+               "sources": [
+                  "260145162649473024", 
+                  "260108240136851456"
+               ], 
+               "term": "wisconsin"
+            }, 
+            {
+               "sources": [
+                  "260070101313798144"
+               ], 
+               "term": "Wisconsin spa"
+            }, 
+            {
+               "sources": [
+                  "260135654049079296"
+               ], 
+               "term": "Wisconsin spa shooting"
+            }, 
+            {
+               "sources": [
+                  "260161075692044288", 
+                  "260079475885240320", 
+                  "260099386116292608", 
+                  "260135159087632384", 
+                  "260123079831871489"
+               ], 
+               "term": "Wisconsin"
+            }, 
+            {
+               "sources": [
+                  "260071393306238976"
+               ], 
+               "term": "Wisconsin aka ghettoville u.s.a."
+            }
+         ]
+      }, 
+      "E.20": {
+         "alias": "shooter", 
+         "id": "E.20", 
+         "mentions": [
+            {
+               "sources": [
+                  "260142830700339200", 
+                  "260201785602473984", 
+                  "260219863270842368"
+               ], 
+               "term": "gunman"
+            }, 
+            {
+               "sources": [
+                  "260084416464965632", 
+                  "260134379282653184", 
+                  "260152397731594240", 
+                  "260131300315385856"
+               ], 
+               "term": "shooter"
+            }, 
+            {
+               "sources": [
+                  "260107107901247488", 
+                  "260110375029190656"
+               ], 
+               "term": "Gunman"
+            }
+         ]
+      }, 
+      "E.21": {
+         "alias": "Shooting", 
+         "id": "E.21", 
+         "mentions": [
+            {
+               "sources": [
+                  "260133070429097984", 
+                  "260070101313798144", 
+                  "260078460704280576", 
+                  "260085343733309442"
+               ], 
+               "term": "Shooting"
+            }, 
+            {
+               "sources": [
+                  "260118801474015232", 
+                  "260142738400497664"
+               ], 
+               "term": "scene"
+            }, 
+            {
+               "sources": [
+                  "260085959914291201"
+               ], 
+               "term": "Shootings"
+            }
+         ]
+      }, 
+      "E.22": {
+         "alias": "Spa", 
+         "id": "E.22", 
+         "mentions": [
+            {
+               "sources": [
+                  "260133070429097984", 
+                  "260148396613066752"
+               ], 
+               "term": "Spa"
+            }
+         ]
+      }, 
+      "E.23": {
+         "alias": "Three", 
+         "id": "E.23", 
+         "mentions": [
+            {
+               "sources": [
+                  "260133070429097984", 
+                  "260139361952231424"
+               ], 
+               "term": "Three"
+            }, 
+            {
+               "sources": [
+                  "260148975473139712"
+               ], 
+               "term": "Three people"
+            }
+         ]
+      }, 
+      "E.24": {
+         "alias": "life", 
+         "id": "E.24", 
+         "mentions": [
+            {
+               "sources": [
+                  "260201785602473984"
+               ], 
+               "term": "life"
+            }
+         ]
+      }, 
+      "E.25": {
+         "alias": "then", 
+         "id": "E.25", 
+         "mentions": [
+            {
+               "sources": [
+                  "260201785602473984"
+               ], 
+               "term": "then"
+            }, 
+            {
+               "sources": [
+                  "260078460704280576"
+               ], 
+               "term": "so"
+            }
+         ]
+      }, 
+      "E.26": {
+         "alias": "Wis.", 
+         "id": "E.26", 
+         "mentions": [
+            {
+               "sources": [
+                  "260133070429097984"
+               ], 
+               "term": "Wis."
+            }
+         ]
+      }, 
+      "E.27": {
+         "alias": "mass", 
+         "id": "E.27", 
+         "mentions": [
+            {
+               "sources": [
+                  "260145162649473024"
+               ], 
+               "term": "mass"
+            }
+         ]
+      }, 
+      "E.28": {
+         "alias": "again", 
+         "id": "E.28", 
+         "mentions": [
+            {
+               "sources": [
+                  "260071393306238976"
+               ], 
+               "term": "again"
+            }
+         ]
+      }, 
+      "E.29": {
+         "alias": "and", 
+         "id": "E.29", 
+         "mentions": [
+            {
+               "sources": [
+                  "260152397731594240", 
+                  "260142738400497664"
+               ], 
+               "term": "and"
+            }
+         ]
+      }, 
+      "E.3": {
+         "alias": "dead", 
+         "id": "E.3", 
+         "mentions": [
+            {
+               "sources": [
+                  "260084416464965632"
+               ], 
+               "term": "loose"
+            }, 
+            {
+               "sources": [
+                  "260152397731594240"
+               ], 
+               "term": "shortly"
+            }, 
+            {
+               "sources": [
+                  "260117270540472321"
+               ], 
+               "term": "7 dead"
+            }, 
+            {
+               "sources": [
+                  "260122140169351168", 
+                  "260136501298479104", 
+                  "260144672020783105", 
+                  "260142738400497664", 
+                  "260142830700339200", 
+                  "260165442105118721", 
+                  "260135654049079296", 
+                  "260141073253416960"
+               ], 
+               "term": "dead"
+            }
+         ]
+      }, 
+      "E.30": {
+         "alias": "anyone", 
+         "id": "E.30", 
+         "mentions": [
+            {
+               "sources": [
+                  "260087398598324224"
+               ], 
+               "term": "anyone"
+            }
+         ]
+      }, 
+      "E.31": {
+         "alias": "Was", 
+         "id": "E.31", 
+         "mentions": [
+            {
+               "sources": [
+                  "260087398598324224"
+               ], 
+               "term": "Was"
+            }
+         ]
+      }, 
+      "E.32": {
+         "alias": "Active", 
+         "id": "E.32", 
+         "mentions": [
+            {
+               "sources": [
+                  "260071498058973184"
+               ], 
+               "term": "Active"
+            }
+         ]
+      }, 
+      "E.33": {
+         "alias": "Update Wisconsin", 
+         "id": "E.33", 
+         "mentions": [
+            {
+               "sources": [
+                  "260152397731594240"
+               ], 
+               "term": "Update Wisconsin"
+            }
+         ]
+      }, 
+      "E.34": {
+         "alias": "Three underway", 
+         "id": "E.34", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123306097770496"
+               ], 
+               "term": "Three underway"
+            }
+         ]
+      }, 
+      "E.35": {
+         "alias": "four", 
+         "id": "E.35", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123079831871489"
+               ], 
+               "term": "four"
+            }
+         ]
+      }, 
+      "E.36": {
+         "alias": "day spa", 
+         "id": "E.36", 
+         "mentions": [
+            {
+               "sources": [
+                  "260079475885240320", 
+                  "260139361952231424"
+               ], 
+               "term": "day spa"
+            }
+         ]
+      }, 
+      "E.37": {
+         "alias": "world", 
+         "id": "E.37", 
+         "mentions": [
+            {
+               "sources": [
+                  "260078460704280576"
+               ], 
+               "term": "world"
+            }
+         ]
+      }, 
+      "E.38": {
+         "alias": "US shooting", 
+         "id": "E.38", 
+         "mentions": [
+            {
+               "sources": [
+                  "260117820073971712"
+               ], 
+               "term": "US shooting"
+            }
+         ]
+      }, 
+      "E.39": {
+         "alias": "IED", 
+         "id": "E.39", 
+         "mentions": [
+            {
+               "sources": [
+                  "260118801474015232"
+               ], 
+               "term": "IED"
+            }
+         ]
+      }, 
+      "E.4": {
+         "alias": "spa", 
+         "id": "E.4", 
+         "mentions": [
+            {
+               "sources": [
+                  "260087398598324224", 
+                  "260117820069773313", 
+                  "260087662856249345", 
+                  "260131300315385856", 
+                  "260123079831871489", 
+                  "260141073253416960"
+               ], 
+               "term": "spa"
+            }, 
+            {
+               "sources": [
+                  "260144672020783105", 
+                  "260117820073971712"
+               ], 
+               "term": "Wisconsin spa"
+            }, 
+            {
+               "sources": [
+                  "260122140169351168"
+               ], 
+               "term": "shooting"
+            }, 
+            {
+               "sources": [
+                  "260089114320334849", 
+                  "260130549849522176"
+               ], 
+               "term": "Wisconsin spa shooting"
+            }, 
+            {
+               "sources": [
+                  "260154008520507392"
+               ], 
+               "term": "Wisconsin spa shooter"
+            }
+         ]
+      }, 
+      "E.40": {
+         "alias": "seven", 
+         "id": "E.40", 
+         "mentions": [
+            {
+               "sources": [
+                  "260085343733309442"
+               ], 
+               "term": "seven"
+            }, 
+            {
+               "sources": [
+                  "260107107901247488"
+               ], 
+               "term": "7"
+            }
+         ]
+      }, 
+      "E.41": {
+         "alias": "Milwaukee Suspect", 
+         "id": "E.41", 
+         "mentions": [
+            {
+               "sources": [
+                  "260142738400497664"
+               ], 
+               "term": "Milwaukee Suspect"
+            }
+         ]
+      }, 
+      "E.42": {
+         "alias": "hostage", 
+         "id": "E.42", 
+         "mentions": [
+            {
+               "sources": [
+                  "260154008520507392"
+               ], 
+               "term": "hostage"
+            }
+         ]
+      }, 
+      "E.43": {
+         "alias": "Friend", 
+         "id": "E.43", 
+         "mentions": [
+            {
+               "sources": [
+                  "260154008520507392"
+               ], 
+               "term": "Friend"
+            }
+         ]
+      }, 
+      "E.44": {
+         "alias": "presser", 
+         "id": "E.44", 
+         "mentions": [
+            {
+               "sources": [
+                  "260152397731594240"
+               ], 
+               "term": "presser"
+            }
+         ]
+      }, 
+      "E.45": {
+         "alias": "all", 
+         "id": "E.45", 
+         "mentions": [
+            {
+               "sources": [
+                  "260185524675960832"
+               ], 
+               "term": "all"
+            }
+         ]
+      }, 
+      "E.46": {
+         "alias": "4 others", 
+         "id": "E.46", 
+         "mentions": [
+            {
+               "sources": [
+                  "260152397731594240"
+               ], 
+               "term": "4 others"
+            }
+         ]
+      }, 
+      "E.47": {
+         "alias": "spa Waukesha County", 
+         "id": "E.47", 
+         "mentions": [
+            {
+               "sources": [
+                  "260134379282653184"
+               ], 
+               "term": "spa Waukesha County"
+            }
+         ]
+      }, 
+      "E.48": {
+         "alias": "later", 
+         "id": "E.48", 
+         "mentions": [
+            {
+               "sources": [
+                  "260219863270842368"
+               ], 
+               "term": "later"
+            }
+         ]
+      }, 
+      "E.49": {
+         "alias": "himself", 
+         "id": "E.49", 
+         "mentions": [
+            {
+               "sources": [
+                  "260219863270842368"
+               ], 
+               "term": "himself"
+            }
+         ]
+      }, 
+      "E.5": {
+         "alias": "2 sources", 
+         "id": "E.5", 
+         "mentions": [
+            {
+               "sources": [
+                  "260131300315385856"
+               ], 
+               "term": "2 sources"
+            }
+         ]
+      }, 
+      "E.50": {
+         "alias": "great", 
+         "id": "E.50", 
+         "mentions": [
+            {
+               "sources": [
+                  "260123528282648576"
+               ], 
+               "term": "large"
+            }, 
+            {
+               "sources": [
+                  "260084416464965632"
+               ], 
+               "term": "great"
+            }
+         ]
+      }, 
+      "E.51": {
+         "alias": "8 people", 
+         "id": "E.51", 
+         "mentions": [
+            {
+               "sources": [
+                  "260089114320334849"
+               ], 
+               "term": "8 people"
+            }
+         ]
+      }, 
+      "E.52": {
+         "alias": "3 Hospital", 
+         "id": "E.52", 
+         "mentions": [
+            {
+               "sources": [
+                  "260152397731594240"
+               ], 
+               "term": "3 Hospital"
+            }, 
+            {
+               "sources": [
+                  "260095326021619712"
+               ], 
+               "term": "Hospital"
+            }
+         ]
+      }, 
+      "E.53": {
+         "alias": "killsd", 
+         "id": "E.53", 
+         "mentions": [
+            {
+               "sources": [
+                  "260148396613066752"
+               ], 
+               "term": "killsd"
+            }
+         ]
+      }, 
+      "E.54": {
+         "alias": "him", 
+         "id": "E.54", 
+         "mentions": [
+            {
+               "sources": [
+                  "260165442105118721"
+               ], 
+               "term": "him"
+            }
+         ]
+      }, 
+      "E.55": {
+         "alias": "number", 
+         "id": "E.55", 
+         "mentions": [
+            {
+               "sources": [
+                  "260087662856249345"
+               ], 
+               "term": "number"
+            }
+         ]
+      }, 
+      "E.56": {
+         "alias": "he", 
+         "id": "E.56", 
+         "mentions": [
+            {
+               "sources": [
+                  "260165442105118721"
+               ], 
+               "term": "he"
+            }
+         ]
+      }, 
+      "E.57": {
+         "alias": "County dispatcher", 
+         "id": "E.57", 
+         "mentions": [
+            {
+               "sources": [
+                  "260134139926306816"
+               ], 
+               "term": "County dispatcher"
+            }, 
+            {
+               "sources": [
+                  "260136501298479104"
+               ], 
+               "term": "dispatcher"
+            }
+         ]
+      }, 
+      "E.58": {
+         "alias": "stripes", 
+         "id": "E.58", 
+         "mentions": [
+            {
+               "sources": [
+                  "260071393306238976"
+               ], 
+               "term": "stripes"
+            }
+         ]
+      }, 
+      "E.59": {
+         "alias": "4 shooting", 
+         "id": "E.59", 
+         "mentions": [
+            {
+               "sources": [
+                  "260142738400497664"
+               ], 
+               "term": "4 shooting"
+            }
+         ]
+      }, 
+      "E.6": {
+         "alias": "Wisconsin police", 
+         "id": "E.6", 
+         "mentions": [
+            {
+               "sources": [
+                  "260133968115027968"
+               ], 
+               "term": "Wisconsin police"
+            }, 
+            {
+               "sources": [
+                  "260142830700339200"
+               ], 
+               "term": "police"
+            }
+         ]
+      }, 
+      "E.60": {
+         "alias": "shooter tht", 
+         "id": "E.60", 
+         "mentions": [
+            {
+               "sources": [
+                  "260165442105118721"
+               ], 
+               "term": "shooter tht"
+            }
+         ]
+      }, 
+      "E.61": {
+         "alias": "Radcliffe Haughton", 
+         "id": "E.61", 
+         "mentions": [
+            {
+               "sources": [
+                  "260141220083421184"
+               ], 
+               "term": "Radcliffe Haughton"
+            }
+         ]
+      }, 
+      "E.62": {
+         "alias": "police hunt", 
+         "id": "E.62", 
+         "mentions": [
+            {
+               "sources": [
+                  "260095326021619712"
+               ], 
+               "term": "police hunt"
+            }
+         ]
+      }, 
+      "E.7": {
+         "alias": "injure", 
+         "id": "E.7", 
+         "mentions": [
+            {
+               "sources": [
+                  "260231666205876224"
+               ], 
+               "term": "hurt"
+            }, 
+            {
+               "sources": [
+                  "260123528282648576"
+               ], 
+               "term": "injure"
+            }
+         ]
+      }, 
+      "E.8": {
+         "alias": "4 women", 
+         "id": "E.8", 
+         "mentions": [
+            {
+               "sources": [
+                  "260231666205876224"
+               ], 
+               "term": "4 women"
+            }
+         ]
+      }, 
+      "E.9": {
+         "alias": "state", 
+         "id": "E.9", 
+         "mentions": [
+            {
+               "sources": [
+                  "260108240136851456"
+               ], 
+               "term": "state"
+            }
+         ]
+      }
+   }, 
+   "propositions": {
+      "P.1": {
+         "alias": "found", 
+         "arguments": [
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.47", 
+                     "sources": [
+                        "260134379282653184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "260139307271077888", 
+                        "260233603697491968", 
+                        "260136501298479104", 
+                        "260138980081795073", 
+                        "260134139926306816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.15", 
+                     "sources": [
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.39", 
+                     "sources": [
+                        "260118801474015232"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.6", 
+                     "sources": [
+                        "260142830700339200"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.2", 
+                     "sources": [
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260118801474015232"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260134379282653184", 
+                        "260142830700339200"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.41", 
+                     "sources": [
+                        "260142738400497664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260142738400497664", 
+                        "260144672020783105", 
+                        "260165442105118721", 
+                        "260136501298479104", 
+                        "260135654049079296", 
+                        "260142830700339200"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.1", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260142830700339200"
+                  ], 
+                  "template": "{a.3} has been found {a.9} {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "260165442105118721"
+                  ], 
+                  "template": "was found {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "260165442105118721"
+                  ], 
+                  "template": "{a.5} found {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "260142738400497664"
+                  ], 
+                  "template": "{a.8} found {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "260118801474015232"
+                  ], 
+                  "template": "{a.6} found at {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260139307271077888", 
+                     "260233603697491968", 
+                     "260138980081795073", 
+                     "260134139926306816"
+                  ], 
+                  "template": "{a.4} found"
+               }, 
+               {
+                  "sources": [
+                     "260134379282653184"
+                  ], 
+                  "template": "{a.3} found inside {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "260144672020783105", 
+                     "260135654049079296"
+                  ], 
+                  "template": "found {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "260136501298479104"
+                  ], 
+                  "template": "{a.4} has been found {a.9}"
+               }
+            ]
+         }
+      }, 
+      "P.10": {
+         "alias": "n", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260122140169351168"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260122140169351168"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.10", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260122140169351168"
+                  ], 
+                  "template": "{a.1} n {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.11": {
+         "alias": "takes", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260201785602473984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.42", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "260201785602473984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.24", 
+                     "sources": [
+                        "260201785602473984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260201785602473984"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.11", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260201785602473984"
+                  ], 
+                  "template": "{a.4} {a.1} {a.3} takes {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260154008520507392"
+                  ], 
+                  "template": "{a.6} to take {a.5}"
+               }
+            ]
+         }
+      }, 
+      "P.12": {
+         "alias": "injures", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260085343733309442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "260085343733309442"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260130549849522176"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.12", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260123079831871489"
+                  ], 
+                  "template": "injured in {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260130549849522176"
+                  ], 
+                  "template": "injured in {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "260085343733309442"
+                  ], 
+                  "template": "{a.4} injures {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.13": {
+         "alias": "suspect at in", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "260135654049079296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260135654049079296"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.8", 
+                     "sources": [
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.16", 
+                     "sources": [
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.17", 
+                     "sources": [
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.13", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260123528282648576"
+                  ], 
+                  "template": "{a.5} {a.1} suspect {a.3} at {a.7} in {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260135654049079296"
+                  ], 
+                  "template": "{a.6} suspect {a.4}"
+               }
+            ]
+         }
+      }, 
+      "P.14": {
+         "alias": "pronounced", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260122140169351168"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.14", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260122140169351168"
+                  ], 
+                  "template": "pronounced {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.15": {
+         "alias": "is on", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.62", 
+                     "sources": [
+                        "260095326021619712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260108240136851456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260084416464965632"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "260095326021619712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.13", 
+                     "sources": [
+                        "260095326021619712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260108240136851456"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260084416464965632"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.50", 
+                     "sources": [
+                        "260084416464965632"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.9", 
+                     "sources": [
+                        "260108240136851456"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.15", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260084416464965632"
+                  ], 
+                  "template": "{a.8} {a.3} is on {a.6}"
+               }, 
+               {
+                  "sources": [
+                     "260095326021619712"
+                  ], 
+                  "template": "{a.7} is under {a.1} as {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "260108240136851456"
+                  ], 
+                  "template": "{a.2} {a.5} is {a.9}"
+               }
+            ]
+         }
+      }, 
+      "P.16": {
+         "alias": "wounded in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260122073165344768", 
+                        "260201102039986178"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.46", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.16", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260152397731594240"
+                  ], 
+                  "template": "wounded {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260122073165344768", 
+                     "260201102039986178"
+                  ], 
+                  "template": "wounded in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.17": {
+         "alias": "to hold", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.44", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.17", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260152397731594240"
+                  ], 
+                  "template": "to hold {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.18": {
+         "alias": "shooter", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260161075692044288"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.18", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260161075692044288"
+                  ], 
+                  "template": "{a.1} shooter"
+               }
+            ]
+         }
+      }, 
+      "P.19": {
+         "alias": "tried", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.11", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.19", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260154008520507392"
+                  ], 
+                  "template": "{a.2} tried {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.2": {
+         "alias": "shot and found", 
+         "arguments": [
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.34", 
+                     "sources": [
+                        "260123306097770496"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.60", 
+                     "sources": [
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.22", 
+                     "sources": [
+                        "260148396613066752"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260110375029190656", 
+                        "260107107901247488"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "260165442105118721", 
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.40", 
+                     "sources": [
+                        "260107107901247488"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260087398598324224", 
+                        "260087662856249345"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.53", 
+                     "sources": [
+                        "260148396613066752"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.54", 
+                     "sources": [
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.55", 
+                     "sources": [
+                        "260087662856249345"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.56", 
+                     "sources": [
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260148396613066752"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "260087398598324224", 
+                        "260110375029190656", 
+                        "260165442105118721"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.2", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260165442105118721"
+                  ], 
+                  "template": "{a.8} shot {a.10} {a.6} and found"
+               }, 
+               {
+                  "sources": [
+                     "260123306097770496"
+                  ], 
+                  "template": "{a.2} shootings"
+               }, 
+               {
+                  "sources": [
+                     "260110375029190656"
+                  ], 
+                  "template": "{a.5} shoots {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "260087398598324224"
+                  ], 
+                  "template": "to shoot {a.1} at {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "260087662856249345"
+                  ], 
+                  "template": "{a.11} to have been shot at {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "260148396613066752"
+                  ], 
+                  "template": "{a.4} shootings {a.9} {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "260107107901247488"
+                  ], 
+                  "template": "{a.5} shoots {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "260165442105118721"
+                  ], 
+                  "template": "{a.3} shot {a.1} {a.6}"
+               }
+            ]
+         }
+      }, 
+      "P.20": {
+         "alias": "are feared", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.2", 
+                     "sources": [
+                        "260087662856249345"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.55", 
+                     "sources": [
+                        "260087662856249345"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.20", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260087662856249345"
+                  ], 
+                  "template": "{a.2} are feared {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.21": {
+         "alias": "Ca n't imagine", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.30", 
+                     "sources": [
+                        "260087398598324224"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.31", 
+                     "sources": [
+                        "260087398598324224"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.21", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260087398598324224"
+                  ], 
+                  "template": "{a.2} Ca n't imagine {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.22": {
+         "alias": "expected", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.17", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.22", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260152397731594240"
+                  ], 
+                  "template": "expected {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.23": {
+         "alias": "o", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260117270540472321"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260117270540472321"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.23", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260117270540472321"
+                  ], 
+                  "template": "{a.1} o {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.24": {
+         "alias": "confirmed from", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.61", 
+                     "sources": [
+                        "260141220083421184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.18", 
+                     "sources": [
+                        "260141220083421184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.24", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260141220083421184"
+                  ], 
+                  "template": "{a.1} confirmed from {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.25": {
+         "alias": "wound after", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260141220083421184"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.25", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260141220083421184"
+                  ], 
+                  "template": "wound after {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.26": {
+         "alias": "identify", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "260133968115027968"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "260133968115027968"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.26", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260133968115027968"
+                  ], 
+                  "template": "{a.2} identify {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.27": {
+         "alias": "spa", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260099386116292608"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260099386116292608"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.27", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260099386116292608"
+                  ], 
+                  "template": "{a.1} spa {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.28": {
+         "alias": "arrives at", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.59", 
+                     "sources": [
+                        "260142738400497664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260142738400497664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260142738400497664"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "260142738400497664"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.28", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260142738400497664"
+                  ], 
+                  "template": "{a.1} {a.3} {a.4} arrives at {a.2}"
+               }
+            ]
+         }
+      }, 
+      "P.3": {
+         "alias": "Gunman inside after", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.8", 
+                     "sources": [
+                        "260141073253416960"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.3", 
+                     "sources": [
+                        "260141073253416960"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260141073253416960"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.3", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260141073253416960"
+                  ], 
+                  "template": "Gunman {a.2} inside {a.3} after {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.4": {
+         "alias": "hit in", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260089114320334849"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.51", 
+                     "sources": [
+                        "260089114320334849"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.4", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260089114320334849"
+                  ], 
+                  "template": "{a.2} hit in {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.5": {
+         "alias": "Killed in at in", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.22", 
+                     "sources": [
+                        "260133070429097984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260133070429097984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.26", 
+                     "sources": [
+                        "260133070429097984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "260133070429097984"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "260133070429097984"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.5", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260133070429097984"
+                  ], 
+                  "template": "{a.3} Killed in {a.5} at {a.4} in {a.2} {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.6": {
+         "alias": "says", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.1", 
+                     "sources": [
+                        "260136501298479104", 
+                        "260118801474015232", 
+                        "260134139926306816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.57", 
+                     "sources": [
+                        "260136501298479104", 
+                        "260134139926306816"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.43", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.5", 
+                     "sources": [
+                        "260131300315385856"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.8", 
+                     "sources": [
+                        "260131300315385856"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "260118801474015232"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260118801474015232"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.6", 
+                     "sources": [
+                        "260142830700339200"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "P.19", 
+                     "sources": [
+                        "260154008520507392"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.6", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260142830700339200"
+                  ], 
+                  "template": "{a.8} said"
+               }, 
+               {
+                  "sources": [
+                     "260131300315385856"
+                  ], 
+                  "template": "{a.7} say {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "260154008520507392"
+                  ], 
+                  "template": "{a.6} says {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "260118801474015232"
+                  ], 
+                  "template": "{a.2} says {a.3} {a.4}"
+               }, 
+               {
+                  "sources": [
+                     "260136501298479104", 
+                     "260134139926306816"
+                  ], 
+                  "template": "{a.5} says {a.4}"
+               }
+            ]
+         }
+      }, 
+      "P.7": {
+         "alias": "reported at", 
+         "arguments": [
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260070101313798144", 
+                        "260085959914291201"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.36", 
+                     "sources": [
+                        "260079475885240320"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260070101313798144", 
+                        "260079475885240320"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "260079475885240320", 
+                        "260085959914291201"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260079475885240320"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.7", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260079475885240320"
+                  ], 
+                  "template": "{a.3} reported at {a.5} in {a.2} {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "260085959914291201"
+                  ], 
+                  "template": "{a.4} reported at {a.2}"
+               }, 
+               {
+                  "sources": [
+                     "260070101313798144"
+                  ], 
+                  "template": "{a.4} reported at {a.1}"
+               }
+            ]
+         }
+      }, 
+      "P.8": {
+         "alias": "shooting at", 
+         "arguments": [
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "260141073253416960"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.11", 
+                     "sources": [
+                        "260185524675960832"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.20", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.58", 
+                     "sources": [
+                        "260071393306238976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "260066804817342467", 
+                        "260071498058973184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.25", 
+                     "sources": [
+                        "260078460704280576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.17", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.8", 
+                     "sources": [
+                        "260231666205876224"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260071393306238976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.32", 
+                     "sources": [
+                        "260071498058973184"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.7", 
+                     "sources": [
+                        "260231666205876224", 
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "260148975473139712", 
+                        "260148975473139712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.37", 
+                     "sources": [
+                        "260078460704280576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260117820069773313", 
+                        "260144672020783105", 
+                        "260131300315385856"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.1", 
+                     "sources": [
+                        "260117820069773313", 
+                        "260123528282648576"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260145162649473024", 
+                        "260071393306238976", 
+                        "260135159087632384"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.27", 
+                     "sources": [
+                        "260145162649473024"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.28", 
+                     "sources": [
+                        "260071393306238976"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260131300315385856"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.19", 
+                     "sources": [
+                        "260144672020783105"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.18", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.45", 
+                     "sources": [
+                        "260185524675960832"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.19", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.21", 
+                     "sources": [
+                        "260078460704280576"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.8", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260071498058973184"
+                  ], 
+                  "template": "{a.6} shooting in {a.7}"
+               }, 
+               {
+                  "sources": [
+                     "260141073253416960"
+                  ], 
+                  "template": "shooting {a.1}"
+               }, 
+               {
+                  "sources": [
+                     "260117820069773313"
+                  ], 
+                  "template": "{a.12} shooting at {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "260185524675960832"
+                  ], 
+                  "template": "shooting {a.18}"
+               }, 
+               {
+                  "sources": [
+                     "260123528282648576"
+                  ], 
+                  "template": "{a.12} 4 {a.16}"
+               }, 
+               {
+                  "sources": [
+                     "260145162649473024"
+                  ], 
+                  "template": "{a.2} shooting in {a.13}"
+               }, 
+               {
+                  "sources": [
+                     "260071393306238976"
+                  ], 
+                  "template": "{a.13} is {a.11} showing {a.20} with {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "260148975473139712"
+                  ], 
+                  "template": "{a.5} dead and injured"
+               }, 
+               {
+                  "sources": [
+                     "260185524675960832"
+                  ], 
+                  "template": "{a.4} women"
+               }, 
+               {
+                  "sources": [
+                     "260066804817342467"
+                  ], 
+                  "template": "{a.7} square"
+               }, 
+               {
+                  "sources": [
+                     "260078460704280576"
+                  ], 
+                  "template": "{a.19} {a.14} {a.10} crazy"
+               }, 
+               {
+                  "sources": [
+                     "260144672020783105"
+                  ], 
+                  "template": "{a.15} shooting {a.9}"
+               }, 
+               {
+                  "sources": [
+                     "260135159087632384"
+                  ], 
+                  "template": "{a.13} shooting"
+               }, 
+               {
+                  "sources": [
+                     "260131300315385856"
+                  ], 
+                  "template": "{a.8} dead in {a.15}"
+               }, 
+               {
+                  "sources": [
+                     "260148975473139712"
+                  ], 
+                  "template": "{a.5} injured"
+               }, 
+               {
+                  "sources": [
+                     "260231666205876224"
+                  ], 
+                  "template": "{a.17} others {a.16}"
+               }
+            ]
+         }
+      }, 
+      "P.9": {
+         "alias": "have been killed in at", 
+         "arguments": [
+            {
+               "id": "a.16", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.2", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.35", 
+                     "sources": [
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.11", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.2", 
+                     "sources": [
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.6", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.20", 
+                     "sources": [
+                        "260219863270842368", 
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.4", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.23", 
+                     "sources": [
+                        "260139361952231424"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.5", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.14", 
+                     "sources": [
+                        "260152397731594240", 
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.14", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.48", 
+                     "sources": [
+                        "260219863270842368"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.7", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.33", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.12", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.4", 
+                     "sources": [
+                        "260117820073971712", 
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.13", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.49", 
+                     "sources": [
+                        "260219863270842368"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.10", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.29", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.3", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.10", 
+                     "sources": [
+                        "260139361952231424"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.15", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.52", 
+                     "sources": [
+                        "260152397731594240"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.8", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.38", 
+                     "sources": [
+                        "260117820073971712"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.9", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.36", 
+                     "sources": [
+                        "260139361952231424"
+                     ]
+                  }
+               ]
+            }, 
+            {
+               "id": "a.1", 
+               "label": "", 
+               "values": [
+                  {
+                     "concept-id": "E.12", 
+                     "sources": [
+                        "260117820073971712", 
+                        "260123079831871489"
+                     ]
+                  }
+               ]
+            }
+         ], 
+         "attribution": null, 
+         "id": "P.9", 
+         "predicates": {
+            "templates": [
+               {
+                  "sources": [
+                     "260123079831871489"
+                  ], 
+                  "template": "{a.1} killed {a.2} at {a.12} in {a.5} {a.11}"
+               }, 
+               {
+                  "sources": [
+                     "260139361952231424"
+                  ], 
+                  "template": "{a.4} killed in {a.9} {a.3}"
+               }, 
+               {
+                  "sources": [
+                     "260117820073971712"
+                  ], 
+                  "template": "{a.1} have been killed in {a.8} at {a.12}"
+               }, 
+               {
+                  "sources": [
+                     "260152397731594240"
+                  ], 
+                  "template": "{a.7} {a.5} {a.6} killed {a.15} {a.16} {a.10}"
+               }, 
+               {
+                  "sources": [
+                     "260219863270842368"
+                  ], 
+                  "template": "{a.6} {a.14} killed {a.13}"
+               }
+            ]
+         }
+      }
+   }, 
+   "tweets": {
+      "260066494212358144": {
+         "author": "Faith_Tatted", 
+         "id": "260066494212358144", 
+         "string": "Shooter at the spa in Brookfield and gunman on the run.", 
+         "timestamp": "2012-10-21 17:14:18"
+      }, 
+      "260066804817342467": {
+         "author": "AllieAlexy", 
+         "id": "260066804817342467", 
+         "string": "Praying for the people in the shooting at Brookfield square", 
+         "timestamp": "2012-10-21 17:15:32"
+      }, 
+      "260068029512179713": {
+         "author": "dianekennedy", 
+         "id": "260068029512179713", 
+         "string": "Shooting near Brookfield Square", 
+         "timestamp": "2012-10-21 17:20:24"
+      }, 
+      "260068964875501568": {
+         "author": "mackenziedemski", 
+         "id": "260068964875501568", 
+         "string": "A shooting in brookfield?", 
+         "timestamp": "2012-10-21 17:24:07"
+      }, 
+      "260069509933715457": {
+         "author": "B2W1CE", 
+         "id": "260069509933715457", 
+         "string": "Shooting in Brookfield", 
+         "timestamp": "2012-10-21 17:26:17"
+      }, 
+      "260070101313798144": {
+         "author": "HardwarSoluti0n", 
+         "id": "260070101313798144", 
+         "string": "Shooting reported at Wisconsin spa", 
+         "timestamp": "2012-10-21 17:28:38"
+      }, 
+      "260071393306238976": {
+         "author": "jdgruenke", 
+         "id": "260071393306238976", 
+         "string": "Wisconsin aka ghettoville u.s.a. is again showing its stripes with another shooting", 
+         "timestamp": "2012-10-21 17:33:46"
+      }, 
+      "260071498058973184": {
+         "author": "DavidKeyes22", 
+         "id": "260071498058973184", 
+         "string": "Active shooting in brookfield", 
+         "timestamp": "2012-10-21 17:34:11"
+      }, 
+      "260073712819245056": {
+         "author": "rcgsunshine", 
+         "id": "260073712819245056", 
+         "string": "Mass Shooting At Brookfield Square Mall In Wisconsin", 
+         "timestamp": "2012-10-21 17:42:59"
+      }, 
+      "260074593702793216": {
+         "author": "hackdeeper", 
+         "id": "260074593702793216", 
+         "string": "Mass Shooting At Brookfield Square Mall In Wisconsin", 
+         "timestamp": "2012-10-21 17:46:29"
+      }, 
+      "260074870518452224": {
+         "author": "iRSSNews", 
+         "id": "260074870518452224", 
+         "string": "News 'Mass shooting' in Wisconsin spa", 
+         "timestamp": "2012-10-21 17:47:35"
+      }, 
+      "260078003583864832": {
+         "author": "AbigailSims1", 
+         "id": "260078003583864832", 
+         "string": "'Mass shooting' in Wisconsin spa", 
+         "timestamp": "2012-10-21 18:00:02"
+      }, 
+      "260078460704280576": {
+         "author": "GCBeth", 
+         "id": "260078460704280576", 
+         "string": "Shooting at a day spa in Brookfield. This world is so crazy.", 
+         "timestamp": "2012-10-21 18:01:51"
+      }, 
+      "260078779295219714": {
+         "author": "4iamdondon", 
+         "id": "260078779295219714", 
+         "string": "Brookfield Mall Shooting", 
+         "timestamp": "2012-10-21 18:03:07"
+      }, 
+      "260079475885240320": {
+         "author": "wlsam890", 
+         "id": "260079475885240320", 
+         "string": "Mass shooting reported at day spa in Brookfield, Wisconsin", 
+         "timestamp": "2012-10-21 18:05:53"
+      }, 
+      "260084416464965632": {
+         "author": "NedBynes", 
+         "id": "260084416464965632", 
+         "string": "great the brookfield shooter is on the loose", 
+         "timestamp": "2012-10-21 18:25:31"
+      }, 
+      "260084907504717824": {
+         "author": "TheWizardAaron", 
+         "id": "260084907504717824", 
+         "string": "Damn, a shooting at Brookfield Square", 
+         "timestamp": "2012-10-21 18:27:28"
+      }, 
+      "260085343733309442": {
+         "author": "brian_jphillips", 
+         "id": "260085343733309442", 
+         "string": "Shooting at Wisconsin spa injures at least seven.", 
+         "timestamp": "2012-10-21 18:29:12"
+      }, 
+      "260085959914291201": {
+         "author": "wclo1230", 
+         "id": "260085959914291201", 
+         "string": "Shootings reported at Brookfield mall", 
+         "timestamp": "2012-10-21 18:31:39"
+      }, 
+      "260087398598324224": {
+         "author": "djkajibee", 
+         "id": "260087398598324224", 
+         "string": "Was at Brookfield Square yesterday. Can't imagine anyone wanting to shoot people at the spa.", 
+         "timestamp": "2012-10-21 18:37:22"
+      }, 
+      "260087662856249345": {
+         "author": "mayankchandak", 
+         "id": "260087662856249345", 
+         "string": "'Mass shooting' in Wisconsin spa: A number of people are feared to have been shot at a spa in Brookfield, Wisconsin, US media report.", 
+         "timestamp": "2012-10-21 18:38:25"
+      }, 
+      "260089114320334849": {
+         "author": "NEWSTALK1010", 
+         "id": "260089114320334849", 
+         "string": "8 people hit in Wisconsin spa shooting", 
+         "timestamp": "2012-10-21 18:44:11"
+      }, 
+      "260095326021619712": {
+         "author": "MedicSeven", 
+         "id": "260095326021619712", 
+         "string": "Hospital near Brookfield, Wisconsin, shooting is under lockdown as police hunt for gunman", 
+         "timestamp": "2012-10-21 19:08:52"
+      }, 
+      "260099386116292608": {
+         "author": "Metro5News", 
+         "id": "260099386116292608", 
+         "string": "Wisconsin spa 'mass shooting' in Brookfield", 
+         "timestamp": "2012-10-21 19:25:00"
+      }, 
+      "260107107901247488": {
+         "author": "cnnworId", 
+         "id": "260107107901247488", 
+         "string": "Gunman shoots 7 at Wisconsin spa", 
+         "timestamp": "2012-10-21 19:55:41"
+      }, 
+      "260108240136851456": {
+         "author": "DickerBryan", 
+         "id": "260108240136851456", 
+         "string": "'Mass shooting' in Wisconsin spa.  Yet wisconsin is a safe state", 
+         "timestamp": "2012-10-21 20:00:11"
+      }, 
+      "260110375029190656": {
+         "author": "SovereignSilver", 
+         "id": "260110375029190656", 
+         "string": "Gunman shoots 7 people in Wisconsin.", 
+         "timestamp": "2012-10-21 20:08:40"
+      }, 
+      "260117270540472321": {
+         "author": "vermontaigne", 
+         "id": "260117270540472321", 
+         "string": "3 o 7 dead in Brookfield, WI shooting.", 
+         "timestamp": "2012-10-21 20:36:04"
+      }, 
+      "260117820069773313": {
+         "author": "YusufDtank4u", 
+         "id": "260117820069773313", 
+         "string": "AP News - Police chief: 3 dead in Wisconsin shooting at spa", 
+         "timestamp": "2012-10-21 20:38:15"
+      }, 
+      "260117820073971712": {
+         "author": "mjgal", 
+         "id": "260117820073971712", 
+         "string": "3 people have been killed in a US shooting at a Wisconsin spa", 
+         "timestamp": "2012-10-21 20:38:15"
+      }, 
+      "260118801474015232": {
+         "author": "mpoppel", 
+         "id": "260118801474015232", 
+         "string": "Brookfield Police Chief Dan Tushaus says 3 dead, 4 injured in spa shooting; IED found at scene.", 
+         "timestamp": "2012-10-21 20:42:09"
+      }, 
+      "260119925371330560": {
+         "author": "DJournalnow", 
+         "id": "260119925371330560", 
+         "string": "3 dead, 4 wounded in Wisconsin spa shooting", 
+         "timestamp": "2012-10-21 20:46:37"
+      }, 
+      "260122073165344768": {
+         "author": "TheRightScoop", 
+         "id": "260122073165344768", 
+         "string": "Possible 3 dead, 4 wounded in mass shooting at Wisconsin SPA", 
+         "timestamp": "2012-10-21 20:55:09"
+      }, 
+      "260122140169351168": {
+         "author": "Mskeeric", 
+         "id": "260122140169351168", 
+         "string": "Damn 3 pronounced dead n the brookfield shooting", 
+         "timestamp": "2012-10-21 20:55:25"
+      }, 
+      "260123079831871489": {
+         "author": "lkaaria", 
+         "id": "260123079831871489", 
+         "string": "Three people killed and four injured in shooting at spa in Brookfield, Wisconsin\"", 
+         "timestamp": "2012-10-21 20:59:09"
+      }, 
+      "260123306097770496": {
+         "author": "ashishpanchal14", 
+         "id": "260123306097770496", 
+         "string": "Three dead, manhunt underway after Wisconsin shootings", 
+         "timestamp": "2012-10-21 21:00:03"
+      }, 
+      "260123528282648576": {
+         "author": "pamspaulding", 
+         "id": "260123528282648576", 
+         "string": "3 killed, 4 injured, suspect still at large in rampage at Azana Spa in Brookfield, WIsconsin", 
+         "timestamp": "2012-10-21 21:00:56"
+      }, 
+      "260124468087771136": {
+         "author": "HeavySan", 
+         "id": "260124468087771136", 
+         "string": "Gunman Shoots 7, Kills 3 Inside Wisconsin Spa", 
+         "timestamp": "2012-10-21 21:04:40"
+      }, 
+      "260124572806950912": {
+         "author": "KCJJ", 
+         "id": "260124572806950912", 
+         "string": "3 dead at a spa in Brookfield, Wisconsin. Shooter still at large.", 
+         "timestamp": "2012-10-21 21:05:05"
+      }, 
+      "260126787474964480": {
+         "author": "FlightSchool_T", 
+         "id": "260126787474964480", 
+         "string": "The real Brookfield shooter", 
+         "timestamp": "2012-10-21 21:13:53"
+      }, 
+      "260127324454916096": {
+         "author": "thejewess", 
+         "id": "260127324454916096", 
+         "string": "Three dead in shooting in Wisconsin spa", 
+         "timestamp": "2012-10-21 21:16:01"
+      }, 
+      "260129488489283586": {
+         "author": "AmericanLW", 
+         "id": "260129488489283586", 
+         "string": "Brookfield Square Mall Shooting in Suburban Wisconsin  Developing Story", 
+         "timestamp": "2012-10-21 21:24:37"
+      }, 
+      "260130549849522176": {
+         "author": "DismantleFed", 
+         "id": "260130549849522176", 
+         "string": "3 dead, 4 injured in Wisconsin spa shooting; manhunt underway", 
+         "timestamp": "2012-10-21 21:28:50"
+      }, 
+      "260131036271370240": {
+         "author": "NewsTalkWTAQ", 
+         "id": "260131036271370240", 
+         "string": "Three dead in shooting in Wisconsin spa", 
+         "timestamp": "2012-10-21 21:30:46"
+      }, 
+      "260131300315385856": {
+         "author": "Raging_Todd", 
+         "id": "260131300315385856", 
+         "string": "2 sources say shooter is dead in spa", 
+         "timestamp": "2012-10-21 21:31:49"
+      }, 
+      "260133070429097984": {
+         "author": "JoeChristers_", 
+         "id": "260133070429097984", 
+         "string": "Three Killed in Shooting at Spa in Brookfield, Wis.", 
+         "timestamp": "2012-10-21 21:38:51"
+      }, 
+      "260133968115027968": {
+         "author": "CNNVideo", 
+         "id": "260133968115027968", 
+         "string": "Wisconsin police identify suspect in alleged spa shooting", 
+         "timestamp": "2012-10-21 21:42:25"
+      }, 
+      "260134139926306816": {
+         "author": "AP", 
+         "id": "260134139926306816", 
+         "string": "County dispatcher says 45-year-old suspect in fatal Wisconsin spa shooting found dead.", 
+         "timestamp": "2012-10-21 21:43:06"
+      }, 
+      "260134379282653184": {
+         "author": "kharyp", 
+         "id": "260134379282653184", 
+         "string": "Brookfield shooter found dead inside spa | Waukesha County", 
+         "timestamp": "2012-10-21 21:44:03"
+      }, 
+      "260135159087632384": {
+         "author": "CathrynCamp", 
+         "id": "260135159087632384", 
+         "string": "Three dead after Wisconsin shooting at Brookfield spa", 
+         "timestamp": "2012-10-21 21:47:09"
+      }, 
+      "260135654049079296": {
+         "author": "ArmorBearerPS", 
+         "id": "260135654049079296", 
+         "string": "Wisconsin spa shooting suspect found dead.", 
+         "timestamp": "2012-10-21 21:49:07"
+      }, 
+      "260136501298479104": {
+         "author": "LeslieDyste", 
+         "id": "260136501298479104", 
+         "string": "A dispatcher in Wisconsin says the suspect in a mass shooting at a spa outside Milwaukee has been found dead", 
+         "timestamp": "2012-10-21 21:52:29"
+      }, 
+      "260137323705024512": {
+         "author": "3mindware", 
+         "id": "260137323705024512", 
+         "string": "Shooting Wisconsin Brookfield Square Mall Shooting: Incident Reported Near Wisconsin Mall", 
+         "timestamp": "2012-10-21 21:55:45"
+      }, 
+      "260137478730702848": {
+         "author": "WittyOctop_us", 
+         "id": "260137478730702848", 
+         "string": "Shooting Near Brookfield, Wisconsin Mall, At Least Seven Injured", 
+         "timestamp": "2012-10-21 21:56:22"
+      }, 
+      "260138909109977090": {
+         "author": "odtnews", 
+         "id": "260138909109977090", 
+         "string": "Three dead in US spa shooting", 
+         "timestamp": "2012-10-21 22:02:03"
+      }, 
+      "260138980081795073": {
+         "author": "siomo", 
+         "id": "260138980081795073", 
+         "string": "Suspect in Wisconsin spa shooting found dead", 
+         "timestamp": "2012-10-21 22:02:20"
+      }, 
+      "260139307271077888": {
+         "author": "khottv", 
+         "id": "260139307271077888", 
+         "string": "Wisconsin spa shooting: 3 dead, 4 wounded; suspect found dead", 
+         "timestamp": "2012-10-21 22:03:38"
+      }, 
+      "260139361952231424": {
+         "author": "dnallen91", 
+         "id": "260139361952231424", 
+         "string": "Three killed in day spa shooting in Brookfield, Wisconsin", 
+         "timestamp": "2012-10-21 22:03:51"
+      }, 
+      "260141073253416960": {
+         "author": "MailOnline", 
+         "id": "260141073253416960", 
+         "string": "Gunman dead inside spa after shooting 7 people in Wisconsin", 
+         "timestamp": "2012-10-21 22:10:39"
+      }, 
+      "260141220083421184": {
+         "author": "joenoia", 
+         "id": "260141220083421184", 
+         "string": "Radcliffe Haughton confirmed dead from self inflicted gunshot wound after mass shooting at Azana Spa in Brookfield Wisconsin", 
+         "timestamp": "2012-10-21 22:11:14"
+      }, 
+      "260142738400497664": {
+         "author": "marynoblest", 
+         "id": "260142738400497664", 
+         "string": "3 dead and 4 injured shooting at spa in Milwaukee, Wisconsin. Suspect found dead, bomb unit arrives at scene", 
+         "timestamp": "2012-10-21 22:17:16"
+      }, 
+      "260142830700339200": {
+         "author": "DrudgeReportUSA", 
+         "id": "260142830700339200", 
+         "string": "The suspected gunman in the shooting at a Brookfield, Wisconsin, spa has been found dead, police said", 
+         "timestamp": "2012-10-21 22:17:38"
+      }, 
+      "260144672020783105": {
+         "author": "PostWorthington", 
+         "id": "260144672020783105", 
+         "string": "Dispatcher: Wisconsin spa shooting suspect found dead", 
+         "timestamp": "2012-10-21 22:24:57"
+      }, 
+      "260145162649473024": {
+         "author": "LeeeshK", 
+         "id": "260145162649473024", 
+         "string": "mass shooting in brookfield wisconsin", 
+         "timestamp": "2012-10-21 22:26:54"
+      }, 
+      "260148312479498240": {
+         "author": "klipon5", 
+         "id": "260148312479498240", 
+         "string": "Spa Shooting Suspect Found Dead", 
+         "timestamp": "2012-10-21 22:39:25"
+      }, 
+      "260148396613066752": {
+         "author": "Melaniensanders", 
+         "id": "260148396613066752", 
+         "string": "Spa shootings? 3 killsd??", 
+         "timestamp": "2012-10-21 22:39:45"
+      }, 
+      "260148778265362432": {
+         "author": "wclo1230", 
+         "id": "260148778265362432", 
+         "string": "3 dead in Brookfield; shooter at large", 
+         "timestamp": "2012-10-21 22:41:16"
+      }, 
+      "260148975473139712": {
+         "author": "NewshubNZ", 
+         "id": "260148975473139712", 
+         "string": "Three people are dead and four injured", 
+         "timestamp": "2012-10-21 22:42:03"
+      }, 
+      "260152397731594240": {
+         "author": "Echo2Zs", 
+         "id": "260152397731594240", 
+         "string": "Update, Brookfield Wisconsin shooter killed 3 and himself, wounded 4 others. Hospital expected to hold presser shortly.", 
+         "timestamp": "2012-10-21 22:55:39"
+      }, 
+      "260152402261471233": {
+         "author": "LATEST_FX_NEWS", 
+         "id": "260152402261471233", 
+         "string": "Suspect Still At Large After Wisconsin Shooting Leaves Three Dead And Four Wounded Suspected gunman Radcliffe F. Haugh", 
+         "timestamp": "2012-10-21 22:55:40"
+      }, 
+      "260154008520507392": {
+         "author": "cadams1206", 
+         "id": "260154008520507392", 
+         "string": "Friend says Wisconsin spa shooter tried to take hostage", 
+         "timestamp": "2012-10-21 23:02:03"
+      }, 
+      "260161075692044288": {
+         "author": "C_H_Y_N_A_", 
+         "id": "260161075692044288", 
+         "string": "Wisconsin shooter dead", 
+         "timestamp": "2012-10-21 23:30:08"
+      }, 
+      "260165442105118721": {
+         "author": "OmarAquino_", 
+         "id": "260165442105118721", 
+         "string": "They found the shooter tht shot those people in Wisconsin he shot him self and was found dead", 
+         "timestamp": "2012-10-21 23:47:29"
+      }, 
+      "260168437018542080": {
+         "author": "KathyAddison", 
+         "id": "260168437018542080", 
+         "string": "Suspect 's Body Found After Wisconsin Shooting Leaves Three Dead And Four Wounded  VIA IBtimes", 
+         "timestamp": "2012-10-21 23:59:23"
+      }, 
+      "260175554777608192": {
+         "author": "trobinin", 
+         "id": "260175554777608192", 
+         "string": "3 Dead In Spa Shooting; Manhunt Underway", 
+         "timestamp": "2012-10-22 00:27:40"
+      }, 
+      "260176632646623232": {
+         "author": "scottshubert", 
+         "id": "260176632646623232", 
+         "string": "Suspect's Body Found After Wisconsin Shooting Leaves Three Dead And Four Wounded", 
+         "timestamp": "2012-10-22 00:31:57"
+      }, 
+      "260185524675960832": {
+         "author": "duluthnews", 
+         "id": "260185524675960832", 
+         "string": "Victims in Wisconsin spa shooting all were women", 
+         "timestamp": "2012-10-22 01:07:17"
+      }, 
+      "260201102039986178": {
+         "author": "RexroatMike", 
+         "id": "260201102039986178", 
+         "string": "3 dead, 4 wounded in mass shooting at Wisconsin SPA", 
+         "timestamp": "2012-10-22 02:09:11"
+      }, 
+      "260201785602473984": {
+         "author": "MorningJournal", 
+         "id": "260201785602473984", 
+         "string": "3 dead, 4 wounded, then gunman takes own life after Wisconsin spa shooting", 
+         "timestamp": "2012-10-22 02:11:54"
+      }, 
+      "260219863270842368": {
+         "author": "WOKVNews", 
+         "id": "260219863270842368", 
+         "string": "Three dead in Wisconsin spa shooting; gunman later killed himself.", 
+         "timestamp": "2012-10-22 03:23:44"
+      }, 
+      "260231666205876224": {
+         "author": "vampiratessann", 
+         "id": "260231666205876224", 
+         "string": "Mass shooting at spa in brookfield wi. 4 women dead, others hurt, PLEASE PRAY!", 
+         "timestamp": "2012-10-22 04:10:38"
+      }, 
+      "260232807052357632": {
+         "author": "robertmamaa", 
+         "id": "260232807052357632", 
+         "string": "Wisconsin Spa Shooting - 4 Dead Including Gunman", 
+         "timestamp": "2012-10-22 04:15:10"
+      }, 
+      "260233603697491968": {
+         "author": "socialnn", 
+         "id": "260233603697491968", 
+         "string": "Suspect in the Wisconsin spa shooting found dead", 
+         "timestamp": "2012-10-22 04:18:20"
+      }, 
+      "260238393710084096": {
+         "author": "haloefekti", 
+         "id": "260238393710084096", 
+         "string": "Four dead in Wisconsin salon shooting, including gunman\r\n260264645724622848\tThree killed in Wisconsin shooting at Brookfield spa\r\n260274850608861184\tJamaican Involved In Deadly Spa Shooting In Wisconsin, Three Person Dead (Confirmed)\r\n260332681487855616\tUNITED STATES-CRIME-Jamaican identified as shooter in mass murder at a spa\r\n260348800227491841\tWife of Spa Shooting Suspect Among the Dead\r\n260354366387662848\tDetails on the Wisconsin day spa shooting; Radcliffe Haughton dead\r\n260355976853610496\tMan Kills Four Then Himself in Wisconsin Spa Shooting\r\n260358430445957120\tObama offers condolences to Wisconsin officials after spa shooting\r\n260367246986190849\tThree Killed in Shooting at Spa in Wisconsin\r\n260369683922944001\tMonday's from page: Fifth annual pumpkin launch, four dead in Wisconsin shooting.\r\n260370073879969792\tFour Dead, Four Wounded in Wis. Spa Shooting\r\n260386616374358016\tThree people were dead and four others wounded in a mass shooting Sunday at a spa in US state of Wisconsin.\r\n260389015394586626\tWisconsin Shooting Suspect Allegedly Kills Four at Spa, Including Himself\r\n260396460418412545\tShooting at Wisconsin spa; 7 injured\r\n260417394084806656\tShooting at Wisconsin spa; 7 wounded\r\n260427368022278146\tWisconsin Spa Massacre Shooter Revealed: Kills Wife &amp; Two Others\r\n260433466485768194\tMedical Examiners says spa shooter's wife among three women shot dead Sunday in Brookfield\r\n260445327851655168\tWisconsin spa mass shooting suspect found dead\r\n260451011540447233\tWisconsin Brookfield Square Mall/SPA shooter Radcliffe F. Haughton signed Scott Walker recall petition last November\r\n260478391571066880\tGunman's wife among 3 dead at Brookfield spa", 
+         "timestamp": "2012-10-22 04:37:22"
+      }
+   }
+}

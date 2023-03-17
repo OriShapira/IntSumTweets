@@ -1,0 +1,1071 @@
+{
+    "dynamicStoryScreenInput": {
+        "foldKeywords": [
+            {
+                "ids": [
+                    19
+                ], 
+                "keywords": [
+                    "it"
+                ]
+            }, 
+            {
+                "ids": [
+                    31
+                ], 
+                "keywords": [
+                    "41", 
+                    "slogs", 
+                    "U.S."
+                ]
+            }, 
+            {
+                "ids": [
+                    15, 
+                    20, 
+                    23, 
+                    25
+                ], 
+                "keywords": [
+                    "21 Dead", 
+                    "begun", 
+                    "Leaves", 
+                    "Bahamas", 
+                    "NY", 
+                    "blows"
+                ]
+            }, 
+            {
+                "ids": [
+                    6
+                ], 
+                "keywords": [
+                    "braces"
+                ]
+            }, 
+            {
+                "ids": [
+                    21, 
+                    13, 
+                    26, 
+                    29, 
+                    24, 
+                    12, 
+                    5, 
+                    30
+                ], 
+                "keywords": [
+                    "coast", 
+                    "everyone", 
+                    "IS", 
+                    "Perfect Storm", 
+                    "rumbles", 
+                    "said", 
+                    "sent", 
+                    "TWERKIN", 
+                    "SameAs", 
+                    "EAST COAST", 
+                    "HURRICANE SANDY", 
+                    "affected", 
+                    "twerkin", 
+                    "Be", 
+                    "Prepares For", 
+                    "portions", 
+                    "rain"
+                ]
+            }, 
+            {
+                "ids": [
+                    14, 
+                    7, 
+                    9, 
+                    11, 
+                    3, 
+                    27, 
+                    28, 
+                    1
+                ], 
+                "keywords": [
+                    "coast", 
+                    "all", 
+                    "better", 
+                    "storm", 
+                    "raise", 
+                    "HIYAH", 
+                    "mourns", 
+                    "Caribbean", 
+                    "dead", 
+                    "Warnings", 
+                    "hurricane", 
+                    "Issued", 
+                    "stay", 
+                    "fuzzies", 
+                    "Hoping", 
+                    "We", 
+                    "Prayers", 
+                    "sandy", 
+                    "damage", 
+                    "causes"
+                ]
+            }, 
+            {
+                "ids": [
+                    0, 
+                    2
+                ], 
+                "keywords": [
+                    "hurrican", 
+                    "coast", 
+                    "twerking", 
+                    "Bears"
+                ]
+            }
+        ], 
+        "numTweets": 127, 
+        "sentences": [
+            {
+                "id": 10, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "Heading Toward ; experiencing ; gonna blowing ; causing ; battering", 
+                        "tokens": [
+                            3, 
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.6", 
+                        "expansion": "Down ; states", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.6", 
+                        "expansion": "Down ; states", 
+                        "tokens": [
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            6, 
+                            7
+                        ]
+                    }
+                ], 
+                "sentence": "States States and are preparing for Hurricane Sandy", 
+                "sentenceExpansion": [
+                    "already causing", 
+                    "causing tens to", 
+                    "Praying as", 
+                    "for worst", 
+                    "Hoping all", 
+                    "killing 43 in", 
+                    "as Hurricane Sandy Starts Hurricane Sandy to Slam East Coast", 
+                    "causing havoc across", 
+                    "Millions Prepare as", 
+                    "blowing coast", 
+                    "evacuations closings", 
+                    "as they prepare for and", 
+                    "in Caribbean", 
+                    "Sandy Strengthens Widespread impact expected on East Coast as", 
+                    "Toward United States", 
+                    "killing 59 in", 
+                    "as Hurricane Sandy appears Hurricane Sandy to have all", 
+                    "East Coast bracing"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-26 23:49:00", 
+                "tweets": [
+                    262960249357619200, 
+                    262978314174603264, 
+                    262037343211511810, 
+                    262265655858966531, 
+                    263014125200887809, 
+                    261977762963804160, 
+                    262778610929254401, 
+                    262978075191549952, 
+                    262352251455152128, 
+                    262773619640381440, 
+                    262023560854388736, 
+                    262587132537872384, 
+                    262889600547180545, 
+                    262294915613085696, 
+                    262910903677227008, 
+                    262365279311503360, 
+                    263015630976999424, 
+                    262112614295949312, 
+                    263009394080501760, 
+                    263042248105660417
+                ]
+            }, 
+            {
+                "id": 19, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "Heading Toward ; experiencing ; gonna blowing ; preparing ; battering", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy call it causing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-26 23:49:00", 
+                "tweets": [
+                    261977762963804160
+                ]
+            }, 
+            {
+                "id": 8, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "P.2", 
+                        "expansion": "Has killed ; kills", 
+                        "tokens": [
+                            2, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "Already", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "people ; 60 people", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy has already killed 65 people", 
+                "sentenceExpansion": [
+                    "Hurricane Sandy heads for US kills", 
+                    "killed 58 people in", 
+                    "no-one has", 
+                    "kills 38", 
+                    "killed 62 people", 
+                    "in Caribbean", 
+                    "as result", 
+                    "killed Earthcam"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 00:05:07", 
+                "tweets": [
+                    262971318490767360, 
+                    263023843378085889, 
+                    262010742822289410, 
+                    262755324199575552, 
+                    262969250514345985, 
+                    261981819073867776, 
+                    262705944515985408, 
+                    262388742239698944, 
+                    262888581515857920, 
+                    262918235186397184
+                ]
+            }, 
+            {
+                "id": 31, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy slogs toward U.S. 41", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 00:05:07", 
+                "tweets": [
+                    261981819073867776
+                ]
+            }, 
+            {
+                "id": 22, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.53", 
+                        "tokens": [
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "Death toll reaches 40 on preparations on WJZ at 11pm", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 01:56:05", 
+                "tweets": [
+                    262009744825393152
+                ]
+            }, 
+            {
+                "id": 15, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.4", 
+                        "expansion": "Heading Toward ; experiencing ; gonna blowing ; preparing ; causing ; battering", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy blows out Bahamas after killing", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 03:45:45", 
+                "tweets": [
+                    262037343211511810
+                ]
+            }, 
+            {
+                "id": 20, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.41", 
+                        "expansion": "Prepare", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy takes aim at East Coast", 
+                "sentenceExpansion": [
+                    "take mass everyone"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 03:53:19", 
+                "tweets": [
+                    262352251455152128, 
+                    262039247622647809
+                ]
+            }, 
+            {
+                "id": 23, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.53", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "NY has begun preparations", 
+                "sentenceExpansion": [
+                    "Hurricane Sandy begins", 
+                    "begins battering"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 03:58:00", 
+                "tweets": [
+                    262040426087854080, 
+                    263014125200887809
+                ]
+            }, 
+            {
+                "id": 25, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy Leaves 21 Dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 06:59:40", 
+                "tweets": [
+                    262086144085356545
+                ]
+            }, 
+            {
+                "id": 18, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            2, 
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.41", 
+                        "expansion": "Prepare", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            7, 
+                            8
+                        ]
+                    }
+                ], 
+                "sentence": "FEMA Urges East Coast to aim for Hurricane Sandy", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 11:20:27", 
+                "tweets": [
+                    262151772137725952
+                ]
+            }, 
+            {
+                "id": 6, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "East Coast braces for Hurricane Sandy", 
+                "sentenceExpansion": [
+                    "US braces", 
+                    "threatens havoc on"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-27 15:12:25", 
+                "tweets": [
+                    262660163771699200, 
+                    262249822415884288, 
+                    262739633245388802, 
+                    262957707647127552, 
+                    262210148783771648, 
+                    262241358406877184
+                ]
+            }, 
+            {
+                "id": 17, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            5, 
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy closes in on East Coast", 
+                "sentenceExpansion": [
+                    "on coast"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-27 16:25:10", 
+                "tweets": [
+                    262882835248066560, 
+                    262232042748665856, 
+                    262228456765526018, 
+                    263023315017412608, 
+                    262987541928628224
+                ]
+            }, 
+            {
+                "id": 21, 
+                "pressableTokens": [], 
+                "sentence": "HURRICANE SANDY IS TWERKIN EAST COAST", 
+                "sentenceExpansion": [
+                    "IS THROWIN A RAGER"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 04:12:07", 
+                "tweets": [
+                    262931526826721280, 
+                    262406366625406977
+                ]
+            }, 
+            {
+                "id": 13, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy twerkin on coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 04:21:55", 
+                "tweets": [
+                    262408832662265856
+                ]
+            }, 
+            {
+                "id": 26, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy is said SameAs", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 09:02:30", 
+                "tweets": [
+                    262479443736535041
+                ]
+            }, 
+            {
+                "id": 29, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Be everyone on coast", 
+                "sentenceExpansion": [
+                    "Blessings Be"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 12:59:19", 
+                "tweets": [
+                    262986266684047360, 
+                    262539040660795392
+                ]
+            }, 
+            {
+                "id": 24, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy rumbles coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 14:41:11", 
+                "tweets": [
+                    262564676196499456
+                ]
+            }, 
+            {
+                "id": 12, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy has sent rain to portions", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 16:10:25", 
+                "tweets": [
+                    262587132537872384
+                ]
+            }, 
+            {
+                "id": 5, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "East Coast Prepares For Perfect Storm", 
+                "sentenceExpansion": [
+                    "for Hurricane Sandy", 
+                    "Prayers Prepares"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 21:04:46", 
+                "tweets": [
+                    262661208186974208, 
+                    263004436639657984
+                ]
+            }, 
+            {
+                "id": 30, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "East Coast affected by Hurricane Sandy", 
+                "sentenceExpansion": [
+                    "60 million people could"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-28 21:24:12", 
+                "tweets": [
+                    262981648860196864, 
+                    262666098841878529, 
+                    262888581515857920
+                ]
+            }, 
+            {
+                "id": 16, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            8, 
+                            9
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy is projected Hurricane Sandy to hit East Coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-28 23:31:00", 
+                "tweets": [
+                    262698009131896832
+                ]
+            }, 
+            {
+                "id": 14, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy to give coast HIYAH", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 00:50:24", 
+                "tweets": [
+                    262717990838099968
+                ]
+            }, 
+            {
+                "id": 7, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Warnings Issued in East Coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 04:16:46", 
+                "tweets": [
+                    262769924601159680
+                ]
+            }, 
+            {
+                "id": 9, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "nice", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.17", 
+                        "expansion": "nice", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            4
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy better better coast stay", 
+                "sentenceExpansion": [
+                    "East Coast stay", 
+                    "stay there on", 
+                    "Hoping stay"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 05:00:11", 
+                "tweets": [
+                    263009394080501760, 
+                    263000829458526209, 
+                    262780850570137602
+                ]
+            }, 
+            {
+                "id": 11, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.31", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "storm to all you fuzzies on coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 06:11:20", 
+                "tweets": [
+                    262798756305575936
+                ]
+            }, 
+            {
+                "id": 3, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy Caribbean mourns dead", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 08:31:15", 
+                "tweets": [
+                    262833967391195136
+                ]
+            }, 
+            {
+                "id": 27, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "Thoughts", 
+                        "tokens": [
+                            0
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.5", 
+                        "expansion": "people ; 60 people", 
+                        "tokens": [
+                            3, 
+                            4
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.12", 
+                        "expansion": "Already", 
+                        "tokens": [
+                            5
+                        ]
+                    }, 
+                    {
+                        "conceptId": "P.2", 
+                        "expansion": "Has killed ; kills", 
+                        "tokens": [
+                            6
+                        ]
+                    }
+                ], 
+                "sentence": "thoughts go to 65 people already killed", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 12:08:16", 
+                "tweets": [
+                    262888581515857920
+                ]
+            }, 
+            {
+                "id": 28, 
+                "pressableTokens": [], 
+                "sentence": "Hoping hurricane sandy does n't cause damage", 
+                "sentenceExpansion": [
+                    "Hurricane Sandy causes", 
+                    "causes evacuations closings"
+                ], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 12:12:19", 
+                "tweets": [
+                    262919652810842112, 
+                    262889600547180545
+                ]
+            }, 
+            {
+                "id": 1, 
+                "pressableTokens": [], 
+                "sentence": "We raise Prayers", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 15:38:52", 
+                "tweets": [
+                    262941580472770561
+                ]
+            }, 
+            {
+                "id": 4, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.8", 
+                        "expansion": "East Coast Residents", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.31", 
+                        "tokens": [
+                            2
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.29", 
+                        "expansion": "Thoughts", 
+                        "tokens": [
+                            3
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            4, 
+                            5
+                        ]
+                    }
+                ], 
+                "sentence": "East Coast you thoughts Hurricane Sandy be gentle", 
+                "sentenceExpansion": [
+                    "on hurricane", 
+                    "hearts are", 
+                    "with 65 people", 
+                    "with 62 people"
+                ], 
+                "showOnInit": true, 
+                "timestamp": "2012-10-29 16:24:31", 
+                "tweets": [
+                    262981648860196864, 
+                    262971318490767360, 
+                    262953068885331970, 
+                    262963248289165312
+                ]
+            }, 
+            {
+                "id": 0, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.2", 
+                        "expansion": "Sandy ; East Coast Hurricane Sandy", 
+                        "tokens": [
+                            0, 
+                            1
+                        ]
+                    }, 
+                    {
+                        "conceptId": "E.6", 
+                        "expansion": "Down ; states", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "Hurricane Sandy Bears States", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 20:20:36", 
+                "tweets": [
+                    263012481381851136
+                ]
+            }, 
+            {
+                "id": 2, 
+                "pressableTokens": [
+                    {
+                        "conceptId": "E.10", 
+                        "expansion": "East coast -LRB-", 
+                        "tokens": [
+                            3
+                        ]
+                    }
+                ], 
+                "sentence": "hurrican twerking on coast", 
+                "sentenceExpansion": [], 
+                "showOnInit": false, 
+                "timestamp": "2012-10-29 20:50:02", 
+                "tweets": [
+                    263019888526901249
+                ]
+            }
+        ], 
+        "title": "Hurricane_Sandy"
+    }
+}
